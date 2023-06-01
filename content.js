@@ -23,7 +23,7 @@ function crawlQuestionsAndAnswers() {
   //var answers = document.querySelectorAll(".rc-FormPartsQuestion__row"); // Adjust the selector based on the structure of the Coursera page
 
   var data = "";
-  var title = document.querySelector('.cds-7.css-ht0skw.cds-9').innerText;
+  var title = document.querySelector('._11oc718').innerText;
 
   for (var i = 0; i < questions_answers.length; i++) {
     var question = questions_answers[i].querySelector('.rc-FormPartsQuestion__contentCell').innerText;
