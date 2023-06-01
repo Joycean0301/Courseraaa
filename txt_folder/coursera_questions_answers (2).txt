@@ -1,0 +1,88 @@
+Graded: What is AI? Applications and Examples of AI
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 12, 11:59 PM PDT|||Which of the following is NOT a good way to define AI?|||AI is the use of algorithms that enable computers to find patterns without humans having to hard code them manually
+AI is the application of computing to solve problems in an intelligent way using algorithms.
+AI is all about machines replacing human intelligence.
+AI is Augmented Intelligence and is not intended to replace human intelligence rather extend human capabilities|||AI is all about machines replacing human intelligence.@@@Graded: What is AI? Applications and Examples of AI
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 12, 11:59 PM PDT|||Which of the following is an attribute of Strong or Generalized AI?|||Cannot teach itself new strategies
+Can perform specific tasks, but cannot learn new ones
+Operate with human-level consciousness
+Perform independent tasks|||Perform independent tasks@@@Graded: What is AI? Applications and Examples of AI
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 12, 11:59 PM PDT|||AI is the fusion of many fields of study. Which of these fields, along with Computer Science, plays a role in the application of AI?|||Philosophy
+Mathematics
+Statistics
+All responses are correct|||All responses are correct@@@Graded: What is AI? Applications and Examples of AI
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 12, 11:59 PM PDT|||Which of these is NOT a current application of AI?|||Making precise patient diagnosis  and prescribing independent treatment
+Classifying rock samples to identify best places to drill for oil
+Self-Driving vehicles utilizing Computer Vision to navigate around objects
+Collaborative Robots helping humans lift heavy containers|||Making precise patient diagnosis  and prescribing independent treatment@@@Graded: What is AI? Applications and Examples of AI
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 12, 11:59 PM PDT|||Natural Language AI algorithms that learn by example are the reason we can talk to machines and they can talk back to us.|||True
+False|||True@@@Graded: What is AI? Applications and Examples of AI
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 12, 11:59 PM PDT|||Advances in the field of Computer Vision make which of the following possible?|||Detecting fraudulent transactions
+On-demand online tutors
+Real-time transcription
+Detecting cancerous moles in skin images|||Detecting cancerous moles in skin images@@@Graded: What is AI? Applications and Examples of AI
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 12, 11:59 PM PDT|||Which of these is currently NOT an application of Collaborative Robots or Cobots?|||Personal use in the home such as doing the laundry and cooking for example
+Robots helping humans lift heavy containers
+Robots helping move items on shelves for stocking purposes
+Robots assisting or replacing humans in jobs that may be dull, dangerous, ineffective or inefficient when done by humans|||Personal use in the home such as doing the laundry and cooking for example@@@Graded: What is AI? Applications and Examples of AI
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 12, 11:59 PM PDT|||Which of the following aspects involved in converting the stethoscope into a digital device to support patient diagnoses involves the use of AI?|||Inserting a digitizer into the stethoscope tube to convert the analog sound of the heart beat into a digital signal 
+An app on the mobile device that applies learnings from previous diagnosis data to assist the physicians in their current diagnoses
+Sending digital signals to a mobile device with a machine learning app via bluetooth
+Graphing heart beat data on the mobile device allowing a physician to spot trends |||An app on the mobile device that applies learnings from previous diagnosis data to assist the physicians in their current diagnoses@@@Graded: What is AI? Applications and Examples of AI
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 12, 11:59 PM PDT|||Which of the following are applications of Artificial Intelligence in action?
+
+A.  IBM Watson utilizing its information retrieval capabilities to provide technical information to oil and gas company workers.
+
+B.  Watson analyzing Grammy nominated song lyrics over a 60-year period and categorizing them based on their emotions.
+
+C.  Assisting patients with neurological damage by detecting patterns in massive movement related datasets and using robots to trigger specific movements in the human body to create new neural pathways in the brain.
+
+D.  Law enforcement authorities using facial recognition algorithms to identify suspects in multiple streams of video footage|||Only options A, B, and C are correct
+All of the options are correct
+None of the options are correct
+Only option A is correct|||All of the options are correct
