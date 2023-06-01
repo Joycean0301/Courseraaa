@@ -7,7 +7,7 @@ git clone https://github.com/Joycean0301/Courseraaa.git
 
 **Step 2: Upload extension**
 
-Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Developer mode** -> Load unpacked: Upload folder git
+Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Developer mode** -> **Load unpacked**: Upload folder git
 
 ![Screenshot from 2023-06-02 03-03-15](https://github.com/Joycean0301/Courseraaa/assets/103662477/41333829-8eb7-487d-8411-23c31988509b)
 
