@@ -14,7 +14,7 @@ Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Develop
 
 **Step 3: Download question**
 
-Go to Coursera quiz -> Click **_Download_** button 
+Go to Coursera quiz -> Click **__Download__** button 
 
 ![Screenshot from 2023-06-02 03-04-22](https://github.com/Joycean0301/Courseraaa/assets/103662477/ea7e1c09-156b-485b-ae00-14366c87a125)
 
