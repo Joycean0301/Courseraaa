@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "Coursera Crawler",
+    "version": "1.0",
+    "permissions": ["activeTab", "downloads"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "browser_action": {
+      "default_title": "Crawl Questions and Answers"
+    },
+    "icons": {
+      "48": "icon.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://www.coursera.org/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  

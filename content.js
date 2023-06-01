@@ -1,0 +1,73 @@
+// Create a button and append it to the page
+var button = document.createElement("button");
+button.innerHTML = "Download";
+button.style.position = "fixed";
+button.style.bottom = "60px";
+button.style.right = "60px";
+button.style.width = "200px";
+button.style.height = "40px";
+button.style.zIndex = "9999";
+
+button.style.backgroundColor = "rgba(0,86,210,1)";
+button.style.color = "white";
+button.style.fontSize = "20px";
+button.style.fontWeight = "bold";
+button.style.fontFamily = "system-ui";
+button.style.borderRadius = "10px";
+document.body.appendChild(button);
+
+// Function to crawl questions and answers and save them into a text file
+function crawlQuestionsAndAnswers() {
+  // Code to crawl questions and answers here
+  var questions_answers = document.querySelectorAll(".rc-FormPartsQuestion"); // Adjust the selector based on the structure of the Coursera page
+  //var answers = document.querySelectorAll(".rc-FormPartsQuestion__row"); // Adjust the selector based on the structure of the Coursera page
+
+  var data = "";
+  var title = document.querySelector('.cds-7.css-ht0skw.cds-9').innerText;
+
+  for (var i = 0; i < questions_answers.length; i++) {
+    var question = questions_answers[i].querySelector('.rc-FormPartsQuestion__contentCell').innerText;
+    var answers = questions_answers[i].querySelectorAll('.rc-Option.rc-Option--isReadOnly')
+    var corrects = questions_answers[i].querySelectorAll('._1xzd2vdb.cui-Checkbox.cui-isChecked')
+
+    //seperate question
+    if (i!== 0){
+      data += '@@@'
+    }
+    data += title + '|||'
+
+    //question
+    data += question + "|||"
+
+    //answers
+    for (var j = 0; j < answers.length; j++) {
+        if (j!== 0){
+            data += '\n'
+        }
+        data += answers[j].innerText 
+    }
+    data += "|||"
+
+    //corrects
+    for (var j = 0; j < corrects.length; j++) {
+        if (j!== 0){
+            data += '\n'
+        }
+        data += corrects[j].innerText 
+    }
+
+    
+  }
+
+  var blob = new Blob([data], { type: "text/plain" });
+  var url = URL.createObjectURL(blob);
+
+  // Create a download link and click it to initiate the download
+  var a = document.createElement("a");
+  a.href = url;
+  a.download = "coursera_questions_answers.txt";
+  a.click();
+}
+
+// Add click event listener to the button
+button.addEventListener("click", crawlQuestionsAndAnswers);
