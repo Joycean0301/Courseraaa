@@ -2,7 +2,7 @@
 
 **Step 1: Clone repo**
 ```
-git clone https://github.com/Joycean0301/Crawl-Coursera.git
+git clone https://github.com/Joycean0301/Courseraaa.git
 ```
 
 **Step 2: Upload extension**
