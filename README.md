@@ -24,9 +24,5 @@ Go to Coursera Quiz -> Click **Download** button
   - Put all txt in `txt_folder` folder-> Run file `merge_txt.py` -> output: `file.csv`
 
 <details>
-<summary>Click to toggle contents of `code`</summary>
-
-```
-CODE!
-```
+<summary>**Download question**</summary>
 </details>
