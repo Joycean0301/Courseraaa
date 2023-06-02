@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Coursera Crawler",
-    "version": "2.5",
+    "version": "69.96",
     "permissions": ["activeTab", "downloads"],
     "web_accessible_resources": ["json_folder/*.json"],
     "background": {
