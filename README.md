@@ -9,6 +9,9 @@ git clone https://github.com/Joycean0301/Crawl-Coursera.git
 
 Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Developer mode** -> Load unpacked: Upload folder git
 
+![Uploading Screenshot from 2023-06-02 03-03-15.png…]()
+
+
 **Step 3: Download question**
 
 Go to Coursera quiz -> Click download button 
