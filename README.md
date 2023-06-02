@@ -1,11 +1,11 @@
 # Crawl Coursera
 
-**Step 1: Clone repo**
+## **Clone repo**
 ```
 git clone https://github.com/Joycean0301/Crawl-Coursera.git
 ```
 
-**Step 2: Upload extension**
+## **Upload extension**
 
 Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Developer mode** -> Load unpacked: Upload folder git
 
