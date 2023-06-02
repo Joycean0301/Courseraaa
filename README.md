@@ -22,3 +22,11 @@ Go to Coursera Quiz -> Click **Download** button
 **Step 4: Merge txt to csv file**
 - yess sirr
   - Put all txt in `txt_folder` folder-> Run file `merge_txt.py` -> output: `file.csv`
+
+<details>
+<summary>Click to toggle contents of `code`</summary>
+
+```
+CODE!
+```
+</details>
