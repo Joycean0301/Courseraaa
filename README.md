@@ -14,11 +14,11 @@ Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Develop
 
 ## Download question
 
-Go to Coursera quiz -> Click download button 
+Go to Coursera Quiz -> Click **Download** button 
 
 ![Screenshot from 2023-06-02 03-04-22](https://github.com/Joycean0301/Courseraaa/assets/103662477/5e371b37-e33b-4ca4-948f-340460409f2c)
 
 
 **Step 4: Merge txt to csv file**
-
-- Put all txt in `txt_folder` folder-> Run file `merge_txt.py` -> output: `file.csv`
+- yess sirr
+  - Put all txt in `txt_folder` folder-> Run file `merge_txt.py` -> output: `file.csv`
