@@ -1,8 +1,9 @@
 {
     "manifest_version": 2,
     "name": "Coursera Crawler",
-    "version": "1.0",
+    "version": "2.5",
     "permissions": ["activeTab", "downloads"],
+    "web_accessible_resources": ["json_folder/*.json"],
     "background": {
       "scripts": ["background.js"],
       "persistent": false
@@ -16,7 +17,7 @@
     "content_scripts": [
       {
         "matches": ["https://www.coursera.org/*"],
-        "js": ["content.js"]
+        "js": ["content.js","content2.js"]
       }
     ]
   }

@@ -18,6 +18,13 @@ document.body.appendChild(button);
 
 // Function to crawl questions and answers and save them into a text file
 function crawlQuestionsAndAnswers() {
+
+  // Check in the right page
+  try{var check_point = document.querySelector('.css-vc2zta').innerText;}
+  catch{alert('Wrong page to download !!!')}
+  
+  if (check_point == '100%'){
+
   // Code to crawl questions and answers here
   var questions_answers = document.querySelectorAll(".rc-FormPartsQuestion"); // Adjust the selector based on the structure of the Coursera page
   //var answers = document.querySelectorAll(".rc-FormPartsQuestion__row"); // Adjust the selector based on the structure of the Coursera page
@@ -67,6 +74,12 @@ function crawlQuestionsAndAnswers() {
   a.href = url;
   a.download = "coursera_questions_answers.txt";
   a.click();
+  alert('Download Complete!!!')
+  }
+  
+  else{
+    alert('Not pass 100% or there is something going wrong!!!')
+  }
 }
 
 // Add click event listener to the button
