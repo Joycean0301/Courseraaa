@@ -20,10 +20,10 @@ document.body.appendChild(button);
 function crawlQuestionsAndAnswers() {
 
   // Check in the right page
-  try{var check_point = document.querySelector('.css-vc2zta').innerText;}
-  catch{alert('Wrong page to download !!!')}
+  try{var check_point = document.querySelector('.css-vc2zta').innerText;
   
-  if (check_point == '100%'){
+  
+  
 
   // Code to crawl questions and answers here
   var questions_answers = document.querySelectorAll(".rc-FormPartsQuestion"); // Adjust the selector based on the structure of the Coursera page
@@ -33,37 +33,42 @@ function crawlQuestionsAndAnswers() {
   var title = document.querySelector('._11oc718').innerText;
 
   for (var i = 0; i < questions_answers.length; i++) {
-    var question = questions_answers[i].querySelector('.rc-FormPartsQuestion__contentCell').innerText;
-    var answers = questions_answers[i].querySelectorAll('.rc-Option.rc-Option--isReadOnly')
-    var corrects = questions_answers[i].querySelectorAll('._1xzd2vdb.cui-Checkbox.cui-isChecked')
+    var point = questions_answers[i].querySelector('.css-1xe0vjc').innerText
+    if (point == '1 / 1 point'){
 
-    //seperate question
-    if (i!== 0){
-      data += '@@@'
-    }
-    data += title + '|||'
+      var question = questions_answers[i].querySelector('.rc-FormPartsQuestion__contentCell').innerText;
+      var answers = questions_answers[i].querySelectorAll('.rc-Option.rc-Option--isReadOnly')
+      var corrects = questions_answers[i].querySelectorAll('._1xzd2vdb.cui-Checkbox.cui-isChecked')
+      
+      console.log(point)
 
-    //question
-    data += question + "|||"
+      //seperate question
+      if (i!== 0){
+        data += '@@@'
+      }
+      data += title + '|||'
 
-    //answers
-    for (var j = 0; j < answers.length; j++) {
-        if (j!== 0){
-            data += '\n'
-        }
-        data += answers[j].innerText 
-    }
-    data += "|||"
+      //question
+      data += question + "|||"
 
-    //corrects
-    for (var j = 0; j < corrects.length; j++) {
-        if (j!== 0){
-            data += '\n'
-        }
-        data += corrects[j].innerText 
-    }
+      //answers
+      for (var j = 0; j < answers.length; j++) {
+          if (j!== 0){
+              data += '\n'
+          }
+          data += answers[j].innerText 
+      }
+      data += "|||"
 
-    
+      //corrects
+      for (var j = 0; j < corrects.length; j++) {
+          if (j!== 0){
+              data += '\n'
+          }
+          data += corrects[j].innerText 
+      }
+
+   }
   }
 
   var blob = new Blob([data], { type: "text/plain" });
@@ -76,10 +81,9 @@ function crawlQuestionsAndAnswers() {
   a.click();
   alert('Download Complete!!!')
   }
-  
-  else{
-    alert('Not pass 100% or there is something going wrong!!!')
-  }
+
+ catch{alert('Wrong page to download !!!')}
+
 }
 
 // Add click event listener to the button

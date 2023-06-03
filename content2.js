@@ -29,18 +29,38 @@ function fillQuestionsAndAnswers() {
     const question = question_answers[i].querySelector('.rc-FormPartsQuestion__contentCell').innerText;
     const answers = question_answers[i].querySelectorAll('label._1oyudm1w');
     
+    // create answer_check1
+    var check_answers = ''
+    for (var k = 0; k < answers.length; k++) {
+      if (k!== 0){check_answers += '\n'}
+      check_answers += answers[k].innerText}
+    
+    const characters = check_answers.split('');
+    const sortedCharacters = characters.sort();
+    const sortedWord = sortedCharacters.join('');
+    console.log('one'+sortedWord)
+
     // Check quesion in the database if match -> Get the correct answer
     fetch(url).then((response) => response.json()).then((json) => {
-      for (let z = 0; z < json.length; z++) {
+      for (var z = 0; z < json.length; z++) {
         const item = json[z];
+
         if (item.Question == question){
-          const full_correct_answer = item.Correct;
-        
-          // Pass all answer if it correct -> Click
-          for (var j = 0; j < answers.length; j++) {
-            if (full_correct_answer.includes(answers[j].innerText)){
-              answers[j].click();
-       }
+          // check answers match answers in database
+          const characterstwo = item.Answer.split('')
+          const sortedCharacterstwo = characterstwo.sort();
+          const sortedWordtwo = sortedCharacterstwo.join('');
+          if (sortedWordtwo == sortedWord){
+            console.log('two'+sortedWordtwo)
+            const full_correct_answer = item.Correct;
+            
+          
+            // Pass all answer if it correct -> Click
+            for (var j = 0; j < answers.length; j++) {
+              if (full_correct_answer.includes(answers[j].innerText)){
+                answers[j].click();
+        }
+       }     
       }
      }
     }
@@ -51,6 +71,11 @@ function fillQuestionsAndAnswers() {
 
 // Add click event listener to the button
 button.addEventListener("click", fillQuestionsAndAnswers);
+
+
+
+
+
 
 
 
