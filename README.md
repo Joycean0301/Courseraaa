@@ -1,4 +1,4 @@
-# Coursera Tỏọl
+# Coursera Extension
 
 
 ## Clone repo
@@ -18,7 +18,7 @@ Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Develop
 ## Download question
 
 - Step 1: Go to Coursera Quiz -> Click **Download** button 
-- Step 2: Put all txt in `txt_folder` folder -> Run file `merge_txt.py` -> output in: `csv_folder` folder and `json_folder` folder
+- Step 2: Put all txt in `txt_folder` folder -> Run file `merge_txt.py` -> Input file name subject -> output in: `csv_folder` folder and `json_folder` folder
 
 ![Screenshot from 2023-06-02 03-04-22](https://github.com/Joycean0301/Courseraaa/assets/103662477/5e371b37-e33b-4ca4-948f-340460409f2c)
 
