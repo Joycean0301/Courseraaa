@@ -18,7 +18,7 @@ Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Develop
 ## Download question
 
 - Step 1: Go to Coursera Quiz -> Click **Download** button 
-- Step 2: Put all txt in `...\Courseraaa\txt_folder` folder -> Run file `...\Courseraaa\merge_txt.py` -> Input file name subject -> output in: `...\Courseraaa\csv_folder` folder and `...\Courseraaa\json_folder` folder
+- Step 2: Put all txt in `..\Courseraaa\txt_folder` folder -> Run file `..\Courseraaa\merge_txt.py` -> Input file name subject -> output in: `..\Courseraaa\csv_folder` folder and `..\Courseraaa\json_folder` folder
 
 ![Screenshot from 2023-06-02 03-04-22](https://github.com/Joycean0301/Courseraaa/assets/103662477/5e371b37-e33b-4ca4-948f-340460409f2c)
 
@@ -27,8 +27,8 @@ Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Develop
 
 ## Automatically filled
 
-- Step 1: Put new **json**(data) file contain correct answers into `...\Courseraaa\json_folder` folder.
-- Step 2: Rename new json path name **url** in file `content2.js`
+- Step 1: Put new **json**(data) file contain correct answers into `..\Courseraaa\json_folder` folder.
+- Step 2: Rename new json path name **url** in file `..\Courseraaa\content2.js`
 
 ![Screenshot from 2023-06-03 00-20-06](https://github.com/Joycean0301/Courseraaa/assets/103662477/eaf4c872-264b-4050-8168-c06a91a54116)
 
