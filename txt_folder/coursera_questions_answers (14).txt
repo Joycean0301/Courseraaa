@@ -1,0 +1,91 @@
+Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07|||Which of the following is a back-end technology?|||CSS
+HTML
+Web API
+Browser|||Web API@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07|||What quality makes it possible for you to run JavaScript applications without compiling?|||JavaScript is an interpreted language.
+All modern browsers support JavaScript.
+You can use a text editor to develop JavaScript applications.
+The language syntax resembles Java.|||JavaScript is an interpreted language.@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07|||Which of the following applications intercepts the call when JavaScript sends a web service request to the Node.js server?|||Enterprise Java
+JSON
+REST Web Service
+CSS|||REST Web Service@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07|||Which of the following is a difference between ES and CommonJS modules?|||CommonJS is a JavaScript language whereas ES is a module specification
+CommonJS modules are written in JavaScript whereas ES modules are not
+CommonJS module files use a .mjs extension whereas ES modules use .js
+ ES modules use the import() statement whereas CommonJS modules use require().  ||| ES modules use the import() statement whereas CommonJS modules use require().  @@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07|||How do you handle operation results with Node.js?|||Use blocking on asynchronous I/O operations
+Specify a relative path to the Node.js script from the module directory
+Create an instance of a web server application
+Write callback functions to handle results when the operations complete|||Write callback functions to handle results when the operations complete@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07|||What do you use the http.createServer function for?|||To develop an anonymous function to handle requests and responses
+To specify a main script for your module
+To import a Node.js module
+To create an instance of a web server|||To create an instance of a web server@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07|||Which core Node.js module can be used for input and output (I/O)?|||fs
+URL
+util
+http|||fs@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07|||Which is an aspect of Node Package Manager (NPM)?|||It manages the versioning of source code
+It creates a package.json file in the project’s root directory
+It writes metadata to a package.json file
+It functions as a command line interface for installing packages|||It functions as a command line interface for installing packages@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07|||What do you use the require function for?|||To develop an anonymous function to handle requests and responses
+To create an instance of a web server
+To specify a main script for your module
+To import a Node.js module|||To import a Node.js module@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07|||What happens when a module does not have a package.json file?|||Node.js assumes that the main class is named index.js.
+The require statement assumes that scripts have a file extension of js.
+The relative path to the Node.js script changes to an absolute path from the module directory.
+There is no module manifest.|||Node.js assumes that the main class is named index.js.

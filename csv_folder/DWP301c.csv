@@ -1,0 +1,4253 @@
+Question,Answer,Correct,Title
+What is an API?,"A version control system used to manage your code
+A practice for dev-ops teams enabling developers to deliver frequent changes reliably
+A framework which dictates the architecture of your program and controls the program flow
+Code that works with data and provides a mechanism for software to access resources from the back-end",Code that works with data and provides a mechanism for software to access resources from the back-end,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"When a user tries to login to a website, he/she gets an authentication failure error. Who do you think can fix this error? (Select all that apply)","Back-end Developer
+Full-stack Developer
+Front-end Developer ","Back-end Developer
+Full-stack Developer","Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"In addition to SQL, which tool can help you access databases?","npm
+ORM
+pip
+CI/CD",ORM,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Build automation can automate which of the following tasks?  (Select all that apply),"Downloading dependencies
+Packaging binary code
+Compiling binary code into source code
+Running tests and deployment to production systems","Downloading dependencies
+Packaging binary code
+Running tests and deployment to production systems","Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+A user has complained that the website is readable on desktop but not on mobile. Who can help solve this problem?," Back-end Developer
+Front-end Developer",Front-end Developer,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following describe a package manager?  (Select all that apply),"Contains application files, instructions for installation, and metadata
+A way to distribute your pre-packaged application(s)
+Takes care of finding, installing, maintaining or uninstalling software packages","A way to distribute your pre-packaged application(s)
+Takes care of finding, installing, maintaining or uninstalling software packages","Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following adds interactivity and dynamic content to a website?,"JavaScript
+Git
+HTML
+CSS",JavaScript,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of these is an open-source server side platform built on the Google Chrome JavaScript engine and uses an asynchronous single threaded architecture that allows it to serve a very large number of concurrent connections?,"Node.js
+React JS 
+ Angular
+Flask",Node.js,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following frameworks and libraries are used for front-end? (Select all that apply),"Express
+Node.js
+Angular
+Vue.js
+React.js","Angular
+Vue.js
+React.js","Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following is NOT a required skill for a front-end developer?,"HTML
+Java
+CSS
+JavaScript",Java,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+The Node.js framework doesn't provide many features for building web apps. What do developers rely on to extend Node.js features?,"JavaScript
+JSON
+External libraries and packages
+Timely updates",External libraries and packages,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+"One disadvantage of manual parsing is that string matching ignores the XML data structure. However, depending on XML data complexity, string matching might be more efficient than what?","An XML root element
+An XML tree of the data
+An XML attribute structure
+No alternative: string matching is never more efficient.",An XML tree of the data,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which Node.js package can parse a string of XML elements into a JavaScript object?,"Express.js
+XML-JS
+xml2js
+Async.js",xml2js,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which web application framework is based on the Node.js runtime environment?,"XML-JS
+Express
+JSON
+Async.js",Express,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+"The Node.js framework treats HTTP requests at a lower network level. In contrast, Express implements an app class for what purpose?","Access a URL
+Lookup web services
+Map to a web resource path
+Parse through a network path",Map to a web resource path,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+What do you call to create a web server object to listen for incoming requests on a port?,"app.listen
+http.view
+app.request
+http.name",app.listen,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which of the following kind of task is middleware most useful for?,"Performing large calculations
+Routing
+Parsing strings
+Error handling",Error handling,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which type of authentication is widely used for password recovery by providing a magic link to the user?,"Single Sign On
+Token-based
+Session-based
+Passwordless",Passwordless,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which statement regarding the jsonwebtoken.verify() method is true?,"It is used to return an HTTP status code
+It is used to generate a JSON web token
+It is used to return a response
+It is used to verify a JSON web token",It is used to verify a JSON web token,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which library and module are suited for black-box testing REST APIs?,"Express/TestAPI
+Mocha/SuperTest
+Postman/TestAPI
+Koa/SuperTest",Mocha/SuperTest,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Have you added Dockerfile to the root directory? ,"Yes
+No",Yes,"Containerize Checklist
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 9, 11:59 PM +07"
+Have you built your image locally? ,"Yes
+No",Yes,"Containerize Checklist
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 9, 11:59 PM +07"
+Have you pushed your image to the IBM container registry? ,"Yes
+No",Yes,"Containerize Checklist
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 9, 11:59 PM +07"
+Have you added deployment.yaml file? ,"Yes
+No",Yes,"Containerize Checklist
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 9, 11:59 PM +07"
+Have you deployed the application to the lab environment? ,"Yes
+No",Yes,"Containerize Checklist
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 9, 11:59 PM +07"
+Have you forwarded the ports? ,"Yes
+No",Yes,"Containerize Checklist
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 9, 11:59 PM +07"
+"What is the main benefit of using PaaS, such as IBM Cloud Code Engine, to deploy your microservices?","Scales your microservices manually based on predefined rules and configurations
+Provides a design to run a single type of workload
+Provides fully managed deployment services to help your deployment process with minimal efforts
+Enables handling of the full deployment process by a single user",Provides fully managed deployment services to help your deployment process with minimal efforts,"Graded Quiz: Create and Deploy Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What are the three deployment modes of IBM Cloud Code Engine?,"(1) Build and deploy applications from source code. (2) Deploy container image-based applications and (3) REST APIs
+(1) Build and deploy applications from source code. (2) Deploy container image-based applications, and (3) Run Jobs
+(1) Run REST APIs, (2) Build and Run Source Code, and (3) Run Jobs
+(1) SCP. (2) TCP, and (3) HTTP","(1) Build and deploy applications from source code. (2) Deploy container image-based applications, and (3) Run Jobs","Graded Quiz: Create and Deploy Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+Which of the following statement is correct about Code Engine project and application?,"A project in IBM Cloud Code Engine acts like a namespace so that you can create and deploy multiple applications even with the same name across projects.
+A project in IBM Cloud Code Engine acts like a namespace so that you can only create one project under your account.
+A project can only contain one application.
+You can have two applications sharing the same name in the same project.",A project in IBM Cloud Code Engine acts like a namespace so that you can create and deploy multiple applications even with the same name across projects.,"Graded Quiz: Create and Deploy Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What are the two main application-building methods supported in IBM Cloud Code Engine?,"Building container image with DockerHub and Buildpack.
+Building container image with Github Action and DockerHuB:
+Building container image with Dockerfile and Buildpack.
+Building container image with Dockerpack and Buildpack.",Building container image with Dockerfile and Buildpack.,"Graded Quiz: Create and Deploy Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What is the role of docker in container technology?,"A software platform for building and running applications as containers
+A container orchestration platform
+A cloud tool to scan your container images for security vulnerabilities
+An application development and testing IDE",A software platform for building and running applications as containers,"Graded Quiz: Create and Deploy Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What is normally the first command of a Dockerfile?,"FROM
+CMD
+COPY
+EXPOSE",FROM,"Graded Quiz: Create and Deploy Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What is a container registry?,"A container repository where your pushed container images are curated
+A software platform to build a container image
+A cloud IDE to develop container
+A cloud platform to deploy container images.",A container repository where your pushed container images are curated,"Graded Quiz: Create and Deploy Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+"Once your microservice or web application is deployed, how can you test it?","IBM Cloud Code Engine will provide a container image reference for you to test your application.
+You can only verify your application’s running status via log files.
+IBM Cloud Code Engine will provide a URL to download your microservice, and then you can unzip and run it.
+IBM Cloud Code Engine will provide a URL for you to run or test your service or application.",IBM Cloud Code Engine will provide a URL for you to run or test your service or application.,"Graded Quiz: Create and Deploy Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What is the correct IBM Cloud CLI command to create and deploy an application?,"“ibmcloud ce app create –image us.icr.io/mynamespace/hello_repo --registry-secret myregistry.”
+“ibmcloud ce app create --name helloworldapp --image us.icr.io/mynamespace/hello_repo --registry-secret myregistry”
+“app create --name helloworldapp --image us.icr.io/mynamespace/hello_repo --registry-secret myregistry”
+“ ibmcloud ce createapp --n helloworldapp --i us.icr.io/mynamespace/hello_repo”",“ibmcloud ce app create --name helloworldapp --image us.icr.io/mynamespace/hello_repo --registry-secret myregistry”,"Graded Quiz: Create and Deploy Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+Which method is used by the IBM Cloud Code Engine to access your container image?,"From the Private container registry only
+From the public container registry only
+From the source code
+From both public and private container registry",From both public and private container registry,"Graded Quiz: Create and Deploy Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+"In the US National Institute of Standards and Technology (NIST) definition of “cloud computing”, what does the statement “shared pool of configurable computing resources” include?","Leverage cloud services over the open internet on hardware owned by the cloud provider
+Five essential characteristics, three deployment models, three service models
+Data security, associated with loss or unavailability of data causing business disruption
+Networks, servers, storage, applications, and services","Networks, servers, storage, applications, and services","Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What tasks do hypervisors accomplish? Select two.,"Scale on demand to support fluctuating workloads.
+Facilitate access to mainframes for multiple users to access the same data storage layer.
+Enable multiple operating systems to run alongside each other, sharing the same physical computing resources.
+Separates VMs logically and assigns each a share of the underlying computing power, memory, and storage.","Enable multiple operating systems to run alongside each other, sharing the same physical computing resources.
+Separates VMs logically and assigns each a share of the underlying computing power, memory, and storage.","Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What are some of the cloud benefits that make it lower-risk for enterprises to adopt cloud? Select two.,"The pay-as-you-go model allows enterprises to experiment with technologies as opposed to making long-term decisions based on little or no trial.
+Diversity of standardization in how the constantly evolving technologies integrate and interoperate.
+Data security associated with loss or unavailability of data causing business disruption
+The speed with which applications can be up and running on the cloud versus months on traditional platforms, means enterprises can experiment, fail fast, learn, and course correct without setting them back significantly.","The pay-as-you-go model allows enterprises to experiment with technologies as opposed to making long-term decisions based on little or no trial.
+The speed with which applications can be up and running on the cloud versus months on traditional platforms, means enterprises can experiment, fail fast, learn, and course correct without setting them back significantly.","Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+" Which of these are full-service cloud platforms?
+
+     A.     IBM Cloud
+
+     B.     Amazon Web Services
+
+     C.      Google Cloud Platform
+
+     D.     Microsoft Azure","A, B, C, and D
+A, B, and C only
+A only
+A and B only","A, B, C, and D","Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+An IBM Institute for Business Value study says that more than three-quarters of enterprises today are using cloud computing to expand into new industries. What additional benefits do organizations find when adopting the cloud:,"Improve customer experience and create enhanced products and services
+Lengthen product lifecycles to ensure higher quality offerings
+Avoid having to fail at all
+Continue making expensive decisions because it often worked in the past ",Improve customer experience and create enhanced products and services,"Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"What are some of the results companies like Bitly, American Airlines, UBank, and ActivTrades achieve with cloud adoption?
+
+     A.     Better customer service
+
+     B.     Remove barriers to innovation
+
+     C.     Demand for enterprise scale
+
+     D.     Accelerating growth","A and B only
+A, B, C, and D
+B and D only
+C and D only","A, B, C, and D","Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"IoT, AI, Blockchain, and Analytics are emerging technologies enabled by the cloud. What are some of the attributes of cloud computing that enable these technologies? Select two.","Computing resources can be accessed via internet connection
+The power and scale of cloud resources
+Cloud offers on-demand computing
+Cloud resources are offered in a single-tenant model","The power and scale of cloud resources
+Cloud offers on-demand computing","Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"What is the three-way symbiotic relationship between IoT, AI, and Cloud?","Power, scale, dynamic nature, and economics of the cloud resources
+AI consumes the data produced by IoT devices
+Making sense of the endless streams of data from IoT devices
+IoT delivers the data, AI powers the insights, and both emerging technologies leverage cloud's scalability and processing power","IoT delivers the data, AI powers the insights, and both emerging technologies leverage cloud's scalability and processing power","Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"What is the three-way relationship between blockchain, AI, and the Cloud?","Lends trust and transparency to AI by recording the data and variables that go into a decision made in an AI algorithm.
+Globally distributed, scalable, and cost-efficient computing resources.
+Blockchain provides an immutable network allowing members to view only those transactions that are relevant to them.
+Blockchain provides the trusted, decentralized source of truth, AI powers the analytics and decisions made from the collected data, and cloud provides the globally distributed, scalable, and cost-efficient computing resources to support both technologies.","Blockchain provides the trusted, decentralized source of truth, AI powers the analytics and decisions made from the collected data, and cloud provides the globally distributed, scalable, and cost-efficient computing resources to support both technologies.","Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of these are essential characteristics of the Cloud? Select two.,"Fixed fee
+On-demand self-service
+Resource pooling
+Single-tenant","On-demand self-service
+Resource pooling","Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"What is the result of the following lines of code?
+
+1
+2
+3
+a=np.array([-1,1])
+b=np.array([1,1])
+np.dot(a,b) ","array([0,2])
+1
+0",0,"Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+"What is the value of Z after the following code is run?
+
+1
+2
+3
+4
+5
+ 
+X=np.array([[1,0],[0,1]])
+Y=np.array([[0,1],[1,0]])
+Z=X+Y
+ ","array([[1,1],[1,1]])
+array([[1,0],[0,1]])
+array([[0,1],[1,1]])","array([[1,1],[1,1]])","Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+"What values does the variable  out take if the following lines of code are run?
+
+1
+2
+3
+4
+5
+ 
+X=np.array([[1,0,1],[2,2,2]]) 
+out=X[0:2,2]
+out
+ ","array([1,0])
+array([1,2])
+array([1,1])","array([1,2])","Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+"What is the value of  Z after the following code is run?
+
+1
+2
+3
+4
+5
+ 
+X=np.array([[1,0],[0,1]])
+Y=np.array([[2,2],[2,2]])
+Z=np.dot(X,Y)
+ ","array([[2,2],[2,2]])
+array([[2,0],[0,2] ])
+array([[3,2],[2,3]])","array([[2,2],[2,2]])","Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+"Consider the following text file:  Example1.txt:
+
+This is line 1
+
+This is line 2
+
+This is line 3
+
+What is the output of the following lines of code?
+
+1
+2
+3
+4
+5
+6
+ 
+with open(""Example1.txt"",""r"") as File1:
+ 
+    file_stuff=File1.readline ()
+ 
+    print(file_stuff)","This is line 1
+This is line 1
+
+This is line 2
+
+This is line 3
+This is line 1
+
+This is line 2",This is line 1,"Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+"Consider the following line of code:
+
+1
+2
+3
+ 
+with open(example1,""r"") as file1:
+ 
+
+What mode is the file object in?","read
+write
+append",read,"Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+"What do the following lines of code do?
+
+1
+2
+3
+4
+5
+ 
+with open(""Example.txt"",""a"") as writefile:
+  
+  writefile.write(""This is line A\n"")
+  writefile.write(""This is line B\n"")","Read the file ""Example.txt""
+Write to the file “Example.txt”
+Append the file ""Example.txt""","Append the file ""Example.txt""","Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+"What task do the following lines of code perform?
+
+1
+2
+3
+4
+5
+6
+ 
+with open('Example2.txt','r') as readfile:
+    with open('Example3.txt','w') as writefile:
+          for line in readfile:
+                writefile.write(line)
+ ","Check the mode of the open function for each file object.
+Copy the text from Example2.txt to Example3.txt.
+Print out the content of Example2.txt.",Copy the text from Example2.txt to Example3.txt.,"Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+Consider the dataframe df. How would you access the element in the 1st row 3rd column,"df.iloc[2,0]
+df.iloc[1,3]
+df.iloc[0,2]","df.iloc[0,2]","Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What function would you use to load a csv file in Pandas?,"pd.read_csv
+pd.read_excel",pd.read_csv,"Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+How is GitHub related to Git?,"GitHub is an online hosting service for Git repositories.
+GitHub is an open source tool used to create Git.
+GitHub is a main section in the Git project workflow.
+GitHub is a program required for version control on Git.",GitHub is an online hosting service for Git repositories.,"Graded Quiz: Getting Started with Git and GitHub
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 11, 11:59 PM +07"
+What type of version control system is Git?,"Local
+Centralized
+Remote
+Distributed",Distributed,"Graded Quiz: Getting Started with Git and GitHub
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 11, 11:59 PM +07"
+What is a repository?,"A basic unit of storage in Git that cannot be changed
+A plain-text file that explains the purpose of a project
+A data structure that stores documents and source code
+A collection of user accounts that are connected to a pull request",A data structure that stores documents and source code,"Graded Quiz: Getting Started with Git and GitHub
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 11, 11:59 PM +07"
+What is the purpose of a license file?,"Describe the purpose of the project.
+Record all changes made to a repository.
+Express how people can use your code.
+Establish secure remote login between computers.",Express how people can use your code.,"Graded Quiz: Getting Started with Git and GitHub
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 11, 11:59 PM +07"
+"On GitHub, what are commits?","Saved changes
+Pull requests
+Tags
+Merges",Saved changes,"Graded Quiz: Getting Started with Git and GitHub
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 11, 11:59 PM +07"
+"In the following declaration, what is the type of the variable ‘pi’?
+
+var pi = “3.14”; ","float 
+char 
+number 
+string ",string ,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+How do you define an array called array1 in JavaScript? ,"var array1 = [1,2,3] 
+var array1 = new Array[1,2,3] 
+var array1 = (1,2,3) 
+var array1 = new Array((1,2,3)) ","var array1 = [1,2,3] ","Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+"What does the following statement do?
+
+var ndate = new Date() ; ","Assigns the current local time to ndate 
+Assigns the current Greenwich Mean Time to ndate 
+Assigns an empty string with the properties of dates to ndate
+Returns an error ",Assigns the current local time to ndate ,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+Which DOM function returns a node object matching a div with an id value “example_id”? ,"document.getElementById(div, “example_id”) 
+document.getElementById(“example_id”) 
+div.getValueOf(“example_id”) 
+element.getNodeById(“example_id”) ",document.getElementById(“example_id”) ,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+How are numbers converted to strings? ,"string(123) 
+(123).toString() 
+(123).string 
+toString(123) ",(123).toString() ,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+"What is the value of ‘total’ after the following statement is executed?
+
+var total = 10 + 1 +” 3”;","“1013”
+14
+“113”
+This results in an error",“113”,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+"What would the alert be, when the following code is executed?
+
+var a = new String(“Hello”);
+
+var b = “Hello”;
+
+if (a ===b){
+
+alert(“Same”);
+
+}else{
+
+alert(“Different”);
+
+}","Same
+Different
+It would not give any alert as it is an error
+None of the above",Different,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+Which of the following is the proper way to create a `for` loop?,"loop (for i = minVal; i < maxVal; i++) { … }
+for (var i = minVal; i++; i < maxVal) { … }
+for (i < maxVal) { … }
+for (var i = minVal; i < maxVal; i++) { … }",for (var i = minVal; i < maxVal; i++) { … },"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+Select all of the following which are properways to add a `color` property to a custom `Car` object. ,"Modify the code of the Car object directly to add a `color` parameter in the constructor
+Car.color = “Red”
+Car.prototype(Color, “Red”)
+Car.prototype.color = “Red”","Modify the code of the Car object directly to add a `color` parameter in the constructor
+Car.prototype.color = “Red”","Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+Which of the following is not an event binder in JavaScript?,"onclick
+onhover
+onmouseover
+onload",onhover,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+What are the 3 parts to a response message?,"Start or status line, header, and body
+Encoding, body, and cache
+Bookmarks, history, and security
+HTTP headers, blank line, and body","Start or status line, header, and body","Module 5 Graded Quiz
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 9, 11:59 PM +07"
+"What is the purpose of this line of code ""table_row=table.find_all(name=’tr’)"" used in webscraping?","It will find all of the data within the table marked with a tag “tr”
+It will find all of the data within the table marked with a tag “a”
+It will find all of the data within the table marked with a tag “p”
+It will find all of the data within the table marked with a tag “h1”",It will find all of the data within the table marked with a tag “tr”,"Module 5 Graded Quiz
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 9, 11:59 PM +07"
+In what data structure do HTTP responses generally return?,"Nested Lists
+Tuples
+Lists
+JSON",JSON,"Module 5 Graded Quiz
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 9, 11:59 PM +07"
+The Python library we used to plot the chart in the lab is,"Pandas
+Plotly
+MatPlotLib
+PyCoinGecko",MatPlotLib,"Module 5 Graded Quiz
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 9, 11:59 PM +07"
+"Have you created an IBM Cloud Lite account?
+
+Note: Select “Yes” if you already had an IBM Cloud Lite account and therefore didn’t need to create it for Module 1.","Yes
+No",Yes,"Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07"
+Have you created an IBM Cloudant service instance? ,"Yes
+No",Yes,"Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07"
+Have you created a Watson Natural Language Understanding (NLU) service instance? ,"Yes
+No",Yes,"Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07"
+Have you forked the GitHub repo containing the project template? ,"Yes
+No",Yes,"Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07"
+Have you added navigation to the website using Bootstrap? ,"Yes 
+No",Yes ,"Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07"
+"Have you added the ""About Us"" static page? ","Yes
+No",Yes,"Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07"
+"Have you added the ""Contact Us"" static page? ","Yes
+No",Yes,"Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07"
+Have you run and test your Django application? ,"Yes
+No",Yes,"Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07"
+ Have you updated your forked repository with all changes? ,"Yes
+No",Yes,"Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07"
+Have you created a dealership list template? ,"Yes
+No",Yes,"Dynamic Pages Checklist
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 2, 11:59 PM +07"
+Have you updated the dealership list view? ,"Yes
+No",Yes,"Dynamic Pages Checklist
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 2, 11:59 PM +07"
+Have you created a dealer details/reviews template? ,"Yes
+No",Yes,"Dynamic Pages Checklist
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 2, 11:59 PM +07"
+Have you updated the dealership list view? ,"Yes
+No",Yes,"Dynamic Pages Checklist
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 2, 11:59 PM +07"
+Have you created a review submission page and template? ,"Yes
+No",Yes,"Dynamic Pages Checklist
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 2, 11:59 PM +07"
+Have you added a review submission view? ,"Yes
+No",Yes,"Dynamic Pages Checklist
+
+Graded Quiz
+.
+ • 12 min
+
+DueJul 2, 11:59 PM +07"
+"What is the value of x after the following lines of code?
+
+x=1
+
+x=x+1","1
+2
+4",2,"Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 27 min
+
+DueJun 11, 11:59 PM +07"
+What is the result of the following operation 3+2*2 ?,"3
+7
+9",7,"Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 27 min
+
+DueJun 11, 11:59 PM +07"
+What is the result of the following code segment: type(int(12.3)),"int
+str
+float ",int,"Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 27 min
+
+DueJun 11, 11:59 PM +07"
+What is the result of the following code segment: int(True),"1
+0
+error",1,"Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 27 min
+
+DueJun 11, 11:59 PM +07"
+"In Python, what is the result of the following operation: '1'+'2' ?","3
+'3'
+'12'",'12',"Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 27 min
+
+DueJun 11, 11:59 PM +07"
+What is the result of the following: 'hello'.upper() ?,"'HELLO' 
+ 'Hello'
+'hello'",'HELLO' ,"Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 27 min
+
+DueJun 11, 11:59 PM +07"
+What is the result of the following : str(1)+str(1) ?,"'11'
+2",'11',"Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 27 min
+
+DueJun 11, 11:59 PM +07"
+"What is the result of the following: ""ABC"".replace(""AB"", ""ab"") ?","'abC' 
+'ABc'",'abC' ,"Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 27 min
+
+DueJun 11, 11:59 PM +07"
+"In Python 3, what is the type of the variable x after the following: x=1/1 ?","float
+int",float,"Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 27 min
+
+DueJun 11, 11:59 PM +07"
+What are some best practices organizations need to follow in order to protect their cloud resources and systems? Select two.,"Distribute tasks, workloads, and network traffic
+Adopt a shared responsibility model 
+Active monitoring for security and compliance 
+Run security monitoring tools on a periodic basis to ensure security threats and breaches are flagged ","Adopt a shared responsibility model 
+Active monitoring for security and compliance ","Module 5 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 9, 11:59 PM +07"
+Which of the following are key components of Identity and Access Management (IAM)? Select two.,"Protecting data while it is at rest, in motion, and in use 
+Cloud Directory Services 
+Embedding security through the life cycle of an application 
+Audit and Compliance ","Cloud Directory Services 
+Audit and Compliance ","Module 5 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 9, 11:59 PM +07"
+"Which of these statements are true of cloud encryption
+
+A.   Encryption ensures only authorized users have access to sensitive dat
+
+B.   When encrypted data is intercepted without authorization, it is unreadable and meaningles
+
+C.   Encryption protects data when it is at rest, in transit, and in use in memo
+
+D.   Encryption eliminates data security risk","A, B, and D only 
+A and C only 
+A, B, C, and D
+A, B, and C only ","A, B, and C only ","Module 5 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 9, 11:59 PM +07"
+Identify some of the standard cloud monitoring best practices from the provided options. Select two. ,"Authenticate users attempting to access their cloud resources    
+Track usage and cost of your cloud resources and services 
+Encrypt data before it is sent to the cloud
+Leverage end-user experience monitoring solutions to capture the performance of an application from the point of view of its end users","Track usage and cost of your cloud resources and services 
+Leverage end-user experience monitoring solutions to capture the performance of an application from the point of view of its end users","Module 5 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 9, 11:59 PM +07"
+"Which job role requires the following skills?
+
+·        Collaboration with development and operations teams 
+
+·        Containerization expertise
+
+·        Creating custom automation tools
+
+·        Building and maintaining configuration and deployment frameworks
+
+·        Monitoring security and measuring performance ","Cloud Data Engineers 
+Cloud DevOps Engineer 
+Cloud Solutions Architects
+Cloud Integration Specialists",Cloud DevOps Engineer ,"Module 5 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 9, 11:59 PM +07"
+In what three environments can container orchestration be implemented?,"Private cloud environments
+ A single device 
+On-premises environments
+Public cloud environments","Private cloud environments
+On-premises environments
+Public cloud environments","Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What is the most popular container orchestration tool used as of 2022?,"Kubernetes 
+Marathon
+Nomad
+Docker Swarm",Kubernetes ,"Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What does a control plane do?,"Maintains the intended Cluster state by making decisions about the Cluster and detecting and responding to events in the Cluster   
+Shares all the resources of a node
+Assigns newly created Pods to nodes
+Contains Pods",Maintains the intended Cluster state by making decisions about the Cluster and detecting and responding to events in the Cluster   ,"Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What component of a worker node ensures containers are running as desired?,"Etcd
+Container runtime
+The Kubernetes proxy
+The kubelet",The kubelet,"Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What are three Kubernetes capabilities?,"Automated rollouts
+Storage orchestration
+CI/CD pipelines
+Secret and configuration management","Automated rollouts
+Storage orchestration
+Secret and configuration management","Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What is automated bin packing?,"A Kubernetes capability that scales workloads based on metrics or commands
+A Kubernetes capability that applies automatic changes
+A Kubernetes capability that performs container auto-placement based on resource requirements and conditions without sacrificing high availability 
+A Kubernetes capability that mounts a chosen storage system",A Kubernetes capability that performs container auto-placement based on resource requirements and conditions without sacrificing high availability ,"Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What is a label?,"A mechanism for isolating groups of resources within a single Cluster
+A key-value pair attached to an object
+The simplest unit in Kubernetes
+A set of identical running Pod replicas that are horizontally scaled",A key-value pair attached to an object,"Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What Kubernetes object should be used for stateless applications?,"DaemonSet
+ReplicaSet
+StatefulSet
+Deployment",Deployment,"Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What is Kubectl?,"Kubernetes command line interface (CLI) 
+OpenShift command line interface (oc) 
+Docker command line interface 
+Cloud command line interface ",Kubernetes command line interface (CLI) ,"Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What is the function of an External Name Service?,"Maps to a DNS name
+Creates and routes the incoming requests automatically to the ClusterIP Service
+Directs traffic to the NodePort Service
+Provides inter-service communication within the Cluster",Maps to a DNS name,"Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which of the following is a benefit of using ORM?,"Removes data access complexity from application code
+Speeds up application development 
+Increases performance
+Easier to debug ",Speeds up application development ,"Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+"When you create an object (an instance of a class) in Django, what does it represent?","Table cell
+Table column
+Table row
+Database table",Table row,"Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+What does Django create when you create a forward relationship?,"Explicit reference
+Comparative clause
+Backward access
+Django doesn't automatically create anything",Backward access,"Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+"To delete() records in a database, you call the Delete method on which objects?","Foreign Key field or Many-to-many field
+Model object or QuerySet
+Filter chain or primitive field
+Child object or lookup parameter",Model object or QuerySet,"Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+What is the main reason ORM was invented?,"Bridge the gap between OOP and SQL
+Promote SQL
+Use a different set of APIs for each database 
+Utilize methods ",Bridge the gap between OOP and SQL,"Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+Multi-table inheritance is like which relationship?," One-to-many
+Many-to-many 
+One-to-one
+Many-to-one",One-to-one,"Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+What method would you use to create a subset of database records?,"Filter
+Add
+Get
+Save",Filter,"Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+How do you specify what happens to related objects when an object is deleted?,"Delete foreign key
+delete_related
+Protect
+on_delete ",on_delete ,"Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+Django only requires that model relationships be defined on one side. What is this called?,"Child object
+Forward access
+Singular access
+ Related object",Forward access,"Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+What are the key elements of a Hybrid Multicloud strategy? Select two.,"For seamless working, it is recommended that if you’re subscribed to the infrastructure services of a cloud provider, you should subscribe to the application services provided by the same vendor. 
+Embraces a mix of cloud models and services as long as they are from the same cloud service provider 
+Allows you to leverage the best of cloud models and services across different cloud providers so that your applications and workloads work seamlessly across multiple clouds 
+Connects an organization’s on-premise private cloud and third-party public cloud into a single infrastructure ","Allows you to leverage the best of cloud models and services across different cloud providers so that your applications and workloads work seamlessly across multiple clouds 
+Connects an organization’s on-premise private cloud and third-party public cloud into a single infrastructure ","Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What are some of the benefits of using microservices architecture? Select two.,"Components facing varied amounts of load can be scaled independently 
+Application components can be developed and updated independently of each other 
+Each microservice of an application needs to use the same stack and runtime environment 
+Each line of code for a microservice needs to be written from scratch","Components facing varied amounts of load can be scaled independently 
+Application components can be developed and updated independently of each other ","Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+Serverless might not be the best fit for all applications or scenarios. Which of these attributes qualify an application for a serverless architecture?,"Microservices that can be built as functions that are stateless 
+Workloads and applications that may be spread across multiple cloud environments and cloud vendors 
+Workloads characterized by long-running processes 
+Low-latency applications ",Microservices that can be built as functions that are stateless ,"Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What are the characteristics of a cloud native application?,"Collection of microservices working together as a whole to comprise an application 
+Collection of microservices with tightly coupled UI, business logic layer, and data layer 
+Collection of microservices that need to be scaled and updated in relation to each other 
+Collection of microservices that are built as one huge piece of software",Collection of microservices working together as a whole to comprise an application ,"Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+"DevOps’ tools, practices, and processes are helping tackle some of the complexities and challenges posed by the cloud. Identify two ways in which DevOps is mitigating these challenges.","By fully automating the infrastructure installation process in a way that is documented, repeatable, verifiable, and traceable 
+DevOps best practices eliminate the need to provision servers, build middleware, and install application code 
+By creating an automated deployment pipeline
+DevOps processes outline the development principles that need to be followed to modernize monolithic applications to cloud native applications ","By fully automating the infrastructure installation process in a way that is documented, repeatable, verifiable, and traceable 
+By creating an automated deployment pipeline","Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+Cloud adoption is an integral part of application modernization. What are the other two important components of modernization?,"Microservices and DevOps 
+VMs and Agile Methodology
+Service Oriented Architecture and Waterfall Methodology
+Monolithic Architectures and Physical Servers ",Microservices and DevOps ,"Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+One of the key characteristics of Hybrid Multicloud is portability. What does portability mean in the context of Hybrid Cloud?,"Distributing a single application across multiple providers allowing you to move application components across cloud services and vendors as needed 
+A workload running on the private cloud can leverage the additional public cloud capacity when there is a spike in demand 
+The flexibility to move applications and data between systems and cloud service providers 
+The public and private cloud services can understand each other’s APIs, data formats, forms of authentication and authorization ",The flexibility to move applications and data between systems and cloud service providers ,"Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What is an attribute that distinguishes serverless computing from other compute models? ,"In the serverless computing environment, resources cannot be scaled up or down 
+The serverless model requires no provisioning of servers, installation of application stacks, or operation of the infrastructure by the users/developers 
+Serverless computing does not require any underlying servers for executing workloads 
+End users pay for resources as long as they are running, even if idle ","The serverless model requires no provisioning of servers, installation of application stacks, or operation of the infrastructure by the users/developers ","Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+Which one of these statements is NOT true of a microservices architecture approach?,"Developers can leverage the vast amounts of code already available as the base of an application, eliminating the need to develop code from scratch
+Microservices find one another using service discovery, which creates a roadmap for microservices to communicate 
+Microservices breakdown large applications into their core functions to create a fully functional application
+When one of the microservices of an application stops to function, it disrupts the functioning of the complete application ","When one of the microservices of an application stops to function, it disrupts the functioning of the complete application ","Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+Which one of the following statements does NOT describe the DevOps approach and process? ,"Defines how people work together to build, deploy, and manage applications in a cloud native environment 
+Uses automated tools to monitor the performance and availability of their applications 
+Eliminates the need to provision servers, build middleware, and install application code
+A collaborative approach where business owners and development, operations, and quality assurance teams collaborate to deliver software continuously ","Eliminates the need to provision servers, build middleware, and install application code","Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What happens if you make a change on a repository branch that you don't own?,"GitHub issues a push request for the owner.
+GitHub makes a pull request.
+GitHub generates an error message.
+GitHub undoes the changes.",GitHub makes a pull request.,"Graded Quiz: GitHub Workflows with Branches and Git Commands
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 18, 11:59 PM +07"
+You need to run three commands to push local changes to the GitHub repository. What is the third command?,"git-add
+git-commit -m
+git-push
+git-remove -v",git-push,"Graded Quiz: GitHub Workflows with Branches and Git Commands
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 18, 11:59 PM +07"
+What are three commonly used commands for working with remote repositories?,"open, close, send
+push, pull, fetch
+open, edit, push
+create, delete, copy","push, pull, fetch","Graded Quiz: GitHub Workflows with Branches and Git Commands
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 18, 11:59 PM +07"
+"When managing forks, which command can you use to fetch and merge the remote branch in a single step?","git-fetch upstream
+git-merge upstream/master
+git-pull downstream
+git-pull upstream",git-pull upstream,"Graded Quiz: GitHub Workflows with Branches and Git Commands
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 18, 11:59 PM +07"
+Which command can a repository administrator use to allow anonymous downloads from repositories?,"git-rerere
+git-daemon
+git-shell
+git-am",git-daemon,"Graded Quiz: GitHub Workflows with Branches and Git Commands
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 18, 11:59 PM +07"
+What is EcmaScript or ES?,"A regulated name for JSON
+A standardized name for JavaScript
+A communication standard
+A programming organization",A standardized name for JavaScript,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which feature in E6 limits the scope of variables? ,"let
+Arrow functions
+promise
+const",let,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What is the state of a promise object when the operation executes successfully?,"Pending
+Constant 
+End
+Fulfilled",Fulfilled,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+React is an open-source library created and maintained by Facebook and community developers. What is it mainly used to build?,"Complex UIs
+Accessibility messages
+AI questions
+Error messages",Complex UIs,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Facebook provides the Create React App to simplify creating React apps. What must be installed in order to run npx create-react-app with the name of the app you want to create?,"Facebook
+The XML editor
+Node.js
+JavaScript",Node.js,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"Functional components are most useful when the component has properties, but what is the restriction?","Properties can't be passed as parameters to the function. 
+Properties can't have uppercase characters.
+Properties can't be user defined.
+The component lifecycle does not require management. ",The component lifecycle does not require management. ,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What makes class components more preferable than functional components?,"Simplicity 
+Versatility
+Rigidity 
+Definition ",Versatility,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"In the Working with React Components video, what does the incrementCounter method do in the React app?","Updates a state so a component is rendered again 
+Stops the application
+Passes a value to the GUI
+Routes a command through a component ",Updates a state so a component is rendered again ,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What is the benefit of using the JSX transformation step in HTML?,"Browser understands JSX
+Can be parsed by a JavaScript engine 
+ Converts HTML tags into React elements
+Helpful as a visual aid ", Converts HTML tags into React elements,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following features can be implemented using React Hook in functional components?,"Logic
+Event 
+Props
+Lifecycle methods ",Lifecycle methods ,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Each Cloud Region can have multiple Zones (also known as Availability Zones). What are Zones?,"Single shared point of failure 
+Geographic area or region where cloud provider’s infrastructure is clustered
+Unique physical locations with one or more data centers 
+Standardized containers of computing resources",Unique physical locations with one or more data centers ,"Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"Is it possible to run completely different operating systems on Virtual Machines (VMs) that are on a single host? If yes, what makes this possible?","No, it is not possible—VMs are software-based versions of a single host. They cannot have different environments from one another. 
+No, it is not possible—A single host can only work as one single virtual environment, and can, therefore, have only one environment. 
+Yes, Virtualization makes it possible— to have VMs, running different operating systems, on a single host. 
+Yes, Containerization makes it possible—to have VMs that are unique physical entities, so you can have completely different Operating Systems on them. ","Yes, Virtualization makes it possible— to have VMs, running different operating systems, on a single host. ","Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Which of the following are examples of single-tenant compute environments in the Cloud? Select two.,"Transient virtual servers 
+Bare Metal servers
+Reserved virtual server 
+Dedicated host ","Bare Metal servers
+Dedicated host ","Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"Which of these scenarios is ideal for the use of bare metal servers, as opposed to virtual servers? Select two.","CPU and I/O intensive workloads
+Workloads that require limited throughput and performance 
+Huge performance and strict security and compliance requirements 
+Low cost to use ","CPU and I/O intensive workloads
+Huge performance and strict security and compliance requirements ","Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What are some key differences between Containers and Virtual Machines? Select two.,"Even though each container uses the same OS as the host OS, it still needs to have its own copy of the OS, while a virtual machine leverages the resources of the host OS 
+Containers are executable units of software while each virtual machine is a distinct physical entity 
+Containers are more lightweight as compared to virtual machines 
+Containers can use the same OS as the host, while a virtual machine needs its own copy of the OS, which can also be different from the host OS ","Containers are more lightweight as compared to virtual machines 
+Containers can use the same OS as the host, while a virtual machine needs its own copy of the OS, which can also be different from the host OS ","Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+There are four types of cloud storage available. Which storage type is ephemeral or non-persistent?,"Direct Attached storage
+File storage 
+Block storage 
+Object storage ",Direct Attached storage,"Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What makes File storage an ideal solution for scenarios where shared storage is needed?,"File storage can be mounted on multiple compute nodes at the same time 
+Mounted from remote storage appliances 
+Its consistently high speed 
+File Storage is mounted to compute nodes via an ethernet network",File storage can be mounted on multiple compute nodes at the same time ,"Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Which of these scenarios are best suited for Block Storage? Select two.,"Low cost is a consideration
+Applications that need consistent fast access to disk, such as databases 
+Workloads that need low-latency storage
+Workloads that need disk sharing between compute nodes ","Applications that need consistent fast access to disk, such as databases 
+Workloads that need low-latency storage","Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Which of these are features of Object Storage? Select two.,"Object storage is effectively infinite 
+Storage is attached to compute nodes using a fibre network
+Object Storage can be mounted on multiple compute nodes via an ethernet network 
+You can directly use Object Storage without attaching it to a compute node","Object storage is effectively infinite 
+You can directly use Object Storage without attaching it to a compute node","Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What is the main benefit of a Content Delivery Network (CDN)?,"Enhanced control over network traffic by routing traffic to specified resources 
+Speed, it makes your website faster by serving files from a location closer to the user. 
+Distribute tasks, workloads, and network traffic
+Network topology ","Speed, it makes your website faster by serving files from a location closer to the user. ","Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What else does the Django template contain besides Python code?,"Static HTML elements
+Markdown elements
+XML elements
+Dynamic HTML elements",Static HTML elements,"Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Three files are created by Django after you've created a project. Which of these files is a command-line interface used to interact with the Django project?,"settings.py
+manage.py
+urls.py 
+access.py",manage.py,"Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+"For the onlinecourse example, when registering the course and instructor models in the Django admin site, you would write and run ""admin.site.register(Course)"" and what other code statements?","admin.site.register(Superuser)
+admin.site.register(App) 
+admin.site.register(Instructor)
+admin.site.register(Admin)",admin.site.register(Instructor),"Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+"When you map a URL to the course view, what file do you add path objects to?","manage.py
+config.py
+settings.py 
+urls.py",urls.py,"Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+"Django template files display content, such as course names and descriptions. How is the content displayed?","Markdown
+Plain text
+XML
+HTML",HTML,"Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which is one of the differences between the Django MVT and the MVC design pattern?,"The Django framework or Django server itself acts as controller
+MVC has a Model
+There is no difference
+MVT has a View",The Django framework or Django server itself acts as controller,"Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+What two development tasks need to be performed to manage and determine which data will be presented to the UI?,"Control the project
+Model data and create views
+Access data and build tables
+Sort data and sort views",Model data and create views,"Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which command is used in the Django Admin video to start the server?,"python manage.py startserver
+ python manage.py run
+python manage.py runserver
+python manage.py startDjango",python manage.py runserver,"Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+"Django functions, like View, accept arguments as input and return something. Typically, View needs an HTTP request object as the first argument. What does this request object contain?","Python commands
+Django static files
+Read-only HTTP metadata
+Python scripts",Read-only HTTP metadata,"Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Django template file structure sometimes has two files created with the same name. How do you ensure Django points to the correct file?," Add an identifier
+Note the differences
+Name spacing
+Add metadata",Name spacing,"Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+How do you create a ReplicaSet from scratch?,"Use the ‘get pods’ command.
+Apply a YAML file with the ‘kind’ attribute set to ‘ReplicaSet’.
+Use the ‘scale’ command to scale the deployment.
+Apply a JSON file that includes the number of desired replicas.",Apply a YAML file with the ‘kind’ attribute set to ‘ReplicaSet’.,"Module 3 - Graded Quiz: Managing Applications with Kubernetes
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What Kubernetes object adds or deletes pods for scaling and redundancy?,"A Config Map
+A Secret
+A ReplicaSet
+A DaemonSet",A ReplicaSet,"Module 3 - Graded Quiz: Managing Applications with Kubernetes
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Which Kubernetes autoscaler type scales the Cluster?,"Vertical Pod Autoscaler (VPA)
+You cannot autoscale a Kubernetes Cluster.
+Horizontal Pod Autoscaler (HPA)
+Cluster Autoscaler (CA)",Cluster Autoscaler (CA),"Module 3 - Graded Quiz: Managing Applications with Kubernetes
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+How do you prepare your application to enable rolling updates?,"Add liveness and readiness probes to deployments.
+Use autoscaling.
+Set the maxSurge to 50%.
+Set the maxSurge to 100%.",Add liveness and readiness probes to deployments.,"Module 3 - Graded Quiz: Managing Applications with Kubernetes
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Which rolling update types ensure 100% app availability?,"Both all-at-once and one-at-a-time updates and rollbacks ensure 100% app availability.
+All-at-once updates and rollbacks ensure 100% app availability.
+One-at-a-time updates and rollbacks ensure 100% app availability.
+No rolling update types can ensure 100% app availability.",One-at-a-time updates and rollbacks ensure 100% app availability.,"Module 3 - Graded Quiz: Managing Applications with Kubernetes
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What does a ConfigMap do?,"Provides variables for your application
+Provides sensitive information to your application
+Mounts a file using the volumes plugin 
+Verifies that a Secret was created",Provides variables for your application,"Module 3 - Graded Quiz: Managing Applications with Kubernetes
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What are three ways to create a ConfigMap? ,"By providing a ConfigMap YAML descriptor file
+By using string literals
+By using an existing property or ‘key’ = ‘value’ file
+By adding another environment to the deployment descriptor","By providing a ConfigMap YAML descriptor file
+By using string literals
+By using an existing property or ‘key’ = ‘value’ file","Module 3 - Graded Quiz: Managing Applications with Kubernetes
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What are three ways to create a Secret?,"By using volume mounts
+By providing a ConfigMap YAML descriptor file
+By using a string literal 
+By using environment variables ","By using volume mounts
+By using a string literal 
+By using environment variables ","Module 3 - Graded Quiz: Managing Applications with Kubernetes
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What does Service binding do? ,"Manages configuration and credentials for back-end Services while protecting sensitive data
+Provides variables for your application
+Consumes the external Service by binding the application to a deployment
+Makes Service credentials available to you automatically as a Secret",Manages configuration and credentials for back-end Services while protecting sensitive data,"Module 3 - Graded Quiz: Managing Applications with Kubernetes
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What are the three required steps to bind the IBM Cloud Service to your Cluster? ,"Bind the Service to your Cluster to create credentials.
+Provision an instance of the Service.
+Configure your app to access the credentials.
+Erase the credential configuration file after credential setup.","Bind the Service to your Cluster to create credentials.
+Provision an instance of the Service.
+Configure your app to access the credentials.","Module 3 - Graded Quiz: Managing Applications with Kubernetes
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Which of the following statements are correct about databases?,"A database is a repository of data
+There are different types of databases - Relational, Hierarchical, NoSQL, etc.
+A database can be populated with data and be queried 
+All of the above",All of the above,"Graded Quiz: Introduction to Databases
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07"
+A database stores data in tabular form only. True or False?,"True
+False",False,"Graded Quiz: Introduction to Databases
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07"
+"In a library entity-relationship data model, a book is an example of _____ and the book’s title, edition, and publication date are examples of _______.","an entity, attributes
+an attribute, entities
+an entity, properties 
+a row, columns","an entity, attributes","Graded Quiz: Introduction to Databases
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following statements about a database is/are correct?,"A database is a logically coherent collection of data with some inherent meaning
+Data can only be added and queried from a database but not modified
+Only SQL can be used to query data in a database
+All of the above",A database is a logically coherent collection of data with some inherent meaning,"Graded Quiz: Introduction to Databases
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07"
+The primary key of a relational table uniquely identifies each row in a table. True or False?,"True
+False",True,"Graded Quiz: Introduction to Databases
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07"
+What strategy was Red Hat OpenShift designed for?,"A public cloud strategy 
+An on-premises strategy.
+A hybrid-cloud strategy.
+A private cloud strategy. ",A hybrid-cloud strategy.,"Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+Which three statements are true?,"The oc lets you manage projects during restricted bandwidth or availability of the web console. 
+The oc and kubectl binary offer different capabilities. 
+The oc lets you script OpenShift operations. 
+The oc lets you work directly with project source code using command script. ","The oc lets you manage projects during restricted bandwidth or availability of the web console. 
+The oc lets you script OpenShift operations. 
+The oc lets you work directly with project source code using command script. ","Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What are three added features that OpenShift provides?,"Better management through image streams 
+Good networking solutions out of the box
+Better user experience 
+More flexible","Better management through image streams 
+Good networking solutions out of the box
+Better user experience ","Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What are the three Build triggers used in OpenShift?,"ImageStream
+Webhook
+Image change
+Configuration change","Webhook
+Image change
+Configuration change","Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What are the two features of an ImageStream?,"Provides a trigger capability when a new version of an image is available
+Provides content for Builds
+Creates and updates container images
+Stores images","Provides a trigger capability when a new version of an image is available
+Creates and updates container images","Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What three processes are performed by the Operator Framework tool set?,"Package
+Coding 
+Testing
+Building","Package
+Coding 
+Testing","Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What are the three features of Custom Resource Definitions (CRDs)?,"Can be engaged with kubectl
+Control the install, upgrade, and role-based access control (RBAC) of Operators in a cluster
+Extend Kubernetes functionality
+Make Kubernetes API more modular","Can be engaged with kubectl
+Extend Kubernetes functionality
+Make Kubernetes API more modular","Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+"What packages, deploys, and manages native apps in Kubernetes?","An Operator 
+A Deployment
+A ReplicaSet
+ A Container",An Operator ,"Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+"In Istio, what handles communication between services?","The proxy server
+The control plane
+The data plane
+Environmental changes ",The data plane,"Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What provides traffic management to control the flow of traffic between Services?,"Kubectl
+An autoscaler
+A container
+A service mesh",A service mesh,"Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07"
+What is a State?,"A component’s render function that returns data about an attribute 
+An object that contains information about the component
+A parent component function that takes a string argument 
+A piece of software that passes data between React components ",An object that contains information about the component,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What is used to pass data between React components?,"HTML attribute 
+Shared state 
+Prop
+Local state ",Prop,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What do you use to pass data from child components to parent components?,"State 
+Callback
+Method 
+Render ",Callback,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+When does a component lifecycle start?,"When components are created or mounted on the DOM 
+When a user clicks the mouse or presses the keyboard 
+When the state of the component first changes 
+When the component is removed from the DOM ",When components are created or mounted on the DOM ,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What do you use to pass data from parent components to child components?,"Method 
+State 
+Callback
+Prop",Prop,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which function is invoked right after the component is mounted on the DOM?,"componentDidMount 
+Render
+componentWillMount 
+componentWillUnmount ",componentDidMount ,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What do you use to make a call to an external server asynchronous?,"Props
+Promises
+State 
+Method",Promises,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What does the postDataToServer method do?,"Requests all objects in the usercollection destination 
+Sets a component with a user state to “None Logged In” 
+Sends the data to the server and updates the response from the server to the component’s state completionStatus 
+Creates a JSON object and pushes it into the usercollection array ",Sends the data to the server and updates the response from the server to the component’s state completionStatus ,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What are the phases of a component test?,"Query, Run, Resolve 
+Arrange, Act, and Assert
+Begin, Revise, Complete 
+Chai, Sinon, and Mocha ","Arrange, Act, and Assert","Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What are the two testing approaches?,"Component and end-to-end 
+Mocha and Chai 
+Simulated and authenticated 
+Regression and event ",Component and end-to-end ,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which of the following does NOT represent one of the three main Cloud Service Models referred to in the course?,"SaaS
+IaaS
+CaaS
+PaaS",CaaS,"Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which one of the provided options is true for Infrastructure-as-a-Service?,"Cloud provider manages the physical resources, operating systems, development tools, databases, and business analytics
+Cloud provider configures the infrastructure which is managed and maintained by the user/customer organization
+Cloud provider owns, manages, and maintains the physical resources
+Cloud provider manages the physical resources, the platform resources, applications, and data","Cloud provider owns, manages, and maintains the physical resources","Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which are some of the key components of cloud Infrastructure-as-a-Service? Select two.,"IaaS providers manage the hypervisors and end-users provision the virtual instances
+IaaS providers deploy the middleware and install required applications on the virtual machines
+IaaS providers manage the hypervisors and provision virtual instances
+IaaS providers manage large data centers that contain the physical machines required to power the various layers of abstraction on top of them","IaaS providers manage the hypervisors and end-users provision the virtual instances
+IaaS providers manage large data centers that contain the physical machines required to power the various layers of abstraction on top of them","Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which of the following are essential characteristics of Platform-as-a-Service? Select two.,"PaaS clouds provide services and APIs that help developers deliver elastically scalable and highly available cloud applications
+In a PaaS model, the provider also takes responsibility for the application code and its maintenance
+PaaS offerings support middleware capabilities that assists developers by reducing the amount of code that must be written to expand the application’s functional capabilities
+Organizations who opt for PaaS still need to configure supporting technologies such as load balancers and databases","PaaS clouds provide services and APIs that help developers deliver elastically scalable and highly available cloud applications
+PaaS offerings support middleware capabilities that assists developers by reducing the amount of code that must be written to expand the application’s functional capabilities","Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which one of the following is a key characteristic of Software-as-a-Service?,"SaaS services do not provide options for user customization
+Security, compliance, and maintenance of the software are the responsibilities of the user
+Ensure every user has access to the same, centrally located, infrastructure and application code
+Single tenant architecture","Ensure every user has access to the same, centrally located, infrastructure and application code","Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which of these statements is a characteristic of Public Clouds? ,"Resources are assigned as per estimated need decided at the time of subscribing for the service
+A public cloud provides a dedicated pool of resources to each of its multiple users
+The cloud provider provisions the resources and services as needed by individual users
+A public cloud is a virtualized multi-tenant architecture",A public cloud is a virtualized multi-tenant architecture,"Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which of the following statements is NOT a correct statement about Private clouds?,"Private Clouds can be implemented internally or externally
+Private Clouds are suitable for workloads that require maximum control and security
+Private clouds can only be deployed on-premise, in an organization’s own datacenter
+VPC is an example of a type of Private Cloud","Private clouds can only be deployed on-premise, in an organization’s own datacenter","Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which of these statements are true of Virtual Private Clouds (VPCs)? Select two.,"The VPC infrastructure is owned, managed, and operated by the public cloud service provider
+VPCs are provisioned in a logically isolated part of a shared public cloud
+VPCs may be provisioned over a cloud service provider’s infrastructure, but the infrastructure is owned, managed, and operated by the enterprise
+VPC allows all users of the shared public cloud to access resources in the VPC on need basis; it also allows users of the VPC to access resources of the public cloud","The VPC infrastructure is owned, managed, and operated by the public cloud service provider
+VPCs are provisioned in a logically isolated part of a shared public cloud","Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"If an organization needs to run a highly sensitive and mission critical application with unpredictable performance and capacity requirements, which of the following models would best meet its requirements?","Hybrid Cloud
+Private Cloud
+Public Cloud
+On-premise Data Centers",Hybrid Cloud,"Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which of the following statements about Hybrid Cloud is NOT correct?,"Hybrid clouds are only suitable for workloads involving Infrastructure-as-a-Service
+Hybrid clouds can prevent lock-in to a single Cloud Provider
+Hybrid cloud is a computing environment that connects an organization's on-premise private cloud and third-party public cloud into a single flexible infrastructure
+Hybrid Clouds allow organizations to leverage the additional public cloud capacity when a workload running on the private cloud has a spike in demand",Hybrid clouds are only suitable for workloads involving Infrastructure-as-a-Service,"Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Django class-based view needs to be mapped with a URL pattern, almost like configuring the URL for the function-based view. The only difference is you need to specify:","The as_config function
+The as_class method
+The view_base method
+The as_view function",The as_view function,"Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+"Username and password can be received from a user via a login HTML template. Which HTTP method is used to sent username/password to the onlinecourse login view, in order to authenticate the user?","GET request
+DELETE request 
+POST request 
+ None of the above",POST request ,"Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+"In the Django Bootstrap video, a course index page is designed that contains courses represented as cards. The multiple course cards are then added to a container. How are the multiple course cards managed?","Shuffled 
+Added to a table
+Wrapped in a card deck
+Placed in a list",Wrapped in a card deck,"Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+Django provides a default staticfiles app that collects all static files in a single directory. You can move all static files to this directory when you deploy your app to a production web server. There are several steps to do this. What call do you make in the last step?,"STATIC_ROOT
+Run ‘collectstatic’ command line
+STATIC_URL
+Run “importstatic” command line",Run ‘collectstatic’ command line,"Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+ASGI is another web server interface that Django apps support. What is the main difference between WSGI and ASGI?,"ASGI supports Python
+ ASGI supports asynchronous code
+There is no difference
+WSGI supports Python", ASGI supports asynchronous code,"Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+Which type of view was created to address view extensibility and reusability?,"Function-based view
+Class-based view
+Method-based view
+HTTP-based view",Class-based view,"Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+"Does authorization occur before, after, or during the authentication process?","During authentication
+Before authentication
+Authentication doesn't affect authorization
+After authentication",After authentication,"Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+How can you use Bootstrap CSS style classes without manually downloading and importing it?,"Link to the Bootstrap web page before you develop your webpage
+Add a link to the latest Bootstrap version into the head element of your HTML template 
+Copy & paste the CSS style classes
+You must download Bootstrap",Add a link to the latest Bootstrap version into the head element of your HTML template ,"Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+"Django apps can have app-specific static files but can also have external static files. Where do you define the directories for external static files, so you can find them?","In the STATICFILES_DIRS list in settings.py file
+In the PROPERTIES list in manage.py
+In STATIC list in manage.py file
+In EX_DIRS list in settings.py file",In the STATICFILES_DIRS list in settings.py file,"Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+WSGI is the main Python standard for communicating between web servers and applications. To make Django apps work with WSGI the startproject command line creates a file that declares an application callable by default. What is this file named?,"sgi.py
+giws.py
+django.py
+wsgi.py",wsgi.py,"Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07"
+Do containers have to be on a specific operating system or platform?,"No, containers work on many types of operating systems and platforms.
+Yes, containers only work on Linux-based operating systems and platforms.
+Yes, containers only work on Windows-based operating systems and platforms.
+No, containers don’t run on operating systems or platforms.","No, containers work on many types of operating systems and platforms.","Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+How are digital containers like shipping containers?,"Digital containers must be welded to computer motherboards, just like shipping containers must be welded.
+Both digital and shipping containers have to travel internationally.
+Digital containers are not like shipping containers.
+Container size and specs are standardized, which makes them easier to move around.","Container size and specs are standardized, which makes them easier to move around.","Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What applications are a good fit for Docker?,"Applications that require flexible scaling and portability 
+Applications with rich GUI features
+Applications that need a lot of security
+Applications with high performance requirements",Applications that require flexible scaling and portability ,"Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What are three parts of Docker’s underlying technology? ,"Linux kernel features
+GitHub
+Namespaces
+The Go programming language","Linux kernel features
+Namespaces
+The Go programming language","Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What Docker features create a container image?,"The image command and a Dockerfile
+The run command and a Dockerfile
+The build command and a Dockerfile
+The copy command and an existing image",The build command and a Dockerfile,"Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What are the steps used to create and run containers?,"Create a Dockerfile and use it with the pull command to create a running container.
+Create a Dockerfile, use it to create a container image, and then use the container image to create a running container.
+Create a container image, use it to create a Dockerfile, and then use the Dockerfile to create a running container.
+Input the container image name and tag.","Create a Dockerfile, use it to create a container image, and then use the container image to create a running container.","Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What is the function of the Docker ‘run’ command?,"Creates a container from an image
+Lists all images, repositories, tags, and sizes
+Stores images in a configured registry
+Retrieves images from a configured registry",Creates a container from an image,"Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What is a Docker container?,"A read-only template
+A method of isolating communication
+A persistent set of data that can be transferred
+A runnable instance of an image",A runnable instance of an image,"Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What are volumes and bind mounts used for in Docker?,"Persisting data
+Erasing data
+Isolating communication
+Connecting to external storage platforms",Persisting data,"Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What does the Docker client-server architecture provide?,"Cloud storage
+Code checking
+An application environment
+A communication channel",An application environment,"Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which is an advantage of using Hooks in a React application?,"Code used to write Hooks is complicated
+Hooks enable you to write a functional component without state 
+Hooks can only be called inside React function components 
+You can handle events and logics in functional components without using classes",You can handle events and logics in functional components without using classes,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Which standard Hook is used to manage Redux state changes?,"useReducer
+useState
+useContext
+useEffect",useReducer,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What is a characteristic of an uncontrolled input?,"Props take current value and notify changes 
+A parent component controls the changes
+Allows the browser to handle most of the form elements 
+Functions govern passing of data ",Allows the browser to handle most of the form elements ,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What helps developers in developing a React application using Redux?,"Redux enhances the state prediction factor 
+Redux reloads the whole page when state changes  
+In Redux, individual components handle their own state 
+Redux helps in creating user interface elements",Redux enhances the state prediction factor ,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+In which application scenarios is Redux used?,"Big application where state needs to be managed
+In an application where all props associated to a component are utilized
+Only in local applications to manage state of components
+In applications with single state mapping to a single container component",Big application where state needs to be managed,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What are Actions?,"An object that updates the store 
+An object that performs changes to the application state
+An object that contains the current Redux application state 
+An object that stores information about the user event",An object that stores information about the user event,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What is the function of the store?,"A Store can dispatch and receive actions 
+A store can perform any changes to the application state 
+A store contains a type field
+A store describes what happened ",A Store can dispatch and receive actions ,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Why is middleware required in Redux React applications?,"To restore the synchronous data flow 
+To use asynchronous operations
+To make actions faster
+To compute the new state",To use asynchronous operations,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Which middleware uses ES6 Generators to enable async operations?,"Thunk
+Promise-based
+Async/Await
+Saga",Saga,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Which element in the Redux data flow generates the modified state based on the dispatched action?,"Reducer 
+UI
+Store
+Action creator",Reducer ,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Which phase of the Twelve-Factor Methodology contains Port binding?,"Configure
+Code
+Deploy
+Operate",Deploy,"Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What makes an application concurrent?,"It should have a minimal process start time
+It should contain the same backend services across environments
+It should store config in environment variables
+It should be stateless",It should be stateless,"Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"In a microservice architecture, you should","Use a different technology stack for each service
+Create interdependency among services
+Scale all services together
+Deploy all services together",Use a different technology stack for each service,"Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"Select the correct answer that completes this sentence: 
+
+Monolith application has __________ components. ","Scalable
+Interconnected
+Independent
+Reusable",Interconnected,"Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which component of services design in an SOA architecture defines how the service provider and service consumer should interact?,"Implementation
+ Interface
+Contract
+Own storage",Contract,"Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What is the purpose of Backend For Frontend?,"Refactoring in stages
+Service discovery
+Loading one interface that never reloads
+Customized user experiences",Customized user experiences,"Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What is the purpose of the Strangler pattern?,"Supports refactoring in stages
+Simplifies the front-end experience
+Combine functional domains
+Helps with third-party API integrations",Supports refactoring in stages,"Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Larger services should be broken into smaller services when:,"Common data model becomes overly complex
+Automation is required
+Functional reusability is required
+Refactoring is required",Common data model becomes overly complex,"Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What is the requirement of Microservices?,"Manual deployment process
+Independent storage
+Its own implementation of auxiliary services like loggings, security, throttling, and so on
+Coarse-grained functionality",Independent storage,"Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What is the requirement of a development and production environment?,"Different dependencies
+Different source control
+Similar backing services across the environments.
+Embedded access details in code",Similar backing services across the environments.,"Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What is the correct syntax for inserting data into a table named Members?,"INSERT INTO MEMBERS
+
+           (MEMBER_ID, LASTNAME, FIRSTNAME)
+
+      VALUES (MEMBER_ID is 345DT2000, LASTNAME is Smith, FIRSTNAME is Charles)
+INSERT INTO MEMBERS 
+
+           (MEMBER_ID, LASTNAME, FIRSTNAME) 
+
+     VALUES (‘1432’, ‘Smith’, ‘Charles’) 
+INSERT INTO MEMBERS 
+
+           (MEMBER_ID, LASTNAME, FIRSTNAME, OCCUPATION) 
+
+     VALUES (‘1432’, ‘Smith’, ‘Charles’) 
+ INSERT MEMBERS 
+
+           (MEMBER_ID, LASTNAME, FIRSTNAME) 
+
+     VALUES (‘1432’, ‘Smith’, ‘Charles’)","INSERT INTO MEMBERS 
+
+           (MEMBER_ID, LASTNAME, FIRSTNAME) 
+
+     VALUES (‘1432’, ‘Smith’, ‘Charles’) ","Graded Quiz: Basic SQL Statements
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07"
+"When using the DELETE statement to remove data from a database, what does the WHERE clause do?","It specifies where to find the data to delete, by column number and row number.
+It specifies the server where the database is located. 
+It indicates the condition under which the data should be deleted; for example, which rows should have their contents deleted. 
+It limits the amount of data that is deleted to a certain number of characters.","It indicates the condition under which the data should be deleted; for example, which rows should have their contents deleted. ","Graded Quiz: Basic SQL Statements
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07"
+A single INSERT statement can be used to insert multiple rows in a table. True or False?,"True
+False",True,"Graded Quiz: Basic SQL Statements
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07"
+Which SELECT statement eliminates duplicates in the result set?,"SELECT country FROM author ORDER BY 1
+SELECT DISTINCT(country) FROM author
+SELECT country FROM author LIMIT DUPLICATES
+None of the above  ",SELECT DISTINCT(country) FROM author,"Graded Quiz: Basic SQL Statements
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07"
+"The SELECT statement is called a query, and the output we get from executing the query is called a result set. True or False?","True
+False",True,"Graded Quiz: Basic SQL Statements
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following is a back-end technology?,"CSS
+HTML
+Web API
+Browser",Web API,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07"
+What quality makes it possible for you to run JavaScript applications without compiling?,"JavaScript is an interpreted language.
+All modern browsers support JavaScript.
+You can use a text editor to develop JavaScript applications.
+The language syntax resembles Java.",JavaScript is an interpreted language.,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following applications intercepts the call when JavaScript sends a web service request to the Node.js server?,"Enterprise Java
+JSON
+REST Web Service
+CSS",REST Web Service,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following is a difference between ES and CommonJS modules?,"CommonJS is a JavaScript language whereas ES is a module specification
+CommonJS modules are written in JavaScript whereas ES modules are not
+CommonJS module files use a .mjs extension whereas ES modules use .js
+ ES modules use the import() statement whereas CommonJS modules use require().  ", ES modules use the import() statement whereas CommonJS modules use require().  ,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07"
+How do you handle operation results with Node.js?,"Use blocking on asynchronous I/O operations
+Specify a relative path to the Node.js script from the module directory
+Create an instance of a web server application
+Write callback functions to handle results when the operations complete",Write callback functions to handle results when the operations complete,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07"
+What do you use the http.createServer function for?,"To develop an anonymous function to handle requests and responses
+To specify a main script for your module
+To import a Node.js module
+To create an instance of a web server",To create an instance of a web server,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07"
+Which core Node.js module can be used for input and output (I/O)?,"fs
+URL
+util
+http",fs,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07"
+Which is an aspect of Node Package Manager (NPM)?,"It manages the versioning of source code
+It creates a package.json file in the project’s root directory
+It writes metadata to a package.json file
+It functions as a command line interface for installing packages",It functions as a command line interface for installing packages,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07"
+What do you use the require function for?,"To develop an anonymous function to handle requests and responses
+To create an instance of a web server
+To specify a main script for your module
+To import a Node.js module",To import a Node.js module,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07"
+What happens when a module does not have a package.json file?,"Node.js assumes that the main class is named index.js.
+The require statement assumes that scripts have a file extension of js.
+The relative path to the Node.js script changes to an absolute path from the module directory.
+There is no module manifest.",Node.js assumes that the main class is named index.js.,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 11, 11:59 PM +07"
+"Which of the following ways of applying CSS has the highest priority, and will override the other ways? ","An external CSS file
+Whichever way is specified in the HTML markup
+Inline CSS, placed directly in each HTML element
+Internal CSS, applied within the “<style>” attribute in HTML markup","Inline CSS, placed directly in each HTML element","Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Select all of the following which are true in describing a fluid and/or fixed layout.,"Fluid layouts should always be used when designing a website
+Elements in a fluidlayout have flexible widths and heights
+A fixed layoutspecifies element sizes using percentages
+Fixed layouts are independent of screen sizes, and their values do not change","Elements in a fluidlayout have flexible widths and heights
+Fixed layouts are independent of screen sizes, and their values do not change","Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which of the following tags define a caption for a < fieldset > element? ,"<legend>
+<title>
+<label>
+<caption>",<legend>,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+What is a modifier?,"A method used to modify CSS styling applied to an HTML element
+A type of button which allows you to modify content in a form
+A special class modifies the appearance of elements by applying a CSS attribute based on the condition described
+The term used to refer to a JavaScript class which updates content on a webpage",A special class modifies the appearance of elements by applying a CSS attribute based on the condition described,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which semantic tag is used to display any content which is indirectlyrelated to the main content of the document?,"<article>
+<section>
+<details>
+<aside>",<aside>,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which type of input control would be most apt for selecting heightin a form?,"number
+range
+list
+tel",number,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which of the following is a disadvantage of a Component Framework?,"Download size of HTML markup is increased
+It is more difficult to maintain a uniform style throughout the website
+Components are limited only to what the framework provides
+HTML markup is more verbose since styles are mixed with content",Components are limited only to what the framework provides,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+"Which tag is used to represent an independent item of content in a document, which can be meaningful on its own? ","<div>
+<article>
+<details>
+<section>",<article>,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which element defines a caption for the <figure> element? ,"<label> 
+<title> 
+<figcaption> 
+<legend> ",<figcaption> ,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which type of input control can be used to accept only numbers in a form? ,"integer
+number
+tel
+digit",number,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Have you created a superuser for your Django Admin site? ,"Yes
+No",Yes,"User Management Checklist
+
+Graded Quiz
+.
+ • 16 min
+
+DueJun 18, 11:59 PM +07"
+Have you added the user login/logout and signup menu items to the navigation bar? ,"Yes
+No",Yes,"User Management Checklist
+
+Graded Quiz
+.
+ • 16 min
+
+DueJun 18, 11:59 PM +07"
+Have you added a login view to handle login request? ,"Yes
+No",Yes,"User Management Checklist
+
+Graded Quiz
+.
+ • 16 min
+
+DueJun 18, 11:59 PM +07"
+Have you added a logout view to handle logout request? ,"Yes
+No",Yes,"User Management Checklist
+
+Graded Quiz
+.
+ • 16 min
+
+DueJun 18, 11:59 PM +07"
+Have you added a signup Django template? ,"Yes
+No",Yes,"User Management Checklist
+
+Graded Quiz
+.
+ • 16 min
+
+DueJun 18, 11:59 PM +07"
+Have you added a signup view to handle signup request? ,"Yes
+No",Yes,"User Management Checklist
+
+Graded Quiz
+.
+ • 16 min
+
+DueJun 18, 11:59 PM +07"
+Have you added CI/CD to your project using GitHub actions? ,"Yes
+No",Yes,"User Management Checklist
+
+Graded Quiz
+.
+ • 16 min
+
+DueJun 18, 11:59 PM +07"
+Have you run code linting and explored its results? ,"Yes
+No",Yes,"User Management Checklist
+
+Graded Quiz
+.
+ • 16 min
+
+DueJun 18, 11:59 PM +07"
+"Consider the tuple A=((1),[2,3],[4]), that contains a tuple and list. What is the result of the following operation A[2] ?","[4]
+[2,3]
+1",[4],"Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Consider the tuple A=((11,12),[21,22]), that contains a tuple and list. What is the result of the following operation A[0][1]?","21
+11
+12",12,"Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+The method append does the following:,"adds one element to a list
+merges two lists or insert multiple elements to a list ",adds one element to a list,"Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Consider the following list : A=[""hard rock"",10,1.2]
+
+What will list A contain after the following command is run: del(A[0]) ?","[10,1.2]
+[""hard rock"",10,1.2]
+[""hard rock"",10]","[10,1.2]","Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+If A is a list what does the following syntax do: B=A[:] ?,"assigns list A to list B
+variable B references a new copy or clone of the original list A",variable B references a new copy or clone of the original list A,"Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"What is the result of the following: len((""disco"",10)) ?","2
+6
+5",2,"Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Consider the following dictionary:
+
+{ ""The Bodyguard"":""1992"", ""Saturday Night Fever"":""1977""}
+
+select  the values","""1977""
+""1992""
+""The Bodyguard""
+ ""Saturday Night Fever""","""1977""
+""1992""","Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"The variable  release_year_dict is a Python Dictionary, what is the result of applying the following method: release_year_dict.keys() ?","retrieve the keys of the dictionary
+ retrieves, the values of the dictionary ",retrieve the keys of the dictionary,"Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Consider the Set: V={'A','B'}, what is the result of V.add('C')?","{'A','B'}
+{'A','B','C'}
+error ","{'A','B','C'}","Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"What is the result of the following: '1' in {'1','2'} ?","False
+True",True,"Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+When slicing in Python what does the “0” in this statement [0:2] specify?,"It specifies the step of the slicing
+It specifies the position to start the slice
+It specifies the position to end the slice",It specifies the position to start the slice,"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+If var = “01234567” what Python statement would print out only the even elements?,"print(var[::1])
+print(var[::3])
+print(var[::2]) ",print(var[::2]) ,"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+"Consider the string Name=”EMILY”, what statement would return the index of 3?","Name.find(""L"")
+Name.find(""Y"")
+Name.find(""M"")","Name.find(""L"")","Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+In Python what data type is used to represent text and not numbers?,"int
+float
+str",str,"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+What is the result of the following code segment: int(3.99),"3.99
+4
+3",3,"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+What following code segment would produce an output of “0”?,"1//2
+1/2",1//2,"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+"In Python 3, what is the type of the variable x after the following: x=2/2 ?","float
+int",float,"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+Whatdata type must have unique keys?,"List
+Dictionary
+Tuple",Dictionary,"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+What is a tuple?,"A collection that is ordered and unchangeable
+A collection that is unordered and changeable
+A collection that is ordered and changeable",A collection that is ordered and unchangeable,"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+"What is the result of the following operation: '1,2,3,4'.split(',') ?","('1','2','3','4')
+'1','2','3','4'
+'1234'
+['1','2','3','4']","['1','2','3','4']","Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+Tuples are:,"Mutable
+Unordered
+Not indexed
+Not mutable",Not mutable,"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+What happens with this segment of code: a=set(A) ?,"It returns an error
+It casts the list “a” to the set “A”
+It casts the list “A” to the set “a”",It casts the list “A” to the set “a”,"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+"If x=1 what will produce the below output?
+
+Hi
+
+Mike","if(x==1): 
+
+print('Hello') 
+
+ else: 
+
+    print('Hi') 
+
+ print('Mike') 
+if(x!=1): 
+
+print('Hello') 
+
+ else: 
+
+    print('Hi') 
+
+ print('Mike') 
+if(x!=1): 
+
+print('Hi') 
+
+ else: 
+
+    print('Hello') 
+
+ print('Mike') ","if(x!=1): 
+
+print('Hello') 
+
+ else: 
+
+    print('Hi') 
+
+ print('Mike') ","Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+What is an error that occurs during the execution of code?,"Finally
+Exception
+Error messages
+Exception handling",Exception,"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+What add function would return ‘2’ ?,"def add(x): return(x+x) add(1) 
+def add(x): return(x+x) add('1') 
+def add(x): return(x+x+x) add('1') ",def add(x): return(x+x) add(1) ,"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+What method organizes the elements in a given list in a specific descending or ascending order?,"join()
+split()
+replace()
+sort()",sort(),"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+"What segment of code would output the following?
+
+3
+
+6
+
+9","A=['1','2','3'] for a in A: print(2*a) 
+A=[1,2,3] for a in A: print(3*a) 
+A=[1,2,3] for a in A: print(2*a) ","A=[1,2,3] for a in A: print(3*a) ","Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+"What code segment would output the following?
+
+2","for i in range(1,5): if (i!=2): print(i)
+for i in range(1,5): if (i==2): print(i)
+for i in range(1,5): if (i!=1): print(i)","for i in range(1,5): if (i==2): print(i)","Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+"Consider the class Rectangle, what are the data attributes?
+
+ class Rectangle(object):
+        def __init__(self,width=2,height =3,color='r'):
+                                  self.height=height
+                                  self.width=width
+                                  self.color=color
+    def drawRectangle(self):
+                       import matplotlib.pyplot as plt
+                       plt.gca().add_patch(plt.Rectangle((0, 0),self.width, self.height ,fc=self.color))
+                       plt.axis('scaled')
+                       plt.show()","drawRectangle
+__init__
+self.height, self.width,self.color","self.height, self.width,self.color","Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+"What is the result of the following lines of code?
+
+ a=np.array([0,1,0,1,0]) b=np.array([1,0,1,0,1]) a+b ","0
+array([1, 1, 1, 1, 1])
+array([0, 0, 0, 0, 0])","array([1, 1, 1, 1, 1])","Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+"What is the result of the following lines of code?
+
+ a=np.array([10,9,8,7,6]) a+1","array([9, 8, 7, 6, 5])
+array([11,10,9,8,7])
+array([101,91,81,71,61])","array([11,10,9,8,7])","Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+"How would you select the columns with the headers: Artist, Length and Genre from the dataframe df and assign them to the variable y ?","y=df['Artist','Length','Genre'] 
+y=df[['Artist','Length','Genre']]
+y=df[['Artist'],['Length'],['Genre']]","y=df[['Artist','Length','Genre']]","Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+What is the method readline() used for?,"It reads the entire file all at once
+It reads 10 lines of a file at a time
+It helps to read one complete line from a given text file",It helps to read one complete line from a given text file,"Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+Which line of code is in the mode of append?,"with open(""Example.txt"",""r"") as file1:
+with open(""Example.txt"",""w"") as file1:
+with open(""Example.txt"",""a"") as file1:","with open(""Example.txt"",""a"") as file1:","Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+What are the 3 parts to a URL?,"Put, route, and get
+Get, post, and scheme
+Scheme, internet address, and route
+Block, post, and route","Scheme, internet address, and route","Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07"
+What are the key characteristics of a RESTful API? Select two answers.,"It works on HTTP
+Unique interface for each component
+Stateless communication between client and server
+One API to access all resources","It works on HTTP
+Stateless communication between client and server","Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What does an API Gateway act as?,"A streaming service
+A firewall to protect your microservices
+A load balancer for your hosted services
+An API management tool",An API management tool,"Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which syntax is used to make an update request to a product REST API?,"GET /products/114?updatedName=Calendar2023
+PUT /products/114/name/Calendar2023
+POST /products (product data in the body)
+PUT /products/114 (product data in the body)",PUT /products/114 (product data in the body),"Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which type of framework is Flask?,"Database
+Micro web
+Frontend
+REST API",Micro web,"Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which one of the following statements is true about communication in a RESTful API?,"Session state is kept entirely on the REST API.
+A request can take advantage of any stored context on the server.
+Each request does not contain all information. 
+Resources are uniquely identified at individual endpoints. ",Resources are uniquely identified at individual endpoints. ,"Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What are the potential drawbacks of an API Gateway? Select two answers.,"Single point of failure
+Bottleneck in scalability
+Exposes the implementation details
+Increases requests to the backend ","Single point of failure
+Bottleneck in scalability","Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which specification is followed by Swagger?,"OpenAPI
+SOA
+WebAPI
+GraphQL",OpenAPI,"Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which cURL command should be used to query a list of products?,"curl -X 'POST' \
+
+ 'http://127.0.0.1:5000/products' \
+
+ -H 'accept: application/json'
+curl -X 'GET' \
+
+ 'http://127.0.0.1:5000/products' \
+
+ -H 'accept: application/json'
+curl -X 'PATCH' \
+
+ 'http://127.0.0.1:5000/products' \
+
+ -H 'accept: application/json'
+curl -X 'PUT' \
+
+ 'http://127.0.0.1:5000/products' \
+
+ -H 'accept: application/json'","curl -X 'GET' \
+
+ 'http://127.0.0.1:5000/products' \
+
+ -H 'accept: application/json'","Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which HTTP method is used to create new data in a REST API?,"POST
+PUT
+UPDATE
+PATCH",POST,"Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What is the purpose of Postman?,"Uniform interface for different components
+Command line tool to get data
+Tests APIs
+Transfers applications ",Tests APIs,"Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Cloud Native Computing Foundation (CNCF) defines ‘serverless’ as the concept of building and running applications that do not require _______ management.,"backend
+server
+database
+network",server,"Graded Quiz: Serverless Overview
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Cloud provider is responsible for which of the following components in the Serverless model? Select three answers.,"Network
+OS
+Application
+Storage","Network
+OS
+Storage","Graded Quiz: Serverless Overview
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+___________ is a Serverless computing constraint.,"Vendor lock-in
+Idle time
+Language independence
+Scalability",Vendor lock-in,"Graded Quiz: Serverless Overview
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Managing which one of the following is your responsibility in a Serverless computing model?,"Deployment
+Hardware
+Code
+Operating System",Code,"Graded Quiz: Serverless Overview
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Which one is the key characteristic of a function in FaaS model?,"Scale automatically and independently as required
+Be stateful
+Let you define your infrastructure
+Keep running even when there are no requests",Scale automatically and independently as required,"Graded Quiz: Serverless Overview
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+A _________ is an independent unit of execution and deployment in the Serverless Framework.,"Function
+Resource
+Service
+Event",Function,"Graded Quiz: Serverless Overview
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What is the responsibility of the Front End in a Serverless Architecture?,"Provide scaling
+Store data
+Host static content and scripts
+Host business logic",Host static content and scripts,"Graded Quiz: Serverless Overview
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Which is an example of post-processing in the Serverless Reference Architecture?,"You could provide user registration and authentication
+You could use messaging to notify multiple subscribers
+You could apply artificial intelligence or image recognition to upload images
+You enable access to backend",You could apply artificial intelligence or image recognition to upload images,"Graded Quiz: Serverless Overview
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Which is the key characteristic of IBM Cloud Functions?,"No debugging capabilities
+Limited integration options
+No disaster recovery
+Cost-Effective and Highly Available",Cost-Effective and Highly Available,"Graded Quiz: Serverless Overview
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+The Knative platform is offered by which service provider?,"Offered by Google
+Offered by Microsoft Azure
+Open-source option for Serverless
+Offered by Amazon AWS",Open-source option for Serverless,"Graded Quiz: Serverless Overview
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+The prefix to the filename where you write the test cases is:,"test
+It has not prefix
+unit_test
+function_test",test,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+The python code will throw runtime error if pylint is not run before executing the file. ,"False
+True",False,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+In accordance with pylint which of the following is valid method name,"getUserName()
+get_user_name
+GetUserName
+GET_USER_NAME",get_user_name,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"Your code has the following method.
+
+def returnString():
+
+    return ""Hello""
+
+What will be the outcome of the test?
+
+assertNotEqual(returnString(),""How are you"",""They are equal"")","The test will pass.
+The test will fail.
+The code will throw runtime error as the values are not equal
+The test will not run as the method name does not qualify in static code analysis.",The test will pass.,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"To package a python script in a package to be able to import and use it, which of the following is required.","A folder with server.py
+The python script should be packaged in a directory with __init__.py in the same directory
+import sys  as the first line of code in the python script.
+The methods in the script should be defined as public method",The python script should be packaged in a directory with __init__.py in the same directory,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following is correct about Flask?,"It is a full-stack application framework
+It is a micro web framework
+It is a database framework
+It is an external Java framework",It is a micro web framework,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"Which of the following methods are supported in an API endpoint created with Flask?
+
+1. GET
+
+2. AUTHENTICATE
+
+3. POST
+
+4. DELETE","Only 1 and 4
+Only 1,3 and 4
+Only 1,2 and 3
+All 4 are supported.","Only 1,3 and 4","Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"What is the below line of code referred to as?
+
+@app.route(""/name"")","Method definition
+Route decorator
+Get Request
+Flask method",Route decorator,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+One method can have only one route decorator. True or False?,"True
+False",False,"Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"Which of the following is true about the following line of code?
+
+@api.route(""/records/<name>"",methods=[""POST"",""GET""])","This end-point supports get requests
+This end-point supports post requests
+This end-point supports update requests
+The value of name is variable.","This end-point supports get requests
+This end-point supports post requests
+The value of name is variable.","Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"What is the output of the following code?
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+x=""Go""
+ 
+if(x==""Go""):
+ 
+  print('Go ')
+ 
+else:
+ 
+  print('Stop')
+ 
+print('Mike')","Go Mike
+Mike
+Stop Mike",Go Mike,"Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"What is the result of the following lines of code?
+
+1
+2
+x=1
+x>-5","True
+False",True,"Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"What is the output of the following few lines of code?
+
+1
+2
+3
+4
+x=0
+while(x<2):
+    print(x)
+    x=x+1   ","0
+
+1
+0
+
+1
+
+2
+0
+
+1
+
+3
+
+4","0
+
+1","Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"What is the result of running the following lines of code ?
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+class Points(object):
+  def __init__(self,x,y):
+ 
+    self.x=x
+    self.y=y
+ 
+  def print_point(self):
+ 
+    print('x=',self.x,' y=',self.y)
+ 
+p1=Points(1,2)
+p1.print_point()","x=1; 
+ x=1 y=2
+y=2", x=1 y=2,"Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"What is the output of the following few lines of code?
+
+1
+2
+for i,x in enumerate(['A','B','C']):
+    print(i,2*x)","0 AA
+
+1 BB
+
+2 CC
+0 A
+
+1 B
+
+2 C
+0 A
+
+2 B
+
+4 C","0 AA
+
+1 BB
+
+2 CC","Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"What is the result of running the following lines of code ?
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+class Points(object):
+  def __init__(self,x,y):
+ 
+    self.x=x
+    self.y=y
+ 
+  def print_point(self):
+ 
+    print('x=',self.x,' y=',self.y)
+ 
+p2=Points(1,2)
+ 
+p2.x=2
+ 
+p2.print_point()"," x=2 y=2
+ x=1 y=2
+ x=1 y=1", x=2 y=2,"Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"Consider the function delta, when will the function return a value of 1?
+
+1
+2
+3
+4
+5
+6
+def delta(x):
+  if x==0:
+    y=1
+  else:
+    y=0
+  return(y)"," When the input is anything but 0
+ When the input is 1
+ Never
+ When the input is 0", When the input is 0,"Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"What is the output of the following lines of code?
+
+1
+2
+3
+4
+5
+6
+7
+8
+a=1
+ 
+def do(x):
+    a=100
+    return(x+a)
+ 
+print(do(1))
+ ","2
+101
+102",101,"Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"Write a function name add that takes two parameter a and b, then return the output of  a + b (Do not use any other variable! You do not need to run it. Only write the code about how you define it.)",,,"Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Why is it best practice to have multiple except statements with each type of error labeled correctly?,"Ensure the error is caught so the program will terminate
+In order to know what type of error was thrown and the
+location within the program
+To skip over certain blocks of code during execution
+It is not necessary to label errors","In order to know what type of error was thrown and the
+location within the program","Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+Have you created GET dealer?state=xx action? ,"Yes
+No",Yes,"Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Have you created GET review?dealerId=num action? ,"Yes
+No",Yes,"Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Have you created POST review action? ,"Yes
+No",Yes,"Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Have you created CarModel and CarMake Django models? ,"Yes
+No",Yes,"Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Have you registered CarModel and CarMake models with Admin site? ,"Yes
+No",Yes,"Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Have you created new car models objects with associated car makes and dealerships? ,"Yes
+No",Yes,"Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Have you created a `get_dealerships` Django view to get dealer list? ,"Yes
+No",Yes,"Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Have you created a Django `get_dealer_details` view to get reviews of a dealer? ,"Yes
+No",Yes,"Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Have you updated the `get_dealer_details` view to call Watson NLU for analyzing review sentiment? ,"Yes
+No",Yes,"Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Have you created `add_review` Django view to post a dealer review? ,"Yes
+No",Yes,"Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07"
+Which of the following statements embeds an image in an HTML document? ,"<image>link_to_image</image>
+<figure src=”image URL”>image name</figure>
+<img src=”image URL”>
+<img href=”image URL”>image name</img>",<img src=”image URL”>,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+"When defining a hyperlink (<a>), which attribute is used to specify the destination address? ","src
+target
+href
+ref",href,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+Which tag CANNOT be used as a container for text? I.e. does not use both an opening <> and closing </> tag,"<br>
+<p>
+<h1>
+<body>",<br>,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+How are comments written in HTML?,"“””This is a comment”””
+#This is a comment 
+/*This is a comment*/ 
+< !-- This is a comment -- > ",< !-- This is a comment -- > ,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+Which tag is used to denote a cell of data within a table? ,"<th> 
+<tc>
+<td>
+<tr>",<td>,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+Which of the following is NOT an HTML tag?,"<p>
+<!DOCTYPE html>
+<article>
+<li>",<!DOCTYPE html>,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+What is the <br> tag used for?,"To make text bold
+To change the text color to brown
+To change the border
+To add a line break",To add a line break,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+Which of the following denotes the least important heading?,"<h1>
+<h6>
+<h10>
+<h5>",<h6>,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+Which tag is used to create an ordered list? ,"<li>
+<ul>
+<ol>
+<orderedlist>",<ol>,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+Which of the following conditions must be met for scripting to be enabled in browsers? Select one or more options.,"The browser supports scripting
+An embedded object is used without the sandbox attribute
+The browser context has the sandboxed browsing context flag set
+The user has not disabled scripting for the current browser context","The browser supports scripting
+The user has not disabled scripting for the current browser context","Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+What best describes the network operations that Node.js makes?,"Non-blocked operations return immediately without added processing time on the server
+Non-blocked operations return in a synchronized manner with added processing time on the server
+Applications block every network operation to complete at the same time on the server
+Blocked operations return immediately without added processing time on the server",Non-blocked operations return immediately without added processing time on the server,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+"Before the Node.js framework receives the HTTP response message from the remote web server, it immediately returns a result for the http.request function call. What does this result state?","The callback function was called successfully.
+The response message will be sent successfully.
+A request is in progress.
+The return message will be sent successfully.",A request is in progress.,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+What parameter is optional in an HTTP request?,"Event variable parameter
+Callback function parameter
+Location function parameter
+Resource variable parameter",Callback function parameter,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+What object do Node.js modules in the SDK pass as the first parameter in a callback function?,"Identity
+Destination
+Location
+Error",Error,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+What do you pass back in the callback handler to indicate a successful return?,"Null object
+Empty string
+Error
+404 status code",Null object,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+Which function calls the resultCallback callback function to return results to the main application?,"http.request()
+aggregate_context()
+result()
+step()",http.request(),"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+Why can inversion of control be an issue when using callbacks?,"Inversion of control uses promises which are difficult to implement
+Callbacks sometimes hand over control to third-party code which can make errors hard to identify
+Inversion of control creates the need for nested callbacks
+Inversion of control is used when something needs to be done sequentially which makes code readability difficult",Callbacks sometimes hand over control to third-party code which can make errors hard to identify,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+JSON is the standard format for API data exchange. What relationship does JSON have with Node.js?,"JSON_SET
+Common data model folder
+Standard representation of native JavaScript objects
+Metadata file",Standard representation of native JavaScript objects,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+"When an error occurs, which state is the promise at?","Rejected
+Resolved
+Pending
+Aborted",Rejected,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"
+The axios package handles HTTP requests in Node.js and returns a promise object. The promise object has a method that is called after the promise completes. What method does the promise object use?,"if
+else
+then
+or",then,"Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07"

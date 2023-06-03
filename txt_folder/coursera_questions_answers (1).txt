@@ -1,0 +1,94 @@
+Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which of the following does NOT represent one of the three main Cloud Service Models referred to in the course?|||SaaS
+IaaS
+CaaS
+PaaS|||CaaS@@@Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which one of the provided options is true for Infrastructure-as-a-Service?|||Cloud provider manages the physical resources, operating systems, development tools, databases, and business analytics
+Cloud provider configures the infrastructure which is managed and maintained by the user/customer organization
+Cloud provider owns, manages, and maintains the physical resources
+Cloud provider manages the physical resources, the platform resources, applications, and data|||Cloud provider owns, manages, and maintains the physical resources@@@Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which are some of the key components of cloud Infrastructure-as-a-Service? Select two.|||IaaS providers manage the hypervisors and end-users provision the virtual instances
+IaaS providers deploy the middleware and install required applications on the virtual machines
+IaaS providers manage the hypervisors and provision virtual instances
+IaaS providers manage large data centers that contain the physical machines required to power the various layers of abstraction on top of them|||IaaS providers manage the hypervisors and end-users provision the virtual instances
+IaaS providers manage large data centers that contain the physical machines required to power the various layers of abstraction on top of them@@@Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which of the following are essential characteristics of Platform-as-a-Service? Select two.|||PaaS clouds provide services and APIs that help developers deliver elastically scalable and highly available cloud applications
+In a PaaS model, the provider also takes responsibility for the application code and its maintenance
+PaaS offerings support middleware capabilities that assists developers by reducing the amount of code that must be written to expand the application’s functional capabilities
+Organizations who opt for PaaS still need to configure supporting technologies such as load balancers and databases|||PaaS clouds provide services and APIs that help developers deliver elastically scalable and highly available cloud applications
+PaaS offerings support middleware capabilities that assists developers by reducing the amount of code that must be written to expand the application’s functional capabilities@@@Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which one of the following is a key characteristic of Software-as-a-Service?|||SaaS services do not provide options for user customization
+Security, compliance, and maintenance of the software are the responsibilities of the user
+Ensure every user has access to the same, centrally located, infrastructure and application code
+Single tenant architecture|||Ensure every user has access to the same, centrally located, infrastructure and application code@@@Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which of these statements is a characteristic of Public Clouds? |||Resources are assigned as per estimated need decided at the time of subscribing for the service
+A public cloud provides a dedicated pool of resources to each of its multiple users
+The cloud provider provisions the resources and services as needed by individual users
+A public cloud is a virtualized multi-tenant architecture|||A public cloud is a virtualized multi-tenant architecture@@@Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which of the following statements is NOT a correct statement about Private clouds?|||Private Clouds can be implemented internally or externally
+Private Clouds are suitable for workloads that require maximum control and security
+Private clouds can only be deployed on-premise, in an organization’s own datacenter
+VPC is an example of a type of Private Cloud|||Private clouds can only be deployed on-premise, in an organization’s own datacenter@@@Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which of these statements are true of Virtual Private Clouds (VPCs)? Select two.|||The VPC infrastructure is owned, managed, and operated by the public cloud service provider
+VPCs are provisioned in a logically isolated part of a shared public cloud
+VPCs may be provisioned over a cloud service provider’s infrastructure, but the infrastructure is owned, managed, and operated by the enterprise
+VPC allows all users of the shared public cloud to access resources in the VPC on need basis; it also allows users of the VPC to access resources of the public cloud|||The VPC infrastructure is owned, managed, and operated by the public cloud service provider
+VPCs are provisioned in a logically isolated part of a shared public cloud@@@Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||If an organization needs to run a highly sensitive and mission critical application with unpredictable performance and capacity requirements, which of the following models would best meet its requirements?|||Hybrid Cloud
+Private Cloud
+Public Cloud
+On-premise Data Centers|||Hybrid Cloud@@@Module 2 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which of the following statements about Hybrid Cloud is NOT correct?|||Hybrid clouds are only suitable for workloads involving Infrastructure-as-a-Service
+Hybrid clouds can prevent lock-in to a single Cloud Provider
+Hybrid cloud is a computing environment that connects an organization's on-premise private cloud and third-party public cloud into a single flexible infrastructure
+Hybrid Clouds allow organizations to leverage the additional public cloud capacity when a workload running on the private cloud has a spike in demand|||Hybrid clouds are only suitable for workloads involving Infrastructure-as-a-Service

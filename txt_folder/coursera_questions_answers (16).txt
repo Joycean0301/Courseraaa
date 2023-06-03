@@ -1,0 +1,91 @@
+Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||The Node.js framework doesn't provide many features for building web apps. What do developers rely on to extend Node.js features?|||JavaScript
+JSON
+External libraries and packages
+Timely updates|||External libraries and packages@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||One disadvantage of manual parsing is that string matching ignores the XML data structure. However, depending on XML data complexity, string matching might be more efficient than what?|||An XML root element
+An XML tree of the data
+An XML attribute structure
+No alternative: string matching is never more efficient.|||An XML tree of the data@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Which Node.js package can parse a string of XML elements into a JavaScript object?|||Express.js
+XML-JS
+xml2js
+Async.js|||xml2js@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Which web application framework is based on the Node.js runtime environment?|||XML-JS
+Express
+JSON
+Async.js|||Express@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||The Node.js framework treats HTTP requests at a lower network level. In contrast, Express implements an app class for what purpose?|||Access a URL
+Lookup web services
+Map to a web resource path
+Parse through a network path|||Map to a web resource path@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||What do you call to create a web server object to listen for incoming requests on a port?|||app.listen
+http.view
+app.request
+http.name|||app.listen@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Which of the following kind of task is middleware most useful for?|||Performing large calculations
+Routing
+Parsing strings
+Error handling|||Error handling@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Which type of authentication is widely used for password recovery by providing a magic link to the user?|||Single Sign On
+Token-based
+Session-based
+Passwordless|||Passwordless@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Which statement regarding the jsonwebtoken.verify() method is true?|||It is used to return an HTTP status code
+It is used to generate a JSON web token
+It is used to return a response
+It is used to verify a JSON web token|||It is used to verify a JSON web token@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Which library and module are suited for black-box testing REST APIs?|||Express/TestAPI
+Mocha/SuperTest
+Postman/TestAPI
+Koa/SuperTest|||Mocha/SuperTest

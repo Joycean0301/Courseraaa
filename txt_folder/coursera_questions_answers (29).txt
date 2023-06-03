@@ -1,0 +1,93 @@
+Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Do containers have to be on a specific operating system or platform?|||No, containers work on many types of operating systems and platforms.
+Yes, containers only work on Linux-based operating systems and platforms.
+Yes, containers only work on Windows-based operating systems and platforms.
+No, containers don’t run on operating systems or platforms.|||No, containers work on many types of operating systems and platforms.@@@Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||How are digital containers like shipping containers?|||Digital containers must be welded to computer motherboards, just like shipping containers must be welded.
+Both digital and shipping containers have to travel internationally.
+Digital containers are not like shipping containers.
+Container size and specs are standardized, which makes them easier to move around.|||Container size and specs are standardized, which makes them easier to move around.@@@Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What applications are a good fit for Docker?|||Applications that require flexible scaling and portability 
+Applications with rich GUI features
+Applications that need a lot of security
+Applications with high performance requirements|||Applications that require flexible scaling and portability @@@Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What are three parts of Docker’s underlying technology? |||Linux kernel features
+GitHub
+Namespaces
+The Go programming language|||Linux kernel features
+Namespaces
+The Go programming language@@@Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What Docker features create a container image?|||The image command and a Dockerfile
+The run command and a Dockerfile
+The build command and a Dockerfile
+The copy command and an existing image|||The build command and a Dockerfile@@@Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What are the steps used to create and run containers?|||Create a Dockerfile and use it with the pull command to create a running container.
+Create a Dockerfile, use it to create a container image, and then use the container image to create a running container.
+Create a container image, use it to create a Dockerfile, and then use the Dockerfile to create a running container.
+Input the container image name and tag.|||Create a Dockerfile, use it to create a container image, and then use the container image to create a running container.@@@Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is the function of the Docker ‘run’ command?|||Creates a container from an image
+Lists all images, repositories, tags, and sizes
+Stores images in a configured registry
+Retrieves images from a configured registry|||Creates a container from an image@@@Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is a Docker container?|||A read-only template
+A method of isolating communication
+A persistent set of data that can be transferred
+A runnable instance of an image|||A runnable instance of an image@@@Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What are volumes and bind mounts used for in Docker?|||Persisting data
+Erasing data
+Isolating communication
+Connecting to external storage platforms|||Persisting data@@@Module 1 - Graded Quiz: Containers and Containerization
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What does the Docker client-server architecture provide?|||Cloud storage
+Code checking
+An application environment
+A communication channel|||An application environment
