@@ -18,8 +18,10 @@ document.body.appendChild(button);
 
 // Function to crawl questions and answers and save them into a text file
 function fillQuestionsAndAnswers() {
+
   // URL file Json
-  const url = chrome.runtime.getURL('json_folder/02-06-2023-22h-37p-53s.json');
+  const url = chrome.runtime.getURL('json_folder/DWP301c.json');
+
   // Gets questions and answers here
   const question_answers = document.querySelectorAll(".rc-FormPartsQuestion"); // Adjust the selector based on the structure of the Coursera page
 
@@ -29,36 +31,46 @@ function fillQuestionsAndAnswers() {
     const question = question_answers[i].querySelector('.rc-FormPartsQuestion__contentCell').innerText;
     const answers = question_answers[i].querySelectorAll('label._1oyudm1w');
     
-    // create answer_check1
+    // create answer_check_1
     var check_answers = ''
+    let list_answer_web = []
     for (var k = 0; k < answers.length; k++) {
-      if (k!== 0){check_answers += '\n'}
-      check_answers += answers[k].innerText}
-    
+      check_answers += answers[k].innerText;
+      list_answer_web.push(answers[k].innerText)}
+    // answer_check_sort
     const characters = check_answers.split('');
     const sortedCharacters = characters.sort();
     const sortedWord = sortedCharacters.join('');
-    console.log('one'+sortedWord)
+    
 
     // Check quesion in the database if match -> Get the correct answer
     fetch(url).then((response) => response.json()).then((json) => {
       for (var z = 0; z < json.length; z++) {
         const item = json[z];
-
-        if (item.Question == question){
-          // check answers match answers in database
-          const characterstwo = item.Answer.split('')
+        
+        if (question == item.Question){
+          
+          // create answer_check_2
+          var checkanswertwo = ''
+          for (var l = 0; l < item.Answer.length; l++) {
+            checkanswertwo += item.Answer[l]}
+          // answer2 check sort
+          const characterstwo = checkanswertwo.split('')
           const sortedCharacterstwo = characterstwo.sort();
           const sortedWordtwo = sortedCharacterstwo.join('');
+
+
+          // check answers match answers in database
           if (sortedWordtwo == sortedWord){
-            console.log('two'+sortedWordtwo)
             const full_correct_answer = item.Correct;
             
-          
             // Pass all answer if it correct -> Click
-            for (var j = 0; j < answers.length; j++) {
-              if (full_correct_answer.includes(answers[j].innerText)){
-                answers[j].click();
+            for (var j = 0; j < full_correct_answer.length; j++) {
+              for (var n = 0; n < list_answer_web.length; n++)   {
+                if (full_correct_answer[j]==list_answer_web[n])  {
+                  answers[n].click();
+
+         }
         }
        }     
       }
