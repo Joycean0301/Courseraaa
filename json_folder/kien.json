@@ -1,0 +1,35 @@
+[
+    {
+        "Question": "What is the type of the following:\u00a00",
+        "Answer": [
+            "float",
+            "Int"
+        ],
+        "Correct": [
+            "Int"
+        ],
+        "Title": "Practice Quiz\n\nPractice Quiz\n.\n\u00a0\u2022\u00a09 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "What is the type of the following number: 3.12323",
+        "Answer": [
+            "Int",
+            "Float"
+        ],
+        "Correct": [
+            "Float"
+        ],
+        "Title": "Practice Quiz\n\nPractice Quiz\n.\n\u00a0\u2022\u00a09 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "What is the result of the following: int(3.99)",
+        "Answer": [
+            "3.99",
+            "3"
+        ],
+        "Correct": [
+            "3"
+        ],
+        "Title": "Practice Quiz\n\nPractice Quiz\n.\n\u00a0\u2022\u00a09 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    }
+]

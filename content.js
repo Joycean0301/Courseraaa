@@ -53,7 +53,7 @@ function crawlQuestionsAndAnswers() {
       //answers
       for (var j = 0; j < answers.length; j++) {
           if (j!== 0){
-              data += '\n'
+              data += '^^^'
           }
           data += answers[j].innerText 
       }
@@ -62,7 +62,7 @@ function crawlQuestionsAndAnswers() {
       //corrects
       for (var j = 0; j < corrects.length; j++) {
           if (j!== 0){
-              data += '\n'
+              data += '^^^'
           }
           data += corrects[j].innerText 
       }

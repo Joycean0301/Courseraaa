@@ -29,8 +29,8 @@ for ele in list_file_txt:
         # Update to json file
         temp_dict = {}
         temp_dict.update({'Question':question})
-        temp_dict.update({'Answer':answer.split('\n')})
-        temp_dict.update({'Correct':correct.split('\n')})
+        temp_dict.update({'Answer':answer.split('^^^')})
+        temp_dict.update({'Correct':correct.split('^^^')})
         temp_dict.update({'Title':title})
         data_json.append(temp_dict)
 
