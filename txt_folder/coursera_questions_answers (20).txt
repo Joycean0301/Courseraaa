@@ -1,0 +1,180 @@
+Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What is the result of the following lines of code?
+
+1
+2
+3
+a=np.array([-1,1])
+b=np.array([1,1])
+np.dot(a,b) |||array([0,2])
+1
+0|||0@@@Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What is the value of Z after the following code is run?
+
+1
+2
+3
+4
+5
+ 
+X=np.array([[1,0],[0,1]])
+Y=np.array([[0,1],[1,0]])
+Z=X+Y
+ |||array([[1,1],[1,1]])
+array([[1,0],[0,1]])
+array([[0,1],[1,1]])|||array([[1,1],[1,1]])@@@Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What values does the variable  out take if the following lines of code are run?
+
+1
+2
+3
+4
+5
+ 
+X=np.array([[1,0,1],[2,2,2]]) 
+out=X[0:2,2]
+out
+ |||array([1,0])
+array([1,2])
+array([1,1])|||array([1,2])@@@Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What is the value of  Z after the following code is run?
+
+1
+2
+3
+4
+5
+ 
+X=np.array([[1,0],[0,1]])
+Y=np.array([[2,2],[2,2]])
+Z=np.dot(X,Y)
+ |||array([[2,2],[2,2]])
+array([[2,0],[0,2] ])
+array([[3,2],[2,3]])|||array([[2,2],[2,2]])@@@Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||Consider the following text file:  Example1.txt:
+
+This is line 1
+
+This is line 2
+
+This is line 3
+
+What is the output of the following lines of code?
+
+1
+2
+3
+4
+5
+6
+ 
+with open("Example1.txt","r") as File1:
+ 
+    file_stuff=File1.readline ()
+ 
+    print(file_stuff)|||This is line 1
+This is line 1
+
+This is line 2
+
+This is line 3
+This is line 1
+
+This is line 2|||This is line 1@@@Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||Consider the following line of code:
+
+1
+2
+3
+ 
+with open(example1,"r") as file1:
+ 
+
+What mode is the file object in?|||read
+write
+append|||read@@@Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What do the following lines of code do?
+
+1
+2
+3
+4
+5
+ 
+with open("Example.txt","a") as writefile:
+  
+  writefile.write("This is line A\n")
+  writefile.write("This is line B\n")|||Read the file "Example.txt"
+Write to the file “Example.txt”
+Append the file "Example.txt"|||Append the file "Example.txt"@@@Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What task do the following lines of code perform?
+
+1
+2
+3
+4
+5
+6
+ 
+with open('Example2.txt','r') as readfile:
+    with open('Example3.txt','w') as writefile:
+          for line in readfile:
+                writefile.write(line)
+ |||Check the mode of the open function for each file object.
+Copy the text from Example2.txt to Example3.txt.
+Print out the content of Example2.txt.|||Copy the text from Example2.txt to Example3.txt.@@@Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||Consider the dataframe df. How would you access the element in the 1st row 3rd column|||df.iloc[2,0]
+df.iloc[1,3]
+df.iloc[0,2]|||df.iloc[0,2]@@@Module 4 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What function would you use to load a csv file in Pandas?|||pd.read_csv
+pd.read_excel|||pd.read_csv

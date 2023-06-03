@@ -1,0 +1,96 @@
+Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||Each Cloud Region can have multiple Zones (also known as Availability Zones). What are Zones?|||Single shared point of failure 
+Geographic area or region where cloud provider’s infrastructure is clustered
+Unique physical locations with one or more data centers 
+Standardized containers of computing resources|||Unique physical locations with one or more data centers @@@Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||Is it possible to run completely different operating systems on Virtual Machines (VMs) that are on a single host? If yes, what makes this possible?|||No, it is not possible—VMs are software-based versions of a single host. They cannot have different environments from one another. 
+No, it is not possible—A single host can only work as one single virtual environment, and can, therefore, have only one environment. 
+Yes, Virtualization makes it possible— to have VMs, running different operating systems, on a single host. 
+Yes, Containerization makes it possible—to have VMs that are unique physical entities, so you can have completely different Operating Systems on them. |||Yes, Virtualization makes it possible— to have VMs, running different operating systems, on a single host. @@@Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||Which of the following are examples of single-tenant compute environments in the Cloud? Select two.|||Transient virtual servers 
+Bare Metal servers
+Reserved virtual server 
+Dedicated host |||Bare Metal servers
+Dedicated host @@@Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||Which of these scenarios is ideal for the use of bare metal servers, as opposed to virtual servers? Select two.|||CPU and I/O intensive workloads
+Workloads that require limited throughput and performance 
+Huge performance and strict security and compliance requirements 
+Low cost to use |||CPU and I/O intensive workloads
+Huge performance and strict security and compliance requirements @@@Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||What are some key differences between Containers and Virtual Machines? Select two.|||Even though each container uses the same OS as the host OS, it still needs to have its own copy of the OS, while a virtual machine leverages the resources of the host OS 
+Containers are executable units of software while each virtual machine is a distinct physical entity 
+Containers are more lightweight as compared to virtual machines 
+Containers can use the same OS as the host, while a virtual machine needs its own copy of the OS, which can also be different from the host OS |||Containers are more lightweight as compared to virtual machines 
+Containers can use the same OS as the host, while a virtual machine needs its own copy of the OS, which can also be different from the host OS @@@Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||There are four types of cloud storage available. Which storage type is ephemeral or non-persistent?|||Direct Attached storage
+File storage 
+Block storage 
+Object storage |||Direct Attached storage@@@Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||What makes File storage an ideal solution for scenarios where shared storage is needed?|||File storage can be mounted on multiple compute nodes at the same time 
+Mounted from remote storage appliances 
+Its consistently high speed 
+File Storage is mounted to compute nodes via an ethernet network|||File storage can be mounted on multiple compute nodes at the same time @@@Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||Which of these scenarios are best suited for Block Storage? Select two.|||Low cost is a consideration
+Applications that need consistent fast access to disk, such as databases 
+Workloads that need low-latency storage
+Workloads that need disk sharing between compute nodes |||Applications that need consistent fast access to disk, such as databases 
+Workloads that need low-latency storage@@@Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||Which of these are features of Object Storage? Select two.|||Object storage is effectively infinite 
+Storage is attached to compute nodes using a fibre network
+Object Storage can be mounted on multiple compute nodes via an ethernet network 
+You can directly use Object Storage without attaching it to a compute node|||Object storage is effectively infinite 
+You can directly use Object Storage without attaching it to a compute node@@@Module 3 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||What is the main benefit of a Content Delivery Network (CDN)?|||Enhanced control over network traffic by routing traffic to specified resources 
+Speed, it makes your website faster by serving files from a location closer to the user. 
+Distribute tasks, workloads, and network traffic
+Network topology |||Speed, it makes your website faster by serving files from a location closer to the user. 

@@ -1,25 +1,102 @@
-Practice Quiz
+Module 4 - Graded Quiz: The Kubernetes Ecosystem
 
-Practice Quiz
+Graded Quiz
 .
- • 9 min
-.
- • 
-3 total points available.
-3 total points|||What is the type of the following: 0|||float^^^Int|||Int@@@Practice Quiz
+ • 30 min
 
-Practice Quiz
-.
- • 9 min
-.
- • 
-3 total points available.
-3 total points|||What is the type of the following number: 3.12323|||Int^^^Float|||Float@@@Practice Quiz
+DueJul 2, 11:59 PM +07|||What strategy was Red Hat OpenShift designed for?|||A public cloud strategy 
+An on-premises strategy.
+A hybrid-cloud strategy.
+A private cloud strategy. |||A hybrid-cloud strategy.@@@Module 4 - Graded Quiz: The Kubernetes Ecosystem
 
-Practice Quiz
+Graded Quiz
 .
- • 9 min
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||Which three statements are true?|||The oc lets you manage projects during restricted bandwidth or availability of the web console. 
+The oc and kubectl binary offer different capabilities. 
+The oc lets you script OpenShift operations. 
+The oc lets you work directly with project source code using command script. |||The oc lets you manage projects during restricted bandwidth or availability of the web console. 
+The oc lets you script OpenShift operations. 
+The oc lets you work directly with project source code using command script. @@@Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
 .
- • 
-3 total points available.
-3 total points|||What is the result of the following: int(3.99)|||3.99^^^3|||3
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What are three added features that OpenShift provides?|||Better management through image streams 
+Good networking solutions out of the box
+Better user experience 
+More flexible|||Better management through image streams 
+Good networking solutions out of the box
+Better user experience @@@Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What are the three Build triggers used in OpenShift?|||ImageStream
+Webhook
+Image change
+Configuration change|||Webhook
+Image change
+Configuration change@@@Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What are the two features of an ImageStream?|||Provides a trigger capability when a new version of an image is available
+Provides content for Builds
+Creates and updates container images
+Stores images|||Provides a trigger capability when a new version of an image is available
+Creates and updates container images@@@Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What three processes are performed by the Operator Framework tool set?|||Package
+Coding 
+Testing
+Building|||Package
+Coding 
+Testing@@@Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What are the three features of Custom Resource Definitions (CRDs)?|||Can be engaged with kubectl
+Control the install, upgrade, and role-based access control (RBAC) of Operators in a cluster
+Extend Kubernetes functionality
+Make Kubernetes API more modular|||Can be engaged with kubectl
+Extend Kubernetes functionality
+Make Kubernetes API more modular@@@Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What packages, deploys, and manages native apps in Kubernetes?|||An Operator 
+A Deployment
+A ReplicaSet
+ A Container|||An Operator @@@Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||In Istio, what handles communication between services?|||The proxy server
+The control plane
+The data plane
+Environmental changes |||The data plane@@@Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 2, 11:59 PM +07|||What provides traffic management to control the flow of traffic between Services?|||Kubectl
+An autoscaler
+A container
+A service mesh|||A service mesh

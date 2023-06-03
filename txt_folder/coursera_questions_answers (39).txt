@@ -1,0 +1,71 @@
+Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Have you created GET dealer?state=xx action? |||Yes
+No|||Yes@@@Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Have you created GET review?dealerId=num action? |||Yes
+No|||Yes@@@Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Have you created POST review action? |||Yes
+No|||Yes@@@Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Have you created CarModel and CarMake Django models? |||Yes
+No|||Yes@@@Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Have you registered CarModel and CarMake models with Admin site? |||Yes
+No|||Yes@@@Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Have you created new car models objects with associated car makes and dealerships? |||Yes
+No|||Yes@@@Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Have you created a `get_dealerships` Django view to get dealer list? |||Yes
+No|||Yes@@@Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Have you created a Django `get_dealer_details` view to get reviews of a dealer? |||Yes
+No|||Yes@@@Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Have you updated the `get_dealer_details` view to call Watson NLU for analyzing review sentiment? |||Yes
+No|||Yes@@@Back End Checklist
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Have you created `add_review` Django view to post a dealer review? |||Yes
+No|||Yes
