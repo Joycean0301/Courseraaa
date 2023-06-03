@@ -39,8 +39,7 @@ function crawlQuestionsAndAnswers() {
       var question = questions_answers[i].querySelector('.rc-FormPartsQuestion__contentCell').innerText;
       var answers = questions_answers[i].querySelectorAll('.rc-Option.rc-Option--isReadOnly')
       var corrects = questions_answers[i].querySelectorAll('._1xzd2vdb.cui-Checkbox.cui-isChecked')
-      
-      console.log(point)
+     
 
       //seperate question
       if (i!== 0){
