@@ -1,0 +1,91 @@
+Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||Django class-based view needs to be mapped with a URL pattern, almost like configuring the URL for the function-based view. The only difference is you need to specify:|||The as_config function
+The as_class method
+The view_base method
+The as_view function|||The as_view function@@@Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||Username and password can be received from a user via a login HTML template. Which HTTP method is used to sent username/password to the onlinecourse login view, in order to authenticate the user?|||GET request
+DELETE request 
+POST request 
+ None of the above|||POST request @@@Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||In the Django Bootstrap video, a course index page is designed that contains courses represented as cards. The multiple course cards are then added to a container. How are the multiple course cards managed?|||Shuffled 
+Added to a table
+Wrapped in a card deck
+Placed in a list|||Wrapped in a card deck@@@Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||Django provides a default staticfiles app that collects all static files in a single directory. You can move all static files to this directory when you deploy your app to a production web server. There are several steps to do this. What call do you make in the last step?|||STATIC_ROOT
+Run ‘collectstatic’ command line
+STATIC_URL
+Run “importstatic” command line|||Run ‘collectstatic’ command line@@@Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||ASGI is another web server interface that Django apps support. What is the main difference between WSGI and ASGI?|||ASGI supports Python
+ ASGI supports asynchronous code
+There is no difference
+WSGI supports Python||| ASGI supports asynchronous code@@@Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||Which type of view was created to address view extensibility and reusability?|||Function-based view
+Class-based view
+Method-based view
+HTTP-based view|||Class-based view@@@Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||Does authorization occur before, after, or during the authentication process?|||During authentication
+Before authentication
+Authentication doesn't affect authorization
+After authentication|||After authentication@@@Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||How can you use Bootstrap CSS style classes without manually downloading and importing it?|||Link to the Bootstrap web page before you develop your webpage
+Add a link to the latest Bootstrap version into the head element of your HTML template 
+Copy & paste the CSS style classes
+You must download Bootstrap|||Add a link to the latest Bootstrap version into the head element of your HTML template @@@Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||Django apps can have app-specific static files but can also have external static files. Where do you define the directories for external static files, so you can find them?|||In the STATICFILES_DIRS list in settings.py file
+In the PROPERTIES list in manage.py
+In STATIC list in manage.py file
+In EX_DIRS list in settings.py file|||In the STATICFILES_DIRS list in settings.py file@@@Graded Quiz: Consolidate and Deploy Your Django App
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||WSGI is the main Python standard for communicating between web servers and applications. To make Django apps work with WSGI the startproject command line creates a file that declares an application callable by default. What is this file named?|||sgi.py
+giws.py
+django.py
+wsgi.py|||wsgi.py

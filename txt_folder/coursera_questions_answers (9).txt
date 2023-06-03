@@ -1,0 +1,46 @@
+Graded Quiz: Getting Started with Git and GitHub
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 11, 11:59 PM +07|||How is GitHub related to Git?|||GitHub is an online hosting service for Git repositories.
+GitHub is an open source tool used to create Git.
+GitHub is a main section in the Git project workflow.
+GitHub is a program required for version control on Git.|||GitHub is an online hosting service for Git repositories.@@@Graded Quiz: Getting Started with Git and GitHub
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 11, 11:59 PM +07|||What type of version control system is Git?|||Local
+Centralized
+Remote
+Distributed|||Distributed@@@Graded Quiz: Getting Started with Git and GitHub
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 11, 11:59 PM +07|||What is a repository?|||A basic unit of storage in Git that cannot be changed
+A plain-text file that explains the purpose of a project
+A data structure that stores documents and source code
+A collection of user accounts that are connected to a pull request|||A data structure that stores documents and source code@@@Graded Quiz: Getting Started with Git and GitHub
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 11, 11:59 PM +07|||What is the purpose of a license file?|||Describe the purpose of the project.
+Record all changes made to a repository.
+Express how people can use your code.
+Establish secure remote login between computers.|||Express how people can use your code.@@@Graded Quiz: Getting Started with Git and GitHub
+
+Graded Quiz
+.
+ • 15 min
+
+DueJun 11, 11:59 PM +07|||On GitHub, what are commits?|||Saved changes
+Pull requests
+Tags
+Merges|||Saved changes

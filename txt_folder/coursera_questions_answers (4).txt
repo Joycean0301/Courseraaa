@@ -1,26 +1,67 @@
-Practice Quiz: Data Structures
+Module 5 Graded Quiz
 
-Practice Quiz
+Graded Quiz
 .
- • 10 min
-.
- • 
-2 total points available.
-2 total points|||What is the difference between a list and a tuple?|||Lists are mutable, while tuples are not.
-There is no difference.
-Tuples are mutable, while lists are not.
-Lists can hold an unlimited number of elements, while tuples can only hold 2.|||Lists are mutable, while tuples are not.@@@Practice Quiz: Data Structures
+ • 30 min
 
-Practice Quiz
-.
- • 10 min
-.
- • 
-2 total points available.
-2 total points|||planets = ['Earth', 'Mercury', 'Venus']
+DueJul 9, 11:59 PM +07|||What are some best practices organizations need to follow in order to protect their cloud resources and systems? Select two.|||Distribute tasks, workloads, and network traffic
+Adopt a shared responsibility model 
+Active monitoring for security and compliance 
+Run security monitoring tools on a periodic basis to ensure security threats and breaches are flagged |||Adopt a shared responsibility model 
+Active monitoring for security and compliance @@@Module 5 Graded Quiz
 
-Which of the following are correct ways to remove the element 'Mercury'?  (Select all that apply.)|||planets.remove(1)
-planets.remove('Mercury')
-planets.pop(2)
-planets.pop(1)|||planets.remove('Mercury')
-planets.pop(1)
+Graded Quiz
+.
+ • 30 min
+
+DueJul 9, 11:59 PM +07|||Which of the following are key components of Identity and Access Management (IAM)? Select two.|||Protecting data while it is at rest, in motion, and in use 
+Cloud Directory Services 
+Embedding security through the life cycle of an application 
+Audit and Compliance |||Cloud Directory Services 
+Audit and Compliance @@@Module 5 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 9, 11:59 PM +07|||Which of these statements are true of cloud encryption
+
+A.   Encryption ensures only authorized users have access to sensitive dat
+
+B.   When encrypted data is intercepted without authorization, it is unreadable and meaningles
+
+C.   Encryption protects data when it is at rest, in transit, and in use in memo
+
+D.   Encryption eliminates data security risk|||A, B, and D only 
+A and C only 
+A, B, C, and D
+A, B, and C only |||A, B, and C only @@@Module 5 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 9, 11:59 PM +07|||Identify some of the standard cloud monitoring best practices from the provided options. Select two. |||Authenticate users attempting to access their cloud resources    
+Track usage and cost of your cloud resources and services 
+Encrypt data before it is sent to the cloud
+Leverage end-user experience monitoring solutions to capture the performance of an application from the point of view of its end users|||Track usage and cost of your cloud resources and services 
+Leverage end-user experience monitoring solutions to capture the performance of an application from the point of view of its end users@@@Module 5 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 9, 11:59 PM +07|||Which job role requires the following skills?
+
+·        Collaboration with development and operations teams 
+
+·        Containerization expertise
+
+·        Creating custom automation tools
+
+·        Building and maintaining configuration and deployment frameworks
+
+·        Monitoring security and measuring performance |||Cloud Data Engineers 
+Cloud DevOps Engineer 
+Cloud Solutions Architects
+Cloud Integration Specialists|||Cloud DevOps Engineer 

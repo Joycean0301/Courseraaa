@@ -1,0 +1,82 @@
+Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||Which of the following is a benefit of using ORM?|||Removes data access complexity from application code
+Speeds up application development 
+Increases performance
+Easier to debug |||Speeds up application development @@@Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||When you create an object (an instance of a class) in Django, what does it represent?|||Table cell
+Table column
+Table row
+Database table|||Table row@@@Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||What does Django create when you create a forward relationship?|||Explicit reference
+Comparative clause
+Backward access
+Django doesn't automatically create anything|||Backward access@@@Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||To delete() records in a database, you call the Delete method on which objects?|||Foreign Key field or Many-to-many field
+Model object or QuerySet
+Filter chain or primitive field
+Child object or lookup parameter|||Model object or QuerySet@@@Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||What is the main reason ORM was invented?|||Bridge the gap between OOP and SQL
+Promote SQL
+Use a different set of APIs for each database 
+Utilize methods |||Bridge the gap between OOP and SQL@@@Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||Multi-table inheritance is like which relationship?||| One-to-many
+Many-to-many 
+One-to-one
+Many-to-one|||One-to-one@@@Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||What method would you use to create a subset of database records?|||Filter
+Add
+Get
+Save|||Filter@@@Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||How do you specify what happens to related objects when an object is deleted?|||Delete foreign key
+delete_related
+Protect
+on_delete |||on_delete @@@Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||Django only requires that model relationships be defined on one side. What is this called?|||Child object
+Forward access
+Singular access
+ Related object|||Forward access
