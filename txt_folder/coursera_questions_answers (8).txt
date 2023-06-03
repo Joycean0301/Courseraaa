@@ -1,0 +1,112 @@
+Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||In the following declaration, what is the type of the variable ‘pi’?
+
+var pi = “3.14”; |||float 
+char 
+number 
+string |||string @@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||How do you define an array called array1 in JavaScript? |||var array1 = [1,2,3] 
+var array1 = new Array[1,2,3] 
+var array1 = (1,2,3) 
+var array1 = new Array((1,2,3)) |||var array1 = [1,2,3] @@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||What does the following statement do?
+
+var ndate = new Date() ; |||Assigns the current local time to ndate 
+Assigns the current Greenwich Mean Time to ndate 
+Assigns an empty string with the properties of dates to ndate
+Returns an error |||Assigns the current local time to ndate @@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||Which DOM function returns a node object matching a div with an id value “example_id”? |||document.getElementById(div, “example_id”) 
+document.getElementById(“example_id”) 
+div.getValueOf(“example_id”) 
+element.getNodeById(“example_id”) |||document.getElementById(“example_id”) @@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||How are numbers converted to strings? |||string(123) 
+(123).toString() 
+(123).string 
+toString(123) |||(123).toString() @@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||What is the value of ‘total’ after the following statement is executed?
+
+var total = 10 + 1 +” 3”;|||“1013”
+14
+“113”
+This results in an error|||“113”@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||What would the alert be, when the following code is executed?
+
+var a = new String(“Hello”);
+
+var b = “Hello”;
+
+if (a ===b){
+
+alert(“Same”);
+
+}else{
+
+alert(“Different”);
+
+}|||Same
+Different
+It would not give any alert as it is an error
+None of the above|||Different@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||Which of the following is the proper way to create a `for` loop?|||loop (for i = minVal; i < maxVal; i++) { … }
+for (var i = minVal; i++; i < maxVal) { … }
+for (i < maxVal) { … }
+for (var i = minVal; i < maxVal; i++) { … }|||for (var i = minVal; i < maxVal; i++) { … }@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||Select all of the following which are properways to add a `color` property to a custom `Car` object. |||Modify the code of the Car object directly to add a `color` parameter in the constructor
+Car.color = “Red”
+Car.prototype(Color, “Red”)
+Car.prototype.color = “Red”|||Modify the code of the Car object directly to add a `color` parameter in the constructor
+Car.prototype.color = “Red”@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJul 2, 11:59 PM +07|||Which of the following is not an event binder in JavaScript?|||onclick
+onhover
+onmouseover
+onload|||onhover

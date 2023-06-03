@@ -1,0 +1,92 @@
+Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||Which of the following statements embeds an image in an HTML document? |||<image>link_to_image</image>
+<figure src=”image URL”>image name</figure>
+<img src=”image URL”>
+<img href=”image URL”>image name</img>|||<img src=”image URL”>@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||When defining a hyperlink (<a>), which attribute is used to specify the destination address? |||src
+target
+href
+ref|||href@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||Which tag CANNOT be used as a container for text? I.e. does not use both an opening <> and closing </> tag|||<br>
+<p>
+<h1>
+<body>|||<br>@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||How are comments written in HTML?|||“””This is a comment”””
+#This is a comment 
+/*This is a comment*/ 
+< !-- This is a comment -- > |||< !-- This is a comment -- > @@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||Which tag is used to denote a cell of data within a table? |||<th> 
+<tc>
+<td>
+<tr>|||<td>@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||Which of the following is NOT an HTML tag?|||<p>
+<!DOCTYPE html>
+<article>
+<li>|||<!DOCTYPE html>@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||What is the <br> tag used for?|||To make text bold
+To change the text color to brown
+To change the border
+To add a line break|||To add a line break@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||Which of the following denotes the least important heading?|||<h1>
+<h6>
+<h10>
+<h5>|||<h6>@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||Which tag is used to create an ordered list? |||<li>
+<ul>
+<ol>
+<orderedlist>|||<ol>@@@Graded Quiz
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 18, 11:59 PM +07|||Which of the following conditions must be met for scripting to be enabled in browsers? Select one or more options.|||The browser supports scripting
+An embedded object is used without the sandbox attribute
+The browser context has the sandboxed browsing context flag set
+The user has not disabled scripting for the current browser context|||The browser supports scripting
+The user has not disabled scripting for the current browser context

@@ -1,0 +1,113 @@
+Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What are the key characteristics of a RESTful API? Select two answers.|||It works on HTTP
+Unique interface for each component
+Stateless communication between client and server
+One API to access all resources|||It works on HTTP
+Stateless communication between client and server@@@Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What does an API Gateway act as?|||A streaming service
+A firewall to protect your microservices
+A load balancer for your hosted services
+An API management tool|||An API management tool@@@Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which syntax is used to make an update request to a product REST API?|||GET /products/114?updatedName=Calendar2023
+PUT /products/114/name/Calendar2023
+POST /products (product data in the body)
+PUT /products/114 (product data in the body)|||PUT /products/114 (product data in the body)@@@Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which type of framework is Flask?|||Database
+Micro web
+Frontend
+REST API|||Micro web@@@Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which one of the following statements is true about communication in a RESTful API?|||Session state is kept entirely on the REST API.
+A request can take advantage of any stored context on the server.
+Each request does not contain all information. 
+Resources are uniquely identified at individual endpoints. |||Resources are uniquely identified at individual endpoints. @@@Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What are the potential drawbacks of an API Gateway? Select two answers.|||Single point of failure
+Bottleneck in scalability
+Exposes the implementation details
+Increases requests to the backend |||Single point of failure
+Bottleneck in scalability@@@Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which specification is followed by Swagger?|||OpenAPI
+SOA
+WebAPI
+GraphQL|||OpenAPI@@@Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which cURL command should be used to query a list of products?|||curl -X 'POST' \
+
+ 'http://127.0.0.1:5000/products' \
+
+ -H 'accept: application/json'
+curl -X 'GET' \
+
+ 'http://127.0.0.1:5000/products' \
+
+ -H 'accept: application/json'
+curl -X 'PATCH' \
+
+ 'http://127.0.0.1:5000/products' \
+
+ -H 'accept: application/json'
+curl -X 'PUT' \
+
+ 'http://127.0.0.1:5000/products' \
+
+ -H 'accept: application/json'|||curl -X 'GET' \
+
+ 'http://127.0.0.1:5000/products' \
+
+ -H 'accept: application/json'@@@Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which HTTP method is used to create new data in a REST API?|||POST
+PUT
+UPDATE
+PATCH|||POST@@@Graded Quiz: Web API Essentials - REST API and GraphQL
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What is the purpose of Postman?|||Uniform interface for different components
+Command line tool to get data
+Tests APIs
+Transfers applications |||Tests APIs
