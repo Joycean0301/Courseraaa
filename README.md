@@ -27,7 +27,7 @@ Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Develop
 
 ## Automatically filled
 
-- Step 1: Put new **json** file contain correct answers into `json_folder` folder.
+- Step 1: Put new **json**(data) file contain correct answers into `...\Courseraaa\json_folder` folder.
 - Step 2: Rename new json path name **url** in file `content2.js`
 
 ![Screenshot from 2023-06-03 00-20-06](https://github.com/Joycean0301/Courseraaa/assets/103662477/eaf4c872-264b-4050-8168-c06a91a54116)
