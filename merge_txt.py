@@ -2,7 +2,6 @@
 import os
 import pandas as pd
 import json
-from datetime import datetime
 
 # Create dataframe
 data = {'Question': [], 'Answer': [], 'Correct': [], 'Title': []}
