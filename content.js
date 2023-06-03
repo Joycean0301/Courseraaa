@@ -20,7 +20,7 @@ document.body.appendChild(button);
 function crawlQuestionsAndAnswers() {
 
   // Check in the right page
-  try{var check_point = document.querySelector('.css-vc2zta').innerText;
+  try{var check_point = document.querySelector('.css-k008qs').innerText;
   
   
   
