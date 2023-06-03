@@ -36,17 +36,13 @@ for ele in list_file_txt:
         data_json.append(temp_dict)
 
 
-current_time = datetime.now()
-formatted_time = current_time.strftime("%d-%m-%Y-%Hh-%Mp-%Ss")
+file_name = str(input('Input subject name: '))
 # Save info to csv file
-df.to_csv(os.path.join('csv_folder',f'{formatted_time}.csv'),index=False)
+df.to_csv(os.path.join('csv_folder',f'{file_name}.csv'),index=False)
 
 # Save info to json file
-json_file_path = os.path.join('json_folder',f'{formatted_time}.json')
+json_file_path = os.path.join('json_folder',f'{file_name}.json')
 with open(json_file_path, 'w') as json_file:
     json.dump(data_json, json_file, indent=4)
 
 print('Merge Complete!!!')
-
-
-        
