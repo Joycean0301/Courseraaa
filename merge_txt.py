@@ -12,7 +12,7 @@ df = pd.DataFrame(data)
 list_file_txt = os.listdir('txt_folder')
 for ele in list_file_txt:
     # Open txt file
-    with open(os.path.join('txt_folder',ele),'r') as file:
+    with open(os.path.join('txt_folder',ele),'r',encoding="utf-8") as file:
         txt_file = file.read()
     
     # Split each question-answer base on @@@
