@@ -21,7 +21,7 @@ for ele in list_file_txt:
     # Passing all question-answer
     for ele in list_QA:
         info = ele.split('|||')
-        title, question, answer, correct = info[0], info[1], info[2], info[3]
+        title, question, answer, correct = info[0], info[1].replace('^^^','\n'), info[2].replace('^^^','\n'), info[3]
         
         # Update to csv file
         df.loc[len(df)] = [question,answer,correct,title]
