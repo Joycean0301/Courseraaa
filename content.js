@@ -33,7 +33,7 @@ function crawlQuestionsAndAnswers() {
   var title = document.querySelector('._11oc718').innerText;
 
   for (var i = 0; i < questions_answers.length; i++) {
-    var point = questions_answers[i].querySelector('.css-1xe0vjc').innerText
+    var point = questions_answers[i].querySelector('.css-1mvreox').innerText
     if (point == '1 / 1 point'){
 
       var question = questions_answers[i].querySelector('.rc-FormPartsQuestion__contentCell').innerText;
