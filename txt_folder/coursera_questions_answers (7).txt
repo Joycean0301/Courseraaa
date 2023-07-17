@@ -1,92 +1,9 @@
-Graded Quiz
+Reflection Exercise
 
-Graded Quiz
+Practice Quiz
 .
- • 20 min
-
-DueJun 25, 11:59 PM +07|||Which of the following ways of applying CSS has the highest priority, and will override the other ways? |||An external CSS file
-Whichever way is specified in the HTML markup
-Inline CSS, placed directly in each HTML element
-Internal CSS, applied within the “<style>” attribute in HTML markup|||Inline CSS, placed directly in each HTML element@@@Graded Quiz
-
-Graded Quiz
+ • 10 min
 .
- • 20 min
-
-DueJun 25, 11:59 PM +07|||Select all of the following which are true in describing a fluid and/or fixed layout.|||Fluid layouts should always be used when designing a website
-Elements in a fluidlayout have flexible widths and heights
-A fixed layoutspecifies element sizes using percentages
-Fixed layouts are independent of screen sizes, and their values do not change|||Elements in a fluidlayout have flexible widths and heights
-Fixed layouts are independent of screen sizes, and their values do not change@@@Graded Quiz
-
-Graded Quiz
-.
- • 20 min
-
-DueJun 25, 11:59 PM +07|||Which of the following tags define a caption for a < fieldset > element? |||<legend>
-<title>
-<label>
-<caption>|||<legend>@@@Graded Quiz
-
-Graded Quiz
-.
- • 20 min
-
-DueJun 25, 11:59 PM +07|||What is a modifier?|||A method used to modify CSS styling applied to an HTML element
-A type of button which allows you to modify content in a form
-A special class modifies the appearance of elements by applying a CSS attribute based on the condition described
-The term used to refer to a JavaScript class which updates content on a webpage|||A special class modifies the appearance of elements by applying a CSS attribute based on the condition described@@@Graded Quiz
-
-Graded Quiz
-.
- • 20 min
-
-DueJun 25, 11:59 PM +07|||Which semantic tag is used to display any content which is indirectlyrelated to the main content of the document?|||<article>
-<section>
-<details>
-<aside>|||<aside>@@@Graded Quiz
-
-Graded Quiz
-.
- • 20 min
-
-DueJun 25, 11:59 PM +07|||Which type of input control would be most apt for selecting heightin a form?|||number
-range
-list
-tel|||number@@@Graded Quiz
-
-Graded Quiz
-.
- • 20 min
-
-DueJun 25, 11:59 PM +07|||Which of the following is a disadvantage of a Component Framework?|||Download size of HTML markup is increased
-It is more difficult to maintain a uniform style throughout the website
-Components are limited only to what the framework provides
-HTML markup is more verbose since styles are mixed with content|||Components are limited only to what the framework provides@@@Graded Quiz
-
-Graded Quiz
-.
- • 20 min
-
-DueJun 25, 11:59 PM +07|||Which tag is used to represent an independent item of content in a document, which can be meaningful on its own? |||<div>
-<article>
-<details>
-<section>|||<article>@@@Graded Quiz
-
-Graded Quiz
-.
- • 20 min
-
-DueJun 25, 11:59 PM +07|||Which element defines a caption for the <figure> element? |||<label> 
-<title> 
-<figcaption> 
-<legend> |||<figcaption> @@@Graded Quiz
-
-Graded Quiz
-.
- • 20 min
-
-DueJun 25, 11:59 PM +07|||Which type of input control can be used to accept only numbers in a form? |||integer
-number
-tel
-digit|||number
+ • 
+1 total point available.
+1 total point|||True or false: PPOs restrict choice for patients more than HMOs.  |||True^^^False|||False

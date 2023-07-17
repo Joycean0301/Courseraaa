@@ -1,91 +1,25 @@
-Graded Quiz
+Knowledge Check
 
-Graded Quiz
+Practice Quiz
 .
- • 20 min
-
-DueJun 18, 11:59 PM +07|||What best describes the network operations that Node.js makes?|||Non-blocked operations return immediately without added processing time on the server
-Non-blocked operations return in a synchronized manner with added processing time on the server
-Applications block every network operation to complete at the same time on the server
-Blocked operations return immediately without added processing time on the server|||Non-blocked operations return immediately without added processing time on the server@@@Graded Quiz
-
-Graded Quiz
+ • 30 min
 .
- • 20 min
+ • 
+3 total points available.
+3 total points|||An ideal randomized controlled clinical trial can produce results with very little bias. However, there are some questions that will never be answered using clinical trials. Think about why that might be true. Do you feel comfortable that such questions will only be addressed using observational data?||||||@@@Knowledge Check
 
-DueJun 18, 11:59 PM +07|||Before the Node.js framework receives the HTTP response message from the remote web server, it immediately returns a result for the http.request function call. What does this result state?|||The callback function was called successfully.
-The response message will be sent successfully.
-A request is in progress.
-The return message will be sent successfully.|||A request is in progress.@@@Graded Quiz
-
-Graded Quiz
+Practice Quiz
 .
- • 20 min
-
-DueJun 18, 11:59 PM +07|||What parameter is optional in an HTTP request?|||Event variable parameter
-Callback function parameter
-Location function parameter
-Resource variable parameter|||Callback function parameter@@@Graded Quiz
-
-Graded Quiz
+ • 30 min
 .
- • 20 min
+ • 
+3 total points available.
+3 total points|||Which of the following questions cannot be answered in a straightforward way by using a knowledge graph?|||Is diabetes mellitus a disease of the endocrine system?^^^Is aspirin an anti-inflammatory medication?^^^How many different kinds of blood tests are there?^^^Has a patient ever taken penicillin to treat bladder cancer? ^^^All of the above could be answered.|||Has a patient ever taken penicillin to treat bladder cancer? @@@Knowledge Check
 
-DueJun 18, 11:59 PM +07|||What object do Node.js modules in the SDK pass as the first parameter in a callback function?|||Identity
-Destination
-Location
-Error|||Error@@@Graded Quiz
-
-Graded Quiz
+Practice Quiz
 .
- • 20 min
-
-DueJun 18, 11:59 PM +07|||What do you pass back in the callback handler to indicate a successful return?|||Null object
-Empty string
-Error
-404 status code|||Null object@@@Graded Quiz
-
-Graded Quiz
+ • 30 min
 .
- • 20 min
-
-DueJun 18, 11:59 PM +07|||Which function calls the resultCallback callback function to return results to the main application?|||http.request()
-aggregate_context()
-result()
-step()|||http.request()@@@Graded Quiz
-
-Graded Quiz
-.
- • 20 min
-
-DueJun 18, 11:59 PM +07|||Why can inversion of control be an issue when using callbacks?|||Inversion of control uses promises which are difficult to implement
-Callbacks sometimes hand over control to third-party code which can make errors hard to identify
-Inversion of control creates the need for nested callbacks
-Inversion of control is used when something needs to be done sequentially which makes code readability difficult|||Callbacks sometimes hand over control to third-party code which can make errors hard to identify@@@Graded Quiz
-
-Graded Quiz
-.
- • 20 min
-
-DueJun 18, 11:59 PM +07|||JSON is the standard format for API data exchange. What relationship does JSON have with Node.js?|||JSON_SET
-Common data model folder
-Standard representation of native JavaScript objects
-Metadata file|||Standard representation of native JavaScript objects@@@Graded Quiz
-
-Graded Quiz
-.
- • 20 min
-
-DueJun 18, 11:59 PM +07|||When an error occurs, which state is the promise at?|||Rejected
-Resolved
-Pending
-Aborted|||Rejected@@@Graded Quiz
-
-Graded Quiz
-.
- • 20 min
-
-DueJun 18, 11:59 PM +07|||The axios package handles HTTP requests in Node.js and returns a promise object. The promise object has a method that is called after the promise completes. What method does the promise object use?|||if
-else
-then
-or|||then
+ • 
+3 total points available.
+3 total points|||Which of the following statements about missing data is true?|||Missing data should be removed from the analysis.^^^Missing data mean that someone made a mistake.^^^The code "NA" is often used to indicate missing data.^^^If missing data are later found, they should automatically be inserted into the dataset at the appropriate location.^^^All of the above statements are true.|||The code "NA" is often used to indicate missing data.

@@ -1,91 +1,25 @@
-Graded Quiz
+Knowledge Check
 
-Graded Quiz
+Practice Quiz
 .
  • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Suppose you developed a rare medical condition and your doctor suggested conducting a data-mining procedure similar to that we discussed for our example patient Laura. How would you feel about using that information to guide your treatment? What else would you want to know?||||||@@@Knowledge Check
 
-DueJun 18, 11:59 PM +07|||What is a State?|||A component’s render function that returns data about an attribute 
-An object that contains information about the component
-A parent component function that takes a string argument 
-A piece of software that passes data between React components |||An object that contains information about the component@@@Graded Quiz
-
-Graded Quiz
+Practice Quiz
 .
  • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Which of the following factors is relevant to assessing if a clinical research question about a disease is useful?|||The number of people the disease killed last year^^^The effectiveness of treatments that exist for that disease^^^The total spending on diagnosis and treatment of that disease^^^The existence of genetic risk factors for the disease^^^All of the above|||All of the above@@@Knowledge Check
 
-DueJun 18, 11:59 PM +07|||What is used to pass data between React components?|||HTML attribute 
-Shared state 
-Prop
-Local state |||Prop@@@Graded Quiz
-
-Graded Quiz
+Practice Quiz
 .
  • 30 min
-
-DueJun 18, 11:59 PM +07|||What do you use to pass data from child components to parent components?|||State 
-Callback
-Method 
-Render |||Callback@@@Graded Quiz
-
-Graded Quiz
 .
- • 30 min
-
-DueJun 18, 11:59 PM +07|||When does a component lifecycle start?|||When components are created or mounted on the DOM 
-When a user clicks the mouse or presses the keyboard 
-When the state of the component first changes 
-When the component is removed from the DOM |||When components are created or mounted on the DOM @@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 18, 11:59 PM +07|||What do you use to pass data from parent components to child components?|||Method 
-State 
-Callback
-Prop|||Prop@@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 18, 11:59 PM +07|||Which function is invoked right after the component is mounted on the DOM?|||componentDidMount 
-Render
-componentWillMount 
-componentWillUnmount |||componentDidMount @@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 18, 11:59 PM +07|||What do you use to make a call to an external server asynchronous?|||Props
-Promises
-State 
-Method|||Promises@@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 18, 11:59 PM +07|||What does the postDataToServer method do?|||Requests all objects in the usercollection destination 
-Sets a component with a user state to “None Logged In” 
-Sends the data to the server and updates the response from the server to the component’s state completionStatus 
-Creates a JSON object and pushes it into the usercollection array |||Sends the data to the server and updates the response from the server to the component’s state completionStatus @@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 18, 11:59 PM +07|||What are the phases of a component test?|||Query, Run, Resolve 
-Arrange, Act, and Assert
-Begin, Revise, Complete 
-Chai, Sinon, and Mocha |||Arrange, Act, and Assert@@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 18, 11:59 PM +07|||What are the two testing approaches?|||Component and end-to-end 
-Mocha and Chai 
-Simulated and authenticated 
-Regression and event |||Component and end-to-end 
+ • 
+3 total points available.
+3 total points|||A researcher collects data about a disease from ten different medical systems. The goal of their research is to form a very large dataset in which they hope to expand what is known about risk factors for the disease. What kind of research question is this?|||Causal^^^Exploratory^^^Predictive^^^Inferential^^^None of the above|||Inferential

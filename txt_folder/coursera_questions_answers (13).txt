@@ -1,91 +1,25 @@
-Graded Quiz
+Knowledge Check
 
-Graded Quiz
+Practice Quiz
 .
  • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Suppose you develop a serious medical condition that definitely requires treatment. What kind of data would you want to use to guide picking a doctor for this? What part of the healthcare system would produce these data?||||||@@@Knowledge Check
 
-DueJun 25, 11:59 PM +07|||Which is an advantage of using Hooks in a React application?|||Code used to write Hooks is complicated
-Hooks enable you to write a functional component without state 
-Hooks can only be called inside React function components 
-You can handle events and logics in functional components without using classes|||You can handle events and logics in functional components without using classes@@@Graded Quiz
-
-Graded Quiz
+Practice Quiz
 .
  • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Which of the following are NOT exposures?|||A list of the patient's medications from five years ago^^^The kinds of foods the patient usually eats^^^The volume of blood lost in the patient's last surgery^^^Whether the patient ever smoked tobacco^^^All of the above are exposures|||All of the above are exposures@@@Knowledge Check
 
-DueJun 25, 11:59 PM +07|||Which standard Hook is used to manage Redux state changes?|||useReducer
-useState
-useContext
-useEffect|||useReducer@@@Graded Quiz
-
-Graded Quiz
+Practice Quiz
 .
  • 30 min
-
-DueJun 25, 11:59 PM +07|||What is a characteristic of an uncontrolled input?|||Props take current value and notify changes 
-A parent component controls the changes
-Allows the browser to handle most of the form elements 
-Functions govern passing of data |||Allows the browser to handle most of the form elements @@@Graded Quiz
-
-Graded Quiz
 .
- • 30 min
-
-DueJun 25, 11:59 PM +07|||What helps developers in developing a React application using Redux?|||Redux enhances the state prediction factor 
-Redux reloads the whole page when state changes  
-In Redux, individual components handle their own state 
-Redux helps in creating user interface elements|||Redux enhances the state prediction factor @@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 25, 11:59 PM +07|||In which application scenarios is Redux used?|||Big application where state needs to be managed
-In an application where all props associated to a component are utilized
-Only in local applications to manage state of components
-In applications with single state mapping to a single container component|||Big application where state needs to be managed@@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 25, 11:59 PM +07|||What are Actions?|||An object that updates the store 
-An object that performs changes to the application state
-An object that contains the current Redux application state 
-An object that stores information about the user event|||An object that stores information about the user event@@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 25, 11:59 PM +07|||What is the function of the store?|||A Store can dispatch and receive actions 
-A store can perform any changes to the application state 
-A store contains a type field
-A store describes what happened |||A Store can dispatch and receive actions @@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 25, 11:59 PM +07|||Why is middleware required in Redux React applications?|||To restore the synchronous data flow 
-To use asynchronous operations
-To make actions faster
-To compute the new state|||To use asynchronous operations@@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 25, 11:59 PM +07|||Which middleware uses ES6 Generators to enable async operations?|||Thunk
-Promise-based
-Async/Await
-Saga|||Saga@@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 25, 11:59 PM +07|||Which element in the Redux data flow generates the modified state based on the dispatched action?|||Reducer 
-UI
-Store
-Action creator|||Reducer 
+ • 
+3 total points available.
+3 total points|||Which of the following is NOT an advantage of using observational data?|||Observational datasets can be very large, and capture rare events.^^^Observational datasets have few biases. ^^^Observational datasets contain data about actual patterns of clinical practice.^^^Observational datasets may be available at low additional cost.^^^All of the above are advantages.|||Observational datasets have few biases. 

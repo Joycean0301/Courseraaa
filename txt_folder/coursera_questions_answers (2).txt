@@ -1,96 +1,145 @@
-Module 3 Graded Quiz
+Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||Each Cloud Region can have multiple Zones (also known as Availability Zones). What are Zones?|||Single shared point of failure 
-Geographic area or region where cloud provider’s infrastructure is clustered
-Unique physical locations with one or more data centers 
-Standardized containers of computing resources|||Unique physical locations with one or more data centers @@@Module 3 Graded Quiz
+DueSep 3, 11:59 PM +07|||Which of the following would NOT lead to an increase in the risk facing a population?|||Expanding employment opportunities that lead to an increase in per-capita income^^^The arrival of a costly drug that offered a new opportunity to treat a previously untreatable condition^^^The creation of new surgical techniques that replace earlier less expensive techniques^^^Building more hospitals, and an accompanying increase in the probability that a person will be hospitalized|||Expanding employment opportunities that lead to an increase in per-capita income@@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||Is it possible to run completely different operating systems on Virtual Machines (VMs) that are on a single host? If yes, what makes this possible?|||No, it is not possible—VMs are software-based versions of a single host. They cannot have different environments from one another. 
-No, it is not possible—A single host can only work as one single virtual environment, and can, therefore, have only one environment. 
-Yes, Virtualization makes it possible— to have VMs, running different operating systems, on a single host. 
-Yes, Containerization makes it possible—to have VMs that are unique physical entities, so you can have completely different Operating Systems on them. |||Yes, Virtualization makes it possible— to have VMs, running different operating systems, on a single host. @@@Module 3 Graded Quiz
+DueSep 3, 11:59 PM +07|||Which of the following is FALSE regarding insurance or intermediaries? |||In the US, the most common way people get insurance is through their employer. ^^^Insurance companies and government programs are two different types of intermediaries. ^^^If you are a healthy person in a risk pool with people of a range of health statuses (i.e. sick and healthy individuals), your premium will likely be higher than your expected spending. ^^^Private insurance can only be obtained through an employer. |||Private insurance can only be obtained through an employer. @@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||Which of the following are examples of single-tenant compute environments in the Cloud? Select two.|||Transient virtual servers 
-Bare Metal servers
-Reserved virtual server 
-Dedicated host |||Bare Metal servers
-Dedicated host @@@Module 3 Graded Quiz
+DueSep 3, 11:59 PM +07|||Which of the following is FALSE regarding healthcare delivery organizations such as physician practices or hospitals in the US?|||Healthcare delivery organizations can be operated by the government.^^^Essentially all delivery organizations are a part of a physician practice or a hospital^^^Both non-profit and for-profit organizations face economic pressures.^^^Physician practices and the facilities in which physicians provide services are always integrated into the same organization.|||Physician practices and the facilities in which physicians provide services are always integrated into the same organization.@@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||Which of these scenarios is ideal for the use of bare metal servers, as opposed to virtual servers? Select two.|||CPU and I/O intensive workloads
-Workloads that require limited throughput and performance 
-Huge performance and strict security and compliance requirements 
-Low cost to use |||CPU and I/O intensive workloads
-Huge performance and strict security and compliance requirements @@@Module 3 Graded Quiz
+DueSep 3, 11:59 PM +07|||A 50-year-old woman goes to her doctor for her annual physical exam. At the visit, she receives a mammogram and her annual influenza shot. Which level of care does this represent?|||Tertiary^^^Quaternary^^^Secondary^^^Primary|||Primary@@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||What are some key differences between Containers and Virtual Machines? Select two.|||Even though each container uses the same OS as the host OS, it still needs to have its own copy of the OS, while a virtual machine leverages the resources of the host OS 
-Containers are executable units of software while each virtual machine is a distinct physical entity 
-Containers are more lightweight as compared to virtual machines 
-Containers can use the same OS as the host, while a virtual machine needs its own copy of the OS, which can also be different from the host OS |||Containers are more lightweight as compared to virtual machines 
-Containers can use the same OS as the host, while a virtual machine needs its own copy of the OS, which can also be different from the host OS @@@Module 3 Graded Quiz
+DueSep 3, 11:59 PM +07|||Which of the following regarding rising healthcare costs over time is true?|||This trend is only found in the United States.^^^Rising costs are easily justified because they almost always result from using expensive new technologies that end up improving population health outcomes.^^^While the total amount of spending on healthcare in the US is increasing, the percent GDP spent on healthcare is not.^^^Aging of the population, increasing standards of living, and the adoption of new technologies, have all contributed to spending growth.|||Aging of the population, increasing standards of living, and the adoption of new technologies, have all contributed to spending growth.@@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||There are four types of cloud storage available. Which storage type is ephemeral or non-persistent?|||Direct Attached storage
-File storage 
-Block storage 
-Object storage |||Direct Attached storage@@@Module 3 Graded Quiz
+DueSep 3, 11:59 PM +07|||Which of the following is true about physician practices?|||Compared to large practices, small practices are more likely to be single-specialty^^^Compared to large practices, small practices are more likely have multiple locations^^^Compared to large practices, small practices tend to offer more in-house laboratory services^^^Compared to large practices, small practices are more likely to have more sophisticated EHR systems|||Compared to large practices, small practices are more likely to be single-specialty@@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||What makes File storage an ideal solution for scenarios where shared storage is needed?|||File storage can be mounted on multiple compute nodes at the same time 
-Mounted from remote storage appliances 
-Its consistently high speed 
-File Storage is mounted to compute nodes via an ethernet network|||File storage can be mounted on multiple compute nodes at the same time @@@Module 3 Graded Quiz
+DueSep 3, 11:59 PM +07|||Which of the following is MOST likely to incentivize health care providers to over-utilize medical care?|||Fee for service payment system^^^Paying physicians a salary^^^Using “supply-side” tools such as gatekeepers^^^Capitation payment system^^^Increasing the number of expensive but not readily accessible diagnostic tools and services|||Fee for service payment system@@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||Which of these scenarios are best suited for Block Storage? Select two.|||Low cost is a consideration
-Applications that need consistent fast access to disk, such as databases 
-Workloads that need low-latency storage
-Workloads that need disk sharing between compute nodes |||Applications that need consistent fast access to disk, such as databases 
-Workloads that need low-latency storage@@@Module 3 Graded Quiz
+DueSep 3, 11:59 PM +07|||Which of the following does NOT accurately describe the Medicare Fee Schedule?|||Details about it are available for public use ^^^It was developed by private insurance companies^^^It is weighted in part by both the work a physician puts into a given procedure as well as the risk a physician undertakes in doing that procedure^^^It is updated from time to time|||It was developed by private insurance companies@@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||Which of these are features of Object Storage? Select two.|||Object storage is effectively infinite 
-Storage is attached to compute nodes using a fibre network
-Object Storage can be mounted on multiple compute nodes via an ethernet network 
-You can directly use Object Storage without attaching it to a compute node|||Object storage is effectively infinite 
-You can directly use Object Storage without attaching it to a compute node@@@Module 3 Graded Quiz
+DueSep 3, 11:59 PM +07|||Which of the following best represents an episode-based payment?|||Medicare reimburses a hospital a fixed amount for a total knee replacement^^^Medicaid reimburses a physician a fixed amount to care for a panel of patients over a given time period^^^An independent practice association rewards its member groups based on how many new patient visits they bring to the practice ^^^An urgent care physician reimburses her administrative assistant for every clinic shift he works|||Medicare reimburses a hospital a fixed amount for a total knee replacement@@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||What is the main benefit of a Content Delivery Network (CDN)?|||Enhanced control over network traffic by routing traffic to specified resources 
-Speed, it makes your website faster by serving files from a location closer to the user. 
-Distribute tasks, workloads, and network traffic
-Network topology |||Speed, it makes your website faster by serving files from a location closer to the user. 
+DueSep 3, 11:59 PM +07|||Which of the following is true regarding the US healthcare system?|||Patients can only see physicians within the same practice so that all of their data is streamlined into one EHR record^^^Larger practices are more likely to have complete patient data than smaller practices^^^When payment records are used, those from capitation systems are more useful than those from fee-for-service systems in assessing care utilization^^^Payment records are not a useful source of data, as they often do not accurately reflect the amount of care given to a patient|||Larger practices are more likely to have complete patient data than smaller practices@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Hospitals in the US can:|||Operate on a for-profit or a not-for-profit basis^^^Be publicly or privately owned^^^Be teaching or non-teaching^^^Have or lack an emergency department (ED)^^^Have or lack an intensive care unit (ICU)^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following accurately describes a hospital network, in the context of U.S. health insurance?|||All hospitals within the same geographic area^^^The group of physicians with admitting privileges at a hospital^^^A group of hospitals with whom an insurer works, and whose enrollees are encouraged to use^^^None of the above|||A group of hospitals with whom an insurer works, and whose enrollees are encouraged to use@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following does NOT accurately match a hospital reimbursement term with a description?|||Global budget, Medicaid reimburses a hospital for every treatment a patient receives during the length of her stay ^^^Per diem, Medicare reimburses a hospital for each day a patient is admitted^^^Fee-for-service, An insurance company reimburses a hospital for each laboratory service given to a patient^^^Prospective payment, Medicare reimburses a hospital a fixed amount for a patient admitted with a diagnosis of pneumonia, regardless of the care received |||Global budget, Medicaid reimburses a hospital for every treatment a patient receives during the length of her stay @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||True of False? It is possible for the physician portion of a payment to be paid via a different mechanism (e.g. fee-for-service) than the facility portion.|||True^^^False|||True@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which payment system transfers the most risk to providers?|||Per-diem^^^DRG system^^^Fee-for-service^^^Global budgets|||Global budgets@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Consider a person who has a very high expected medical spending for a year. They don’t have a preference for what providers they see, and their only priority is to get their care for the lowest cost possible (cost considers both the premium and out-of-pocket payments). Based on this information alone, what type of health insurance plan might they most likely prefer?|||Health Maintenance Organization (HMO) ^^^High Deductible Health Plan (HDHP)^^^Traditional Indemnity ^^^Preferred Provider Organization (PPO) |||Traditional Indemnity @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following INCORRECTLY pairs a tool used by intermediaries with an example of its use?|||Tiered formulary- an insurance company requires a smaller copayment from patients when they use the drugs preferred by the company, usually generic drugs. ^^^Case management- an insurance company works with doctors to ensure that a patient receives appropriate follow-up care after returning home from a hospitalization. ^^^Utilization review- an insurance company asks for a second physician’s opinion before approving a patient’s surgery. ^^^Pre-admission review- prior to surgery, an insurance company requires that a patient get approval for a hospital stay following surgery, or else the company will not pay for the hospitalization. |||Case management- an insurance company works with doctors to ensure that a patient receives appropriate follow-up care after returning home from a hospitalization. @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is true regarding public and private health insurance?|||Countries have either public insurance or private insurance options, but not both^^^If a government decides to act as a public intermediary, it can decide what type of plan to act most like (e.g. HMO, PPO)^^^Individual private insurance companies in the US each offer one type of product (e.g. HMO, PPO)^^^Within the private insurance market in the US, is uncommon for people to need to buy separate coverage for things like optometry or dental care|||If a government decides to act as a public intermediary, it can decide what type of plan to act most like (e.g. HMO, PPO)@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following does NOT accurately describe Medicaid?|||Medicaid is a government-run program that covers low-income people^^^Though the Federal government oversees some aspects of Medicaid, a different Medicaid program is operated by each state^^^Medicaid is the only public insurance program in the US with broad coverage for long-term care^^^Most people enrolled in Medicaid have traditional indemnity style insurance coverage|||Most people enrolled in Medicaid have traditional indemnity style insurance coverage@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is regulated by the FDA?|||Prescription drugs^^^Over-the-counter drugs^^^Medical devices^^^Biologic products^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is true of generic drugs?|||They are generally made by the same manufacturer as the branded drug^^^They are allowed to be close to but not the exact chemical composition as the branded drug^^^Once they enter the market, the branded drug is no longer sold^^^They go through a different FDA approval process than the original branded drug|||They go through a different FDA approval process than the original branded drug@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||You are a drug company finishing your New Drug Application with the US FDA for a newly discovered treatment for Crohn’s disease. You received a 20-year patent in 2012 for your drug, and you are expecting your NDA approval in 2020. Based on this information, how many years will you have with your drug on the market before a generic is able to enter the market as a competitor?|||11 years ^^^8 years ^^^25 years ^^^20 years ^^^12 years |||12 years @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following are potential uses of quality data?|||Monitoring and improvement of care^^^Public reporting in order to incentivize future quality improvements and assist patients in provider selection^^^Designing better pay-for-performance metrics^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is NOT an example of an outcome measure?|||Hospital mortality rates^^^Hospital readmission rates^^^Percentage of providers appropriately credentialed ^^^Patient-reported outcomes|||Percentage of providers appropriately credentialed 

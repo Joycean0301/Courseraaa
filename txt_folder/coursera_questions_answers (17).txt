@@ -1,74 +1,25 @@
-Module 1 Graded Quiz
+Knowledge Check
 
-Graded Quiz
+Practice Quiz
 .
- • 27 min
-
-DueJun 11, 11:59 PM +07|||What is the value of x after the following lines of code?
-
-x=1
-
-x=x+1|||1
-2
-4|||2@@@Module 1 Graded Quiz
-
-Graded Quiz
+ • 30 min
 .
- • 27 min
+ • 
+3 total points available.
+3 total points|||Currently, rule-based phenotypes are constructed by groups of medical experts. The phenotypes are used by computers as discussed throughout this module. Can you think about how these rules could be used in medical education to train future clinicians?||||||@@@Knowledge Check
 
-DueJun 11, 11:59 PM +07|||What is the result of the following operation 3+2*2 ?|||3
-7
-9|||7@@@Module 1 Graded Quiz
-
-Graded Quiz
+Practice Quiz
 .
- • 27 min
-
-DueJun 11, 11:59 PM +07|||What is the result of the following code segment: type(int(12.3))|||int
-str
-float |||int@@@Module 1 Graded Quiz
-
-Graded Quiz
+ • 30 min
 .
- • 27 min
+ • 
+3 total points available.
+3 total points|||Which of the following statements is true?|||A feature is the same thing as a phenotype.^^^A timeline is an important input to the electronic phenotyping process.^^^An electronic phenotype is the same as a diagnosis code.^^^Blood pressure is a good example of a phenotype.^^^None of these are true.|||A timeline is an important input to the electronic phenotyping process.@@@Knowledge Check
 
-DueJun 11, 11:59 PM +07|||What is the result of the following code segment: int(True)|||1
-0
-error|||1@@@Module 1 Graded Quiz
-
-Graded Quiz
+Practice Quiz
 .
- • 27 min
-
-DueJun 11, 11:59 PM +07|||In Python, what is the result of the following operation: '1'+'2' ?|||3
-'3'
-'12'|||'12'@@@Module 1 Graded Quiz
-
-Graded Quiz
+ • 30 min
 .
- • 27 min
-
-DueJun 11, 11:59 PM +07|||What is the result of the following: 'hello'.upper() ?|||'HELLO' 
- 'Hello'
-'hello'|||'HELLO' @@@Module 1 Graded Quiz
-
-Graded Quiz
-.
- • 27 min
-
-DueJun 11, 11:59 PM +07|||What is the result of the following : str(1)+str(1) ?|||'11'
-2|||'11'@@@Module 1 Graded Quiz
-
-Graded Quiz
-.
- • 27 min
-
-DueJun 11, 11:59 PM +07|||What is the result of the following: "ABC".replace("AB", "ab") ?|||'abC' 
-'ABc'|||'abC' @@@Module 1 Graded Quiz
-
-Graded Quiz
-.
- • 27 min
-
-DueJun 11, 11:59 PM +07|||In Python 3, what is the type of the variable x after the following: x=1/1 ?|||float
-int|||float
+ • 
+3 total points available.
+3 total points|||Which of the following elements of the electronic medical record could be part of an electronic phenotype?|||A feature in a chest x-ray^^^Their resting heart rate at last clinic visit^^^The most recent measurement of HbA1c (glycosylated hemoglobin)^^^The patient's weight^^^All of the above|||All of the above

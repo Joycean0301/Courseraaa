@@ -1,240 +1,145 @@
-Module 3 Graded Quiz
+Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||What is the output of the following code?
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-x="Go"
- 
-if(x=="Go"):
- 
-  print('Go ')
- 
-else:
- 
-  print('Stop')
- 
-print('Mike')|||Go Mike
-Mike
-Stop Mike|||Go Mike@@@Module 3 Graded Quiz
+DueSep 10, 11:59 PM +07|||A researcher wants to use the electronic medical record to list all of the comorbid conditions that were diagnosed in patients who died from pneumonia in the year 2015. What kind of research question is this?|||descriptive^^^causal^^^inferential^^^predictive^^^exploratory|||descriptive@@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||What is the result of the following lines of code?
-
-1
-2
-x=1
-x>-5|||True
-False|||True@@@Module 3 Graded Quiz
+DueSep 10, 11:59 PM +07|||Which of the following factors is relevant to assessing if a clinical research question about a disease is useful?|||The number of people the disease killed last year^^^The effectiveness of treatments that exist for that disease^^^The total spending on diagnosis and treatment of that disease^^^The existence of genetic risk factors for the disease^^^All of the above|||All of the above@@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||What is the output of the following few lines of code?
-
-1
-2
-3
-4
-x=0
-while(x<2):
-    print(x)
-    x=x+1   |||0
-
-1
-0
-
-1
-
-2
-0
-
-1
-
-3
-
-4|||0
-
-1@@@Module 3 Graded Quiz
+DueSep 10, 11:59 PM +07|||A researcher collects data about a disease from ten different medical systems. The goal of their research is to form a very large dataset in which they hope to expand what is known about risk factors for the disease. What kind of research question is this?|||Causal^^^Exploratory^^^Predictive^^^Inferential^^^None of the above|||Inferential@@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||What is the result of running the following lines of code ?
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-class Points(object):
-  def __init__(self,x,y):
- 
-    self.x=x
-    self.y=y
- 
-  def print_point(self):
- 
-    print('x=',self.x,' y=',self.y)
- 
-p1=Points(1,2)
-p1.print_point()|||x=1; 
- x=1 y=2
-y=2||| x=1 y=2@@@Module 3 Graded Quiz
+DueSep 10, 11:59 PM +07|||Why did clinical researchers use electronic medical record data to guide treatment for our example patient Laura?|||Laura was not an adult, and only adults are studied in clinical trials.^^^Too little was known about the particular combination of medical conditions Laura had.^^^Laura might have accidentally taken the wrong medication.^^^Laura's doctors were not sure about her diagnosis.^^^Some information about Laura's prior treatment was not available at the time her condition worsened.|||Too little was known about the particular combination of medical conditions Laura had.@@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||What is the output of the following few lines of code?
-
-1
-2
-for i,x in enumerate(['A','B','C']):
-    print(i,2*x)|||0 AA
-
-1 BB
-
-2 CC
-0 A
-
-1 B
-
-2 C
-0 A
-
-2 B
-
-4 C|||0 AA
-
-1 BB
-
-2 CC@@@Module 3 Graded Quiz
+DueSep 10, 11:59 PM +07|||What is the first step in the data mining workflow?|||Design the data extraction process carefully.^^^Interview clinicians about their workflow.^^^Conduct a survey of available data sources.^^^See which diseases kill the most people.^^^Write a preliminary version of the clinical research question |||Write a preliminary version of the clinical research question @@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||What is the result of running the following lines of code ?
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-class Points(object):
-  def __init__(self,x,y):
- 
-    self.x=x
-    self.y=y
- 
-  def print_point(self):
- 
-    print('x=',self.x,' y=',self.y)
- 
-p2=Points(1,2)
- 
-p2.x=2
- 
-p2.print_point()||| x=2 y=2
- x=1 y=2
- x=1 y=1||| x=2 y=2@@@Module 3 Graded Quiz
+DueSep 10, 11:59 PM +07|||Which of the following statements about clinical data is true?|||Signals are structured data, because they are sampled at regularly occurring time points.^^^Observational data are usually quite expensive to obtain because they large.^^^Because they are created by clinicians, electronic medical record data are always more accurate than insurance records.^^^The primary product of randomized controlled clinical trials is observational data.^^^None of the above are true |||None of the above are true @@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||Consider the function delta, when will the function return a value of 1?
-
-1
-2
-3
-4
-5
-6
-def delta(x):
-  if x==0:
-    y=1
-  else:
-    y=0
-  return(y)||| When the input is anything but 0
- When the input is 1
- Never
- When the input is 0||| When the input is 0@@@Module 3 Graded Quiz
+DueSep 10, 11:59 PM +07|||Which of the following is NOT an advantage of using observational data?|||Observational datasets can be very large, and capture rare events.^^^Observational datasets have few biases. ^^^Observational datasets contain data about actual patterns of clinical practice.^^^Observational datasets may be available at low additional cost.^^^All of the above are advantages.|||Observational datasets have few biases. @@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||What is the output of the following lines of code?
-
-1
-2
-3
-4
-5
-6
-7
-8
-a=1
- 
-def do(x):
-    a=100
-    return(x+a)
- 
-print(do(1))
- |||2
-101
-102|||101@@@Module 3 Graded Quiz
+DueSep 10, 11:59 PM +07|||Which of the following is true about observational data?|||Observational datasets provide complete coverage of a patient's medical treatment.^^^Observational datasets all use the same standard format.^^^Observational datasets can contain biases. ^^^Observational data make it easy to infer causes of diseases.^^^None of the above are true.|||Observational datasets can contain biases. @@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||Write a function name add that takes two parameter a and b, then return the output of  a + b (Do not use any other variable! You do not need to run it. Only write the code about how you define it.)||||||@@@Module 3 Graded Quiz
+DueSep 10, 11:59 PM +07|||Which of the following are NOT exposures?|||A list of the patient's medications from five years ago^^^The kinds of foods the patient usually eats^^^The volume of blood lost in the patient's last surgery^^^Whether the patient ever smoked tobacco^^^All of the above are exposures|||All of the above are exposures@@@Final Assessment
 
 Graded Quiz
 .
- • 30 min
+ • 1h
 
-DueJun 25, 11:59 PM +07|||Why is it best practice to have multiple except statements with each type of error labeled correctly?|||Ensure the error is caught so the program will terminate
-In order to know what type of error was thrown and the
-location within the program
-To skip over certain blocks of code during execution
-It is not necessary to label errors|||In order to know what type of error was thrown and the
-location within the program
+DueSep 10, 11:59 PM +07|||Which of the following is NOT an example of non-stationarity?|||A patient's data were collected in 2010, but not analyzed until 2013.^^^In the US, the rates of stomach cancer have decreased over time.^^^There are more medications available now than 40 years ago.^^^The Internet makes it easier for people to submit reports about adverse events from medications they have taken.^^^Electronic medical record systems were deployed at different medical centers in different years.|||A patient's data were collected in 2010, but not analyzed until 2013.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements about timescales is true?|||Data from shorter timescales are necessarily more accurate.^^^A timeline is a kind of timescale.^^^The best timescale for studying cancer is minutes.^^^The best timescale for making predictions about who will be discharged from the hospital is years.^^^None of the above are true.|||None of the above are true.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements is false?|||Machines in the intensive care unit can generate regularly-sampled time-series data.^^^Although we treat patients only when they are sick, the increased amount of data we collect can correct for any bias.^^^Knowing when a test was ordered can be useful, even if we do not know the result of the test.^^^A patient timeline typically contains all the clinical data for that patient.^^^All of these statements are true.|||Although we treat patients only when they are sick, the increased amount of data we collect can correct for any bias.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of these statements is true?|||Most medical events are recorded at evenly spaced intervals.^^^An indicator variable marks what test was ordered, but not when.^^^The meaning of the ordering of clinical events, such as "A before B," is always clear.^^^A bin is usually used for data that don't fit anywhere else on the timeline.^^^None of these statements are true.|||None of these statements are true.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||As part of addressing your clinical research question, you need to write software that looks up names for diseases. Which of the following knowledge graphs would you choose for this?|||Current Procedural Terminology (CPT)^^^Logical Observation Identifiers Names and Codes (LOINC)^^^Anatomic Therapeutic Chemical Classification System (ATC)^^^Unified Medical Language System (UMLS)^^^None of the above are a good choice.|||Unified Medical Language System (UMLS)@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following questions cannot be answered in a straightforward way by using a knowledge graph?|||Is diabetes mellitus a disease of the endocrine system?^^^Is aspirin an anti-inflammatory medication?^^^How many different kinds of blood tests are there?^^^Has a patient ever taken penicillin to treat bladder cancer? ^^^All of the above could be answered.|||Has a patient ever taken penicillin to treat bladder cancer? @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements about missing data is true?|||Missing data should be removed from the analysis.^^^Missing data mean that someone made a mistake.^^^The code "NA" is often used to indicate missing data.^^^If missing data are later found, they should automatically be inserted into the dataset at the appropriate location.^^^All of the above statements are true.|||The code "NA" is often used to indicate missing data.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements about features is false?|||The unit of analysis determines what goes in the rows of a patient-feature matrix.^^^An indicator variable is used to mark patients who forget to take their medications.^^^The patient-feature matrix is a two-dimensional array that contains numbers representing measurements, counts, and other feature values.^^^To answer most clinical research questions, we would expect the unit of analysis to be the patient.^^^All of the above statements are false.|||An indicator variable is used to mark patients who forget to take their medications.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements is false?|||Clinical text is written in grammatical English.^^^Clinical text contains the same information as is in billing codes.^^^Clinical text is primarily written to be read by patients.^^^Clinical text usually uses the full name of a medication.^^^All of the above are false.|||All of the above are false.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements is false?|||A photograph of a patient's face is a medical image.^^^Some kinds of medical imaging are not hazard-free.^^^Detecting physiochemical activity is an example of functional imaging.^^^An EKG depicts the movement of the wall of the heart.^^^All of the above are true.|||An EKG depicts the movement of the wall of the heart.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is an example of the present, positive mention of a medical term?|||The patient has never tried riluzole.^^^The patient reports having rheumatic fever at age 5.^^^There is no family history of any kind of cancer.^^^The patient developed an allergic reaction to penicillin, so stopped taking it.^^^None of the above are present, positive mentions.|||None of the above are present, positive mentions.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is NOT considered protected health information (PHI)?|||The patient's email address^^^A photograph of the patient's left wrist^^^The full name of the patient's roommate^^^None of the above are PHI.^^^All of the above are PHI.|||A photograph of the patient's left wrist@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements is true?|||A feature is the same thing as a phenotype.^^^A timeline is an important input to the electronic phenotyping process.^^^An electronic phenotype is the same as a diagnosis code.^^^Blood pressure is a good example of a phenotype.^^^None of these are true.|||A timeline is an important input to the electronic phenotyping process.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements is true?|||A rule-based phenotype is easy to interpret because it is always represented in English.^^^A rule-based phenotype is usually easier to understand than a probabilistic phenotype. ^^^Electronic phenotyping is best done independent of the clinical research question.^^^Probabilistic phenotypes are built out of inclusion and exclusion criteria.^^^All of the above are true.|||A rule-based phenotype is usually easier to understand than a probabilistic phenotype. @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following elements of the electronic medical record could be part of an electronic phenotype?|||A feature in a chest x-ray^^^Their resting heart rate at last clinic visit^^^The most recent measurement of HbA1c (glycosylated hemoglobin)^^^The patient's weight^^^All of the above|||All of the above

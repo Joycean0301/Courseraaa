@@ -1,94 +1,25 @@
-Graded Quiz
+Knowledge Check
 
-Graded Quiz
+Practice Quiz
 .
  • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Which of the following is true about physician practices?|||Compared to large practices, small practices are more likely have multiple locations^^^Compared to large practices, small practices are more likely to have more sophisticated EHR systems^^^Compared to large practices, small practices tend to offer more in-house laboratory services^^^Compared to large practices, small practices are more likely to be single-specialty|||Compared to large practices, small practices are more likely to be single-specialty@@@Knowledge Check
 
-DueJun 11, 11:59 PM +07|||What is an API?|||A version control system used to manage your code
-A practice for dev-ops teams enabling developers to deliver frequent changes reliably
-A framework which dictates the architecture of your program and controls the program flow
-Code that works with data and provides a mechanism for software to access resources from the back-end|||Code that works with data and provides a mechanism for software to access resources from the back-end@@@Graded Quiz
-
-Graded Quiz
+Practice Quiz
 .
  • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Which of the following is true regarding the US healthcare system?|||Larger practices are more likely to have complete patient data than smaller practices^^^Patients can only see physicians within the same practice so that all of their data is streamlined into one EHR record^^^Payment records are not a useful source of data, as they often do not accurately reflect the amount of care given to a patient^^^When payment records are used, those from capitation systems are more useful than those from fee-for-service systems in assessing care utilization|||Larger practices are more likely to have complete patient data than smaller practices@@@Knowledge Check
 
-DueJun 11, 11:59 PM +07|||When a user tries to login to a website, he/she gets an authentication failure error. Who do you think can fix this error? (Select all that apply)|||Back-end Developer
-Full-stack Developer
-Front-end Developer |||Back-end Developer
-Full-stack Developer@@@Graded Quiz
-
-Graded Quiz
+Practice Quiz
 .
  • 30 min
-
-DueJun 11, 11:59 PM +07|||In addition to SQL, which tool can help you access databases?|||npm
-ORM
-pip
-CI/CD|||ORM@@@Graded Quiz
-
-Graded Quiz
 .
- • 30 min
-
-DueJun 11, 11:59 PM +07|||Build automation can automate which of the following tasks?  (Select all that apply)|||Downloading dependencies
-Packaging binary code
-Compiling binary code into source code
-Running tests and deployment to production systems|||Downloading dependencies
-Packaging binary code
-Running tests and deployment to production systems@@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 11, 11:59 PM +07|||A user has complained that the website is readable on desktop but not on mobile. Who can help solve this problem?||| Back-end Developer
-Front-end Developer|||Front-end Developer@@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 11, 11:59 PM +07|||Which of the following describe a package manager?  (Select all that apply)|||Contains application files, instructions for installation, and metadata
-A way to distribute your pre-packaged application(s)
-Takes care of finding, installing, maintaining or uninstalling software packages|||A way to distribute your pre-packaged application(s)
-Takes care of finding, installing, maintaining or uninstalling software packages@@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 11, 11:59 PM +07|||Which of the following adds interactivity and dynamic content to a website?|||JavaScript
-Git
-HTML
-CSS|||JavaScript@@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 11, 11:59 PM +07|||Which of these is an open-source server side platform built on the Google Chrome JavaScript engine and uses an asynchronous single threaded architecture that allows it to serve a very large number of concurrent connections?|||Node.js
-React JS 
- Angular
-Flask|||Node.js@@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 11, 11:59 PM +07|||Which of the following frameworks and libraries are used for front-end? (Select all that apply)|||Express
-Node.js
-Angular
-Vue.js
-React.js|||Angular
-Vue.js
-React.js@@@Graded Quiz
-
-Graded Quiz
-.
- • 30 min
-
-DueJun 11, 11:59 PM +07|||Which of the following is NOT a required skill for a front-end developer?|||HTML
-Java
-CSS
-JavaScript|||Java
+ • 
+3 total points available.
+3 total points|||Which of the following does NOT accurately describe the Medicare Fee Schedule?|||It is weighted in part by both the work a physician puts into a given procedure as well as the risk a physician undertakes in doing that procedure^^^Details about it are available for public use ^^^It is updated from time to time^^^It was developed by private insurance companies|||It was developed by private insurance companies

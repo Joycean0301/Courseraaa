@@ -1,0 +1,762 @@
+[
+    {
+        "Question": "Which of the following is true about physician practices?",
+        "Answer": [
+            "Compared to large practices, small practices are more likely have multiple locations\n\nCompared to large practices, small practices are more likely to have more sophisticated EHR systems\n\nCompared to large practices, small practices tend to offer more in-house laboratory services\n\nCompared to large practices, small practices are more likely to be single-specialty"
+        ],
+        "Correct": [
+            "Compared to large practices, small practices are more likely to be single-specialty"
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Which of the following is true regarding the US healthcare system?",
+        "Answer": [
+            "Larger practices are more likely to have complete patient data than smaller practices\n\nPatients can only see physicians within the same practice so that all of their data is streamlined into one EHR record\n\nPayment records are not a useful source of data, as they often do not accurately reflect the amount of care given to a patient\n\nWhen payment records are used, those from capitation systems are more useful than those from fee-for-service systems in assessing care utilization"
+        ],
+        "Correct": [
+            "Larger practices are more likely to have complete patient data than smaller practices"
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Which of the following does NOT accurately describe the Medicare Fee Schedule?",
+        "Answer": [
+            "It is weighted in part by both the work a physician puts into a given procedure as well as the risk a physician undertakes in doing that procedure\n\nDetails about it are available for public use \n\nIt is updated from time to time\n\nIt was developed by private insurance companies"
+        ],
+        "Correct": [
+            "It was developed by private insurance companies"
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Consider what is likely to have been written about you in all the clinical notes from your visits to clinics and hospitals. What kinds of information are you most concerned about being exposed to the public? Are you convinced that the methods discussed in this module would work to protect your privacy while still producing useful features?",
+        "Answer": [
+            ""
+        ],
+        "Correct": [
+            ""
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Which of the following statements is false?",
+        "Answer": [
+            "A photograph of a patient's face is a medical image.\n\nSome kinds of medical imaging are not hazard-free.\n\nDetecting physiochemical activity is an example of functional imaging.\n\nAn EKG depicts the movement of the wall of the heart.\n\nAll of the above are true."
+        ],
+        "Correct": [
+            "An EKG depicts the movement of the wall of the heart."
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Which of the following is NOT considered protected health information (PHI)?",
+        "Answer": [
+            "The patient's email address\n\nA photograph of the patient's left wrist\n\nThe full name of the patient's roommate\n\nNone of the above are PHI\n\nAll of the above are PHI"
+        ],
+        "Correct": [
+            "A photograph of the patient's left wrist"
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Which of the following is FALSE regarding insurance or intermediaries? ",
+        "Answer": [
+            "In the US, the most common way people get insurance is through their employer. \n\nInsurance companies and government programs are two different types of intermediaries. \n\nIf you are a healthy person in a risk pool with people of a range of health statuses (i.e. sick and healthy individuals), your premium will likely be higher than your expected spending. \n\nPrivate insurance can only be obtained through an employer. "
+        ],
+        "Correct": [
+            "Private insurance can only be obtained through an employer. "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is FALSE regarding healthcare delivery organizations such as physician practices or hospitals in the US?",
+        "Answer": [
+            "Healthcare delivery organizations can be operated by the government.\n\nEssentially all delivery organizations are a part of a physician practice or a hospital\n\nPhysician practices and the facilities in which physicians provide services are always integrated into the same organization.\n\nBoth non-profit and for-profit organizations face economic pressures."
+        ],
+        "Correct": [
+            "Physician practices and the facilities in which physicians provide services are always integrated into the same organization."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "A 50-year-old woman goes to her doctor for her annual physical exam. At the visit, she receives a mammogram and her annual influenza shot. Which level of care does this represent?",
+        "Answer": [
+            "Secondary\n\nQuaternary\n\nPrimary\n\nTertiary"
+        ],
+        "Correct": [
+            "Primary"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following regarding rising healthcare costs over time is true?",
+        "Answer": [
+            "Aging of the population, increasing standards of living, and the adoption of new technologies, have all contributed to spending growth.\n\nRising costs are easily justified because they almost always result from using expensive new technologies that end up improving population health outcomes.\n\nWhile the total amount of spending on healthcare in the US is increasing, the percent GDP spent on healthcare is not.\n\nThis trend is only found in the United States."
+        ],
+        "Correct": [
+            "Aging of the population, increasing standards of living, and the adoption of new technologies, have all contributed to spending growth."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is MOST likely to incentivize health care providers to over-utilize medical care?",
+        "Answer": [
+            "Fee for service payment system\n\nPaying physicians a salary\n\nUsing \u00e2\u0080\u009csupply-side\u00e2\u0080\u009d tools such as gatekeepers\n\nCapitation payment system\n\nIncreasing the number of expensive but not readily accessible diagnostic tools and services"
+        ],
+        "Correct": [
+            "Fee for service payment system"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Hospitals in the US can:",
+        "Answer": [
+            "Operate on a for-profit or a not-for-profit basis\n\nBe publicly or privately owned\n\nBe teaching or non-teaching\n\nHave or lack an emergency department (ED)\n\nHave or lack an intensive care unit (ICU)\n\nAll of the above"
+        ],
+        "Correct": [
+            "All of the above"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following accurately describes a hospital network, in the context of U.S. health insurance?",
+        "Answer": [
+            "All hospitals within the same geographic area\n\nThe group of physicians with admitting privileges at a hospital\n\nA group of hospitals with whom an insurer works, and whose enrollees are encouraged to use\n\nNone of the above"
+        ],
+        "Correct": [
+            "A group of hospitals with whom an insurer works, and whose enrollees are encouraged to use"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following best describes the DRG system?",
+        "Answer": [
+            "It incentivizes efficient care by paying hospitals based on patient characteristics, not length of stay or services performed\n\nIt is compatible with paying a hospital on a fee-for-service basis\n\nIt gives a hospital a single payment for a patient with a given diagnosis, regardless of whether or not that patient is an \u00e2\u0080\u009coutlier\u00e2\u0080\u009d\n\nIt is a form of retrospective payment"
+        ],
+        "Correct": [
+            "It incentivizes efficient care by paying hospitals based on patient characteristics, not length of stay or services performed"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "True of False? It is possible for the physician portion of a payment to be paid via a different mechanism (e.g. fee-for-service) than the facility portion.",
+        "Answer": [
+            "True\n\nFalse"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is FALSE regarding Accountable Care Organizations (ACOs)?",
+        "Answer": [
+            "An ACO is an entity that works to integrate and coordinate care by involving a range of physicians who work together but are not necessarily financially integrated\n\nWhen interfacing with intermediaries, the ACO can act on behalf of the participating providers\n\nThe ACO concept was originally devised by private insurance companies as a way to decrease costs for their members\n\nLarger organizations can be better suited to ACO adoption because they can often more easily provide for a wide range of care and manage payment arrangements that can incentivize efficient care"
+        ],
+        "Correct": [
+            "The ACO concept was originally devised by private insurance companies as a way to decrease costs for their members"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following INCORRECTLY pairs a tool used by intermediaries with an example of its use?",
+        "Answer": [
+            "Tiered formulary- an insurance company requires a smaller copayment from patients when they use the drugs preferred by the company, usually generic drugs. \n\nPre-admission review- prior to surgery, an insurance company requires that a patient get approval for a hospital stay following surgery, or else the company will not pay for the hospitalization. \n\nCase management- an insurance company works with doctors to ensure that a patient receives appropriate follow-up care after returning home from a hospitalization. \n\nUtilization review- an insurance company asks for a second physician\u00e2\u0080\u0099s opinion before approving a patient\u00e2\u0080\u0099s surgery. "
+        ],
+        "Correct": [
+            "Case management- an insurance company works with doctors to ensure that a patient receives appropriate follow-up care after returning home from a hospitalization. "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is true regarding public and private health insurance?",
+        "Answer": [
+            "Within the private insurance market in the US, is uncommon for people to need to buy separate coverage for things like optometry or dental care\n\nIndividual private insurance companies in the US each offer one type of product (e.g. HMO, PPO)\n\nCountries have either public insurance or private insurance options, but not both\n\nIf a government decides to act as a public intermediary, it can decide what type of plan to act most like (e.g. HMO, PPO)"
+        ],
+        "Correct": [
+            "If a government decides to act as a public intermediary, it can decide what type of plan to act most like (e.g. HMO, PPO)"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following does NOT accurately describe Medicaid?",
+        "Answer": [
+            "Medicaid is a government-run program that covers low-income people\n\nThough the Federal government oversees some aspects of Medicaid, a different Medicaid program is operated by each state\n\nMedicaid is the only public insurance program in the US with broad coverage for long-term care\n\nMost people enrolled in Medicaid have traditional indemnity style insurance coverage"
+        ],
+        "Correct": [
+            "Most people enrolled in Medicaid have traditional indemnity style insurance coverage"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is regulated by the FDA?",
+        "Answer": [
+            "Prescription drugs\n\nOver-the-counter drugs\n\nMedical devices\n\nBiologic products\n\nAll of the above"
+        ],
+        "Correct": [
+            "All of the above"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "You are a drug company finishing your New Drug Application with the US FDA for a newly discovered treatment for Crohn\u00e2\u0080\u0099s disease. You received a 20-year patent in 2012 for your drug, and you are expecting your NDA approval in 2020. Based on this information, how many years will you have with your drug on the market before a generic is able to enter the market as a competitor?",
+        "Answer": [
+            "20 years \n\n12 years \n\n25 years \n\n11 years \n\n8 years "
+        ],
+        "Correct": [
+            "12 years "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following are potential uses of quality data?",
+        "Answer": [
+            "Monitoring and improvement of care\n\nPublic reporting in order to incentivize future quality improvements and assist patients in provider selection\n\nDesigning better pay-for-performance metrics\n\nAll of the above"
+        ],
+        "Correct": [
+            "All of the above"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "What the major reason risk adjustment methods are important to use when measuring outcomes?",
+        "Answer": [
+            "To account for variation in the types of procedures physicians use to treat the same condition\n\nTo account for differences in patients presenting with the same condition\n\nTo account for differences in diagnostic capabilities at different hospitals\n\nTo account for differences in provider efficiency between geographic regions"
+        ],
+        "Correct": [
+            "To account for differences in patients presenting with the same condition"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "A researcher wants to use the electronic medical record to list all of the comorbid conditions that were diagnosed in patients who died from pneumonia in the year 2015. What kind of research question is this?",
+        "Answer": [
+            "exploratory\n\ninferential\n\ndescriptive\n\npredictive\n\ncausal"
+        ],
+        "Correct": [
+            "descriptive"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following factors is relevant to assessing if a clinical research question about a disease is useful?",
+        "Answer": [
+            "The number of people the disease killed last year\n\nThe effectiveness of treatments that exist for that disease\n\nThe total spending on diagnosis and treatment of that disease\n\nThe existence of genetic risk factors for the disease\n\nAll of the above"
+        ],
+        "Correct": [
+            "All of the above"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "A researcher collects data about a disease from ten different medical systems. The goal of their research is to form a very large dataset in which they hope to expand what is known about risk factors for the disease. What kind of research question is this?",
+        "Answer": [
+            "Causal\n\nExploratory\n\nPredictive\n\nInferential\n\nNone of the above"
+        ],
+        "Correct": [
+            "Inferential"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Why did clinical researchers use electronic medical record data to guide treatment for our example patient Laura?",
+        "Answer": [
+            "Laura's doctors were not sure about her diagnosis.\n\nLaura might have accidentally taken the wrong medication.\n\nToo little was known about the particular combination of medical conditions Laura had.\n\nSome information about Laura's prior treatment was not available at the time her condition worsened.\n\nLaura was not an adult, and only adults are studied in clinical trials."
+        ],
+        "Correct": [
+            "Too little was known about the particular combination of medical conditions Laura had."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "What is the first step in the data mining workflow?",
+        "Answer": [
+            "See which diseases kill the most people.\n\nDesign the data extraction process carefully.\n\nWrite a preliminary version of the clinical research question \n\nConduct a survey of available data sources.\n\nInterview clinicians about their workflow."
+        ],
+        "Correct": [
+            "Write a preliminary version of the clinical research question "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements about clinical data is true?",
+        "Answer": [
+            "Signals are structured data, because they are sampled at regularly occurring time points.\n\nObservational data are usually quite expensive to obtain because they large.\n\nBecause they are created by clinicians, electronic medical record data are always more accurate than insurance records.\n\nThe primary product of randomized controlled clinical trials is observational data.\n\nNone of the above are true "
+        ],
+        "Correct": [
+            "None of the above are true "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is NOT an advantage of using observational data?",
+        "Answer": [
+            "Observational datasets can be very large, and capture rare events.\n\nObservational datasets have few biases. \n\nObservational datasets contain data about actual patterns of clinical practice.\n\nObservational datasets may be available at low additional cost.\n\nAll of the above are advantages."
+        ],
+        "Correct": [
+            "Observational datasets have few biases. "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements is true?",
+        "Answer": [
+            "Looking for a disease-specific procedure code can increase bias.\n\nPharmacy records are always more accurate than the electronic medical record.\n\nClinicians remove diagnosis codes from the medical record if the codes are no longer accurate.\n\nWe can find biases by comparing observational datasets to manual reviews by experts of actual medical records.\n\nAll of the above are true."
+        ],
+        "Correct": [
+            "We can find biases by comparing observational datasets to manual reviews by experts of actual medical records."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following are NOT exposures?",
+        "Answer": [
+            "A list of the patient's medications from five years ago\n\nThe kinds of foods the patient usually eats\n\nThe volume of blood lost in the patient's last surgery\n\nWhether the patient ever smoked tobacco\n\nAll of the above are exposures"
+        ],
+        "Correct": [
+            "All of the above are exposures"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is NOT an example of non-stationarity?",
+        "Answer": [
+            "There are more medications available now than 40 years ago.\n\nIn the US, the rates of stomach cancer have decreased over time.\n\nThe Internet makes it easier for people to submit reports about adverse events from medications they have taken.\n\nElectronic medical record systems were deployed at different medical centers in different years.\n\nA patient's data were collected in 2010, but not analyzed until 2013."
+        ],
+        "Correct": [
+            "A patient's data were collected in 2010, but not analyzed until 2013."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements about timescales is true?",
+        "Answer": [
+            "Data from shorter timescales are necessarily more accurate.\n\nA timeline is a kind of timescale.\n\nThe best timescale for studying cancer is minutes.\n\nThe best timescale for making predictions about who will be discharged from the hospital is years.\n\nNone of the above are true."
+        ],
+        "Correct": [
+            "None of the above are true."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements is false?",
+        "Answer": [
+            "Machines in the intensive care unit can generate regularly-sampled time-series data.\n\nAlthough we treat patients only when they are sick, the increased amount of data we collect can correct for any bias.\n\nKnowing when a test was ordered can be useful, even if we do not know the result of the test.\n\nA patient timeline typically contains all the clinical data for that patient.\n\nAll of these statements are true."
+        ],
+        "Correct": [
+            "Although we treat patients only when they are sick, the increased amount of data we collect can correct for any bias."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of these statements is true?",
+        "Answer": [
+            "Most medical events are recorded at evenly spaced intervals.\n\nAn indicator variable marks what test was ordered, but not when.\n\nThe meaning of the ordering of clinical events, such as \"A before B,\" is always clear.\n\nA bin is usually used for data that don't fit anywhere else on the timeline.\n\nNone of these statements are true."
+        ],
+        "Correct": [
+            "None of these statements are true."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements about knowledge graphs is true?",
+        "Answer": [
+            "A knowledge graph contains a representation of medical entities.\n\nA knowledge graph may contain links to other knowledge graphs.\n\nImportant knowledge graphs are freely available to researchers.\n\nKnowledge graphs occasionally need to be updated.\n\nAll of the above are true."
+        ],
+        "Correct": [
+            "All of the above are true."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following questions cannot be answered in a straightforward way by using a knowledge graph?",
+        "Answer": [
+            "Is diabetes mellitus a disease of the endocrine system?\n\nIs aspirin an anti-inflammatory medication?\n\nHow many different kinds of blood tests are there?\n\nHas a patient ever taken penicillin to treat bladder cancer? \n\nAll of the above could be answered."
+        ],
+        "Correct": [
+            "Has a patient ever taken penicillin to treat bladder cancer? "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements about missing data is true?",
+        "Answer": [
+            "Missing data should be removed from the analysis.\n\nMissing data mean that someone made a mistake.\n\nThe code \"NA\" is often used to indicate missing data.\n\nIf missing data are later found, they should automatically be inserted into the dataset at the appropriate location.\n\nAll of the above statements are true."
+        ],
+        "Correct": [
+            "The code \"NA\" is often used to indicate missing data."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements about features is false?",
+        "Answer": [
+            "The unit of analysis determines what goes in the rows of a patient-feature matrix.\n\nAn indicator variable is used to mark patients who forget to take their medications.\n\nThe patient-feature matrix is a two-dimensional array that contains numbers representing measurements, counts, and other feature values.\n\nTo answer most clinical research questions, we would expect the unit of analysis to be the patient.\n\nAll of the above statements are false."
+        ],
+        "Correct": [
+            "An indicator variable is used to mark patients who forget to take their medications."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements is false?",
+        "Answer": [
+            "Clinical text is written in grammatical English.\n\nClinical text contains the same information as is in billing codes.\n\nClinical text is primarily written to be read by patients.\n\nClinical text usually uses the full name of a medication.\n\nAll of the above are false."
+        ],
+        "Correct": [
+            "All of the above are false."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is an example of the present, positive mention of a medical term?",
+        "Answer": [
+            "The patient has never tried riluzole.\n\nThe patient reports having rheumatic fever at age 5.\n\nThere is no family history of any kind of cancer.\n\nThe patient developed an allergic reaction to penicillin, so stopped taking it.\n\nNone of the above are present, positive mentions."
+        ],
+        "Correct": [
+            "None of the above are present, positive mentions."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements about electronic phenotyping is false?",
+        "Answer": [
+            "An electronic phenotype is any mention of a disease in the electronic medical record.\n\nAn electronic phenotype should specify when the condition of interest started and stopped.\n\nElectronic phenotyping is useful for identifying patients who could be eligible for a clinical trial.\n\nElectronic phenotyping facilitates cross-site research, but does not guarantee that it will be error-free.\n\nAll of the above are true."
+        ],
+        "Correct": [
+            "An electronic phenotype is any mention of a disease in the electronic medical record."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements is true?",
+        "Answer": [
+            "A feature is the same thing as a phenotype.\n\nA timeline is an important input to the electronic phenotyping process.\n\nAn electronic phenotype is the same as a diagnosis code.\n\nBlood pressure is a good example of a phenotype.\n\nNone of these are true."
+        ],
+        "Correct": [
+            "A timeline is an important input to the electronic phenotyping process."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements is true?",
+        "Answer": [
+            "A rule-based phenotype is easy to interpret because it is always represented in English.\n\nA rule-based phenotype is usually easier to understand than a probabilistic phenotype. \n\nElectronic phenotyping is best done independent of the clinical research question.\n\nProbabilistic phenotypes are built out of inclusion and exclusion criteria.\n\nAll of the above are true."
+        ],
+        "Correct": [
+            "A rule-based phenotype is usually easier to understand than a probabilistic phenotype. "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following elements of the electronic medical record could be part of an electronic phenotype?",
+        "Answer": [
+            "A feature in a chest x-ray\n\nTheir resting heart rate at last clinic visit\n\nThe most recent measurement of HbA1c (glycosylated hemoglobin)\n\nThe patient's weight\n\nAll of the above"
+        ],
+        "Correct": [
+            "All of the above"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following INCORRECTLY pairs a tool used by intermediaries with an example of its use?",
+        "Answer": [
+            "Tiered formulary: an insurance company requires a smaller copayment from patients when they use the drugs preferred by the company, usually generic drugs. \n\nCase management: an insurance company works with doctors to ensure that a patient receives appropriate follow-up care after returning home from a hospitalization. \n\nUtilization review: an insurance company asks for a second physician\u00e2\u0080\u0099s opinion before approving a patient\u00e2\u0080\u0099s surgery.\n\nPre-admission review: prior to surgery, an insurance company requires that a patient get approval for a hospital stay following surgery, or else the company will not pay for the hospitalization. "
+        ],
+        "Correct": [
+            "Case management: an insurance company works with doctors to ensure that a patient receives appropriate follow-up care after returning home from a hospitalization. "
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Assume a patient has an upcoming medical procedure that will cost $1000.  \n \n Suppose the patient is in a health plan with a $2000 deductible, after which 10% coinsurance applies.  Suppose this will be the patient\u00e2\u0080\u0099s first health care expense of the year.  How much can the patient expect to pay out of pocket for this procedure? \n\n$_______\n\nPlease write the answer in numeric form. No need to add a dollar sign.",
+        "Answer": [
+            ""
+        ],
+        "Correct": [
+            ""
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Currently, rule-based phenotypes are constructed by groups of medical experts. The phenotypes are used by computers as discussed throughout this module. Can you think about how these rules could be used in medical education to train future clinicians?",
+        "Answer": [
+            ""
+        ],
+        "Correct": [
+            ""
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Which of the following is FALSE regarding healthcare delivery organizations such as physician practices or hospitals in the US?",
+        "Answer": [
+            "Physician practices and the facilities in which physicians provide services are always integrated into the same organization\n\nEssentially all delivery organizations are a part of a physician practice or a hospital\n\nHealthcare delivery organizations can be operated by the government\n\nBoth non-profit and for-profit organizations face economic pressures"
+        ],
+        "Correct": [
+            "Physician practices and the facilities in which physicians provide services are always integrated into the same organization"
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Which of the following would NOT lead to an increase in the risk facing a population?",
+        "Answer": [
+            "Expanding employment opportunities that lead to an increase in per-capita income\n\nBuilding more hospitals, and an accompanying increase in the probability that a person will be hospitalized\n\nThe arrival of a costly drug that offered a new opportunity to treat a previously untreatable condition\n\nThe creation of new surgical techniques that replace earlier less expensive techniques"
+        ],
+        "Correct": [
+            "Expanding employment opportunities that lead to an increase in per-capita income"
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Which of the following is true regarding risk or risk pooling?",
+        "Answer": [
+            "Risk pooling normally replaces an individual\u00e2\u0080\u0099s small chance of facing a potentially large cost with the certainty of facing a smaller cost. \n\nRisk pooling does not occur in countries where the government pays for healthcare using tax revenues. \n\nRisk pooling is beneficial for patients, but not for healthcare providers. \n\nRisk pooling typically reduces the chance that someone would get health care that they don\u00e2\u0080\u0099t really need. "
+        ],
+        "Correct": [
+            "Risk pooling normally replaces an individual\u00e2\u0080\u0099s small chance of facing a potentially large cost with the certainty of facing a smaller cost. "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following most accurately describes a \u00e2\u0080\u009cphysician network,\u00e2\u0080\u009d in the context of U.S. health insurance?",
+        "Answer": [
+            "A group of physicians who have been contracted by an insurance company to provide care to the insurance company\u00e2\u0080\u0099s members\n\nA group of physicians who are within the same geographic area\n\nA group of physicians who have independently agreed to work together on the care of a single patient covered by an insurer\n\nA group of physicians who all work at hospitals contracted by the insurer"
+        ],
+        "Correct": [
+            "A group of physicians who have been contracted by an insurance company to provide care to the insurance company\u00e2\u0080\u0099s members"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is true of capitation?",
+        "Answer": [
+            "Capitation combats the problem of adverse selection since providers will want to take the sickest patients. \n\nCapitation shifts risk from the provider to the insurer.\n\nCapitation pays the provider a fixed amount for a specific service; for example, one knee replacement. \n\nPhysicians will benefit from having as few people in their panel as possible.\n\nCapitation incentivizes providers to provide fewer costly, time-intensive services than fee for service payments. "
+        ],
+        "Correct": [
+            "Capitation incentivizes providers to provide fewer costly, time-intensive services than fee for service payments. "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following does NOT accurately match a hospital reimbursement term with a description?",
+        "Answer": [
+            "Per diem, Medicare reimburses a hospital for each day a patient is admitted\n\nFee-for-service, An insurance company reimburses a hospital for each laboratory service given to a patient\n\nProspective payment, Medicare reimburses a hospital a fixed amount for a patient admitted with a diagnosis of pneumonia, regardless of the care received \n\nGlobal budget, Medicaid reimburses a hospital for every treatment a patient receives during the length of her stay "
+        ],
+        "Correct": [
+            "Global budget, Medicaid reimburses a hospital for every treatment a patient receives during the length of her stay "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Consider a person who has a very high expected medical spending for a year. They don\u00e2\u0080\u0099t have a preference for what providers they see, and their only priority is to get their care for the lowest cost possible (cost considers both the premium and out-of-pocket payments). Based on this information alone, what type of health insurance plan might they most likely prefer?",
+        "Answer": [
+            "High Deductible Health Plan (HDHP)\n\nPreferred Provider Organization (PPO) \n\nTraditional Indemnity \n\nHealth Maintenance Organization (HMO) "
+        ],
+        "Correct": [
+            "Traditional Indemnity "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Assume a patient has an upcoming medical procedure that will cost $1000.  \n \n \n\nSuppose the patient is in a health plan with a $50 copay for medical procedures.  Suppose that the patient has previously had $2000 in health care expenses in the year.  How much can the patient expect to pay out of pocket for this procedure?\n \n\n$_______\n\nPlease write the answer in numeric form. No need to add a dollar sign.",
+        "Answer": [
+            ""
+        ],
+        "Correct": [
+            ""
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following does NOT accurately describe Medicare?",
+        "Answer": [
+            "Medicare is a government-run program that covers adults age 65 years and older\n\nMedicare has been responsible for major innovations in the US healthcare system, including the DRG system and the concept of ACOs\n\nThough it covers physician and hospital costs, Medicare does not have provisions for covering prescription drug costs\n\nMost of the financing for Medicare comes from taxpayer dollars"
+        ],
+        "Correct": [
+            "Though it covers physician and hospital costs, Medicare does not have provisions for covering prescription drug costs"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following accurately matches a phase of a drug trial with its description?",
+        "Answer": [
+            "Phase I - Animal testing\n\nPhase II - Testing in small groups of healthy volunteers to determine safety, dosing\n\nPhase III - Testing in thousands of people with the condition of interest to assess effectiveness and longer-term reactions/outcomes\n\nPhase IV - Assessment of competitor generics after patent expiration "
+        ],
+        "Correct": [
+            "Phase III - Testing in thousands of people with the condition of interest to assess effectiveness and longer-term reactions/outcomes"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Here are some common examples of AI that analyze the financing and delivery of health care with the purpose of increasing efficiency. \n\nAn insurance company builds an algorithm to predict opioid use from an employer\u00e2\u0080\u0099s claims data, using employee data that is stripped of identifiers to be HIPAA-compliant.\u00c2\u00a0 The company will sell their model to employers broadly, even those that do not contract with them for health insurance.\n\n\u00c2\u00a0A small health care start-up company has developed a machine learning model to predict the onset of cardiovascular diseases, including hypertension and heart failure, in order to identify patients who might benefit from receiving preventive interventions such as lipid-lowering medications.\n\nIn order to avoid fines from the Medicare Hospital Readmissions Reduction Program (HRRP), a health system is developing an AI-based model to predict which of their patients who are hospitalized with a principal diagnosis of pneumonia will be readmitted within 30 days after the patient was admitted.\u00c2\u00a0 A large national study of Medicare beneficiaries found that the HRRP did lower risk-adjusted readmissions rates of pneumonia patients.\u00c2\u00a0 It also found that the 30-day and 1-year risk-adjusted mortality rates increased.\n\nThe Association for Computing Machinery code of ethics includes a principle of avoiding harm, whether intended or unintended.\n\nQUESTION:\n\nWhat are examples of harm in the ACM code?",
+        "Answer": [
+            ""
+        ],
+        "Correct": [
+            ""
+        ],
+        "Title": "Reflection Exercise\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a015 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n2 total points available.\n2 total points"
+    },
+    {
+        "Question": "Think about each of the examples of AI above.\u00c2\u00a0 Could any of them cause unjustified or unfair harm, especially to patients?\u00c2\u00a0 What sources of bias, error, and harm should the AI developers be alert to?",
+        "Answer": [
+            ""
+        ],
+        "Correct": [
+            ""
+        ],
+        "Title": "Reflection Exercise\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a015 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n2 total points available.\n2 total points"
+    },
+    {
+        "Question": "Which of the following best represents an episode-based payment?",
+        "Answer": [
+            "Medicare reimburses a hospital a fixed amount for a total knee replacement\n\nMedicaid reimburses a physician a fixed amount to care for a panel of patients over a given time period\n\nAn independent practice association rewards its member groups based on how many new patient visits they bring to the practice \n\nAn urgent care physician reimburses her administrative assistant for every clinic shift he works"
+        ],
+        "Correct": [
+            "Medicare reimburses a hospital a fixed amount for a total knee replacement"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which payment system transfers the most risk to providers?",
+        "Answer": [
+            "Per-diem\n\nDRG system\n\nFee-for-service\n\nGlobal budgets"
+        ],
+        "Correct": [
+            "Global budgets"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is true of generic drugs?",
+        "Answer": [
+            "They are generally made by the same manufacturer as the branded drug\n\nThey are allowed to be close to but not the exact chemical composition as the branded drug\n\nOnce they enter the market, the branded drug is no longer sold\n\nThey go through a different FDA approval process than the original branded drug"
+        ],
+        "Correct": [
+            "They go through a different FDA approval process than the original branded drug"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is NOT an example of an outcome measure?",
+        "Answer": [
+            "Hospital mortality rates\n\nHospital readmission rates\n\nPercentage of providers appropriately credentialed \n\nPatient-reported outcomes"
+        ],
+        "Correct": [
+            "Percentage of providers appropriately credentialed "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Suppose you developed a rare medical condition and your doctor suggested conducting a data-mining procedure similar to that we discussed for our example patient Laura. How would you feel about using that information to guide your treatment? What else would you want to know?",
+        "Answer": [
+            ""
+        ],
+        "Correct": [
+            ""
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "The workflow of which group within the US healthcare system would be impacted most immediately from an artificial intelligence tool that increased a physician\u00e2\u0080\u0099s ability to accurately diagnose breast cancer from imaging?",
+        "Answer": [
+            "Private insurance companies\n\nSpecialty physicians\n\nGovernment intermediaries\n\nNurse practitioners"
+        ],
+        "Correct": [
+            "Specialty physicians"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Assume a patient has an upcoming medical procedure that will cost $1000.  \n \n \n\nSuppose the patient is in a health plan with a $500 deductible, after which 20% coinsurance applies.  Suppose that the patient has previously had $2000 in health care expenses in the year.  How much can the patient expect to pay out of pocket for this procedure?\n \n\n$_______\n\nPlease write the answer in numeric form. No need to add a dollar sign.",
+        "Answer": [
+            ""
+        ],
+        "Correct": [
+            ""
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Suppose you develop a serious medical condition that definitely requires treatment. What kind of data would you want to use to guide picking a doctor for this? What part of the healthcare system would produce these data?",
+        "Answer": [
+            ""
+        ],
+        "Correct": [
+            ""
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Suppose we could develop the technology to record nearly all medically-relevant events on a very fine timescale (much less than a second). Do you think this system would make it easier or harder to answer clinical research questions?",
+        "Answer": [
+            ""
+        ],
+        "Correct": [
+            ""
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n2 total points available.\n2 total points"
+    },
+    {
+        "Question": "True or false: PPOs restrict choice for patients more than HMOs.  ",
+        "Answer": [
+            "True\n\nFalse"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Reflection Exercise\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a010 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n1 total point available.\n1 total point"
+    },
+    {
+        "Question": "As part of addressing your clinical research question, you need to write software that looks up names for diseases. Which of the following knowledge graphs would you choose for this?",
+        "Answer": [
+            "Current Procedural Terminology (CPT)\n\nLogical Observation Identifiers Names and Codes (LOINC)\n\nAnatomic Therapeutic Chemical Classification System (ATC)\n\nUnified Medical Language System (UMLS)\n\nNone of the above are a good choice."
+        ],
+        "Correct": [
+            "Unified Medical Language System (UMLS)"
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements about feature engineering is true?",
+        "Answer": [
+            "Standardizing a feature means that we are sure that everyone refers to it by the same name.\n\nHaving more features is a good way to increase patient privacy.\n\nIf a feature has the same value for all patients, it should be kept in the analysis to provide a baseline measurement.\n\nMultiple imputation is a technique used to estimate the fraction of the dataset that is missing.\n\nNone of the above statements are true."
+        ],
+        "Correct": [
+            "None of the above statements are true."
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is true about observational data?",
+        "Answer": [
+            "Observational datasets provide complete coverage of a patient's medical treatment.\n\nObservational datasets all use the same standard format.\n\nObservational datasets can contain biases. \n\nObservational data make it easy to infer causes of diseases.\n\nNone of the above are true."
+        ],
+        "Correct": [
+            "Observational datasets can contain biases. "
+        ],
+        "Title": "Final Assessment\n\nGraded Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a01h\n\nDueSep 10, 11:59 PM +07"
+    },
+    {
+        "Question": "True or false: It is possible for the physician portion of a payment to be paid via a different mechanism (e.g. fee-for-service) than the facility portion",
+        "Answer": [
+            "True\n\nFalse"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "An ideal randomized controlled clinical trial can produce results with very little bias. However, there are some questions that will never be answered using clinical trials. Think about why that might be true. Do you feel comfortable that such questions will only be addressed using observational data?",
+        "Answer": [
+            ""
+        ],
+        "Correct": [
+            ""
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a030 min\n.\n\u00c2\u00a0\u00e2\u0080\u00a2\u00c2\u00a0\n3 total points available.\n3 total points"
+    }
+]
