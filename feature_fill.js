@@ -16,20 +16,23 @@ button.style.fontFamily = "system-ui";
 button.style.borderRadius = "10px";
 document.body.appendChild(button);
 
+
+// URL file Json
+const url_json = chrome.runtime.getURL('output_folder/introduction-to-cloud/data.json');
+
+
 // Function to crawl questions and answers and save them into a text file
 function fillQuestionsAndAnswers() {
-
-  // URL file Json
-  const url = chrome.runtime.getURL('json_folder/DWP301c.json');
-
   // Gets questions and answers here
   const question_answers = document.querySelectorAll(".rc-FormPartsQuestion"); // Adjust the selector based on the structure of the Coursera page
-
+  
   // Pass each block of QA
   for (var i = 0; i < question_answers.length; i++) {
     // Define QA
     const question = question_answers[i].querySelector('.rc-FormPartsQuestion__contentCell').innerText;
-    const answers = question_answers[i].querySelectorAll('label._1oyudm1w');
+    // const answers = question_answers[i].querySelectorAll('label._1oyudm1w');
+    const answers = question_answers[i].querySelectorAll('label.cui-Checkbox');
+    
     
     // create answer_check_1
     var check_answers = ''
@@ -40,11 +43,9 @@ function fillQuestionsAndAnswers() {
     // answer_check_sort
     const characters = check_answers.split('');
     const sortedCharacters = characters.sort();
-    const sortedWord = sortedCharacters.join('');
-    
-
+    const sortedWord = sortedCharacters.join('').trimStart();
     // Check quesion in the database if match -> Get the correct answer
-    fetch(url).then((response) => response.json()).then((json) => {
+    fetch(url_json).then((response) => response.json()).then((json) => {
       for (var z = 0; z < json.length; z++) {
         const item = json[z];
         
@@ -57,13 +58,11 @@ function fillQuestionsAndAnswers() {
           // answer2 check sort
           const characterstwo = checkanswertwo.split('')
           const sortedCharacterstwo = characterstwo.sort();
-          const sortedWordtwo = sortedCharacterstwo.join('');
-
+          const sortedWordtwo = sortedCharacterstwo.join('').trimStart();
 
           // check answers match answers in database
           if (sortedWordtwo == sortedWord){
             const full_correct_answer = item.Correct;
-            
             // Pass all answer if it correct -> Click
             for (var j = 0; j < full_correct_answer.length; j++) {
               for (var n = 0; n < list_answer_web.length; n++)   {

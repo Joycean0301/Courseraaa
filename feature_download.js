@@ -18,28 +18,25 @@ document.body.appendChild(button);
 
 // Function to crawl questions and answers and save them into a text file
 function crawlQuestionsAndAnswers() {
-
+  try{
   // Check in the right page
-  try{var check_point = document.querySelector('.css-k008qs').innerText;
-  
-  
+  var check_point = document.querySelector('.css-k008qs').innerText;
   
 
+  // Title of course
+  var title = document.querySelector('.rc-TunnelVisionHeader').innerText;
   // Code to crawl questions and answers here
   var questions_answers = document.querySelectorAll(".rc-FormPartsQuestion"); // Adjust the selector based on the structure of the Coursera page
-  //var answers = document.querySelectorAll(".rc-FormPartsQuestion__row"); // Adjust the selector based on the structure of the Coursera page
 
   var data = "";
-  var title = document.querySelector('._11oc718').innerText;
-
   for (var i = 0; i < questions_answers.length; i++) {
-    var point = questions_answers[i].querySelector('.css-1xe0vjc').innerText
+    var point = questions_answers[i].querySelector('.rc-FormPartsQuestion__pointsCell').innerText
+    
     if (point == '1 / 1 point'){
 
       var question = questions_answers[i].querySelector('.rc-FormPartsQuestion__contentCell').innerText;
       var answers = questions_answers[i].querySelectorAll('.rc-Option.rc-Option--isReadOnly')
-      var corrects = questions_answers[i].querySelectorAll('._1xzd2vdb.cui-Checkbox.cui-isChecked')
-     
+      var corrects = questions_answers[i].querySelectorAll('.cui-isChecked')
 
       //seperate question
       if (i!== 0){
@@ -69,7 +66,7 @@ function crawlQuestionsAndAnswers() {
 
    }
   }
-
+  
   var blob = new Blob([data], { type: "text/plain" });
   var url = URL.createObjectURL(blob);
 
