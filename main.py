@@ -36,7 +36,7 @@ def merge_txt():
         # Passing all question-answer
         for ele in list_QA:
             info = ele.split('|||')
-            title, question, answer, correct = info[0], info[1], info[2].replace('^^^','\n'), info[3].replace('^^^','\n')
+            title, question, answer, correct = info[0], info[1], info[2].replace('^^^','\n\n'), info[3].replace('^^^','\n\n')
             
             # Update to csv file
             data_df.loc[len(data_df)] = [question,answer,correct,title]
@@ -44,8 +44,8 @@ def merge_txt():
             # Update to json file
             temp_dict = {}
             temp_dict.update({'Question':question})
-            temp_dict.update({'Answer':answer.split('\n')})
-            temp_dict.update({'Correct':correct.split('\n')})
+            temp_dict.update({'Answer':answer.split('\n\n')})
+            temp_dict.update({'Correct':correct.split('\n\n')})
             temp_dict.update({'Title':title})
             data_json.append(temp_dict)
 
