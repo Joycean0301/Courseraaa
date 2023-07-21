@@ -1,0 +1,34 @@
+Practice Quiz: Using the scikit-learn Docs
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||For the following questions, refer to the dataset here: 
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html
+
+What is the range of targets in the data?|||10^^^-2-2^^^25-346^^^0-1|||25-346@@@Practice Quiz: Using the scikit-learn Docs
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||For the following questions, refer to the dataset here: 
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html
+
+Which of the following code loads the data into X and Y dataframes?|||sklearn.datasets.load_diabetes(as_frame = True)^^^sklearn.datasets.load_diabetes()^^^sklearn.datasets.load_diabetes(return_X_y = True)^^^sklearn.datasets.load_diabetes(return_X_y = True, as_frame = True)|||sklearn.datasets.load_diabetes(return_X_y = True, as_frame = True)@@@Practice Quiz: Using the scikit-learn Docs
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||For the following questions, refer to the dataset here: 
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html
+
+What does the ‘s6 glu’ correspond to?|||blood sugar level^^^low-density lipoproteins^^^lamotrigine^^^high-density lipoproteins|||blood sugar level

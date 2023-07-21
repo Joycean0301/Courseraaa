@@ -1,0 +1,17 @@
+Feed Forward and Backpropagation
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+2 total points available.
+2 total points|||What is a requirement of a feed forward neural network?|||Values are passed from one layer to the next while always moving toward the output neurons^^^Values can be sent between layers in either direction, moving toward or away from the outputs^^^Values are passed from one layer to another while moving toward the output neurons, potentially skipping over layers on the way|||Values are passed from one layer to the next while always moving toward the output neurons@@@Feed Forward and Backpropagation
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+2 total points available.
+2 total points|||What is backpropagation used for?|||Adjusting the number of neurons in the network^^^Adjusting the weights of the network to increase error^^^Adjusting the weights of the network to reduce error|||Adjusting the weights of the network to reduce error

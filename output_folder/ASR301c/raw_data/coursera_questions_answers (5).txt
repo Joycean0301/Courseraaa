@@ -1,0 +1,143 @@
+Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Assume I have a dataframe called df with the following columns: ‘date', 'zip', 'high_temp', 'low_temp', 'precipitation'.
+
+Which line of code extracts all orders with Zip Code 31415?|||df.iloc[df[‘zip’] == 31415]^^^df.loc[df[‘zip’] == 31415]^^^df.zip.df[df[‘zip’] == 31415]^^^df[‘zip’] == 31415|||df.loc[df[‘zip’] == 31415]@@@Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Assume I have a dataframe called df with the following columns: ‘date', 'zip', 'high_temp', 'low_temp', 'precipitation'.
+
+Which line of code sets the index to ‘date’ inplace?|||df.iloc[df['index'] == 31415]^^^df[‘index’] == ‘date’^^^df.set_index(‘date’’)^^^df.set_index('date', inplace = True)|||df.set_index('date', inplace = True)@@@Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Assume I have a dataframe called df with the following columns: ‘date', 'zip', 'high_temp', 'low_temp', 'precipitation'.
+
+Which of the following creates a dictionary between the ‘zip’ and ‘high_temp’ columns?|||new_dict = zip(dict(df['zip’], df[‘high_temp’]))^^^new_dict = df['zip’], df[‘high_temp’])^^^new_dict = dict(zip(df['zip’], df[‘high_temp’]))^^^new_dict = dict(df['zip’], df[‘high_temp’]))|||new_dict = dict(zip(df['zip’], df[‘high_temp’]))@@@Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Assume I have a dataframe called df with the following columns: ‘date', 'zip', 'high_temp', 'low_temp', 'precipitation'.
+
+What is the correct way to drop all rows with any NA values in either the ‘high_temp’ or ‘low_temp’ columns?
+
+You may need to refer to the following link: 
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html|||df.dropna(axis = 1, how = ‘any’, subset = [‘high_temp’, ‘low_temp’], inplace = True)^^^df.dropna(axis = 0, how = ‘any’, inplace = True)^^^df.dropna(axis = 1, how = ‘all’, subset = [‘high_temp’, ‘low_temp’], inplace = True^^^df.dropna(axis = 0, how = ‘any’, subset = [‘high_temp’, ‘low_temp’], inplace = True)|||df.dropna(axis = 0, how = ‘any’, subset = [‘high_temp’, ‘low_temp’], inplace = True)@@@Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Assume I have a dataframe called df with the following columns: ‘date', 'zip', 'high_temp', 'low_temp', 'precipitation'.
+
+There is a Pandas data type we haven’t discussed yet called ‘category’. Assume that this is a valid data type. 
+
+What is the correct way to convert the ‘zip’ column to a categorical data type.
+
+You may need to refer to the following link, though it’s not necessary: 
+https://pandas.pydata.org/pandas-docs/stable/user_guide/categorical.html|||df['zip'] = category(df)^^^df['zip'] = category(df['zip']])^^^df['zip'] = df.category(df['zip'])^^^df['zip'] = df['zip’].astype(‘category’)|||df['zip'] = df['zip’].astype(‘category’)@@@Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||temp_array = np.ones(200)
+
+Which of the following ways are a valid way to reshape the array.|||temp_array.reshape(20, 100)^^^temp_array.reshape((20, 100))^^^temp_array.reshape((10, 20))^^^temp_array.reshape(20, 10)|||temp_array.reshape((10, 20))@@@Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which line of code correctly creates a random array of shape (10,10) and raises it to the 10th power?|||c = np.random.random(10)
+
+np.power(c,10)^^^c = np.random.random(10)
+
+c^10^^^c = np.random.random(10, 10)
+
+np.power(c,10)^^^c = np.random.random(10, 10)
+
+c^10|||c = np.random.random(10)
+
+np.power(c,10)@@@Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which line of code prints the sum of cubes (3rd power) for every even two digit decimals between 0 and 5?|||total = 0
+
+for n in np.arange(0,5,0.02):
+
+   total = total + n
+
+print(total)^^^total = 0
+
+for n in np.arange(0.02,0,5):
+
+   total = total + n
+
+print(total)^^^total = 0
+
+for n in np.arange(0,0.02,5):
+
+   total = total + n
+
+print(total)^^^total = 0
+
+for n in range(0,5,0.02):
+
+   total = total + n
+
+print(total)|||total = 0
+
+for n in np.arange(0,5,0.02):
+
+   total = total + n
+
+print(total)@@@Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Assume we have a dataframe titled ‘weather’ with historical average temperatures for Los Angeles, CA for the last three years, indexed by date and sorted in ascending order. We also have a second dataframe title ‘earthquakes’’ with earthquake potential information for the same area over the same time period. However, earthquake reports are only released monthly. 
+
+After combining both dataframes by date, there are a lot of NA values for the new ‘earthquake_potential’ column in the ‘stocks’ dataframe. How can we fill in the NA values in the ‘earthquake_potential’ column to ensure that we always have the last known earthquake potential for a given date?
+
+You may refer to the following link for reference: 
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html|||sales['earthquake_potential'].fillna(method = ‘backfill’, inplace = True)^^^sales[‘earthquake_potential'].fillna(method = ‘ffill’, inplace = True)^^^sales[‘earthquake_potential’].fillna(inplace = True)^^^sales['earthquake_potential'].fillna(method = ‘bfill’, inplace = True)|||sales[‘earthquake_potential'].fillna(method = ‘ffill’, inplace = True)@@@Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||The amount of greenhouse gas emissions emitted by a certain factory on a given hour is normally distributed with a mean of 50 mTCO2/h a standard deviation of 3 mTCO2/h. 
+
+We need to generate 10,000 hours of estimated data on the amount of emissions. 
+
+Which lines of code will achieve this? (Select all that apply).
+
+You may refer to the following link for reference: 
+
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html|||temp_array = np.random.normal(50, 3, 10,000)^^^temp_array = np.random.normal(50, 3)^^^temp_array = np.array([])
+
+for i in range(10,000):
+
+   temp_array.append(np.random.normal(50, 3))^^^temp_array = np.random.normal(50, 3, 10000)|||temp_array = np.array([])
+
+for i in range(10,000):
+
+   temp_array.append(np.random.normal(50, 3))^^^temp_array = np.random.normal(50, 3, 10000)

@@ -1,0 +1,202 @@
+Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is printed by the following lines of code?
+
+total = 5
+
+for n in range(1,5):
+
+   total = total + n
+
+print(total) |||12^^^15^^^20^^^5|||15@@@Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is printed by the following lines of code?
+
+birds = ['parrots', 'finches', 'owls']
+
+birds.append(‘hummingbirds’)
+
+birds.append(‘hawks’)
+
+print(birds[3])|||owls^^^finches^^^hummingbirds^^^hawks|||hummingbirds@@@Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||birds = ['parrots', 'finches', 'owls']
+
+colors = ['red', 'blue', 'white']
+
+Which of the following creates a dictionary with bird:num_feathers key value pairs?|||dict(birds) = colors^^^fav_birds = {}
+
+for bids in birds:
+
+   bird = color^^^fav_birds = {}
+
+for bird in birds:
+
+   fav_birds[bird] = color^^^fav_birds = {}
+
+for i in range(3):
+
+   fav_birds[birds[i]] = colors[i]|||fav_birds = {}
+
+for i in range(3):
+
+   fav_birds[birds[i]] = colors[i]@@@Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||ml = 0.00341932
+
+Which of the following is the correct way to round to 3 significant digits when printing?
+
+You can use the following link for reference: 
+https://www.w3schools.com/python/ref_string_format.asp|||print({0:.3g}.ml)^^^print("{0:.3}".format(ml))^^^print("{0:.3g}".format(ml))^^^print(ml.sig_figs(3))|||print("{0:.3g}".format(ml))@@@Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What will be printed by the following lines of code?
+
+birds = ['parrots', 'finches', 'owls']
+
+for bird in birds:
+
+   for bird2 in birds:
+
+        if bird == bird2:
+
+              print(bird, bird2)|||parrots parrots
+
+finches finches
+
+owls owls^^^parrots finches
+
+finches owls
+
+owls parrots^^^parrots
+
+finches
+
+owls^^^parrots parrots
+
+finches finches
+
+owls owls
+
+parrots parrots
+
+finches finches
+
+owls owls|||parrots parrots
+
+finches finches
+
+owls owls@@@Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following variable names are valid? (Select all that apply.)|||temp_var4^^^4_temp_var^^^TEMP4^^^temp#4|||temp_var4^^^TEMP4@@@Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following are valid ways to import the ‘sklearrn’ module? (Select all that apply.)|||import sklearn as sk^^^import sklearn as sklearn^^^import sklearn^^^import sklearn as pizza|||import sklearn as sk^^^import sklearn as sklearn^^^import sklearn^^^import sklearn as pizza@@@Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following finds the sum of squares starting from 1 up to and including a given number?
+
+For instance, f(3) should return 14.|||def f(end):
+
+   total = 0
+
+   for n in range(end):
+
+      total = total + n*n
+
+   return total^^^def f(end):
+
+   for n in range(end):
+
+      print(n*n)
+
+   return total^^^def f(end):
+
+   total = 0
+
+   for n in range(end-1):
+
+      total = total + n*n
+
+   return total^^^def f(end):
+
+   total = 0
+
+   for n in range(end+1):
+
+      total = total + n*n
+
+   return total|||def f(end):
+
+   total = 0
+
+   for n in range(end+1):
+
+      total = total + n*n
+
+   return total@@@Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||birds1 = ['parrots', 'finches', 'owls']
+
+birds2 = ['seagulls', 'egrets', 'penguins', 'ostriches']
+
+Which of the following creates a new list that concatenates birds1 and birds2?|||birds1 + birds2^^^for b in birds1:
+
+   birds1.add(b)^^^for b in birds1:
+
+    birds2.add(b)^^^for b in birds1:
+
+     for c in birds2:
+
+        list.append[b]
+
+        list.append[c]|||birds1 + birds2@@@Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Define the following function.
+
+def f(x):
+
+   return numpy.power(x[2] - x[1], x[0])
+
+Refer to the following link for information on the numpy power function: 
+https://numpy.org/doc/stable/reference/generated/numpy.power.html
+.
+
+Which of the following is a valid input to the function f?|||x = [1, ‘string’, 3]^^^x = [1, 2, 10, 20, 40]^^^x = [1,2]^^^x = [-1,2,3]|||x = [1, 2, 10, 20, 40]

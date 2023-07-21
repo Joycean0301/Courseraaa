@@ -1,0 +1,73 @@
+Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is the first layer of a network called?|||Feedback layer^^^Activation layer^^^Input layer^^^Output layer|||Input layer@@@Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is the last layer of a network called?|||Input layer^^^Activation layer^^^Feedback layer^^^Output layer|||Output layer@@@Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following activation functions are used for multiclass classification?|||Linear (Identity)^^^Rectified Linear Unit (ReLu)^^^Softmax ^^^Sigmoid (Logistic)|||Softmax @@@Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||How is the initial weight of a neuron-to-neuron connection assigned?|||They are all initialized to 1^^^A random number between 0 and 1^^^A random number between 0 and 100^^^They are all initialized to 0|||A random number between 0 and 1@@@Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is the standard cost function used in most neural network regression models?|||Stochastic gradient cost^^^Cross-entropy cost^^^Mean squared error^^^Quadratic cost|||Mean squared error@@@Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following is true about a neuron?|||A neuron can have many inputs but only one output^^^A neuron can only have one input and out output^^^A neuron can have many inputs and outputs^^^A neuron can only have one input but many outputs|||A neuron can have many inputs and outputs@@@Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||For questions 7-10, refer to the following link: 
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+
+What is the default activation used with the MLP Classifier?|||Linear (Identity)^^^Softmax ^^^Rectified Linear Unit (ReLu)^^^Sigmoid (Logistic)|||Rectified Linear Unit (ReLu)@@@Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||For questions 7-10, refer to the following link: 
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+
+What is the cost function used with the MLP Classifier?|||Cross-entropy loss^^^Mean squared error^^^Stochastic gradient cost^^^Quadratic cost|||Cross-entropy loss@@@Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||For questions 7-10, refer to the following link: 
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+
+Which of the following creates two hidden layers, each of size 100?|||hidden_layer_sizes = (2,,100)^^^hidden_layer_sizes = (100,2)^^^hidden_layer_sizes = (200)^^^hidden_layer_sizes = (100,100)|||hidden_layer_sizes = (100,100)@@@Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||For questions 7-10, refer to the following link: 
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+
+Which of the following parameters modifies the L2 regularization term?|||Beta^^^Gamma^^^Alpha ^^^All of the above|||Alpha 

@@ -1,0 +1,64 @@
+Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is a possible outcome when the learning rate is increased when performing stochastic gradient descent?|||The convergence occurs too slowly^^^We undershoot the minimum and don’t converge to a solution^^^We overshoot the minimum and don’t converge to a solution^^^The converge occurs too quickly|||We overshoot the minimum and don’t converge to a solution@@@Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following can lead to overfitting?|||Randomly initializing weights^^^Increasing the number of layers in the network^^^Adding an activation layer^^^Decreasing the number of layers in the network|||Increasing the number of layers in the network@@@Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following is the right way to set up a network with Keras and tensorflow?|||model = tf.keras.models.Sequential()^^^model = tf()^^^model = tf.keras.models()^^^model = tf.keras()|||model = tf.keras.models.Sequential()@@@Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following is to add a flat input layer with an input shape of 28 x 28? |||tf.keras.layers.Flatten(input_shape = (28, 28))^^^tf.keras.layers(input_shape = (28))^^^tf.keras.layers(input_shape = (28, 28))^^^tf.keras.layers.Sequential(input_shape = (28, 28))|||tf.keras.layers.Flatten(input_shape = (28, 28))@@@Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Refer to the following link: 
+https://www.tensorflow.org/api_docs/python/tf/keras/losses/SparseCategoricalCrossentropy
+
+When is an appropriate time to use a categorical cross entropy loss function?|||When there are more than two label classes^^^When there are only two label classes^^^When there are two or more label classes^^^When performing regression|||When there are two or more label classes@@@Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following characterizes the bias-variance tradeoff?|||A high variance model may overfit the data, but a high bias model may underfit^^^A high variance and high bias model may overfit the data^^^A high variance model may underfit the data, but a high bias model may overfit^^^A high variance and high bias model may underfit the data|||A high variance model may overfit the data, but a high bias model may underfit@@@Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||How do you decrease bias in a neural network?|||Both increase and decrease the number of layers^^^There is no way to increase bias^^^Decrease the number of layers^^^Increase the number of layers|||Increase the number of layers@@@Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||How do you decrease variance in a neural network?|||Decrease the number of layers^^^There is no way to increase bias^^^Increase the number of layers^^^Both increase and decrease the number of layers|||Decrease the number of layers@@@Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is a critical assumption made in linear regression with L2 regularization?|||There are no assumptions made^^^There is no variance^^^There is no bias or variance^^^There is no bias|||There is no variance@@@Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following is the correct structure for TensorFlow and Keras?|||Keras is a machine learning library built on top of Tensorflow^^^Both Tensorflow and Keras are independent^^^Tensorflow is a machine learning library built on top of Keras^^^Keras and Tensorflow are the same thing|||Keras is a machine learning library built on top of Tensorflow

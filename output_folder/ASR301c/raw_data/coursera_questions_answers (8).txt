@@ -1,0 +1,83 @@
+Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||For the following questions, refer to the linear regression page here: 
+https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares
+
+Assume you have features stored in the X variable and the target in the y variable. Which line of code implements a Ridge Regressor?|||reg = linear_model.Ridge()^^^reg = linear_model.LinearRegression()^^^reg = linear_model.fit()^^^reg = linear_model.Ridge().fit()|||reg = linear_model.Ridge()@@@Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||For the following questions, refer to the linear regression page here: 
+https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares
+
+Assume you have features stored in the X variable and the target in the y variable and a Ridge regressor in the ‘reg’ variable. Which line of code fits the regression model on the data?|||reg.transform(X,y)^^^reg.fit()^^^reg.fit(y,X)^^^reg.fit(X,y)|||reg.fit(X,y)@@@Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||For the following questions, refer to the linear regression page here: 
+https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares
+
+Assume you have features stored in the X variable and the target in the y variable and a Ridge regressor in the ‘reg’ variable that’s been fitted. Which line of code uses the regression model to make predictions on the feature set?|||reg.predict(X)^^^reg.score(X)^^^reg.translate(X)^^^reg.fit(X)|||reg.predict(X)@@@Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||When loading in data from scikit-learn, what does the ‘as_frame’ parameter do if set to True?|||Captures all frames of the data that is loaded in.^^^Loads the data into a Numpy array.^^^Crates the data as a Scikit-Learn ‘frame’ object.^^^Loads the data into a Pandas Dataframe.|||Loads the data into a Pandas Dataframe.@@@Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||In linear regression, what does the sign of the coefficients represent?|||The correlation of each feature with the other features.^^^The relationship between the target and predictor variables.^^^The meaning is unclear.^^^How many times each feature appears in the dataset.|||The relationship between the target and predictor variables.@@@Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||In ordinary linear regression, we pick a line to ___________________.|||maximize the sum^^^minimize the sum of the residual squares.^^^maximize the sum of the residual squares.^^^minimize the sum|||minimize the sum of the residual squares.@@@Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||A regression model is fit on a normalized dataset containing 10 features and 1 target variable. How can we determine the feature of most importance?|||The feature with the most positive coefficient.^^^The feature with the most negative coefficient.^^^The feature with the coefficient that has the largest absolute value.^^^It’s impossible to tell.|||The feature with the coefficient that has the largest absolute value.@@@Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||Given the following set of points, which equation is the fitted linear regression line?
+
+X = 2, y = 3
+
+X = 1, y = 0
+
+X = 0, y = 1|||y = -x + ⅔^^^y = x + ⅓ ^^^y = ⅓ x - 1^^^y = 2x + 1|||y = x + ⅓ @@@Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||Refer to the scikit-learn documentation here: 
+https://scikit-learn.org/stable/modules/model_evaluation.html
+
+Assume you have the actual y values in a variable called ‘actuals’ and predicted y values in a variable called ‘predictions’. Which of the following lines of code will get the mean absolute error between the predictions and actual values?|||sklearn.predict(actual, predictions)^^^sklearn.metrics.mean_sqaured_error(actual, predictions)^^^sklearn.metrics.mean_absolute_error(actual, predictions)^^^def get_absolute_error(predictions, actual):|||sklearn.metrics.mean_absolute_error(actual, predictions)@@@Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07|||For the following questions, refer to the linear regression page here:
+
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
+Which line of code defines a linear regression model that normalizes the features before fitting the regression line?|||reg = linear_model.LinearRegression(fit_interecept = False)^^^reg = linear_model.LinearRegression(normalize = True, fit_intercept = False)^^^reg = linear_model.LinearRegression(normalize = True)^^^reg = linear_model.LinearRegression()|||reg = linear_model.LinearRegression(normalize = True)

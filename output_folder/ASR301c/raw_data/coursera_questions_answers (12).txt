@@ -1,0 +1,73 @@
+Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which of the following is an accurate statement about supervised learning and unsupervised learning?|||Unsupervised learning needs labeled training data, while supervised learning doesn’t.^^^Supervised learning needs labeled training data, while unsupervised learning doesn’t.^^^Both supervised and unsupervised learning need labeled training data. ^^^Neither supervised or unsupervised learning need labeled training data. |||Supervised learning needs labeled training data, while unsupervised learning doesn’t.@@@Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which of the following is not a prominent clustering technique?|||Singular Value Decomposition^^^K-Nearest neighbors^^^Principal Component Analysis^^^K-means|||K-Nearest neighbors@@@Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which of the following techniques can be used for both regression and classification?|||Ridge/Lasso^^^Random Forests^^^ADA Boost Regressors^^^Linear Discriminants|||Random Forests@@@Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Which of the following is a feature of K-Means Clustering|||It is an iterative algorithm.^^^It’s the same as K-Nearest neighbors.^^^It looks to classify N data points into K clusters.^^^It’s a supervised learning technique.|||It is an iterative algorithm.@@@Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Assume a 3-NN algorithm is fitted on a set of labeled data points. If we introduce a new data point, what steps are necessary to classify it?|||Find the 3 nearest data points, then classify into the average of the appeared categories.^^^Find the 4 nearest data points, then classify into the categories that appeared most often.^^^Find the 3 nearest data points, then classify into the categories that appeared most often.^^^Find the 4 nearest data points, then classify into the average of the appeared categories.|||Find the 3 nearest data points, then classify into the categories that appeared most often.@@@Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What are support vector machines used for?|||Clustering ^^^Dimensionality Reduction^^^Classification^^^Anomaly Detection|||Classification@@@Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What should we set the ‘degree’ to in order to fit a linear SVC model?
+
+Hint: You can refer to the following documentation: 
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html|||2^^^3^^^0^^^1|||1@@@Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Refer to the following documentation: 
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+
+Which of the following is the default tolerance value?|||0.1^^^0.01^^^0.001^^^1|||0.001@@@Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Refer to the following page for documentation: 
+https://scikit-learn.org/stable/modules/neighbors.html#unsupervised-nearest-neighbors
+
+Which of the following is not a nearest neighbor algorithm?|||K-D Tree^^^Ball Tree^^^SVD optimization^^^Brute Force|||SVD optimization@@@Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||Refer to the following documentation page: 
+https://scikit-learn.org/stable/modules/ensemble.html#adaboost
+
+Which of the following makes ADA Boosts different from most other machine learning algorithms?|||ADA Boosts can’t perform multi-class classification.^^^ADA Boosts are ensemble methods that combine different techniques.^^^ADA Boosts are a discrete algorithm.^^^ADA Boosts are used for both regression and dimensional analysis.|||ADA Boosts are ensemble methods that combine different techniques.

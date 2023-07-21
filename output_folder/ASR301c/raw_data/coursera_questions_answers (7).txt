@@ -1,0 +1,29 @@
+Practice Quiz: Math of Linear Regression
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||Given common conventions, which variables correspond to the coefficients in the equation y = m1 * x1 + m2 * x2 + m3 * x3?|||x1, x2, x3^^^m1, m2, m3^^^y^^^m1 only|||m1, m2, m3@@@Practice Quiz: Math of Linear Regression
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||An ordinary least squares linear regression model is fitted on the following points: (0,2), (1,1), (0,-1).
+
+What is the equation of the line that was fit?|||y = x - 1^^^y = x + 1^^^y = -½ x - ½ ^^^y = ½ x + ½ |||y = ½ x + ½ @@@Practice Quiz: Math of Linear Regression
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||An ordinary least squares linear regression model is fitted on the following points: (0,2), (1,1), (0,-1).
+
+What is the minimized sum of squares?|||1^^^1/3^^^2/3^^^-1|||2/3
