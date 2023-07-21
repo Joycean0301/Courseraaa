@@ -7,13 +7,17 @@ import pandas as pd
 logging.basicConfig(level=logging.INFO)
 
 def merge_txt():
-    """
-    Merge all txt file in 'input_folder' into one single file in json and csv format.
+    """Merge all txt file in 'input_folder' into one single file in json and csv format.
     - The json file: use for auto fill question. More details in README.md
     - The csv file: use for store data 
     - The txt_quizlet file: use for create quizlet flashcard. Copy whole file txt and paste to quizlet.
         + Each "Term and Definition" seperate: @@@@@
         + Each "Card" seperate: #####
+
+    Returns:
+        data_df (pd.DataFrame): Data (contain question, answers, correct answer) in csv format.
+        data_json (json): Data in csv format.
+        data_txt (txt): Data in csv format, use for making flashcard.
     """
 
     # Create Data
@@ -62,8 +66,7 @@ def merge_txt():
 
 
 def create_output_folder():
-    """
-    Create output folder if not exist
+    """create output folder to store data if not exist
     """
     if not os.path.exists('output_folder'):
         os.makedirs('output_folder')
@@ -73,8 +76,13 @@ def create_output_folder():
 
 
 def save_result(filename, dataframe_data, json_data, txt_quizlet_data):
-    """
-    Put all data result in the output folder. Move all current txt file to that folder too.
+    """save data to output folder
+
+    Args:
+        filename (str): name of the course.
+        dataframe_data (pd.DataFrame): Data in dataframe format.
+        json_data (json): Data in json format.
+        txt_quizlet_data (txt): Data in txt format.
     """
     
     os.makedirs(f'output_folder/{filename}')
