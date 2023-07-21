@@ -1,0 +1,1353 @@
+[
+    {
+        "Question": "Assume I have a dataframe called df with the following columns: \u2018date', 'zip', 'high_temp', 'low_temp', 'precipitation'.\n\nWhich line of code extracts all orders with Zip Code 31415?",
+        "Answer": [
+            "df.iloc[df[\u2018zip\u2019] == 31415]",
+            "df.loc[df[\u2018zip\u2019] == 31415]",
+            "df.zip.df[df[\u2018zip\u2019] == 31415]",
+            "df[\u2018zip\u2019] == 31415"
+        ],
+        "Correct": [
+            "df.loc[df[\u2018zip\u2019] == 31415]"
+        ],
+        "Title": "Numpy and Pandas Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Assume I have a dataframe called df with the following columns: \u2018date', 'zip', 'high_temp', 'low_temp', 'precipitation'.\n\nWhich line of code sets the index to \u2018date\u2019 inplace?",
+        "Answer": [
+            "df.iloc[df['index'] == 31415]",
+            "df[\u2018index\u2019] == \u2018date\u2019",
+            "df.set_index(\u2018date\u2019\u2019)",
+            "df.set_index('date', inplace = True)"
+        ],
+        "Correct": [
+            "df.set_index('date', inplace = True)"
+        ],
+        "Title": "Numpy and Pandas Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Assume I have a dataframe called df with the following columns: \u2018date', 'zip', 'high_temp', 'low_temp', 'precipitation'.\n\nWhich of the following creates a dictionary between the \u2018zip\u2019 and \u2018high_temp\u2019 columns?",
+        "Answer": [
+            "new_dict = zip(dict(df['zip\u2019], df[\u2018high_temp\u2019]))",
+            "new_dict = df['zip\u2019], df[\u2018high_temp\u2019])",
+            "new_dict = dict(zip(df['zip\u2019], df[\u2018high_temp\u2019]))",
+            "new_dict = dict(df['zip\u2019], df[\u2018high_temp\u2019]))"
+        ],
+        "Correct": [
+            "new_dict = dict(zip(df['zip\u2019], df[\u2018high_temp\u2019]))"
+        ],
+        "Title": "Numpy and Pandas Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Assume I have a dataframe called df with the following columns: \u2018date', 'zip', 'high_temp', 'low_temp', 'precipitation'.\n\nWhat is the correct way to drop all rows with any NA values in either the \u2018high_temp\u2019 or \u2018low_temp\u2019 columns?\n\nYou may need to refer to the following link: \nhttps://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html",
+        "Answer": [
+            "df.dropna(axis = 1, how = \u2018any\u2019, subset = [\u2018high_temp\u2019, \u2018low_temp\u2019], inplace = True)",
+            "df.dropna(axis = 0, how = \u2018any\u2019, inplace = True)",
+            "df.dropna(axis = 1, how = \u2018all\u2019, subset = [\u2018high_temp\u2019, \u2018low_temp\u2019], inplace = True",
+            "df.dropna(axis = 0, how = \u2018any\u2019, subset = [\u2018high_temp\u2019, \u2018low_temp\u2019], inplace = True)"
+        ],
+        "Correct": [
+            "df.dropna(axis = 0, how = \u2018any\u2019, subset = [\u2018high_temp\u2019, \u2018low_temp\u2019], inplace = True)"
+        ],
+        "Title": "Numpy and Pandas Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Assume I have a dataframe called df with the following columns: \u2018date', 'zip', 'high_temp', 'low_temp', 'precipitation'.\n\nThere is a Pandas data type we haven\u2019t discussed yet called \u2018category\u2019. Assume that this is a valid data type. \n\nWhat is the correct way to convert the \u2018zip\u2019 column to a categorical data type.\n\nYou may need to refer to the following link, though it\u2019s not necessary: \nhttps://pandas.pydata.org/pandas-docs/stable/user_guide/categorical.html",
+        "Answer": [
+            "df['zip'] = category(df)",
+            "df['zip'] = category(df['zip']])",
+            "df['zip'] = df.category(df['zip'])",
+            "df['zip'] = df['zip\u2019].astype(\u2018category\u2019)"
+        ],
+        "Correct": [
+            "df['zip'] = df['zip\u2019].astype(\u2018category\u2019)"
+        ],
+        "Title": "Numpy and Pandas Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "temp_array = np.ones(200)\n\nWhich of the following ways are a valid way to reshape the array.",
+        "Answer": [
+            "temp_array.reshape(20, 100)",
+            "temp_array.reshape((20, 100))",
+            "temp_array.reshape((10, 20))",
+            "temp_array.reshape(20, 10)"
+        ],
+        "Correct": [
+            "temp_array.reshape((10, 20))"
+        ],
+        "Title": "Numpy and Pandas Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Which line of code correctly creates a random array of shape (10,10) and raises it to the 10th power?",
+        "Answer": [
+            "c = np.random.random(10)",
+            "np.power(c,10)",
+            "c = np.random.random(10)",
+            "c^10",
+            "c = np.random.random(10, 10)",
+            "np.power(c,10)",
+            "c = np.random.random(10, 10)",
+            "c^10"
+        ],
+        "Correct": [
+            "c = np.random.random(10)",
+            "np.power(c,10)"
+        ],
+        "Title": "Numpy and Pandas Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Which line of code prints the sum of cubes (3rd power) for every even two digit decimals between 0 and 5?",
+        "Answer": [
+            "total = 0",
+            "for n in np.arange(0,5,0.02):",
+            "   total = total + n",
+            "print(total)",
+            "total = 0",
+            "for n in np.arange(0.02,0,5):",
+            "   total = total + n",
+            "print(total)",
+            "total = 0",
+            "for n in np.arange(0,0.02,5):",
+            "   total = total + n",
+            "print(total)",
+            "total = 0",
+            "for n in range(0,5,0.02):",
+            "   total = total + n",
+            "print(total)"
+        ],
+        "Correct": [
+            "total = 0",
+            "for n in np.arange(0,5,0.02):",
+            "   total = total + n",
+            "print(total)"
+        ],
+        "Title": "Numpy and Pandas Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Assume we have a dataframe titled \u2018weather\u2019 with historical average temperatures for Los Angeles, CA for the last three years, indexed by date and sorted in ascending order. We also have a second dataframe title \u2018earthquakes\u2019\u2019 with earthquake potential information for the same area over the same time period. However, earthquake reports are only released monthly. \n\nAfter combining both dataframes by date, there are a lot of NA values for the new \u2018earthquake_potential\u2019 column in the \u2018stocks\u2019 dataframe. How can we fill in the NA values in the \u2018earthquake_potential\u2019 column to ensure that we always have the last known earthquake potential for a given date?\n\nYou may refer to the following link for reference: \n\nhttps://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html",
+        "Answer": [
+            "sales['earthquake_potential'].fillna(method = \u2018backfill\u2019, inplace = True)",
+            "sales[\u2018earthquake_potential'].fillna(method = \u2018ffill\u2019, inplace = True)",
+            "sales[\u2018earthquake_potential\u2019].fillna(inplace = True)",
+            "sales['earthquake_potential'].fillna(method = \u2018bfill\u2019, inplace = True)"
+        ],
+        "Correct": [
+            "sales[\u2018earthquake_potential'].fillna(method = \u2018ffill\u2019, inplace = True)"
+        ],
+        "Title": "Numpy and Pandas Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "The amount of greenhouse gas emissions emitted by a certain factory on a given hour is normally distributed with a mean of 50 mTCO2/h a standard deviation of 3 mTCO2/h. \n\nWe need to generate 10,000 hours of estimated data on the amount of emissions. \n\nWhich lines of code will achieve this? (Select all that apply).\n\nYou may refer to the following link for reference: \n\nhttps://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html",
+        "Answer": [
+            "temp_array = np.random.normal(50, 3, 10,000)",
+            "temp_array = np.random.normal(50, 3)",
+            "temp_array = np.array([])",
+            "for i in range(10,000):",
+            "   temp_array.append(np.random.normal(50, 3))",
+            "temp_array = np.random.normal(50, 3, 10000)"
+        ],
+        "Correct": [
+            "temp_array = np.array([])",
+            "for i in range(10,000):",
+            "   temp_array.append(np.random.normal(50, 3))",
+            "temp_array = np.random.normal(50, 3, 10000)"
+        ],
+        "Title": "Numpy and Pandas Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "What is a possible outcome when the learning rate is increased when performing stochastic gradient descent?",
+        "Answer": [
+            "The convergence occurs too slowly",
+            "We undershoot the minimum and don\u2019t converge to a solution",
+            "We overshoot the minimum and don\u2019t converge to a solution",
+            "The converge occurs too quickly"
+        ],
+        "Correct": [
+            "We overshoot the minimum and don\u2019t converge to a solution"
+        ],
+        "Title": "Advanced Neural Networks\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following can lead to overfitting?",
+        "Answer": [
+            "Randomly initializing weights",
+            "Increasing the number of layers in the network",
+            "Adding an activation layer",
+            "Decreasing the number of layers in the network"
+        ],
+        "Correct": [
+            "Increasing the number of layers in the network"
+        ],
+        "Title": "Advanced Neural Networks\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is the right way to set up a network with Keras and tensorflow?",
+        "Answer": [
+            "model = tf.keras.models.Sequential()",
+            "model = tf()",
+            "model = tf.keras.models()",
+            "model = tf.keras()"
+        ],
+        "Correct": [
+            "model = tf.keras.models.Sequential()"
+        ],
+        "Title": "Advanced Neural Networks\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is to add a flat input layer with an input shape of 28 x 28? ",
+        "Answer": [
+            "tf.keras.layers.Flatten(input_shape = (28, 28))",
+            "tf.keras.layers(input_shape = (28))",
+            "tf.keras.layers(input_shape = (28, 28))",
+            "tf.keras.layers.Sequential(input_shape = (28, 28))"
+        ],
+        "Correct": [
+            "tf.keras.layers.Flatten(input_shape = (28, 28))"
+        ],
+        "Title": "Advanced Neural Networks\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Refer to the following link: \nhttps://www.tensorflow.org/api_docs/python/tf/keras/losses/SparseCategoricalCrossentropy\n\nWhen is an appropriate time to use a categorical cross entropy loss function?",
+        "Answer": [
+            "When there are more than two label classes",
+            "When there are only two label classes",
+            "When there are two or more label classes",
+            "When performing regression"
+        ],
+        "Correct": [
+            "When there are two or more label classes"
+        ],
+        "Title": "Advanced Neural Networks\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following characterizes the bias-variance tradeoff?",
+        "Answer": [
+            "A high variance model may overfit the data, but a high bias model may underfit",
+            "A high variance and high bias model may overfit the data",
+            "A high variance model may underfit the data, but a high bias model may overfit",
+            "A high variance and high bias model may underfit the data"
+        ],
+        "Correct": [
+            "A high variance model may overfit the data, but a high bias model may underfit"
+        ],
+        "Title": "Advanced Neural Networks\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "How do you decrease bias in a neural network?",
+        "Answer": [
+            "Both increase and decrease the number of layers",
+            "There is no way to increase bias",
+            "Decrease the number of layers",
+            "Increase the number of layers"
+        ],
+        "Correct": [
+            "Increase the number of layers"
+        ],
+        "Title": "Advanced Neural Networks\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "How do you decrease variance in a neural network?",
+        "Answer": [
+            "Decrease the number of layers",
+            "There is no way to increase bias",
+            "Increase the number of layers",
+            "Both increase and decrease the number of layers"
+        ],
+        "Correct": [
+            "Decrease the number of layers"
+        ],
+        "Title": "Advanced Neural Networks\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "What is a critical assumption made in linear regression with L2 regularization?",
+        "Answer": [
+            "There are no assumptions made",
+            "There is no variance",
+            "There is no bias or variance",
+            "There is no bias"
+        ],
+        "Correct": [
+            "There is no variance"
+        ],
+        "Title": "Advanced Neural Networks\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is the correct structure for TensorFlow and Keras?",
+        "Answer": [
+            "Keras is a machine learning library built on top of Tensorflow",
+            "Both Tensorflow and Keras are independent",
+            "Tensorflow is a machine learning library built on top of Keras",
+            "Keras and Tensorflow are the same thing"
+        ],
+        "Correct": [
+            "Keras is a machine learning library built on top of Tensorflow"
+        ],
+        "Title": "Advanced Neural Networks\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "What is printed by the following lines of code?\n\ntotal = 5\n\nfor n in range(1,5):\n\n   total = total + n\n\nprint(total) ",
+        "Answer": [
+            "12",
+            "15",
+            "20",
+            "5"
+        ],
+        "Correct": [
+            "15"
+        ],
+        "Title": "Introduction to Python\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "What is printed by the following lines of code?\n\nbirds = ['parrots', 'finches', 'owls']\n\nbirds.append(\u2018hummingbirds\u2019)\n\nbirds.append(\u2018hawks\u2019)\n\nprint(birds[3])",
+        "Answer": [
+            "owls",
+            "finches",
+            "hummingbirds",
+            "hawks"
+        ],
+        "Correct": [
+            "hummingbirds"
+        ],
+        "Title": "Introduction to Python\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "birds = ['parrots', 'finches', 'owls']\n\ncolors = ['red', 'blue', 'white']\n\nWhich of the following creates a dictionary with bird:num_feathers key value pairs?",
+        "Answer": [
+            "dict(birds) = colors",
+            "fav_birds = {}",
+            "for bids in birds:",
+            "   bird = color",
+            "fav_birds = {}",
+            "for bird in birds:",
+            "   fav_birds[bird] = color",
+            "fav_birds = {}",
+            "for i in range(3):",
+            "   fav_birds[birds[i]] = colors[i]"
+        ],
+        "Correct": [
+            "fav_birds = {}",
+            "for i in range(3):",
+            "   fav_birds[birds[i]] = colors[i]"
+        ],
+        "Title": "Introduction to Python\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "ml = 0.00341932\n\nWhich of the following is the correct way to round to 3 significant digits when printing?\n\nYou can use the following link for reference: \nhttps://www.w3schools.com/python/ref_string_format.asp",
+        "Answer": [
+            "print({0:.3g}.ml)",
+            "print(\"{0:.3}\".format(ml))",
+            "print(\"{0:.3g}\".format(ml))",
+            "print(ml.sig_figs(3))"
+        ],
+        "Correct": [
+            "print(\"{0:.3g}\".format(ml))"
+        ],
+        "Title": "Introduction to Python\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "What will be printed by the following lines of code?\n\nbirds = ['parrots', 'finches', 'owls']\n\nfor bird in birds:\n\n   for bird2 in birds:\n\n        if bird == bird2:\n\n              print(bird, bird2)",
+        "Answer": [
+            "parrots parrots",
+            "finches finches",
+            "owls owls",
+            "parrots finches",
+            "finches owls",
+            "owls parrots",
+            "parrots",
+            "finches",
+            "owls",
+            "parrots parrots",
+            "finches finches",
+            "owls owls",
+            "parrots parrots",
+            "finches finches",
+            "owls owls"
+        ],
+        "Correct": [
+            "parrots parrots",
+            "finches finches",
+            "owls owls"
+        ],
+        "Title": "Introduction to Python\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following variable names are valid? (Select all that apply.)",
+        "Answer": [
+            "temp_var4",
+            "4_temp_var",
+            "TEMP4",
+            "temp#4"
+        ],
+        "Correct": [
+            "temp_var4",
+            "TEMP4"
+        ],
+        "Title": "Introduction to Python\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following are valid ways to import the \u2018sklearrn\u2019 module? (Select all that apply.)",
+        "Answer": [
+            "import sklearn as sk",
+            "import sklearn as sklearn",
+            "import sklearn",
+            "import sklearn as pizza"
+        ],
+        "Correct": [
+            "import sklearn as sk",
+            "import sklearn as sklearn",
+            "import sklearn",
+            "import sklearn as pizza"
+        ],
+        "Title": "Introduction to Python\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following finds the sum of squares starting from 1 up to and including a given number?\n\nFor instance, f(3) should return 14.",
+        "Answer": [
+            "def f(end):",
+            "   total = 0",
+            "   for n in range(end):",
+            "      total = total + n*n",
+            "   return total",
+            "def f(end):",
+            "   for n in range(end):",
+            "      print(n*n)",
+            "   return total",
+            "def f(end):",
+            "   total = 0",
+            "   for n in range(end-1):",
+            "      total = total + n*n",
+            "   return total",
+            "def f(end):",
+            "   total = 0",
+            "   for n in range(end+1):",
+            "      total = total + n*n",
+            "   return total"
+        ],
+        "Correct": [
+            "def f(end):",
+            "   total = 0",
+            "   for n in range(end+1):",
+            "      total = total + n*n",
+            "   return total"
+        ],
+        "Title": "Introduction to Python\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "birds1 = ['parrots', 'finches', 'owls']\n\nbirds2 = ['seagulls', 'egrets', 'penguins', 'ostriches']\n\nWhich of the following creates a new list that concatenates birds1 and birds2?",
+        "Answer": [
+            "birds1 + birds2",
+            "for b in birds1:",
+            "   birds1.add(b)",
+            "for b in birds1:",
+            "    birds2.add(b)",
+            "for b in birds1:",
+            "     for c in birds2:",
+            "        list.append[b]",
+            "        list.append[c]"
+        ],
+        "Correct": [
+            "birds1 + birds2"
+        ],
+        "Title": "Introduction to Python\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Define the following function.\n\ndef f(x):\n\n   return numpy.power(x[2] - x[1], x[0])\n\nRefer to the following link for information on the numpy power function: \nhttps://numpy.org/doc/stable/reference/generated/numpy.power.html\n.\n\nWhich of the following is a valid input to the function f?",
+        "Answer": [
+            "x = [1, \u2018string\u2019, 3]",
+            "x = [1, 2, 10, 20, 40]",
+            "x = [1,2]",
+            "x = [-1,2,3]"
+        ],
+        "Correct": [
+            "x = [1, 2, 10, 20, 40]"
+        ],
+        "Title": "Introduction to Python\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Find the smallest eigenvalue of the following matrix:\n\nA = [0.8, 0.3; 0.2, 0.7]",
+        "Answer": [
+            ""
+        ],
+        "Correct": [
+            ""
+        ],
+        "Title": "Practice Quiz: Eigenvalues and Eigenvectors\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Find the largest eigenvalue of the following matrix:\n\nA = [0.8, 0.3; 0.2, 0.7]",
+        "Answer": [
+            ""
+        ],
+        "Correct": [
+            ""
+        ],
+        "Title": "Practice Quiz: Eigenvalues and Eigenvectors\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "What is an eigenvalue?",
+        "Answer": [
+            "Main axis direction",
+            "Standard deviation",
+            "Variance",
+            "Scalar factor of the linear transformation."
+        ],
+        "Correct": [
+            "Scalar factor of the linear transformation."
+        ],
+        "Title": "Practice Quiz: Eigenvalues and Eigenvectors\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "For the following questions, refer to the linear regression page here: \nhttps://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares\n\nAssume you have features stored in the X variable and the target in the y variable. Which line of code implements a Ridge Regressor?",
+        "Answer": [
+            "reg = linear_model.Ridge()",
+            "reg = linear_model.LinearRegression()",
+            "reg = linear_model.fit()",
+            "reg = linear_model.Ridge().fit()"
+        ],
+        "Correct": [
+            "reg = linear_model.Ridge()"
+        ],
+        "Title": "Linear Regression with Scikit-Learn\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 25, 11:59 PM +07"
+    },
+    {
+        "Question": "For the following questions, refer to the linear regression page here: \nhttps://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares\n\nAssume you have features stored in the X variable and the target in the y variable and a Ridge regressor in the \u2018reg\u2019 variable. Which line of code fits the regression model on the data?",
+        "Answer": [
+            "reg.transform(X,y)",
+            "reg.fit()",
+            "reg.fit(y,X)",
+            "reg.fit(X,y)"
+        ],
+        "Correct": [
+            "reg.fit(X,y)"
+        ],
+        "Title": "Linear Regression with Scikit-Learn\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 25, 11:59 PM +07"
+    },
+    {
+        "Question": "For the following questions, refer to the linear regression page here: \nhttps://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares\n\nAssume you have features stored in the X variable and the target in the y variable and a Ridge regressor in the \u2018reg\u2019 variable that\u2019s been fitted. Which line of code uses the regression model to make predictions on the feature set?",
+        "Answer": [
+            "reg.predict(X)",
+            "reg.score(X)",
+            "reg.translate(X)",
+            "reg.fit(X)"
+        ],
+        "Correct": [
+            "reg.predict(X)"
+        ],
+        "Title": "Linear Regression with Scikit-Learn\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 25, 11:59 PM +07"
+    },
+    {
+        "Question": "When loading in data from scikit-learn, what does the \u2018as_frame\u2019 parameter do if set to True?",
+        "Answer": [
+            "Captures all frames of the data that is loaded in.",
+            "Loads the data into a Numpy array.",
+            "Crates the data as a Scikit-Learn \u2018frame\u2019 object.",
+            "Loads the data into a Pandas Dataframe."
+        ],
+        "Correct": [
+            "Loads the data into a Pandas Dataframe."
+        ],
+        "Title": "Linear Regression with Scikit-Learn\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 25, 11:59 PM +07"
+    },
+    {
+        "Question": "In linear regression, what does the sign of the coefficients represent?",
+        "Answer": [
+            "The correlation of each feature with the other features.",
+            "The relationship between the target and predictor variables.",
+            "The meaning is unclear.",
+            "How many times each feature appears in the dataset."
+        ],
+        "Correct": [
+            "The relationship between the target and predictor variables."
+        ],
+        "Title": "Linear Regression with Scikit-Learn\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 25, 11:59 PM +07"
+    },
+    {
+        "Question": "In ordinary linear regression, we pick a line to ___________________.",
+        "Answer": [
+            "maximize the sum",
+            "minimize the sum of the residual squares.",
+            "maximize the sum of the residual squares.",
+            "minimize the sum"
+        ],
+        "Correct": [
+            "minimize the sum of the residual squares."
+        ],
+        "Title": "Linear Regression with Scikit-Learn\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 25, 11:59 PM +07"
+    },
+    {
+        "Question": "A regression model is fit on a normalized dataset containing 10 features and 1 target variable. How can we determine the feature of most importance?",
+        "Answer": [
+            "The feature with the most positive coefficient.",
+            "The feature with the most negative coefficient.",
+            "The feature with the coefficient that has the largest absolute value.",
+            "It\u2019s impossible to tell."
+        ],
+        "Correct": [
+            "The feature with the coefficient that has the largest absolute value."
+        ],
+        "Title": "Linear Regression with Scikit-Learn\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 25, 11:59 PM +07"
+    },
+    {
+        "Question": "Given the following set of points, which equation is the fitted linear regression line?\n\nX = 2, y = 3\n\nX = 1, y = 0\n\nX = 0, y = 1",
+        "Answer": [
+            "y = -x + \u2154",
+            "y = x + \u2153 ",
+            "y = \u2153 x - 1",
+            "y = 2x + 1"
+        ],
+        "Correct": [
+            "y = x + \u2153 "
+        ],
+        "Title": "Linear Regression with Scikit-Learn\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 25, 11:59 PM +07"
+    },
+    {
+        "Question": "Refer to the scikit-learn documentation here: \nhttps://scikit-learn.org/stable/modules/model_evaluation.html\n\nAssume you have the actual y values in a variable called \u2018actuals\u2019 and predicted y values in a variable called \u2018predictions\u2019. Which of the following lines of code will get the mean absolute error between the predictions and actual values?",
+        "Answer": [
+            "sklearn.predict(actual, predictions)",
+            "sklearn.metrics.mean_sqaured_error(actual, predictions)",
+            "sklearn.metrics.mean_absolute_error(actual, predictions)",
+            "def get_absolute_error(predictions, actual):"
+        ],
+        "Correct": [
+            "sklearn.metrics.mean_absolute_error(actual, predictions)"
+        ],
+        "Title": "Linear Regression with Scikit-Learn\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 25, 11:59 PM +07"
+    },
+    {
+        "Question": "For the following questions, refer to the linear regression page here:\n\nhttps://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html\n\nWhich line of code defines a linear regression model that normalizes the features before fitting the regression line?",
+        "Answer": [
+            "reg = linear_model.LinearRegression(fit_interecept = False)",
+            "reg = linear_model.LinearRegression(normalize = True, fit_intercept = False)",
+            "reg = linear_model.LinearRegression(normalize = True)",
+            "reg = linear_model.LinearRegression()"
+        ],
+        "Correct": [
+            "reg = linear_model.LinearRegression(normalize = True)"
+        ],
+        "Title": "Linear Regression with Scikit-Learn\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 25, 11:59 PM +07"
+    },
+    {
+        "Question": "What is the primary difference between join and merge?",
+        "Answer": [
+            "Join lets you combine data frames on any column, while merge limits you to combining only on indexes.",
+            "Merge lets you combine data frames on any column, while join limits you to combining only on indexes.",
+            "D: Join only lets you combine two dataframes, while merge gives you the ability to combine more than two dataframes.",
+            "Merge only lets you combine two dataframes, while join gives you the ability to combine more than two dataframes."
+        ],
+        "Correct": [
+            "Merge lets you combine data frames on any column, while join limits you to combining only on indexes."
+        ],
+        "Title": "Practice Quiz: Combining Data\n\nPractice Quiz\n.\n\u00a0\u2022\u00a015 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "What differentiates concatenate from merge and join?",
+        "Answer": [
+            "Concatenate lets you combine column-wise, while merge and join don\u2019t.",
+            "Merge and join only let you combine two dataframes, while concatenate lets you combine more than two.",
+            "Merge, join, and concatenate all perform the same function.",
+            "Concatenate lets you combine two dataframes, while merge and join let you combine more than two."
+        ],
+        "Correct": [
+            "Merge and join only let you combine two dataframes, while concatenate lets you combine more than two."
+        ],
+        "Title": "Practice Quiz: Combining Data\n\nPractice Quiz\n.\n\u00a0\u2022\u00a015 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "We have two dataframes that share the column \u2018location\u2019 which share values on 3 rows.\n\nDataframe A: 10 x 20\n\nDataframe B: 5 X 10\n\nWhat will be the shape of the resulting dataframe after pd.merge(A, B, how = \u2018left\u2019)?",
+        "Answer": [
+            "12 x 29",
+            "10 x 20",
+            "10 x 30",
+            "10 x 29"
+        ],
+        "Correct": [
+            "10 x 29"
+        ],
+        "Title": "Practice Quiz: Combining Data\n\nPractice Quiz\n.\n\u00a0\u2022\u00a015 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "How do you index a dataframe by name of row?",
+        "Answer": [
+            "D: You can\u2019t, it\u2019s impossible.",
+            "df.index[]",
+            "df.iloc[]",
+            "df.loc[]"
+        ],
+        "Correct": [
+            "df.loc[]"
+        ],
+        "Title": "Practice Quiz: Pandas\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Assume I have a dataframe called \u2018df\u2019 and \u2018shipment_date\u2019 is a column. How do I get a subset of the dataframe with all shipments on \u20181/2/2021\u2019?",
+        "Answer": [
+            "df(df.shipment_date == \u20181/2/2021\u2019)",
+            "df.shipment_date",
+            "df.shipment_date == \u20181/2/2021\u2019",
+            "df[df.shipment_date == \u20181/2/2021\u2019]"
+        ],
+        "Correct": [
+            "df[df.shipment_date == \u20181/2/2021\u2019]"
+        ],
+        "Title": "Practice Quiz: Pandas\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "How do you get the size of a dataframe.",
+        "Answer": [
+            "df.shape()",
+            "df.size()",
+            "df.shape",
+            "df.size"
+        ],
+        "Correct": [
+            "df.size()"
+        ],
+        "Title": "Practice Quiz: Pandas\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Which of the following is a supervised learning technique?",
+        "Answer": [
+            "Clustering",
+            "Principal Component Analysis",
+            "Anomaly Detection",
+            "Linear Discriminant Analysis"
+        ],
+        "Correct": [
+            "Linear Discriminant Analysis"
+        ],
+        "Title": "Data Preprocessing Techniques\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is not an example of data cleaning?",
+        "Answer": [
+            "Removing outliers",
+            "Dimensionality Reduction",
+            "Filtering to get rid of faulty trials",
+            "Filling in missing values"
+        ],
+        "Correct": [
+            "Dimensionality Reduction"
+        ],
+        "Title": "Data Preprocessing Techniques\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "What are the eigenvalues of the 2 x 2 matrix: [0, 1; -2, -3]",
+        "Answer": [
+            "-1,2",
+            "-1, -2",
+            "1, 2",
+            "1,-2"
+        ],
+        "Correct": [
+            "-1, -2"
+        ],
+        "Title": "Data Preprocessing Techniques\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is an eigenvector of the 2 x 2 matrix: [0, 1; -2, -3]",
+        "Answer": [
+            "[-1,1]",
+            "[0,1]",
+            "[1,1]",
+            "[0,0]"
+        ],
+        "Correct": [
+            "[-1,1]"
+        ],
+        "Title": "Data Preprocessing Techniques\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following are used for dimensionality reduction?",
+        "Answer": [
+            "Only Linear Discriminant Analysis (LDA)",
+            "Only Principal Component Analysis (PCA)",
+            "None of the above",
+            "Both of the above"
+        ],
+        "Correct": [
+            "Both of the above"
+        ],
+        "Title": "Data Preprocessing Techniques\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "What are two of the possible use cases for linear discriminant analysis?",
+        "Answer": [
+            "Classification and Regression",
+            "Clustering and Anomaly Detection",
+            "Dimensionality Reduction and Classification",
+            "Clustering and Classification"
+        ],
+        "Correct": [
+            "Dimensionality Reduction and Classification"
+        ],
+        "Title": "Data Preprocessing Techniques\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "How do you calculate the z-value when using PCA?",
+        "Answer": [
+            "(value - mean) / standard deviation",
+            "(value - mean) / variance",
+            "(mean - value) / standard deviation",
+            "(mean - value) / variance"
+        ],
+        "Correct": [
+            "(value - mean) / standard deviation"
+        ],
+        "Title": "Data Preprocessing Techniques\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is not of the discrimination rules used in LDA?",
+        "Answer": [
+            "Fisher\u2019s linear discriminant rule",
+            "Bayes\u2019 Discriminant Rule",
+            "Maximum Likelihood",
+            "Support vector machines"
+        ],
+        "Correct": [
+            "Support vector machines"
+        ],
+        "Title": "Data Preprocessing Techniques\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Put the following transformations of data in order of use in practice:\n\nA. Matrix of Text\n\nB. Non-Negative Matrix Factorization\n\nC. LDA\n\nD. Feature Selection",
+        "Answer": [
+            "A,D,C,B",
+            "A,B,C,D",
+            "D,B,C,A",
+            "D,C,B,A"
+        ],
+        "Correct": [
+            "A,D,C,B"
+        ],
+        "Title": "Data Preprocessing Techniques\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Refer to the following documentation page: \nhttps://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html\n\nWhich of the following is an invalid input for tolerance?",
+        "Answer": [
+            "-1",
+            "0",
+            "10,000",
+            "1"
+        ],
+        "Correct": [
+            "-1"
+        ],
+        "Title": "Data Preprocessing Techniques\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Go to the following link: \nhttps://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html\n\nWhat convergence algorithm is more efficient on data with well-defined clusters?",
+        "Answer": [
+            "full",
+            "Em-style",
+            "elkan"
+        ],
+        "Correct": [
+            "elkan"
+        ],
+        "Title": "Practice Quiz: K-Means and SVM\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Go to the following link: \nhttps://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html\n\nWhen might 'MiniBatchKMeans' be better than the default K-means clustering algorithm?",
+        "Answer": [
+            "The dataset has a large number of samples",
+            "The dataset has a small number of features.",
+            "The dataset has a small number of samples",
+            "The dataset has a large number of features."
+        ],
+        "Correct": [
+            "The dataset has a large number of samples"
+        ],
+        "Title": "Practice Quiz: K-Means and SVM\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "What is a fundamental difference between K-Means and SVM?",
+        "Answer": [
+            "SVM is for clustering and K-Means is for classification.",
+            "K-Means is for clustering and SVM is for classification.",
+            "Nothing major, they are pretty interchangable.",
+            "K-means is supervised and SVM is unsupervised."
+        ],
+        "Correct": [
+            "K-Means is for clustering and SVM is for classification."
+        ],
+        "Title": "Practice Quiz: K-Means and SVM\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "What is the primary difference between Numpy and Pandas?",
+        "Answer": [
+            "Pandas is primarily used for numerical computations, while Numpy is used for text and numbers in the form of Numpy arrays.",
+            "Pandas is for numerical computations, while Numpy is similar to SQL tables.",
+            "Numpy is primarily used for numerical computations, while Pandas is used for text and numbers in the form of Pandas dataframes.",
+            "Pandas and Numpy perform exactly the same functions."
+        ],
+        "Correct": [
+            "Numpy is primarily used for numerical computations, while Pandas is used for text and numbers in the form of Pandas dataframes."
+        ],
+        "Title": "Practice Quiz: Numpy Basics\n\nPractice Quiz\n.\n\u00a0\u2022\u00a015 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Refer to the following link: \nhttps://numpy.org/doc/stable/reference/generated/numpy.zeros.html\n\nWhich of the following creates a matrix of zeros with 3 rows and 4 columns.",
+        "Answer": [
+            "np.zeros((3,4))",
+            "np.zeros(3,4)",
+            "np.zeros(4,3)",
+            "np.zeros()"
+        ],
+        "Correct": [
+            "np.zeros((3,4))"
+        ],
+        "Title": "Practice Quiz: Numpy Basics\n\nPractice Quiz\n.\n\u00a0\u2022\u00a015 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Refer to the following link: \nhttps://numpy.org/doc/stable/reference/random/generated/numpy.random.rand.html\n\nWhich of the following is the correct syntax to create a 3D array of random numbers?",
+        "Answer": [
+            "data = np.random(1,2,3)",
+            "data =np.random.rand(123)",
+            "data = np.random.rand((1,2,3))",
+            "data = np.random.rand(1,2,3)"
+        ],
+        "Correct": [
+            "data = np.random.rand(1,2,3)"
+        ],
+        "Title": "Practice Quiz: Numpy Basics\n\nPractice Quiz\n.\n\u00a0\u2022\u00a015 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Which of the following is an accurate statement about supervised learning and unsupervised learning?",
+        "Answer": [
+            "Unsupervised learning needs labeled training data, while supervised learning doesn\u2019t.",
+            "Supervised learning needs labeled training data, while unsupervised learning doesn\u2019t.",
+            "Both supervised and unsupervised learning need labeled training data. ",
+            "Neither supervised or unsupervised learning need labeled training data. "
+        ],
+        "Correct": [
+            "Supervised learning needs labeled training data, while unsupervised learning doesn\u2019t."
+        ],
+        "Title": "Basics of Machine Learning\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is not a prominent clustering technique?",
+        "Answer": [
+            "Singular Value Decomposition",
+            "K-Nearest neighbors",
+            "Principal Component Analysis",
+            "K-means"
+        ],
+        "Correct": [
+            "K-Nearest neighbors"
+        ],
+        "Title": "Basics of Machine Learning\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following techniques can be used for both regression and classification?",
+        "Answer": [
+            "Ridge/Lasso",
+            "Random Forests",
+            "ADA Boost Regressors",
+            "Linear Discriminants"
+        ],
+        "Correct": [
+            "Random Forests"
+        ],
+        "Title": "Basics of Machine Learning\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is a feature of K-Means Clustering",
+        "Answer": [
+            "It is an iterative algorithm.",
+            "It\u2019s the same as K-Nearest neighbors.",
+            "It looks to classify N data points into K clusters.",
+            "It\u2019s a supervised learning technique."
+        ],
+        "Correct": [
+            "It is an iterative algorithm."
+        ],
+        "Title": "Basics of Machine Learning\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Assume a 3-NN algorithm is fitted on a set of labeled data points. If we introduce a new data point, what steps are necessary to classify it?",
+        "Answer": [
+            "Find the 3 nearest data points, then classify into the average of the appeared categories.",
+            "Find the 4 nearest data points, then classify into the categories that appeared most often.",
+            "Find the 3 nearest data points, then classify into the categories that appeared most often.",
+            "Find the 4 nearest data points, then classify into the average of the appeared categories."
+        ],
+        "Correct": [
+            "Find the 3 nearest data points, then classify into the categories that appeared most often."
+        ],
+        "Title": "Basics of Machine Learning\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "What are support vector machines used for?",
+        "Answer": [
+            "Clustering ",
+            "Dimensionality Reduction",
+            "Classification",
+            "Anomaly Detection"
+        ],
+        "Correct": [
+            "Classification"
+        ],
+        "Title": "Basics of Machine Learning\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "What should we set the \u2018degree\u2019 to in order to fit a linear SVC model?\n\nHint: You can refer to the following documentation: \nhttps://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html",
+        "Answer": [
+            "2",
+            "3",
+            "0",
+            "1"
+        ],
+        "Correct": [
+            "1"
+        ],
+        "Title": "Basics of Machine Learning\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Refer to the following documentation: \nhttps://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html\n\nWhich of the following is the default tolerance value?",
+        "Answer": [
+            "0.1",
+            "0.01",
+            "0.001",
+            "1"
+        ],
+        "Correct": [
+            "0.001"
+        ],
+        "Title": "Basics of Machine Learning\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Refer to the following page for documentation: \nhttps://scikit-learn.org/stable/modules/neighbors.html#unsupervised-nearest-neighbors\n\nWhich of the following is not a nearest neighbor algorithm?",
+        "Answer": [
+            "K-D Tree",
+            "Ball Tree",
+            "SVD optimization",
+            "Brute Force"
+        ],
+        "Correct": [
+            "SVD optimization"
+        ],
+        "Title": "Basics of Machine Learning\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "Refer to the following documentation page: \nhttps://scikit-learn.org/stable/modules/ensemble.html#adaboost\n\nWhich of the following makes ADA Boosts different from most other machine learning algorithms?",
+        "Answer": [
+            "ADA Boosts can\u2019t perform multi-class classification.",
+            "ADA Boosts are ensemble methods that combine different techniques.",
+            "ADA Boosts are a discrete algorithm.",
+            "ADA Boosts are used for both regression and dimensional analysis."
+        ],
+        "Correct": [
+            "ADA Boosts are ensemble methods that combine different techniques."
+        ],
+        "Title": "Basics of Machine Learning\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 18, 11:59 PM +07"
+    },
+    {
+        "Question": "What is the difference between a list and a tuple?",
+        "Answer": [
+            "Lists can hold an unlimited number of elements, while tuples can only hold 2.",
+            "There is no difference.",
+            "Tuples are mutable, while lists are not.",
+            "Lists are mutable, while tuples are not."
+        ],
+        "Correct": [
+            "Lists are mutable, while tuples are not."
+        ],
+        "Title": "Practice Quiz: Data Structures\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points"
+    },
+    {
+        "Question": "planets = ['Earth', 'Mercury', 'Venus']\n\nWhich of the following are correct ways to remove the element 'Mercury'?  (Select all that apply.)",
+        "Answer": [
+            "planets.remove('Mercury')",
+            "planets.remove(1)",
+            "planets.pop(2)",
+            "planets.pop(1)"
+        ],
+        "Correct": [
+            "planets.remove('Mercury')",
+            "planets.pop(1)"
+        ],
+        "Title": "Practice Quiz: Data Structures\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points"
+    },
+    {
+        "Question": "What is the name given to the nodes between the input and output layers of a neural network?",
+        "Answer": [
+            "cental nodes",
+            "hidden layers",
+            "middle layers",
+            "center layers"
+        ],
+        "Correct": [
+            "hidden layers"
+        ],
+        "Title": "Practice Quiz: Neural Networks using scikit-learn\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n4 total points available.\n4 total points"
+    },
+    {
+        "Question": "What will be the effect of increasing the number of hidden layers in the network?",
+        "Answer": [
+            "The results are unpredictable.",
+            "It'll decrease fit on the training data.",
+            "It'll improve fit on the training data."
+        ],
+        "Correct": [
+            "It'll improve fit on the training data."
+        ],
+        "Title": "Practice Quiz: Neural Networks using scikit-learn\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n4 total points available.\n4 total points"
+    },
+    {
+        "Question": "Read Section 1.17.1 from \nhttps://scikit-learn.org/stable/modules/neural_networks_supervised.html\n. What is the structure of the coefs_ attribute?",
+        "Answer": [
+            "It is a list containing matrices where these each matrix contains the weights of a single neuron.",
+            "It is a matrix that contains all the weights of the network.",
+            "It is a list containing matrices where these each matrix contains the weights going form one layer to the next."
+        ],
+        "Correct": [
+            "It is a list containing matrices where these each matrix contains the weights going form one layer to the next."
+        ],
+        "Title": "Practice Quiz: Neural Networks using scikit-learn\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n4 total points available.\n4 total points"
+    },
+    {
+        "Question": "Read Section 1.17.2 from \nhttps://scikit-learn.org/stable/modules/neural_networks_supervised.html\n. Recall that bias helps regularize the network. Which of the following parameters determines bias strength?",
+        "Answer": [
+            "alpha",
+            "random_state",
+            "x",
+            "y"
+        ],
+        "Correct": [
+            "alpha"
+        ],
+        "Title": "Practice Quiz: Neural Networks using scikit-learn\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n4 total points available.\n4 total points"
+    },
+    {
+        "Question": "What is a requirement of a feed forward neural network?",
+        "Answer": [
+            "Values are passed from one layer to the next while always moving toward the output neurons",
+            "Values can be sent between layers in either direction, moving toward or away from the outputs",
+            "Values are passed from one layer to another while moving toward the output neurons, potentially skipping over layers on the way"
+        ],
+        "Correct": [
+            "Values are passed from one layer to the next while always moving toward the output neurons"
+        ],
+        "Title": "Feed Forward and Backpropagation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points"
+    },
+    {
+        "Question": "What is backpropagation used for?",
+        "Answer": [
+            "Adjusting the number of neurons in the network",
+            "Adjusting the weights of the network to increase error",
+            "Adjusting the weights of the network to reduce error"
+        ],
+        "Correct": [
+            "Adjusting the weights of the network to reduce error"
+        ],
+        "Title": "Feed Forward and Backpropagation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points"
+    },
+    {
+        "Question": "Given common conventions, which variables correspond to the coefficients in the equation y = m1 * x1 + m2 * x2 + m3 * x3?",
+        "Answer": [
+            "x1, x2, x3",
+            "m1, m2, m3",
+            "y",
+            "m1 only"
+        ],
+        "Correct": [
+            "m1, m2, m3"
+        ],
+        "Title": "Practice Quiz: Math of Linear Regression\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "An ordinary least squares linear regression model is fitted on the following points: (0,2), (1,1), (0,-1).\n\nWhat is the equation of the line that was fit?",
+        "Answer": [
+            "y = x - 1",
+            "y = x + 1",
+            "y = -\u00bd x - \u00bd ",
+            "y = \u00bd x + \u00bd "
+        ],
+        "Correct": [
+            "y = \u00bd x + \u00bd "
+        ],
+        "Title": "Practice Quiz: Math of Linear Regression\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "An ordinary least squares linear regression model is fitted on the following points: (0,2), (1,1), (0,-1).\n\nWhat is the minimized sum of squares?",
+        "Answer": [
+            "1",
+            "1/3",
+            "2/3",
+            "-1"
+        ],
+        "Correct": [
+            "2/3"
+        ],
+        "Title": "Practice Quiz: Math of Linear Regression\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "For the following questions, refer to the dataset here: \nhttps://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html\n\nWhat is the range of targets in the data?",
+        "Answer": [
+            "10",
+            "-2-2",
+            "25-346",
+            "0-1"
+        ],
+        "Correct": [
+            "25-346"
+        ],
+        "Title": "Practice Quiz: Using the scikit-learn Docs\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "For the following questions, refer to the dataset here: \nhttps://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html\n\nWhich of the following code loads the data into X and Y dataframes?",
+        "Answer": [
+            "sklearn.datasets.load_diabetes(as_frame = True)",
+            "sklearn.datasets.load_diabetes()",
+            "sklearn.datasets.load_diabetes(return_X_y = True)",
+            "sklearn.datasets.load_diabetes(return_X_y = True, as_frame = True)"
+        ],
+        "Correct": [
+            "sklearn.datasets.load_diabetes(return_X_y = True, as_frame = True)"
+        ],
+        "Title": "Practice Quiz: Using the scikit-learn Docs\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "For the following questions, refer to the dataset here: \nhttps://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html\n\nWhat does the \u2018s6 glu\u2019 correspond to?",
+        "Answer": [
+            "blood sugar level",
+            "low-density lipoproteins",
+            "lamotrigine",
+            "high-density lipoproteins"
+        ],
+        "Correct": [
+            "blood sugar level"
+        ],
+        "Title": "Practice Quiz: Using the scikit-learn Docs\n\nPractice Quiz\n.\n\u00a0\u2022\u00a010 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "What is the first layer of a network called?",
+        "Answer": [
+            "Feedback layer",
+            "Activation layer",
+            "Input layer",
+            "Output layer"
+        ],
+        "Correct": [
+            "Input layer"
+        ],
+        "Title": "Neural Network Basics\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "What is the last layer of a network called?",
+        "Answer": [
+            "Input layer",
+            "Activation layer",
+            "Feedback layer",
+            "Output layer"
+        ],
+        "Correct": [
+            "Output layer"
+        ],
+        "Title": "Neural Network Basics\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following activation functions are used for multiclass classification?",
+        "Answer": [
+            "Linear (Identity)",
+            "Rectified Linear Unit (ReLu)",
+            "Softmax ",
+            "Sigmoid (Logistic)"
+        ],
+        "Correct": [
+            "Softmax "
+        ],
+        "Title": "Neural Network Basics\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "How is the initial weight of a neuron-to-neuron connection assigned?",
+        "Answer": [
+            "They are all initialized to 1",
+            "A random number between 0 and 1",
+            "A random number between 0 and 100",
+            "They are all initialized to 0"
+        ],
+        "Correct": [
+            "A random number between 0 and 1"
+        ],
+        "Title": "Neural Network Basics\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "What is the standard cost function used in most neural network regression models?",
+        "Answer": [
+            "Stochastic gradient cost",
+            "Cross-entropy cost",
+            "Mean squared error",
+            "Quadratic cost"
+        ],
+        "Correct": [
+            "Mean squared error"
+        ],
+        "Title": "Neural Network Basics\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is true about a neuron?",
+        "Answer": [
+            "A neuron can have many inputs but only one output",
+            "A neuron can only have one input and out output",
+            "A neuron can have many inputs and outputs",
+            "A neuron can only have one input but many outputs"
+        ],
+        "Correct": [
+            "A neuron can have many inputs and outputs"
+        ],
+        "Title": "Neural Network Basics\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "For questions 7-10, refer to the following link: \nhttps://scikit-learn.org/stable/modules/neural_networks_supervised.html\n\nWhat is the default activation used with the MLP Classifier?",
+        "Answer": [
+            "Linear (Identity)",
+            "Softmax ",
+            "Rectified Linear Unit (ReLu)",
+            "Sigmoid (Logistic)"
+        ],
+        "Correct": [
+            "Rectified Linear Unit (ReLu)"
+        ],
+        "Title": "Neural Network Basics\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "For questions 7-10, refer to the following link: \nhttps://scikit-learn.org/stable/modules/neural_networks_supervised.html\n\nWhat is the cost function used with the MLP Classifier?",
+        "Answer": [
+            "Cross-entropy loss",
+            "Mean squared error",
+            "Stochastic gradient cost",
+            "Quadratic cost"
+        ],
+        "Correct": [
+            "Cross-entropy loss"
+        ],
+        "Title": "Neural Network Basics\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "For questions 7-10, refer to the following link: \nhttps://scikit-learn.org/stable/modules/neural_networks_supervised.html\n\nWhich of the following creates two hidden layers, each of size 100?",
+        "Answer": [
+            "hidden_layer_sizes = (2,,100)",
+            "hidden_layer_sizes = (100,2)",
+            "hidden_layer_sizes = (200)",
+            "hidden_layer_sizes = (100,100)"
+        ],
+        "Correct": [
+            "hidden_layer_sizes = (100,100)"
+        ],
+        "Title": "Neural Network Basics\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    },
+    {
+        "Question": "For questions 7-10, refer to the following link: \nhttps://scikit-learn.org/stable/modules/neural_networks_supervised.html\n\nWhich of the following parameters modifies the L2 regularization term?",
+        "Answer": [
+            "Beta",
+            "Gamma",
+            "Alpha ",
+            "All of the above"
+        ],
+        "Correct": [
+            "Alpha "
+        ],
+        "Title": "Neural Network Basics\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nDueJun 11, 11:59 PM +07"
+    }
+]

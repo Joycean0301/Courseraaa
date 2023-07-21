@@ -1,0 +1,29 @@
+Practice Quiz: Eigenvalues and Eigenvectors
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||Find the smallest eigenvalue of the following matrix:
+
+A = [0.8, 0.3; 0.2, 0.7]||||||@@@Practice Quiz: Eigenvalues and Eigenvectors
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||Find the largest eigenvalue of the following matrix:
+
+A = [0.8, 0.3; 0.2, 0.7]||||||@@@Practice Quiz: Eigenvalues and Eigenvectors
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||What is an eigenvalue?|||Main axis direction^^^Standard deviation^^^Variance^^^Scalar factor of the linear transformation.|||Scalar factor of the linear transformation.

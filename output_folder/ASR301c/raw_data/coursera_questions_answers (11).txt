@@ -1,0 +1,31 @@
+Practice Quiz: K-Means and SVM
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||Go to the following link: 
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+
+What convergence algorithm is more efficient on data with well-defined clusters?|||full^^^Em-style^^^elkan|||elkan@@@Practice Quiz: K-Means and SVM
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||Go to the following link: 
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+
+When might 'MiniBatchKMeans' be better than the default K-means clustering algorithm?|||The dataset has a large number of samples^^^The dataset has a small number of features.^^^The dataset has a small number of samples^^^The dataset has a large number of features.|||The dataset has a large number of samples@@@Practice Quiz: K-Means and SVM
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||What is a fundamental difference between K-Means and SVM?|||SVM is for clustering and K-Means is for classification.^^^K-Means is for clustering and SVM is for classification.^^^Nothing major, they are pretty interchangable.^^^K-means is supervised and SVM is unsupervised.|||K-Means is for clustering and SVM is for classification.

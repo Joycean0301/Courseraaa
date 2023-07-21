@@ -1,0 +1,31 @@
+Practice Quiz: Combining Data
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+3 total points available.
+3 total points|||What is the primary difference between join and merge?|||Join lets you combine data frames on any column, while merge limits you to combining only on indexes.^^^Merge lets you combine data frames on any column, while join limits you to combining only on indexes.^^^D: Join only lets you combine two dataframes, while merge gives you the ability to combine more than two dataframes.^^^Merge only lets you combine two dataframes, while join gives you the ability to combine more than two dataframes.|||Merge lets you combine data frames on any column, while join limits you to combining only on indexes.@@@Practice Quiz: Combining Data
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+3 total points available.
+3 total points|||What differentiates concatenate from merge and join?|||Concatenate lets you combine column-wise, while merge and join don’t.^^^Merge and join only let you combine two dataframes, while concatenate lets you combine more than two.^^^Merge, join, and concatenate all perform the same function.^^^Concatenate lets you combine two dataframes, while merge and join let you combine more than two.|||Merge and join only let you combine two dataframes, while concatenate lets you combine more than two.@@@Practice Quiz: Combining Data
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+3 total points available.
+3 total points|||We have two dataframes that share the column ‘location’ which share values on 3 rows.
+
+Dataframe A: 10 x 20
+
+Dataframe B: 5 X 10
+
+What will be the shape of the resulting dataframe after pd.merge(A, B, how = ‘left’)?|||12 x 29^^^10 x 20^^^10 x 30^^^10 x 29|||10 x 29

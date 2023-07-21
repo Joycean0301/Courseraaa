@@ -1,0 +1,72 @@
+Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following is a supervised learning technique?|||Clustering^^^Principal Component Analysis^^^Anomaly Detection^^^Linear Discriminant Analysis|||Linear Discriminant Analysis@@@Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following is not an example of data cleaning?|||Removing outliers^^^Dimensionality Reduction^^^Filtering to get rid of faulty trials^^^Filling in missing values|||Dimensionality Reduction@@@Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What are the eigenvalues of the 2 x 2 matrix: [0, 1; -2, -3]|||-1,2^^^-1, -2^^^1, 2^^^1,-2|||-1, -2@@@Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following is an eigenvector of the 2 x 2 matrix: [0, 1; -2, -3]|||[-1,1]^^^[0,1]^^^[1,1]^^^[0,0]|||[-1,1]@@@Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following are used for dimensionality reduction?|||Only Linear Discriminant Analysis (LDA)^^^Only Principal Component Analysis (PCA)^^^None of the above^^^Both of the above|||Both of the above@@@Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What are two of the possible use cases for linear discriminant analysis?|||Classification and Regression^^^Clustering and Anomaly Detection^^^Dimensionality Reduction and Classification^^^Clustering and Classification|||Dimensionality Reduction and Classification@@@Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||How do you calculate the z-value when using PCA?|||(value - mean) / standard deviation^^^(value - mean) / variance^^^(mean - value) / standard deviation^^^(mean - value) / variance|||(value - mean) / standard deviation@@@Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of the following is not of the discrimination rules used in LDA?|||Fisher’s linear discriminant rule^^^Bayes’ Discriminant Rule^^^Maximum Likelihood^^^Support vector machines|||Support vector machines@@@Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Put the following transformations of data in order of use in practice:
+
+A. Matrix of Text
+
+B. Non-Negative Matrix Factorization
+
+C. LDA
+
+D. Feature Selection|||A,D,C,B^^^A,B,C,D^^^D,B,C,A^^^D,C,B,A|||A,D,C,B@@@Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Refer to the following documentation page: 
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+
+Which of the following is an invalid input for tolerance?|||-1^^^0^^^10,000^^^1|||-1

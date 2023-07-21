@@ -1,0 +1,25 @@
+Practice Quiz: Pandas
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||How do you index a dataframe by name of row?|||D: You can’t, it’s impossible.^^^df.index[]^^^df.iloc[]^^^df.loc[]|||df.loc[]@@@Practice Quiz: Pandas
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||Assume I have a dataframe called ‘df’ and ‘shipment_date’ is a column. How do I get a subset of the dataframe with all shipments on ‘1/2/2021’?|||df(df.shipment_date == ‘1/2/2021’)^^^df.shipment_date^^^df.shipment_date == ‘1/2/2021’^^^df[df.shipment_date == ‘1/2/2021’]|||df[df.shipment_date == ‘1/2/2021’]@@@Practice Quiz: Pandas
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points|||How do you get the size of a dataframe.|||df.shape()^^^df.size()^^^df.shape^^^df.size|||df.size()

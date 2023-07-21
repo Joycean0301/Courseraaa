@@ -1,0 +1,19 @@
+Practice Quiz: Data Structures
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+2 total points available.
+2 total points|||What is the difference between a list and a tuple?|||Lists can hold an unlimited number of elements, while tuples can only hold 2.^^^There is no difference.^^^Tuples are mutable, while lists are not.^^^Lists are mutable, while tuples are not.|||Lists are mutable, while tuples are not.@@@Practice Quiz: Data Structures
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+2 total points available.
+2 total points|||planets = ['Earth', 'Mercury', 'Venus']
+
+Which of the following are correct ways to remove the element 'Mercury'?  (Select all that apply.)|||planets.remove('Mercury')^^^planets.remove(1)^^^planets.pop(2)^^^planets.pop(1)|||planets.remove('Mercury')^^^planets.pop(1)

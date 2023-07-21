@@ -1,0 +1,37 @@
+Practice Quiz: Neural Networks using scikit-learn
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points|||What is the name given to the nodes between the input and output layers of a neural network?|||cental nodes^^^hidden layers^^^middle layers^^^center layers|||hidden layers@@@Practice Quiz: Neural Networks using scikit-learn
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points|||What will be the effect of increasing the number of hidden layers in the network?|||The results are unpredictable.^^^It'll decrease fit on the training data.^^^It'll improve fit on the training data.|||It'll improve fit on the training data.@@@Practice Quiz: Neural Networks using scikit-learn
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points|||Read Section 1.17.1 from 
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+. What is the structure of the coefs_ attribute?|||It is a list containing matrices where these each matrix contains the weights of a single neuron.^^^It is a matrix that contains all the weights of the network.^^^It is a list containing matrices where these each matrix contains the weights going form one layer to the next.|||It is a list containing matrices where these each matrix contains the weights going form one layer to the next.@@@Practice Quiz: Neural Networks using scikit-learn
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points|||Read Section 1.17.2 from 
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+. Recall that bias helps regularize the network. Which of the following parameters determines bias strength?|||alpha^^^random_state^^^x^^^y|||alpha
