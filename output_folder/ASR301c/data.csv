@@ -1,0 +1,1660 @@
+Question,Answer,Correct,Title
+"Assume I have a dataframe called df with the following columns: ‘date', 'zip', 'high_temp', 'low_temp', 'precipitation'.
+
+Which line of code extracts all orders with Zip Code 31415?","df.iloc[df[‘zip’] == 31415]
+
+df.loc[df[‘zip’] == 31415]
+
+df.zip.df[df[‘zip’] == 31415]
+
+df[‘zip’] == 31415",df.loc[df[‘zip’] == 31415],"Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Assume I have a dataframe called df with the following columns: ‘date', 'zip', 'high_temp', 'low_temp', 'precipitation'.
+
+Which line of code sets the index to ‘date’ inplace?","df.iloc[df['index'] == 31415]
+
+df[‘index’] == ‘date’
+
+df.set_index(‘date’’)
+
+df.set_index('date', inplace = True)","df.set_index('date', inplace = True)","Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Assume I have a dataframe called df with the following columns: ‘date', 'zip', 'high_temp', 'low_temp', 'precipitation'.
+
+Which of the following creates a dictionary between the ‘zip’ and ‘high_temp’ columns?","new_dict = zip(dict(df['zip’], df[‘high_temp’]))
+
+new_dict = df['zip’], df[‘high_temp’])
+
+new_dict = dict(zip(df['zip’], df[‘high_temp’]))
+
+new_dict = dict(df['zip’], df[‘high_temp’]))","new_dict = dict(zip(df['zip’], df[‘high_temp’]))","Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Assume I have a dataframe called df with the following columns: ‘date', 'zip', 'high_temp', 'low_temp', 'precipitation'.
+
+What is the correct way to drop all rows with any NA values in either the ‘high_temp’ or ‘low_temp’ columns?
+
+You may need to refer to the following link: 
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html","df.dropna(axis = 1, how = ‘any’, subset = [‘high_temp’, ‘low_temp’], inplace = True)
+
+df.dropna(axis = 0, how = ‘any’, inplace = True)
+
+df.dropna(axis = 1, how = ‘all’, subset = [‘high_temp’, ‘low_temp’], inplace = True
+
+df.dropna(axis = 0, how = ‘any’, subset = [‘high_temp’, ‘low_temp’], inplace = True)","df.dropna(axis = 0, how = ‘any’, subset = [‘high_temp’, ‘low_temp’], inplace = True)","Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Assume I have a dataframe called df with the following columns: ‘date', 'zip', 'high_temp', 'low_temp', 'precipitation'.
+
+There is a Pandas data type we haven’t discussed yet called ‘category’. Assume that this is a valid data type. 
+
+What is the correct way to convert the ‘zip’ column to a categorical data type.
+
+You may need to refer to the following link, though it’s not necessary: 
+https://pandas.pydata.org/pandas-docs/stable/user_guide/categorical.html","df['zip'] = category(df)
+
+df['zip'] = category(df['zip']])
+
+df['zip'] = df.category(df['zip'])
+
+df['zip'] = df['zip’].astype(‘category’)",df['zip'] = df['zip’].astype(‘category’),"Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"temp_array = np.ones(200)
+
+Which of the following ways are a valid way to reshape the array.","temp_array.reshape(20, 100)
+
+temp_array.reshape((20, 100))
+
+temp_array.reshape((10, 20))
+
+temp_array.reshape(20, 10)","temp_array.reshape((10, 20))","Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Which line of code correctly creates a random array of shape (10,10) and raises it to the 10th power?","c = np.random.random(10)
+
+np.power(c,10)
+
+c = np.random.random(10)
+
+c^10
+
+c = np.random.random(10, 10)
+
+np.power(c,10)
+
+c = np.random.random(10, 10)
+
+c^10","c = np.random.random(10)
+
+np.power(c,10)","Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which line of code prints the sum of cubes (3rd power) for every even two digit decimals between 0 and 5?,"total = 0
+
+for n in np.arange(0,5,0.02):
+
+   total = total + n
+
+print(total)
+
+total = 0
+
+for n in np.arange(0.02,0,5):
+
+   total = total + n
+
+print(total)
+
+total = 0
+
+for n in np.arange(0,0.02,5):
+
+   total = total + n
+
+print(total)
+
+total = 0
+
+for n in range(0,5,0.02):
+
+   total = total + n
+
+print(total)","total = 0
+
+for n in np.arange(0,5,0.02):
+
+   total = total + n
+
+print(total)","Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Assume we have a dataframe titled ‘weather’ with historical average temperatures for Los Angeles, CA for the last three years, indexed by date and sorted in ascending order. We also have a second dataframe title ‘earthquakes’’ with earthquake potential information for the same area over the same time period. However, earthquake reports are only released monthly. 
+
+After combining both dataframes by date, there are a lot of NA values for the new ‘earthquake_potential’ column in the ‘stocks’ dataframe. How can we fill in the NA values in the ‘earthquake_potential’ column to ensure that we always have the last known earthquake potential for a given date?
+
+You may refer to the following link for reference: 
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html","sales['earthquake_potential'].fillna(method = ‘backfill’, inplace = True)
+
+sales[‘earthquake_potential'].fillna(method = ‘ffill’, inplace = True)
+
+sales[‘earthquake_potential’].fillna(inplace = True)
+
+sales['earthquake_potential'].fillna(method = ‘bfill’, inplace = True)","sales[‘earthquake_potential'].fillna(method = ‘ffill’, inplace = True)","Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"The amount of greenhouse gas emissions emitted by a certain factory on a given hour is normally distributed with a mean of 50 mTCO2/h a standard deviation of 3 mTCO2/h. 
+
+We need to generate 10,000 hours of estimated data on the amount of emissions. 
+
+Which lines of code will achieve this? (Select all that apply).
+
+You may refer to the following link for reference: 
+
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html","temp_array = np.random.normal(50, 3, 10,000)
+
+temp_array = np.random.normal(50, 3)
+
+temp_array = np.array([])
+
+for i in range(10,000):
+
+   temp_array.append(np.random.normal(50, 3))
+
+temp_array = np.random.normal(50, 3, 10000)","temp_array = np.array([])
+
+for i in range(10,000):
+
+   temp_array.append(np.random.normal(50, 3))
+
+temp_array = np.random.normal(50, 3, 10000)","Numpy and Pandas Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What is a possible outcome when the learning rate is increased when performing stochastic gradient descent?,"The convergence occurs too slowly
+
+We undershoot the minimum and don’t converge to a solution
+
+We overshoot the minimum and don’t converge to a solution
+
+The converge occurs too quickly",We overshoot the minimum and don’t converge to a solution,"Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following can lead to overfitting?,"Randomly initializing weights
+
+Increasing the number of layers in the network
+
+Adding an activation layer
+
+Decreasing the number of layers in the network",Increasing the number of layers in the network,"Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following is the right way to set up a network with Keras and tensorflow?,"model = tf.keras.models.Sequential()
+
+model = tf()
+
+model = tf.keras.models()
+
+model = tf.keras()",model = tf.keras.models.Sequential(),"Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following is to add a flat input layer with an input shape of 28 x 28? ,"tf.keras.layers.Flatten(input_shape = (28, 28))
+
+tf.keras.layers(input_shape = (28))
+
+tf.keras.layers(input_shape = (28, 28))
+
+tf.keras.layers.Sequential(input_shape = (28, 28))","tf.keras.layers.Flatten(input_shape = (28, 28))","Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"Refer to the following link: 
+https://www.tensorflow.org/api_docs/python/tf/keras/losses/SparseCategoricalCrossentropy
+
+When is an appropriate time to use a categorical cross entropy loss function?","When there are more than two label classes
+
+When there are only two label classes
+
+When there are two or more label classes
+
+When performing regression",When there are two or more label classes,"Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following characterizes the bias-variance tradeoff?,"A high variance model may overfit the data, but a high bias model may underfit
+
+A high variance and high bias model may overfit the data
+
+A high variance model may underfit the data, but a high bias model may overfit
+
+A high variance and high bias model may underfit the data","A high variance model may overfit the data, but a high bias model may underfit","Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+How do you decrease bias in a neural network?,"Both increase and decrease the number of layers
+
+There is no way to increase bias
+
+Decrease the number of layers
+
+Increase the number of layers",Increase the number of layers,"Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+How do you decrease variance in a neural network?,"Decrease the number of layers
+
+There is no way to increase bias
+
+Increase the number of layers
+
+Both increase and decrease the number of layers",Decrease the number of layers,"Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What is a critical assumption made in linear regression with L2 regularization?,"There are no assumptions made
+
+There is no variance
+
+There is no bias or variance
+
+There is no bias",There is no variance,"Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following is the correct structure for TensorFlow and Keras?,"Keras is a machine learning library built on top of Tensorflow
+
+Both Tensorflow and Keras are independent
+
+Tensorflow is a machine learning library built on top of Keras
+
+Keras and Tensorflow are the same thing",Keras is a machine learning library built on top of Tensorflow,"Advanced Neural Networks
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"What is printed by the following lines of code?
+
+total = 5
+
+for n in range(1,5):
+
+   total = total + n
+
+print(total) ","12
+
+15
+
+20
+
+5",15,"Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"What is printed by the following lines of code?
+
+birds = ['parrots', 'finches', 'owls']
+
+birds.append(‘hummingbirds’)
+
+birds.append(‘hawks’)
+
+print(birds[3])","owls
+
+finches
+
+hummingbirds
+
+hawks",hummingbirds,"Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"birds = ['parrots', 'finches', 'owls']
+
+colors = ['red', 'blue', 'white']
+
+Which of the following creates a dictionary with bird:num_feathers key value pairs?","dict(birds) = colors
+
+fav_birds = {}
+
+for bids in birds:
+
+   bird = color
+
+fav_birds = {}
+
+for bird in birds:
+
+   fav_birds[bird] = color
+
+fav_birds = {}
+
+for i in range(3):
+
+   fav_birds[birds[i]] = colors[i]","fav_birds = {}
+
+for i in range(3):
+
+   fav_birds[birds[i]] = colors[i]","Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"ml = 0.00341932
+
+Which of the following is the correct way to round to 3 significant digits when printing?
+
+You can use the following link for reference: 
+https://www.w3schools.com/python/ref_string_format.asp","print({0:.3g}.ml)
+
+print(""{0:.3}"".format(ml))
+
+print(""{0:.3g}"".format(ml))
+
+print(ml.sig_figs(3))","print(""{0:.3g}"".format(ml))","Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"What will be printed by the following lines of code?
+
+birds = ['parrots', 'finches', 'owls']
+
+for bird in birds:
+
+   for bird2 in birds:
+
+        if bird == bird2:
+
+              print(bird, bird2)","parrots parrots
+
+finches finches
+
+owls owls
+
+parrots finches
+
+finches owls
+
+owls parrots
+
+parrots
+
+finches
+
+owls
+
+parrots parrots
+
+finches finches
+
+owls owls
+
+parrots parrots
+
+finches finches
+
+owls owls","parrots parrots
+
+finches finches
+
+owls owls","Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following variable names are valid? (Select all that apply.),"temp_var4
+
+4_temp_var
+
+TEMP4
+
+temp#4","temp_var4
+
+TEMP4","Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following are valid ways to import the ‘sklearrn’ module? (Select all that apply.),"import sklearn as sk
+
+import sklearn as sklearn
+
+import sklearn
+
+import sklearn as pizza","import sklearn as sk
+
+import sklearn as sklearn
+
+import sklearn
+
+import sklearn as pizza","Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"Which of the following finds the sum of squares starting from 1 up to and including a given number?
+
+For instance, f(3) should return 14.","def f(end):
+
+   total = 0
+
+   for n in range(end):
+
+      total = total + n*n
+
+   return total
+
+def f(end):
+
+   for n in range(end):
+
+      print(n*n)
+
+   return total
+
+def f(end):
+
+   total = 0
+
+   for n in range(end-1):
+
+      total = total + n*n
+
+   return total
+
+def f(end):
+
+   total = 0
+
+   for n in range(end+1):
+
+      total = total + n*n
+
+   return total","def f(end):
+
+   total = 0
+
+   for n in range(end+1):
+
+      total = total + n*n
+
+   return total","Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"birds1 = ['parrots', 'finches', 'owls']
+
+birds2 = ['seagulls', 'egrets', 'penguins', 'ostriches']
+
+Which of the following creates a new list that concatenates birds1 and birds2?","birds1 + birds2
+
+for b in birds1:
+
+   birds1.add(b)
+
+for b in birds1:
+
+    birds2.add(b)
+
+for b in birds1:
+
+     for c in birds2:
+
+        list.append[b]
+
+        list.append[c]",birds1 + birds2,"Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"Define the following function.
+
+def f(x):
+
+   return numpy.power(x[2] - x[1], x[0])
+
+Refer to the following link for information on the numpy power function: 
+https://numpy.org/doc/stable/reference/generated/numpy.power.html
+.
+
+Which of the following is a valid input to the function f?","x = [1, ‘string’, 3]
+
+x = [1, 2, 10, 20, 40]
+
+x = [1,2]
+
+x = [-1,2,3]","x = [1, 2, 10, 20, 40]","Introduction to Python
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"Find the smallest eigenvalue of the following matrix:
+
+A = [0.8, 0.3; 0.2, 0.7]",,,"Practice Quiz: Eigenvalues and Eigenvectors
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+"Find the largest eigenvalue of the following matrix:
+
+A = [0.8, 0.3; 0.2, 0.7]",,,"Practice Quiz: Eigenvalues and Eigenvectors
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+What is an eigenvalue?,"Main axis direction
+
+Standard deviation
+
+Variance
+
+Scalar factor of the linear transformation.",Scalar factor of the linear transformation.,"Practice Quiz: Eigenvalues and Eigenvectors
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+"For the following questions, refer to the linear regression page here: 
+https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares
+
+Assume you have features stored in the X variable and the target in the y variable. Which line of code implements a Ridge Regressor?","reg = linear_model.Ridge()
+
+reg = linear_model.LinearRegression()
+
+reg = linear_model.fit()
+
+reg = linear_model.Ridge().fit()",reg = linear_model.Ridge(),"Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"For the following questions, refer to the linear regression page here: 
+https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares
+
+Assume you have features stored in the X variable and the target in the y variable and a Ridge regressor in the ‘reg’ variable. Which line of code fits the regression model on the data?","reg.transform(X,y)
+
+reg.fit()
+
+reg.fit(y,X)
+
+reg.fit(X,y)","reg.fit(X,y)","Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"For the following questions, refer to the linear regression page here: 
+https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares
+
+Assume you have features stored in the X variable and the target in the y variable and a Ridge regressor in the ‘reg’ variable that’s been fitted. Which line of code uses the regression model to make predictions on the feature set?","reg.predict(X)
+
+reg.score(X)
+
+reg.translate(X)
+
+reg.fit(X)",reg.predict(X),"Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"When loading in data from scikit-learn, what does the ‘as_frame’ parameter do if set to True?","Captures all frames of the data that is loaded in.
+
+Loads the data into a Numpy array.
+
+Crates the data as a Scikit-Learn ‘frame’ object.
+
+Loads the data into a Pandas Dataframe.",Loads the data into a Pandas Dataframe.,"Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"In linear regression, what does the sign of the coefficients represent?","The correlation of each feature with the other features.
+
+The relationship between the target and predictor variables.
+
+The meaning is unclear.
+
+How many times each feature appears in the dataset.",The relationship between the target and predictor variables.,"Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"In ordinary linear regression, we pick a line to ___________________.","maximize the sum
+
+minimize the sum of the residual squares.
+
+maximize the sum of the residual squares.
+
+minimize the sum",minimize the sum of the residual squares.,"Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+A regression model is fit on a normalized dataset containing 10 features and 1 target variable. How can we determine the feature of most importance?,"The feature with the most positive coefficient.
+
+The feature with the most negative coefficient.
+
+The feature with the coefficient that has the largest absolute value.
+
+It’s impossible to tell.",The feature with the coefficient that has the largest absolute value.,"Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"Given the following set of points, which equation is the fitted linear regression line?
+
+X = 2, y = 3
+
+X = 1, y = 0
+
+X = 0, y = 1","y = -x + ⅔
+
+y = x + ⅓ 
+
+y = ⅓ x - 1
+
+y = 2x + 1",y = x + ⅓ ,"Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"Refer to the scikit-learn documentation here: 
+https://scikit-learn.org/stable/modules/model_evaluation.html
+
+Assume you have the actual y values in a variable called ‘actuals’ and predicted y values in a variable called ‘predictions’. Which of the following lines of code will get the mean absolute error between the predictions and actual values?","sklearn.predict(actual, predictions)
+
+sklearn.metrics.mean_sqaured_error(actual, predictions)
+
+sklearn.metrics.mean_absolute_error(actual, predictions)
+
+def get_absolute_error(predictions, actual):","sklearn.metrics.mean_absolute_error(actual, predictions)","Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+"For the following questions, refer to the linear regression page here:
+
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
+Which line of code defines a linear regression model that normalizes the features before fitting the regression line?","reg = linear_model.LinearRegression(fit_interecept = False)
+
+reg = linear_model.LinearRegression(normalize = True, fit_intercept = False)
+
+reg = linear_model.LinearRegression(normalize = True)
+
+reg = linear_model.LinearRegression()",reg = linear_model.LinearRegression(normalize = True),"Linear Regression with Scikit-Learn
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 25, 11:59 PM +07"
+What is the primary difference between join and merge?,"Join lets you combine data frames on any column, while merge limits you to combining only on indexes.
+
+Merge lets you combine data frames on any column, while join limits you to combining only on indexes.
+
+D: Join only lets you combine two dataframes, while merge gives you the ability to combine more than two dataframes.
+
+Merge only lets you combine two dataframes, while join gives you the ability to combine more than two dataframes.","Merge lets you combine data frames on any column, while join limits you to combining only on indexes.","Practice Quiz: Combining Data
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+3 total points available.
+3 total points"
+What differentiates concatenate from merge and join?,"Concatenate lets you combine column-wise, while merge and join don’t.
+
+Merge and join only let you combine two dataframes, while concatenate lets you combine more than two.
+
+Merge, join, and concatenate all perform the same function.
+
+Concatenate lets you combine two dataframes, while merge and join let you combine more than two.","Merge and join only let you combine two dataframes, while concatenate lets you combine more than two.","Practice Quiz: Combining Data
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+3 total points available.
+3 total points"
+"We have two dataframes that share the column ‘location’ which share values on 3 rows.
+
+Dataframe A: 10 x 20
+
+Dataframe B: 5 X 10
+
+What will be the shape of the resulting dataframe after pd.merge(A, B, how = ‘left’)?","12 x 29
+
+10 x 20
+
+10 x 30
+
+10 x 29",10 x 29,"Practice Quiz: Combining Data
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+3 total points available.
+3 total points"
+How do you index a dataframe by name of row?,"D: You can’t, it’s impossible.
+
+df.index[]
+
+df.iloc[]
+
+df.loc[]",df.loc[],"Practice Quiz: Pandas
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+Assume I have a dataframe called ‘df’ and ‘shipment_date’ is a column. How do I get a subset of the dataframe with all shipments on ‘1/2/2021’?,"df(df.shipment_date == ‘1/2/2021’)
+
+df.shipment_date
+
+df.shipment_date == ‘1/2/2021’
+
+df[df.shipment_date == ‘1/2/2021’]",df[df.shipment_date == ‘1/2/2021’],"Practice Quiz: Pandas
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+How do you get the size of a dataframe.,"df.shape()
+
+df.size()
+
+df.shape
+
+df.size",df.size(),"Practice Quiz: Pandas
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+Which of the following is a supervised learning technique?,"Clustering
+
+Principal Component Analysis
+
+Anomaly Detection
+
+Linear Discriminant Analysis",Linear Discriminant Analysis,"Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following is not an example of data cleaning?,"Removing outliers
+
+Dimensionality Reduction
+
+Filtering to get rid of faulty trials
+
+Filling in missing values",Dimensionality Reduction,"Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"What are the eigenvalues of the 2 x 2 matrix: [0, 1; -2, -3]","-1,2
+
+-1, -2
+
+1, 2
+
+1,-2","-1, -2","Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"Which of the following is an eigenvector of the 2 x 2 matrix: [0, 1; -2, -3]","[-1,1]
+
+[0,1]
+
+[1,1]
+
+[0,0]","[-1,1]","Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following are used for dimensionality reduction?,"Only Linear Discriminant Analysis (LDA)
+
+Only Principal Component Analysis (PCA)
+
+None of the above
+
+Both of the above",Both of the above,"Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What are two of the possible use cases for linear discriminant analysis?,"Classification and Regression
+
+Clustering and Anomaly Detection
+
+Dimensionality Reduction and Classification
+
+Clustering and Classification",Dimensionality Reduction and Classification,"Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+How do you calculate the z-value when using PCA?,"(value - mean) / standard deviation
+
+(value - mean) / variance
+
+(mean - value) / standard deviation
+
+(mean - value) / variance",(value - mean) / standard deviation,"Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following is not of the discrimination rules used in LDA?,"Fisher’s linear discriminant rule
+
+Bayes’ Discriminant Rule
+
+Maximum Likelihood
+
+Support vector machines",Support vector machines,"Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"Put the following transformations of data in order of use in practice:
+
+A. Matrix of Text
+
+B. Non-Negative Matrix Factorization
+
+C. LDA
+
+D. Feature Selection","A,D,C,B
+
+A,B,C,D
+
+D,B,C,A
+
+D,C,B,A","A,D,C,B","Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"Refer to the following documentation page: 
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+
+Which of the following is an invalid input for tolerance?","-1
+
+0
+
+10,000
+
+1",-1,"Data Preprocessing Techniques
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"Go to the following link: 
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+
+What convergence algorithm is more efficient on data with well-defined clusters?","full
+
+Em-style
+
+elkan",elkan,"Practice Quiz: K-Means and SVM
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+"Go to the following link: 
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+
+When might 'MiniBatchKMeans' be better than the default K-means clustering algorithm?","The dataset has a large number of samples
+
+The dataset has a small number of features.
+
+The dataset has a small number of samples
+
+The dataset has a large number of features.",The dataset has a large number of samples,"Practice Quiz: K-Means and SVM
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+What is a fundamental difference between K-Means and SVM?,"SVM is for clustering and K-Means is for classification.
+
+K-Means is for clustering and SVM is for classification.
+
+Nothing major, they are pretty interchangable.
+
+K-means is supervised and SVM is unsupervised.",K-Means is for clustering and SVM is for classification.,"Practice Quiz: K-Means and SVM
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+What is the primary difference between Numpy and Pandas?,"Pandas is primarily used for numerical computations, while Numpy is used for text and numbers in the form of Numpy arrays.
+
+Pandas is for numerical computations, while Numpy is similar to SQL tables.
+
+Numpy is primarily used for numerical computations, while Pandas is used for text and numbers in the form of Pandas dataframes.
+
+Pandas and Numpy perform exactly the same functions.","Numpy is primarily used for numerical computations, while Pandas is used for text and numbers in the form of Pandas dataframes.","Practice Quiz: Numpy Basics
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+3 total points available.
+3 total points"
+"Refer to the following link: 
+https://numpy.org/doc/stable/reference/generated/numpy.zeros.html
+
+Which of the following creates a matrix of zeros with 3 rows and 4 columns.","np.zeros((3,4))
+
+np.zeros(3,4)
+
+np.zeros(4,3)
+
+np.zeros()","np.zeros((3,4))","Practice Quiz: Numpy Basics
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+3 total points available.
+3 total points"
+"Refer to the following link: 
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.rand.html
+
+Which of the following is the correct syntax to create a 3D array of random numbers?","data = np.random(1,2,3)
+
+data =np.random.rand(123)
+
+data = np.random.rand((1,2,3))
+
+data = np.random.rand(1,2,3)","data = np.random.rand(1,2,3)","Practice Quiz: Numpy Basics
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+3 total points available.
+3 total points"
+Which of the following is an accurate statement about supervised learning and unsupervised learning?,"Unsupervised learning needs labeled training data, while supervised learning doesn’t.
+
+Supervised learning needs labeled training data, while unsupervised learning doesn’t.
+
+Both supervised and unsupervised learning need labeled training data. 
+
+Neither supervised or unsupervised learning need labeled training data. ","Supervised learning needs labeled training data, while unsupervised learning doesn’t.","Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which of the following is not a prominent clustering technique?,"Singular Value Decomposition
+
+K-Nearest neighbors
+
+Principal Component Analysis
+
+K-means",K-Nearest neighbors,"Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which of the following techniques can be used for both regression and classification?,"Ridge/Lasso
+
+Random Forests
+
+ADA Boost Regressors
+
+Linear Discriminants",Random Forests,"Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+Which of the following is a feature of K-Means Clustering,"It is an iterative algorithm.
+
+It’s the same as K-Nearest neighbors.
+
+It looks to classify N data points into K clusters.
+
+It’s a supervised learning technique.",It is an iterative algorithm.,"Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Assume a 3-NN algorithm is fitted on a set of labeled data points. If we introduce a new data point, what steps are necessary to classify it?","Find the 3 nearest data points, then classify into the average of the appeared categories.
+
+Find the 4 nearest data points, then classify into the categories that appeared most often.
+
+Find the 3 nearest data points, then classify into the categories that appeared most often.
+
+Find the 4 nearest data points, then classify into the average of the appeared categories.","Find the 3 nearest data points, then classify into the categories that appeared most often.","Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What are support vector machines used for?,"Clustering 
+
+Dimensionality Reduction
+
+Classification
+
+Anomaly Detection",Classification,"Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"What should we set the ‘degree’ to in order to fit a linear SVC model?
+
+Hint: You can refer to the following documentation: 
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html","2
+
+3
+
+0
+
+1",1,"Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Refer to the following documentation: 
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+
+Which of the following is the default tolerance value?","0.1
+
+0.01
+
+0.001
+
+1",0.001,"Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Refer to the following page for documentation: 
+https://scikit-learn.org/stable/modules/neighbors.html#unsupervised-nearest-neighbors
+
+Which of the following is not a nearest neighbor algorithm?","K-D Tree
+
+Ball Tree
+
+SVD optimization
+
+Brute Force",SVD optimization,"Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+"Refer to the following documentation page: 
+https://scikit-learn.org/stable/modules/ensemble.html#adaboost
+
+Which of the following makes ADA Boosts different from most other machine learning algorithms?","ADA Boosts can’t perform multi-class classification.
+
+ADA Boosts are ensemble methods that combine different techniques.
+
+ADA Boosts are a discrete algorithm.
+
+ADA Boosts are used for both regression and dimensional analysis.",ADA Boosts are ensemble methods that combine different techniques.,"Basics of Machine Learning
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07"
+What is the difference between a list and a tuple?,"Lists can hold an unlimited number of elements, while tuples can only hold 2.
+
+There is no difference.
+
+Tuples are mutable, while lists are not.
+
+Lists are mutable, while tuples are not.","Lists are mutable, while tuples are not.","Practice Quiz: Data Structures
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+2 total points available.
+2 total points"
+"planets = ['Earth', 'Mercury', 'Venus']
+
+Which of the following are correct ways to remove the element 'Mercury'?  (Select all that apply.)","planets.remove('Mercury')
+
+planets.remove(1)
+
+planets.pop(2)
+
+planets.pop(1)","planets.remove('Mercury')
+
+planets.pop(1)","Practice Quiz: Data Structures
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+2 total points available.
+2 total points"
+What is the name given to the nodes between the input and output layers of a neural network?,"cental nodes
+
+hidden layers
+
+middle layers
+
+center layers",hidden layers,"Practice Quiz: Neural Networks using scikit-learn
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points"
+What will be the effect of increasing the number of hidden layers in the network?,"The results are unpredictable.
+
+It'll decrease fit on the training data.
+
+It'll improve fit on the training data.",It'll improve fit on the training data.,"Practice Quiz: Neural Networks using scikit-learn
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points"
+"Read Section 1.17.1 from 
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+. What is the structure of the coefs_ attribute?","It is a list containing matrices where these each matrix contains the weights of a single neuron.
+
+It is a matrix that contains all the weights of the network.
+
+It is a list containing matrices where these each matrix contains the weights going form one layer to the next.",It is a list containing matrices where these each matrix contains the weights going form one layer to the next.,"Practice Quiz: Neural Networks using scikit-learn
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points"
+"Read Section 1.17.2 from 
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+. Recall that bias helps regularize the network. Which of the following parameters determines bias strength?","alpha
+
+random_state
+
+x
+
+y",alpha,"Practice Quiz: Neural Networks using scikit-learn
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points"
+What is a requirement of a feed forward neural network?,"Values are passed from one layer to the next while always moving toward the output neurons
+
+Values can be sent between layers in either direction, moving toward or away from the outputs
+
+Values are passed from one layer to another while moving toward the output neurons, potentially skipping over layers on the way",Values are passed from one layer to the next while always moving toward the output neurons,"Feed Forward and Backpropagation
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+2 total points available.
+2 total points"
+What is backpropagation used for?,"Adjusting the number of neurons in the network
+
+Adjusting the weights of the network to increase error
+
+Adjusting the weights of the network to reduce error",Adjusting the weights of the network to reduce error,"Feed Forward and Backpropagation
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+2 total points available.
+2 total points"
+"Given common conventions, which variables correspond to the coefficients in the equation y = m1 * x1 + m2 * x2 + m3 * x3?","x1, x2, x3
+
+m1, m2, m3
+
+y
+
+m1 only","m1, m2, m3","Practice Quiz: Math of Linear Regression
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+"An ordinary least squares linear regression model is fitted on the following points: (0,2), (1,1), (0,-1).
+
+What is the equation of the line that was fit?","y = x - 1
+
+y = x + 1
+
+y = -½ x - ½ 
+
+y = ½ x + ½ ",y = ½ x + ½ ,"Practice Quiz: Math of Linear Regression
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+"An ordinary least squares linear regression model is fitted on the following points: (0,2), (1,1), (0,-1).
+
+What is the minimized sum of squares?","1
+
+1/3
+
+2/3
+
+-1",2/3,"Practice Quiz: Math of Linear Regression
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+"For the following questions, refer to the dataset here: 
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html
+
+What is the range of targets in the data?","10
+
+-2-2
+
+25-346
+
+0-1",25-346,"Practice Quiz: Using the scikit-learn Docs
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+"For the following questions, refer to the dataset here: 
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html
+
+Which of the following code loads the data into X and Y dataframes?","sklearn.datasets.load_diabetes(as_frame = True)
+
+sklearn.datasets.load_diabetes()
+
+sklearn.datasets.load_diabetes(return_X_y = True)
+
+sklearn.datasets.load_diabetes(return_X_y = True, as_frame = True)","sklearn.datasets.load_diabetes(return_X_y = True, as_frame = True)","Practice Quiz: Using the scikit-learn Docs
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+"For the following questions, refer to the dataset here: 
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html
+
+What does the ‘s6 glu’ correspond to?","blood sugar level
+
+low-density lipoproteins
+
+lamotrigine
+
+high-density lipoproteins",blood sugar level,"Practice Quiz: Using the scikit-learn Docs
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+3 total points available.
+3 total points"
+What is the first layer of a network called?,"Feedback layer
+
+Activation layer
+
+Input layer
+
+Output layer",Input layer,"Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What is the last layer of a network called?,"Input layer
+
+Activation layer
+
+Feedback layer
+
+Output layer",Output layer,"Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following activation functions are used for multiclass classification?,"Linear (Identity)
+
+Rectified Linear Unit (ReLu)
+
+Softmax 
+
+Sigmoid (Logistic)",Softmax ,"Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+How is the initial weight of a neuron-to-neuron connection assigned?,"They are all initialized to 1
+
+A random number between 0 and 1
+
+A random number between 0 and 100
+
+They are all initialized to 0",A random number between 0 and 1,"Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+What is the standard cost function used in most neural network regression models?,"Stochastic gradient cost
+
+Cross-entropy cost
+
+Mean squared error
+
+Quadratic cost",Mean squared error,"Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+Which of the following is true about a neuron?,"A neuron can have many inputs but only one output
+
+A neuron can only have one input and out output
+
+A neuron can have many inputs and outputs
+
+A neuron can only have one input but many outputs",A neuron can have many inputs and outputs,"Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"For questions 7-10, refer to the following link: 
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+
+What is the default activation used with the MLP Classifier?","Linear (Identity)
+
+Softmax 
+
+Rectified Linear Unit (ReLu)
+
+Sigmoid (Logistic)",Rectified Linear Unit (ReLu),"Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"For questions 7-10, refer to the following link: 
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+
+What is the cost function used with the MLP Classifier?","Cross-entropy loss
+
+Mean squared error
+
+Stochastic gradient cost
+
+Quadratic cost",Cross-entropy loss,"Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"For questions 7-10, refer to the following link: 
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+
+Which of the following creates two hidden layers, each of size 100?","hidden_layer_sizes = (2,,100)
+
+hidden_layer_sizes = (100,2)
+
+hidden_layer_sizes = (200)
+
+hidden_layer_sizes = (100,100)","hidden_layer_sizes = (100,100)","Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"
+"For questions 7-10, refer to the following link: 
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+
+Which of the following parameters modifies the L2 regularization term?","Beta
+
+Gamma
+
+Alpha 
+
+All of the above",Alpha ,"Neural Network Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07"

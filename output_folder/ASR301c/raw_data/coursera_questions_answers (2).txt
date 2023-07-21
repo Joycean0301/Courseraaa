@@ -1,0 +1,31 @@
+Practice Quiz: Numpy Basics
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+3 total points available.
+3 total points|||What is the primary difference between Numpy and Pandas?|||Pandas is primarily used for numerical computations, while Numpy is used for text and numbers in the form of Numpy arrays.^^^Pandas is for numerical computations, while Numpy is similar to SQL tables.^^^Numpy is primarily used for numerical computations, while Pandas is used for text and numbers in the form of Pandas dataframes.^^^Pandas and Numpy perform exactly the same functions.|||Numpy is primarily used for numerical computations, while Pandas is used for text and numbers in the form of Pandas dataframes.@@@Practice Quiz: Numpy Basics
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+3 total points available.
+3 total points|||Refer to the following link: 
+https://numpy.org/doc/stable/reference/generated/numpy.zeros.html
+
+Which of the following creates a matrix of zeros with 3 rows and 4 columns.|||np.zeros((3,4))^^^np.zeros(3,4)^^^np.zeros(4,3)^^^np.zeros()|||np.zeros((3,4))@@@Practice Quiz: Numpy Basics
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+3 total points available.
+3 total points|||Refer to the following link: 
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.rand.html
+
+Which of the following is the correct syntax to create a 3D array of random numbers?|||data = np.random(1,2,3)^^^data =np.random.rand(123)^^^data = np.random.rand((1,2,3))^^^data = np.random.rand(1,2,3)|||data = np.random.rand(1,2,3)
