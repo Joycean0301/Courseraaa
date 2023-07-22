@@ -1,0 +1,25 @@
+Phase 3. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07|||What is a pro of using k-fold cross-validation instead of a hold-out validation set for hyperparameter tuning?|||Requires less overall time to train a model, due to the reduced number of training samples^^^Regularizes the model by randomly selecting training examples automatically^^^Improves model convergence rates because many hyperparameters can be tested at the same time^^^Produces a more reliable estimate of the generalization performance of the model|||Produces a more reliable estimate of the generalization performance of the model@@@Phase 3. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07|||What is a con of using k-fold cross-validation instead of a hold-out validation set for hyperparameter tuning? |||Increases the overall memory requirements of the model during training, due to the higher number of samples seen during training^^^Requires more overall time to train a model, due to the repeated training runs associated with each experiment^^^Decreases model generalization performance because the model is able to learn on the test set^^^Increases the number of parameters in the overall model, which leads to overfitting|||Requires more overall time to train a model, due to the repeated training runs associated with each experiment@@@Phase 3. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07|||What are common criteria used for early stopping? Check all that apply. |||Validation loss^^^Validation AUROC^^^Test loss^^^Training AUROC^^^Test AUROC^^^Training loss|||Validation loss^^^Validation AUROC@@@Phase 3. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07|||Which of the following hyperparameters are exclusive to deep learning models? Check all that apply.|||Class weights (loss function)^^^Learning rate^^^Weight decay strength^^^Number of layers^^^Dropout probability|||Number of layers^^^Dropout probability

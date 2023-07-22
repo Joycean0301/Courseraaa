@@ -1,0 +1,19 @@
+Phase 4. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07|||Which if the following definitions best describe the AUROC metric? |||How well the model is able to segment objects^^^How many of the samples predicted positive are actually positive^^^How many positive samples are correctly predicted as positive^^^How well separated the predicted probabilities of negatives are from positives|||How well separated the predicted probabilities of negatives are from positives@@@Phase 4. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07|||Why might model B be more useful than model A in worklist prioritization?|||Model B is not more useful than model A^^^Model B places more abnormal exams early in the worklist than model A^^^Model B places more normal exams early in the worklist than model A^^^Model B places fewer abnormal exams at the end of the worklist than model A|||Model B places more abnormal exams early in the worklist than model A@@@Phase 4. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07|||How might both models be leveraged in order to produce a better performance immediately overall?|||The models can be re-trained using the same hyperparameters^^^The trained models can be used to train other models^^^For new exams, the predictions of both models can be averaged together  ^^^Each model can be deployed at separate clinics|||For new exams, the predictions of both models can be averaged together  

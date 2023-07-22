@@ -1,0 +1,25 @@
+Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||An ideal randomized controlled clinical trial can produce results with very little bias. However, there are some questions that will never be answered using clinical trials. Think about why that might be true. Do you feel comfortable that such questions will only be addressed using observational data?||||||@@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Which of the following questions cannot be answered in a straightforward way by using a knowledge graph?|||Is diabetes mellitus a disease of the endocrine system?^^^Is aspirin an anti-inflammatory medication?^^^How many different kinds of blood tests are there?^^^Has a patient ever taken penicillin to treat bladder cancer? ^^^All of the above could be answered.|||Has a patient ever taken penicillin to treat bladder cancer? @@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Which of the following statements about missing data is true?|||Missing data should be removed from the analysis.^^^Missing data mean that someone made a mistake.^^^The code "NA" is often used to indicate missing data.^^^If missing data are later found, they should automatically be inserted into the dataset at the appropriate location.^^^All of the above statements are true.|||The code "NA" is often used to indicate missing data.

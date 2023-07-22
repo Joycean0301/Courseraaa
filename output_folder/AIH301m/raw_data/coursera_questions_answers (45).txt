@@ -1,0 +1,29 @@
+Phase 2. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07|||The D-DIMER values are highly concentrated <1k, but there are many samples that are several orders of magnitude apart from the rest of the samples. What is the most likely explanation for this? (Hint: look at the data samples, particularly the exam metadata.)|||The data collected from one the clinics may use different units^^^There is a large disparity in D-DIMER lab values across patient gender^^^The data was collected from two cohorts from two different time periods^^^There is a large disparity in D-DIMER lab values across patient age|||The data collected from one the clinics may use different units@@@Phase 2. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07|||Which of the following strategies can be used in order to accommodate for the missing values in the EHR dataset? Check all that apply. |||A tree-based model, such as random forest, can be trained after the missing values are synthetically generated, using a process known as 
+imputation^^^A logistic regression model can be trained directly on the data with missing values^^^A logistic regression model can be trained after the missing values are synthetically generated, using a process known as 
+imputation^^^A tree-based model, such as random forest, can be trained directly on the data with missing values|||A tree-based model, such as random forest, can be trained after the missing values are synthetically generated, using a process known as 
+imputation^^^A logistic regression model can be trained after the missing values are synthetically generated, using a process known as 
+imputation^^^A tree-based model, such as random forest, can be trained directly on the data with missing values@@@Phase 2. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07|||Which of the following is FALSE regarding logistic regression models?|||Logistic regression produces values between 0 and 1, regardless of the scale of the features^^^Logistic regression uses the sigmoid activation function^^^Logistic regression can take unstructured inputs, such as images or text^^^Logistic regression is commonly used for classification problems|||Logistic regression can take unstructured inputs, such as images or text@@@Phase 2. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07|||Which of the following is FALSE regarding random forest models?  |||Random forest models require feature normalization (i.e. scaling the features such that they are between 0 and 1) in order to work effectively^^^Random forest models learn multiple decision trees that each learn on a subset of the available features^^^Random forest models are highly interpretable^^^Random forest models are a type of decision tree algorithm|||Random forest models require feature normalization (i.e. scaling the features such that they are between 0 and 1) in order to work effectively

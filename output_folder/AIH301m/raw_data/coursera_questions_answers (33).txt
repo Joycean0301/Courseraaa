@@ -1,0 +1,25 @@
+Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||A change to which of the following does not require a modification review by the regulatory agency?|||The addition of 15-18 years olds to the intended population for an image-based dermatology diagnostic tool^^^The addition of new training data from the original source^^^The update of the model performance to reduce false positive alarm rates ^^^Through the improvement of the AI model, in addition to “inform clinical management” the intended use can now also include “treatment recommendation” |||The update of the model performance to reduce false positive alarm rates @@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||According to the FDA’s software as a medical device, which of the following are not regulated?|||An AI solution that is intended to treat, diagnose, cure, or mitigate a disease or health condition^^^A medical device that does not achieve its primary intended purposes through chemical action within or on the body^^^An AI solution that was designed, developed, and deployed at a single institution for quality improvement purposes^^^Answer B and C|||Answer B and C@@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Which of the following FDA risk categories require pre-market approval?|||Categories I, II, and III^^^Category IV only^^^Categories I and II^^^Categories III and IV|||Categories III and IV
