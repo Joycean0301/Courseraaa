@@ -1,0 +1,29 @@
+Reflection Exercise
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+2 total points available.
+2 total points|||Here are some common examples of AI that analyze the financing and delivery of health care with the purpose of increasing efficiency. 
+
+An insurance company builds an algorithm to predict opioid use from an employer’s claims data, using employee data that is stripped of identifiers to be HIPAA-compliant.  The company will sell their model to employers broadly, even those that do not contract with them for health insurance.
+
+ A small health care start-up company has developed a machine learning model to predict the onset of cardiovascular diseases, including hypertension and heart failure, in order to identify patients who might benefit from receiving preventive interventions such as lipid-lowering medications.
+
+In order to avoid fines from the Medicare Hospital Readmissions Reduction Program (HRRP), a health system is developing an AI-based model to predict which of their patients who are hospitalized with a principal diagnosis of pneumonia will be readmitted within 30 days after the patient was admitted.  A large national study of Medicare beneficiaries found that the HRRP did lower risk-adjusted readmissions rates of pneumonia patients.  It also found that the 30-day and 1-year risk-adjusted mortality rates increased.
+
+The Association for Computing Machinery code of ethics includes a principle of avoiding harm, whether intended or unintended.
+
+QUESTION:
+
+What are examples of harm in the ACM code?||||||@@@Reflection Exercise
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+2 total points available.
+2 total points|||Think about each of the examples of AI above.  Could any of them cause unjustified or unfair harm, especially to patients?  What sources of bias, error, and harm should the AI developers be alert to?||||||

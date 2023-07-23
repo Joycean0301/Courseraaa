@@ -1,0 +1,2633 @@
+Question,Answer,Correct,Title
+Which of the following is true about physician practices?,"Compared to large practices, small practices are more likely have multiple locations
+
+Compared to large practices, small practices are more likely to have more sophisticated EHR systems
+
+Compared to large practices, small practices tend to offer more in-house laboratory services
+
+Compared to large practices, small practices are more likely to be single-specialty","Compared to large practices, small practices are more likely to be single-specialty","Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+Which of the following is true regarding the US healthcare system?,"Larger practices are more likely to have complete patient data than smaller practices
+
+Patients can only see physicians within the same practice so that all of their data is streamlined into one EHR record
+
+Payment records are not a useful source of data, as they often do not accurately reflect the amount of care given to a patient
+
+When payment records are used, those from capitation systems are more useful than those from fee-for-service systems in assessing care utilization",Larger practices are more likely to have complete patient data than smaller practices,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+Which of the following does NOT accurately describe the Medicare Fee Schedule?,"It is weighted in part by both the work a physician puts into a given procedure as well as the risk a physician undertakes in doing that procedure
+
+Details about it are available for public use 
+
+It is updated from time to time
+
+It was developed by private insurance companies",It was developed by private insurance companies,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+Consider what is likely to have been written about you in all the clinical notes from your visits to clinics and hospitals. What kinds of information are you most concerned about being exposed to the public? Are you convinced that the methods discussed in this module would work to protect your privacy while still producing useful features?,,,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+Which of the following statements is false?,"A photograph of a patient's face is a medical image.
+
+Some kinds of medical imaging are not hazard-free.
+
+Detecting physiochemical activity is an example of functional imaging.
+
+An EKG depicts the movement of the wall of the heart.
+
+All of the above are true.",An EKG depicts the movement of the wall of the heart.,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+Which of the following is NOT considered protected health information (PHI)?,"The patient's email address
+
+A photograph of the patient's left wrist
+
+The full name of the patient's roommate
+
+None of the above are PHI
+
+All of the above are PHI",A photograph of the patient's left wrist,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+What are the three groupings of AI Applications in Healthcare?,"Biomedical Research, Translational Research, Medical Practice
+
+Image Analysis, Electronic Healthcare Records, Bedside Monitoring 
+
+Drug Discovery, Risk Stratification, Predictive Analytics 
+
+None of the Above","Biomedical Research, Translational Research, Medical Practice","Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following is important to consider when developing at AI Solution?,"Model Performance 
+
+Model Lead Time 
+
+Mitigation strategy for model output
+
+All of the Above ",All of the Above ,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following statements is true?,"Stakeholder involvement should be considered in the development and deployment attributes of the AI solution but not in the design 
+
+Multiple stakeholders must be involved when developing a useful AI solution. 
+
+Stakeholder involvement should be considered in the design and deployment attributes of the AI solution but not in the development 
+
+Multiple stakeholders are necessary to approve different components of the AI solution ",Multiple stakeholders must be involved when developing a useful AI solution. ,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+A researcher would like to develop an AI solution to predict in-hospital mortality among patients being treated for ischemic heart failure. The solution was developed using retrospective data from the academic medical center. Which of the following needs to be evaluated before the development phase?,"What action can be taken based on the model output 
+
+Who needs to take the action 
+
+A and B
+
+Is funding secured to ensure dissemination and scalability of the model",A and B,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"Based on the Outcome-Action-Pairing model, what would be a good AI model to deploy?","A classifier that can accurately separate patients with the common cold into two novel groups 
+
+A prediction model that can accurately identify hospitalized patients who will have a cardiac arrest within the next two minutes
+
+A prediction model that will identify patients receiving a total knee replacement who are likely to be readmitted (70% precision) within 30 days of discharge 
+
+None of the above",A prediction model that will identify patients receiving a total knee replacement who are likely to be readmitted (70% precision) within 30 days of discharge ,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"To assess feasibility, one must investigate the data being used in the AI Solution. Which of the following are necessary to assess prior to model development?","Data availability, quality, missingness
+
+The inclusion of longitudinal data
+
+Data are current within 6 months 
+
+None of the above","Data availability, quality, missingness","Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+True or False - AI Solutions that involve an operational action paired with the outcome have greater clinical benefit than those that have a medical action paired with the outcome,"True
+
+False",False,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+What are the components of clinical evaluation that are necessary to understand clinical utility?,"Analytical validation & clinical validation
+
+Valid clinical association, analytical validation & clinical validation
+
+Feasibility validation, Analytical validation & clinical validation
+
+None of the above","Valid clinical association, analytical validation & clinical validation","Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+What is an example of an AI solution with an operational action?,"Predicting a patient's need for transfer to ICU
+
+Predicting the number of ICU beds needed for vascular surgery patients
+
+Predicting the risk of a 30-day hospital readmission
+
+Predicting the number of acute injuries over a 60-day period",Predicting a patient's need for transfer to ICU,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following are challenges to AI deployment?,"Lack of buy in from Stakeholders 
+
+Lack of evidence for clinical utility
+
+Lack of resources and expertise
+
+All of the Above ",All of the Above ,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following is true about data types and sources? ,"Data sources, data types and data availability are the crux of any AI product
+
+Internal data sources are best for the development and validation of an AI solution
+
+The use of public data sources is standard for external validation
+
+None of the Above ","Data sources, data types and data availability are the crux of any AI product","Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following is not an important setting in AI development?,"Academics
+
+Industry
+
+Government
+
+Philanthropy
+
+All of the above ",All of the above ,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Why is silent mode an important component in the AI Deployment Framework?,"Silent Mode is crucial for getting buy-in from all stakeholders while masking the predictive potential of the AI solution
+
+Silent Mode is crucial for finalizing workflows and product configurations, as well as the prospective, temporal validation of an AI product.
+
+Silent Mode provides information on the human-machine interaction.
+
+None of the above","Silent Mode is crucial for finalizing workflows and product configurations, as well as the prospective, temporal validation of an AI product.","Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+How is stealth science harmful to AI solutions?,"Stealth Science is not harmful to AI solutions 
+
+Stealth science uses data that may violate privacy rights of patients
+
+Stealth science allows industry to generate more accurate models that may not be validated in the academic setting
+
+Stealth science hinders the transparency of the AI solution, which allows bias and algorithmic fairness to go unchecked","Stealth science hinders the transparency of the AI solution, which allows bias and algorithmic fairness to go unchecked","Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+What one is an aspect of the evaluate and validate component of the AI Deployment pathway?,"Technical integration
+
+Stealth science
+
+Clinical validity
+
+A and C
+
+All of the above",A and C,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"What type of bias is described in this example: An AI model is developed based on “known” symptoms of heart attack using retrospective data? The problem is that the model was developed based on male symptoms so the model might be very accurate for identifying males with heart attack symptoms, but it might not work well in females, who present with different symptoms. ","Measurement Bias
+
+Representation Bias
+
+Historical Bias
+
+Deployment Bias",Historical Bias,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"We have looked at models that predict complications in type 2 diabetes. These models had high precision and were validated across systems. However, a review of these AI solutions found that most studies did not report demographics of their training data. This raises concern given Hispanics higher prevalence and complication rates for T2DM compared to whites. What type of bias should we be concerned about here?","Measurement Bias
+
+Deployment Bias
+
+Representation Bias
+
+Historical Bias",Representation Bias,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"Calibration is a measure of algorithmic fairness that refers to the models agreement between model predictions and observed outcomes. In our example of 30-day hospital readmissions, how can over-estimation of the outcome be harmful?","All of the above
+
+Waste of scarce resources 
+
+Potential harm to the patient if unnecessary mitigation strategies are undertaken
+
+Unnecessary anxiety for the patient",All of the above,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"When developing an AI solution, it is important to think about both equality and equity. Which statement describes what is meant by equity in AI development?","Equity suggests that each group is given the amount of resources needed to have similar outcomes, such as mortality rates or hospitalizations
+
+Equity suggests that each group should be given the same amount of resources and no group should be prioritized
+
+Equity suggests that every AI model should be assessed for algorithmic fairness to ensure that each group is properly represented in the training data
+
+None of the above","Equity suggests that each group is given the amount of resources needed to have similar outcomes, such as mortality rates or hospitalizations","Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+A change to which of the following does not require a modification review by the regulatory agency?,"The addition of new training data from the original source
+
+Through the improvement of the AI model, in addition to “inform clinical management” the intended use can now also include “treatment recommendation” 
+
+The update of the model performance to reduce false positive alarm rates 
+
+The addition of 15-18 years olds to the intended population for an image-based dermatology diagnostic tool",The update of the model performance to reduce false positive alarm rates ,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"According to the FDA’s software as a medical device, which of the following are not regulated?","An AI solution that is intended to treat, diagnose, cure, or mitigate a disease or health condition
+
+A medical device that does not achieve its primary intended purposes through chemical action within or on the body
+
+An AI solution that was designed, developed, and deployed at a single institution for quality improvement purposes
+
+Answer B and C",Answer B and C,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following FDA risk categories require pre-market approval?,"Category IV only
+
+Categories III and IV
+
+Categories I, II, and III
+
+Categories I and II",Categories III and IV,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Clinical association under the FDA’s regulatory framework is provided at what time during the regulatory process?,"Pre-market
+
+Post-Market
+
+Both pre and post-market
+
+None of the above",Both pre and post-market,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+What are the criteria that determine whether clinical decision support tools are regulated as a software as a medical device under FDA regulation?,"The software cannot receive, analyze or otherwise process a medical image or signal from an in vitro diagnostic device (such as a DNA-sequencing machine) or from any other signal acquisition system
+
+A healthcare professional must be able to understand the basis of its recommendations. 
+
+The software cannot be intended as the sole source of recommendations regarding treatment, diagnosis or prevention of a disease.
+
+Answer A and C 
+
+All of the above",All of the above,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+True or False: The FDA includes regulatory oversight for adaptive AI solutions,"True
+
+False",False,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"You have developed an AI solution that triages patients in the ED based on cardiac symptoms. You screen 52 people to predict 12 that need to be admitted. Your model - running in silent mode - is confirmed to be accurate 80% of the time, meaning 80% of the time the patient did need to be admitted and 20% of the time they had no benefit from the admission. What is the Number Needed to Screen and Number Needed to Treat to have 30 people benefit?","NNT: 1.3 and you need to admit 37.5 people for 30 people to have a benefit
+
+NNT: 1.3 and you need to admit 50 people for 30 people to have a benefit
+
+NNT: 4.3 and you need to admit 50 people for 30 people to have a benefit
+
+NNT: 4.3 and you need to admit 37.5 people for 30 people to have a benefit",NNT: 4.3 and you need to admit 37.5 people for 30 people to have a benefit,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"The FDA has defined the total product life cycle (TPLC) of an AI solution, which includes important components that are necessary to understand and evaluate prior to deployment. What are the components of the TPLC? ","Data Selection & Management, Model Training & Tuning; Model Validation
+
+Data Selection & Management; Model Validation; Model evaluation for safety and effectiveness
+
+Design and Development; Model Evaluation; Model Validation
+
+None of the Above ","Data Selection & Management, Model Training & Tuning; Model Validation","Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+What type of evidence can be used to justify a valid clinical association under the FDA’s regulatory framework?,"Literature searches
+
+Professional guidelines
+
+Secondary data analysis
+
+None of the above
+
+All of the above",All of the above,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following is FALSE regarding insurance or intermediaries? ,"In the US, the most common way people get insurance is through their employer. 
+
+Insurance companies and government programs are two different types of intermediaries. 
+
+If you are a healthy person in a risk pool with people of a range of health statuses (i.e. sick and healthy individuals), your premium will likely be higher than your expected spending. 
+
+Private insurance can only be obtained through an employer. ",Private insurance can only be obtained through an employer. ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following is FALSE regarding healthcare delivery organizations such as physician practices or hospitals in the US?,"Healthcare delivery organizations can be operated by the government.
+
+Essentially all delivery organizations are a part of a physician practice or a hospital
+
+Physician practices and the facilities in which physicians provide services are always integrated into the same organization.
+
+Both non-profit and for-profit organizations face economic pressures.",Physician practices and the facilities in which physicians provide services are always integrated into the same organization.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"A 50-year-old woman goes to her doctor for her annual physical exam. At the visit, she receives a mammogram and her annual influenza shot. Which level of care does this represent?","Secondary
+
+Quaternary
+
+Primary
+
+Tertiary",Primary,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following regarding rising healthcare costs over time is true?,"Aging of the population, increasing standards of living, and the adoption of new technologies, have all contributed to spending growth.
+
+Rising costs are easily justified because they almost always result from using expensive new technologies that end up improving population health outcomes.
+
+While the total amount of spending on healthcare in the US is increasing, the percent GDP spent on healthcare is not.
+
+This trend is only found in the United States.","Aging of the population, increasing standards of living, and the adoption of new technologies, have all contributed to spending growth.","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following is MOST likely to incentivize health care providers to over-utilize medical care?,"Fee for service payment system
+
+Paying physicians a salary
+
+Using “supply-side” tools such as gatekeepers
+
+Capitation payment system
+
+Increasing the number of expensive but not readily accessible diagnostic tools and services",Fee for service payment system,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Hospitals in the US can:,"Operate on a for-profit or a not-for-profit basis
+
+Be publicly or privately owned
+
+Be teaching or non-teaching
+
+Have or lack an emergency department (ED)
+
+Have or lack an intensive care unit (ICU)
+
+All of the above",All of the above,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"Which of the following accurately describes a hospital network, in the context of U.S. health insurance?","All hospitals within the same geographic area
+
+The group of physicians with admitting privileges at a hospital
+
+A group of hospitals with whom an insurer works, and whose enrollees are encouraged to use
+
+None of the above","A group of hospitals with whom an insurer works, and whose enrollees are encouraged to use","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following best describes the DRG system?,"It incentivizes efficient care by paying hospitals based on patient characteristics, not length of stay or services performed
+
+It is compatible with paying a hospital on a fee-for-service basis
+
+It gives a hospital a single payment for a patient with a given diagnosis, regardless of whether or not that patient is an “outlier”
+
+It is a form of retrospective payment","It incentivizes efficient care by paying hospitals based on patient characteristics, not length of stay or services performed","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+True of False? It is possible for the physician portion of a payment to be paid via a different mechanism (e.g. fee-for-service) than the facility portion.,"True
+
+False",True,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following is FALSE regarding Accountable Care Organizations (ACOs)?,"An ACO is an entity that works to integrate and coordinate care by involving a range of physicians who work together but are not necessarily financially integrated
+
+When interfacing with intermediaries, the ACO can act on behalf of the participating providers
+
+The ACO concept was originally devised by private insurance companies as a way to decrease costs for their members
+
+Larger organizations can be better suited to ACO adoption because they can often more easily provide for a wide range of care and manage payment arrangements that can incentivize efficient care",The ACO concept was originally devised by private insurance companies as a way to decrease costs for their members,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following INCORRECTLY pairs a tool used by intermediaries with an example of its use?,"Tiered formulary- an insurance company requires a smaller copayment from patients when they use the drugs preferred by the company, usually generic drugs. 
+
+Pre-admission review- prior to surgery, an insurance company requires that a patient get approval for a hospital stay following surgery, or else the company will not pay for the hospitalization. 
+
+Case management- an insurance company works with doctors to ensure that a patient receives appropriate follow-up care after returning home from a hospitalization. 
+
+Utilization review- an insurance company asks for a second physician’s opinion before approving a patient’s surgery. ",Case management- an insurance company works with doctors to ensure that a patient receives appropriate follow-up care after returning home from a hospitalization. ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following is true regarding public and private health insurance?,"Within the private insurance market in the US, is uncommon for people to need to buy separate coverage for things like optometry or dental care
+
+Individual private insurance companies in the US each offer one type of product (e.g. HMO, PPO)
+
+Countries have either public insurance or private insurance options, but not both
+
+If a government decides to act as a public intermediary, it can decide what type of plan to act most like (e.g. HMO, PPO)","If a government decides to act as a public intermediary, it can decide what type of plan to act most like (e.g. HMO, PPO)","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following does NOT accurately describe Medicaid?,"Medicaid is a government-run program that covers low-income people
+
+Though the Federal government oversees some aspects of Medicaid, a different Medicaid program is operated by each state
+
+Medicaid is the only public insurance program in the US with broad coverage for long-term care
+
+Most people enrolled in Medicaid have traditional indemnity style insurance coverage",Most people enrolled in Medicaid have traditional indemnity style insurance coverage,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following is regulated by the FDA?,"Prescription drugs
+
+Over-the-counter drugs
+
+Medical devices
+
+Biologic products
+
+All of the above",All of the above,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"You are a drug company finishing your New Drug Application with the US FDA for a newly discovered treatment for Crohn’s disease. You received a 20-year patent in 2012 for your drug, and you are expecting your NDA approval in 2020. Based on this information, how many years will you have with your drug on the market before a generic is able to enter the market as a competitor?","20 years 
+
+12 years 
+
+25 years 
+
+11 years 
+
+8 years ",12 years ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following are potential uses of quality data?,"Monitoring and improvement of care
+
+Public reporting in order to incentivize future quality improvements and assist patients in provider selection
+
+Designing better pay-for-performance metrics
+
+All of the above",All of the above,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+What the major reason risk adjustment methods are important to use when measuring outcomes?,"To account for variation in the types of procedures physicians use to treat the same condition
+
+To account for differences in patients presenting with the same condition
+
+To account for differences in diagnostic capabilities at different hospitals
+
+To account for differences in provider efficiency between geographic regions",To account for differences in patients presenting with the same condition,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+A researcher wants to use the electronic medical record to list all of the comorbid conditions that were diagnosed in patients who died from pneumonia in the year 2015. What kind of research question is this?,"exploratory
+
+inferential
+
+descriptive
+
+predictive
+
+causal",descriptive,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following factors is relevant to assessing if a clinical research question about a disease is useful?,"The number of people the disease killed last year
+
+The effectiveness of treatments that exist for that disease
+
+The total spending on diagnosis and treatment of that disease
+
+The existence of genetic risk factors for the disease
+
+All of the above",All of the above,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+A researcher collects data about a disease from ten different medical systems. The goal of their research is to form a very large dataset in which they hope to expand what is known about risk factors for the disease. What kind of research question is this?,"Causal
+
+Exploratory
+
+Predictive
+
+Inferential
+
+None of the above",Inferential,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Why did clinical researchers use electronic medical record data to guide treatment for our example patient Laura?,"Laura's doctors were not sure about her diagnosis.
+
+Laura might have accidentally taken the wrong medication.
+
+Too little was known about the particular combination of medical conditions Laura had.
+
+Some information about Laura's prior treatment was not available at the time her condition worsened.
+
+Laura was not an adult, and only adults are studied in clinical trials.",Too little was known about the particular combination of medical conditions Laura had.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is the first step in the data mining workflow?,"See which diseases kill the most people.
+
+Design the data extraction process carefully.
+
+Write a preliminary version of the clinical research question 
+
+Conduct a survey of available data sources.
+
+Interview clinicians about their workflow.",Write a preliminary version of the clinical research question ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements about clinical data is true?,"Signals are structured data, because they are sampled at regularly occurring time points.
+
+Observational data are usually quite expensive to obtain because they large.
+
+Because they are created by clinicians, electronic medical record data are always more accurate than insurance records.
+
+The primary product of randomized controlled clinical trials is observational data.
+
+None of the above are true ",None of the above are true ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following is NOT an advantage of using observational data?,"Observational datasets can be very large, and capture rare events.
+
+Observational datasets have few biases. 
+
+Observational datasets contain data about actual patterns of clinical practice.
+
+Observational datasets may be available at low additional cost.
+
+All of the above are advantages.",Observational datasets have few biases. ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements is true?,"Looking for a disease-specific procedure code can increase bias.
+
+Pharmacy records are always more accurate than the electronic medical record.
+
+Clinicians remove diagnosis codes from the medical record if the codes are no longer accurate.
+
+We can find biases by comparing observational datasets to manual reviews by experts of actual medical records.
+
+All of the above are true.",We can find biases by comparing observational datasets to manual reviews by experts of actual medical records.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following are NOT exposures?,"A list of the patient's medications from five years ago
+
+The kinds of foods the patient usually eats
+
+The volume of blood lost in the patient's last surgery
+
+Whether the patient ever smoked tobacco
+
+All of the above are exposures",All of the above are exposures,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following is NOT an example of non-stationarity?,"There are more medications available now than 40 years ago.
+
+In the US, the rates of stomach cancer have decreased over time.
+
+The Internet makes it easier for people to submit reports about adverse events from medications they have taken.
+
+Electronic medical record systems were deployed at different medical centers in different years.
+
+A patient's data were collected in 2010, but not analyzed until 2013.","A patient's data were collected in 2010, but not analyzed until 2013.","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements about timescales is true?,"Data from shorter timescales are necessarily more accurate.
+
+A timeline is a kind of timescale.
+
+The best timescale for studying cancer is minutes.
+
+The best timescale for making predictions about who will be discharged from the hospital is years.
+
+None of the above are true.",None of the above are true.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements is false?,"Machines in the intensive care unit can generate regularly-sampled time-series data.
+
+Although we treat patients only when they are sick, the increased amount of data we collect can correct for any bias.
+
+Knowing when a test was ordered can be useful, even if we do not know the result of the test.
+
+A patient timeline typically contains all the clinical data for that patient.
+
+All of these statements are true.","Although we treat patients only when they are sick, the increased amount of data we collect can correct for any bias.","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of these statements is true?,"Most medical events are recorded at evenly spaced intervals.
+
+An indicator variable marks what test was ordered, but not when.
+
+The meaning of the ordering of clinical events, such as ""A before B,"" is always clear.
+
+A bin is usually used for data that don't fit anywhere else on the timeline.
+
+None of these statements are true.",None of these statements are true.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements about knowledge graphs is true?,"A knowledge graph contains a representation of medical entities.
+
+A knowledge graph may contain links to other knowledge graphs.
+
+Important knowledge graphs are freely available to researchers.
+
+Knowledge graphs occasionally need to be updated.
+
+All of the above are true.",All of the above are true.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following questions cannot be answered in a straightforward way by using a knowledge graph?,"Is diabetes mellitus a disease of the endocrine system?
+
+Is aspirin an anti-inflammatory medication?
+
+How many different kinds of blood tests are there?
+
+Has a patient ever taken penicillin to treat bladder cancer? 
+
+All of the above could be answered.",Has a patient ever taken penicillin to treat bladder cancer? ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements about missing data is true?,"Missing data should be removed from the analysis.
+
+Missing data mean that someone made a mistake.
+
+The code ""NA"" is often used to indicate missing data.
+
+If missing data are later found, they should automatically be inserted into the dataset at the appropriate location.
+
+All of the above statements are true.","The code ""NA"" is often used to indicate missing data.","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements about features is false?,"The unit of analysis determines what goes in the rows of a patient-feature matrix.
+
+An indicator variable is used to mark patients who forget to take their medications.
+
+The patient-feature matrix is a two-dimensional array that contains numbers representing measurements, counts, and other feature values.
+
+To answer most clinical research questions, we would expect the unit of analysis to be the patient.
+
+All of the above statements are false.",An indicator variable is used to mark patients who forget to take their medications.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements is false?,"Clinical text is written in grammatical English.
+
+Clinical text contains the same information as is in billing codes.
+
+Clinical text is primarily written to be read by patients.
+
+Clinical text usually uses the full name of a medication.
+
+All of the above are false.",All of the above are false.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+"Which of the following is an example of the present, positive mention of a medical term?","The patient has never tried riluzole.
+
+The patient reports having rheumatic fever at age 5.
+
+There is no family history of any kind of cancer.
+
+The patient developed an allergic reaction to penicillin, so stopped taking it.
+
+None of the above are present, positive mentions.","None of the above are present, positive mentions.","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements about electronic phenotyping is false?,"An electronic phenotype is any mention of a disease in the electronic medical record.
+
+An electronic phenotype should specify when the condition of interest started and stopped.
+
+Electronic phenotyping is useful for identifying patients who could be eligible for a clinical trial.
+
+Electronic phenotyping facilitates cross-site research, but does not guarantee that it will be error-free.
+
+All of the above are true.",An electronic phenotype is any mention of a disease in the electronic medical record.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements is true?,"A feature is the same thing as a phenotype.
+
+A timeline is an important input to the electronic phenotyping process.
+
+An electronic phenotype is the same as a diagnosis code.
+
+Blood pressure is a good example of a phenotype.
+
+None of these are true.",A timeline is an important input to the electronic phenotyping process.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements is true?,"A rule-based phenotype is easy to interpret because it is always represented in English.
+
+A rule-based phenotype is usually easier to understand than a probabilistic phenotype. 
+
+Electronic phenotyping is best done independent of the clinical research question.
+
+Probabilistic phenotypes are built out of inclusion and exclusion criteria.
+
+All of the above are true.",A rule-based phenotype is usually easier to understand than a probabilistic phenotype. ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following elements of the electronic medical record could be part of an electronic phenotype?,"A feature in a chest x-ray
+
+Their resting heart rate at last clinic visit
+
+The most recent measurement of HbA1c (glycosylated hemoglobin)
+
+The patient's weight
+
+All of the above",All of the above,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following INCORRECTLY pairs a tool used by intermediaries with an example of its use?,"Tiered formulary: an insurance company requires a smaller copayment from patients when they use the drugs preferred by the company, usually generic drugs. 
+
+Case management: an insurance company works with doctors to ensure that a patient receives appropriate follow-up care after returning home from a hospitalization. 
+
+Utilization review: an insurance company asks for a second physician’s opinion before approving a patient’s surgery.
+
+Pre-admission review: prior to surgery, an insurance company requires that a patient get approval for a hospital stay following surgery, or else the company will not pay for the hospitalization. ",Case management: an insurance company works with doctors to ensure that a patient receives appropriate follow-up care after returning home from a hospitalization. ,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+"Assume a patient has an upcoming medical procedure that will cost $1000.  
+ 
+ Suppose the patient is in a health plan with a $2000 deductible, after which 10% coinsurance applies.  Suppose this will be the patient’s first health care expense of the year.  How much can the patient expect to pay out of pocket for this procedure? 
+
+$_______
+
+Please write the answer in numeric form. No need to add a dollar sign.",,,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+Choose the decade when artificial intelligence applications in healthcare were first reported:,"1990-1999
+
+1950-1959
+
+2000-2009
+
+1970-1979
+
+2010-2019",1970-1979,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements is true?  ,"Most hospitals use a standardized IT and electronic health record workflow
+
+Medical data is generated in an organized systematic way that is very amenable to data science techniques and applications
+
+Clinical structured data is not well suited for traditional programming approaches compared to imaging data
+
+Medical data is estimated to double in volume every 2-3 months on average",Medical data is estimated to double in volume every 2-3 months on average,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is an example of the difference between classical programming and machine learning approaches?,"Machine learning is useful in healthcare while classical programming is not 
+
+Machine learning requires significantly less data to work as compared to classical programming
+
+Machine learning algorithm does not require human programmer
+
+Machine learning learn rules from input and the desired output example, while classical programming requires programmers to manually design and implement these rules","Machine learning learn rules from input and the desired output example, while classical programming requires programmers to manually design and implement these rules","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following schematics best represents a machine learning paradigm to model building?,"
+
+
+
+
+
+",,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is the difference between regression and classification?,"Machine learning models can be trained to do classification, but not regression.
+
+In regression, the correct answers have numerical value, but in classification the correct answers are categories.
+
+In regression, the input data is structured, but in classification the input data is unstructured.
+
+Machine learning models can be trained to do regression, but not classification.","In regression, the correct answers have numerical value, but in classification the correct answers are categories.","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is an example of unstructured data?,"Patient BMI
+
+Patient sex
+
+Patient CT 
+
+All numerical values in a patient’s medical record.",Patient CT ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is a decision boundary?,"The line predicted by a regression model.
+
+A metric that differentiates radiologists from statistical models.
+
+A metric that determines when the model can be used on real patient data.
+
+The line at which a classifier’s predictions change from one value to another.",The line at which a classifier’s predictions change from one value to another.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What are Support Vector Machines (SVMs)?,"SVMs attempts to bring support vector points closer together.
+
+SVMs generate support vector points in order to minimize the loss function.
+
+SVMs remove support vector points in order to minimize the loss function.
+
+SVMs maximally separates the closest support vector points.",SVMs maximally separates the closest support vector points.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What algorithm allows neural networks to train?,"Expectation-Maximization (EM)
+
+Matrix factorization
+
+Data augmentation
+
+Gradient descent",Gradient descent,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What are word embeddings?,"Language models that are faster than RNNs due to their GPU parallelization capabilities
+
+Representations of words that allow them to be processed by neural networks
+
+Language models used in industry
+
+Vectors that represent images as words",Representations of words that allow them to be processed by neural networks,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is reinforcement learning?,"A branch of machine learning that seeks to group unlabeled data into semantically meaningful clusters.
+
+A branch of machine learning that seeks to train AI models using a static, labeled dataset.
+
+A branch of machine learning that seeks to train statistical models to aid law enforcement.
+
+A branch of machine learning that trains a reward-seeking AI agent in an interactive environment.",A branch of machine learning that trains a reward-seeking AI agent in an interactive environment.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is one way to address underfitting?,"Multiply the loss function by a constant factor during training.
+
+Increase the number of parameters in the model.
+
+Apply data augmentation to the input data.
+
+Apply dropout to the model parameters.",Increase the number of parameters in the model.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is one way to address overfitting? ,"Remove data from the validation set.
+
+Remove clinical variables from the input data.
+
+Increase the number of parameters in the model.
+
+Add a weight decay term in the loss function. ",Add a weight decay term in the loss function. ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What are the two axes on a Receiver Operating Characteristic (ROC) curve?,"Sensitivity, specificity
+
+Precision, Specificity
+
+Precision, Recall
+
+False positive rate, true positive rate","False positive rate, true positive rate","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is one factor that will most influence the choice of operating point for a model?,"The cost of training the model
+
+The average loss of the model during training
+
+Severe side effects associated with treatment
+
+The number of hyperparameters in the model",Severe side effects associated with treatment,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following is a method to address class imbalance?,"Curate more data from majority class
+
+Downsampling data from minority class
+
+Upsampling data from minority class
+
+Upsampling data from majority class",Upsampling data from minority class,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which statement best represents the relationship between machine learning and functions learned from data?,"The function (trained model) represents associations between data and labels that are encoded via a rules-based method
+
+The function (trained model) represents associations between data and labels that are already known
+
+The function (trained model) represents associations between data and labels and are most often correlations
+
+The function (trained model) represents associations between data and labels and are most often causative",The function (trained model) represents associations between data and labels and are most often correlations,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is the most accurate description of the “data shelf-life” concept?,"Retrospective medical data is not useful in training clinically useful models.
+
+Medical data retains value due to historical similarity in human biology and physiology
+
+Changing medical practice challenges over time reduces the value of historical medical data.
+
+Older data is more valuable than newer data for training clinically useful machine learning models.",Changing medical practice challenges over time reduces the value of historical medical data.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+"You have developed a supervised machine learning model to predict patients in your practice who have >90%  risk of acute stroke in a 6 month window.  After reviewing the model performance, your team has determined that the prediction model is using annual income in order to predict stroke risk.  Which of the following represents the BEST application of this model: ","Deploy the model in a primary care practice to provide clinical decision support for medication and therapeutic decisions
+
+Deploy the model in a managed care organization to make financial risk estimates for cost projections
+
+Deploy the model in an emergency room to triage patients presenting with symptoms concerning for stroke
+
+Deploy the model in a smartphone app for patients to use in making lifestyle and health decisions",Deploy the model in a managed care organization to make financial risk estimates for cost projections,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following are considered critical skills to have in an ideal clinical machine learning model team?,"Data Scientist
+
+Domain Expert
+
+Biostatistics
+
+Health IT
+
+All of the above",All of the above,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following is NOT an example of an important question to answer in before choosing a clinical problem to address with machine learning?,"What is the capacity to intervene given existing resources?
+
+What are the mechanics of executing the intervention? 
+
+Who is the target user of the model’s output? 
+
+Which hyper-parameter settings are best for the neural network?",Which hyper-parameter settings are best for the neural network?,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements about bias in clinical machine learning is TRUE:,"Clinical machine learning applications are likely to replace most skilled clinical roles and disproportionately spare roles traditionally held by under-represented groups
+
+Most clinical machine learning applications are based on unbiased data leading to wide generalizability
+
+Machine learning and computer science is widely recognized as a racially and gender diverse field 
+
+Clinical machine learning applications could further disseminate medical knowledge to reduce access disparities in under-served populations",Clinical machine learning applications could further disseminate medical knowledge to reduce access disparities in under-served populations,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+"While there are many types of algorithmic fairness measures, we focused on three main types of algorithmic fairness in our lecture. Which of the following is not one of the main fairness algorithms?","Infra-marginality
+
+Classification parity
+
+Calibration
+
+Anti-classification",Infra-marginality,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Good Machine Learning Practices includes what aspects of the FDA’s total product life cycle?,"Data selection and management
+
+Model training and tuning
+
+Model validation, including performance and clinical evaluation.
+
+All of the above",All of the above,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following is not a reason why we need AI in healthcare?,"Improving diagnostics
+
+Reducing Bias 
+
+Reducing errors
+
+Clinical reliability",Reducing Bias ,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"Currently, rule-based phenotypes are constructed by groups of medical experts. The phenotypes are used by computers as discussed throughout this module. Can you think about how these rules could be used in medical education to train future clinicians?",,,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+Which of the following is FALSE regarding healthcare delivery organizations such as physician practices or hospitals in the US?,"Physician practices and the facilities in which physicians provide services are always integrated into the same organization
+
+Essentially all delivery organizations are a part of a physician practice or a hospital
+
+Healthcare delivery organizations can be operated by the government
+
+Both non-profit and for-profit organizations face economic pressures",Physician practices and the facilities in which physicians provide services are always integrated into the same organization,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+Which of the following would NOT lead to an increase in the risk facing a population?,"Expanding employment opportunities that lead to an increase in per-capita income
+
+Building more hospitals, and an accompanying increase in the probability that a person will be hospitalized
+
+The arrival of a costly drug that offered a new opportunity to treat a previously untreatable condition
+
+The creation of new surgical techniques that replace earlier less expensive techniques",Expanding employment opportunities that lead to an increase in per-capita income,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+Which of the following statements is true?,"Multiple stakeholders are necessary to approve different components of the AI solution 
+
+Stakeholder involvement should be considered in the design and deployment attributes of the AI solution but not in the development 
+
+Multiple stakeholders must be involved when developing a useful AI solution.   
+
+Stakeholder involvement should be considered in the development and deployment attributes of the AI solution but not in the design ",Multiple stakeholders must be involved when developing a useful AI solution.   ,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+A researcher would like to develop an AI solution to predict in-hospital mortality among patients being treated for ischemic heart failure.  The solution was developed using retrospective data from the academic medical center. Which of the following needs to be evaluated before the development phase?,"What action can be taken based on the model output
+
+Who needs to take the action 
+
+A and B
+
+Is funding secured to ensure dissemination and scalability of the model",A and B,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+Which of the following forces are likely responsible for the acceleration interest in developing and application of AI in healthcare:,"Computer science algorithms replacing medical workers
+
+Large scale adoption of digital health records
+
+Slowed growth in computing processing power
+
+Requirement of computer science training in medical school",Large scale adoption of digital health records,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following are potential applications of machine learning in healthcare: ,"Optimizing care delivery
+
+Healthcare Information Management 
+
+Cognitive support for clinical care and prediction
+
+Early detection and personalized risk assessment
+
+All of the above",All of the above,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is the purpose of the validation set?,"To introduce noise to the dataset, enabling the model to become more robust to unseen data.
+
+To measure the generalization performance of the model, without overfitting the test set.
+
+To allow the model to see extra training samples during the optimization step.
+
+To prevent the model from memorizing the training set through randomly turning off some of the model weights.","To measure the generalization performance of the model, without overfitting the test set.","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is the purpose of a loss function?,"To identify a clinical use case for reinforcement learning
+
+To calculate the AUROC of a set of model predictions when the neural network is not available
+
+To give a neural network feedback on its performance relative to ground truth
+
+To identify which model architecture to use if working with unstructured data",To give a neural network feedback on its performance relative to ground truth,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Why would one use a Transformer instead of an RNN?,"Transformers are faster than RNNs due to their ability to process inputs in parallel.
+
+RNNs use backpropagation in order to minimize loss, and Transformers do not.
+
+RNNs rely on data augmentation to process sequential input, but Transformers do not.
+
+Transformers use memory in order to handle sequential input, but RNNs do not.",Transformers are faster than RNNs due to their ability to process inputs in parallel.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What happens when a model is overfitting?,"It achieves good performance on training data, and on unseen data.
+
+It achieves bad performance on training data, and on unseen data.
+
+It achieves good performance on unseen data, but not on the training set.
+
+It achieves good performance on training data, but not on unseen data.","It achieves good performance on training data, but not on unseen data.","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following is an accurate statement about data in machine learning model development and deployment? ,"Missing data can lead to biased results and model failure in practice
+
+There is rarely a difference between the data used in training and the data used in practice
+
+Heterogeneity of data sources is an advantage for machine learning applications.
+
+Missing data is not a challenge for EHR data sources.",Missing data can lead to biased results and model failure in practice,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Choose the definition that best describes the “output action pair” framework to clinical machine learning project development:,"The output-action pair is an approach for estimating valuation for medical AI startups
+
+The output-action pair is an approach for exploring whether a clinical problem is worth solving with machine learning
+
+The output-action pair is an approach for choosing between different machine learning model architectures
+
+The output-action pair is an approach for planning marketing slogans for clinical machine learning applications in the commercial marketplace",The output-action pair is an approach for exploring whether a clinical problem is worth solving with machine learning,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following is the best definition of automation bias?,"Humans tend to follow the recommendations of automated systems even when conflicting with their own judgement
+
+Humans tend to ignore the recommendations of automated systems even when it agrees with their own judgement.
+
+Humans tend to follow their own judgement more often even when it conflicts with an automated system recommendation
+
+Humans tend to follow the recommendations of older automated systems when conflicting with newer automated systems",Humans tend to follow the recommendations of automated systems even when conflicting with their own judgement,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following is true regarding risk or risk pooling?,"Risk pooling normally replaces an individual’s small chance of facing a potentially large cost with the certainty of facing a smaller cost. 
+
+Risk pooling does not occur in countries where the government pays for healthcare using tax revenues. 
+
+Risk pooling is beneficial for patients, but not for healthcare providers. 
+
+Risk pooling typically reduces the chance that someone would get health care that they don’t really need. ",Risk pooling normally replaces an individual’s small chance of facing a potentially large cost with the certainty of facing a smaller cost. ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"Which of the following most accurately describes a “physician network,” in the context of U.S. health insurance?","A group of physicians who have been contracted by an insurance company to provide care to the insurance company’s members
+
+A group of physicians who are within the same geographic area
+
+A group of physicians who have independently agreed to work together on the care of a single patient covered by an insurer
+
+A group of physicians who all work at hospitals contracted by the insurer",A group of physicians who have been contracted by an insurance company to provide care to the insurance company’s members,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following is true of capitation?,"Capitation combats the problem of adverse selection since providers will want to take the sickest patients. 
+
+Capitation shifts risk from the provider to the insurer.
+
+Capitation pays the provider a fixed amount for a specific service; for example, one knee replacement. 
+
+Physicians will benefit from having as few people in their panel as possible.
+
+Capitation incentivizes providers to provide fewer costly, time-intensive services than fee for service payments. ","Capitation incentivizes providers to provide fewer costly, time-intensive services than fee for service payments. ","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following does NOT accurately match a hospital reimbursement term with a description?,"Per diem, Medicare reimburses a hospital for each day a patient is admitted
+
+Fee-for-service, An insurance company reimburses a hospital for each laboratory service given to a patient
+
+Prospective payment, Medicare reimburses a hospital a fixed amount for a patient admitted with a diagnosis of pneumonia, regardless of the care received 
+
+Global budget, Medicaid reimburses a hospital for every treatment a patient receives during the length of her stay ","Global budget, Medicaid reimburses a hospital for every treatment a patient receives during the length of her stay ","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"Consider a person who has a very high expected medical spending for a year. They don’t have a preference for what providers they see, and their only priority is to get their care for the lowest cost possible (cost considers both the premium and out-of-pocket payments). Based on this information alone, what type of health insurance plan might they most likely prefer?","High Deductible Health Plan (HDHP)
+
+Preferred Provider Organization (PPO) 
+
+Traditional Indemnity 
+
+Health Maintenance Organization (HMO) ",Traditional Indemnity ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"Assume a patient has an upcoming medical procedure that will cost $1000.  
+ 
+ 
+
+Suppose the patient is in a health plan with a $50 copay for medical procedures.  Suppose that the patient has previously had $2000 in health care expenses in the year.  How much can the patient expect to pay out of pocket for this procedure?
+ 
+
+$_______
+
+Please write the answer in numeric form. No need to add a dollar sign.",,,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following does NOT accurately describe Medicare?,"Medicare is a government-run program that covers adults age 65 years and older
+
+Medicare has been responsible for major innovations in the US healthcare system, including the DRG system and the concept of ACOs
+
+Though it covers physician and hospital costs, Medicare does not have provisions for covering prescription drug costs
+
+Most of the financing for Medicare comes from taxpayer dollars","Though it covers physician and hospital costs, Medicare does not have provisions for covering prescription drug costs","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following accurately matches a phase of a drug trial with its description?,"Phase I - Animal testing
+
+Phase II - Testing in small groups of healthy volunteers to determine safety, dosing
+
+Phase III - Testing in thousands of people with the condition of interest to assess effectiveness and longer-term reactions/outcomes
+
+Phase IV - Assessment of competitor generics after patent expiration ",Phase III - Testing in thousands of people with the condition of interest to assess effectiveness and longer-term reactions/outcomes,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"Here are some common examples of AI that analyze the financing and delivery of health care with the purpose of increasing efficiency. 
+
+An insurance company builds an algorithm to predict opioid use from an employer’s claims data, using employee data that is stripped of identifiers to be HIPAA-compliant.  The company will sell their model to employers broadly, even those that do not contract with them for health insurance.
+
+ A small health care start-up company has developed a machine learning model to predict the onset of cardiovascular diseases, including hypertension and heart failure, in order to identify patients who might benefit from receiving preventive interventions such as lipid-lowering medications.
+
+In order to avoid fines from the Medicare Hospital Readmissions Reduction Program (HRRP), a health system is developing an AI-based model to predict which of their patients who are hospitalized with a principal diagnosis of pneumonia will be readmitted within 30 days after the patient was admitted.  A large national study of Medicare beneficiaries found that the HRRP did lower risk-adjusted readmissions rates of pneumonia patients.  It also found that the 30-day and 1-year risk-adjusted mortality rates increased.
+
+The Association for Computing Machinery code of ethics includes a principle of avoiding harm, whether intended or unintended.
+
+QUESTION:
+
+What are examples of harm in the ACM code?",,,"Reflection Exercise
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+2 total points available.
+2 total points"
+"Think about each of the examples of AI above.  Could any of them cause unjustified or unfair harm, especially to patients?  What sources of bias, error, and harm should the AI developers be alert to?",,,"Reflection Exercise
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+2 total points available.
+2 total points"
+What is a pro of using k-fold cross-validation instead of a hold-out validation set for hyperparameter tuning?,"Requires less overall time to train a model, due to the reduced number of training samples
+
+Regularizes the model by randomly selecting training examples automatically
+
+Improves model convergence rates because many hyperparameters can be tested at the same time
+
+Produces a more reliable estimate of the generalization performance of the model",Produces a more reliable estimate of the generalization performance of the model,"Phase 3. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07"
+What is a con of using k-fold cross-validation instead of a hold-out validation set for hyperparameter tuning? ,"Increases the overall memory requirements of the model during training, due to the higher number of samples seen during training
+
+Requires more overall time to train a model, due to the repeated training runs associated with each experiment
+
+Decreases model generalization performance because the model is able to learn on the test set
+
+Increases the number of parameters in the overall model, which leads to overfitting","Requires more overall time to train a model, due to the repeated training runs associated with each experiment","Phase 3. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07"
+What are common criteria used for early stopping? Check all that apply. ,"Validation loss
+
+Validation AUROC
+
+Test loss
+
+Training AUROC
+
+Test AUROC
+
+Training loss","Validation loss
+
+Validation AUROC","Phase 3. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07"
+Which of the following hyperparameters are exclusive to deep learning models? Check all that apply.,"Class weights (loss function)
+
+Learning rate
+
+Weight decay strength
+
+Number of layers
+
+Dropout probability","Number of layers
+
+Dropout probability","Phase 3. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07"
+What learning phenomena is the team observing now? ,"Generalization
+
+Underfitting
+
+Overfitting
+
+Convergence",Overfitting,"Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07"
+What are some techniques that can be applied in order to improve generalization performance? Check all that apply.  ,"Increasing the number of model parameters
+
+Weight decay (L2 regularization)
+
+Early stopping
+
+Dropout
+
+Stronger data augmentation","Weight decay (L2 regularization)
+
+Early stopping
+
+Dropout
+
+Stronger data augmentation","Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07"
+What is weight decay? ,"An added penalty in the loss function that mitigates class imbalance
+
+An added penalty in the loss function that encourages semantic clustering in feature space
+
+An added penalty in the loss function that discourages models from becoming overly complex
+
+An added penalty in the loss function that ensures the model is well calibrated",An added penalty in the loss function that discourages models from becoming overly complex,"Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07"
+What does dropout do?,"Dropout randomly removes layers in the network during training in order to improve the rate of convergence
+
+Dropout randomly removes neurons in the network during training in order to prevent overreliance on any one neuron
+
+Dropout randomly removes layers in the network during training in order to prevent overreliance on any one layer
+
+Dropout randomly removes neurons in the network during training in order to improve the rate of convergence",Dropout randomly removes neurons in the network during training in order to prevent overreliance on any one neuron,"Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07"
+Which of the following are tunable hyperparameters? Check all that apply. ,"Learning rate
+
+Dropout probability
+
+Model weights
+
+Weight decay strength","Learning rate
+
+Dropout probability
+
+Weight decay strength","Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07"
+"The team is noticing counterintuitive results regarding the performance of the model when measured with accuracy and AUROC. What is likely occurring? NOTE: There are 27,000 COVID-negative exams and 3,000 COVID-positive exams, a breakdown of 90% negative cases and 10% positive cases.","AUROC is a poor metric for performance because it can only be used in multi-class settings
+
+Accuracy is a poor metric for performance because of the high class imbalance
+
+Accuracy is a poor metric for performance because of the small number of samples in the test set
+
+AUROC is a poor metric for performance because they have a predetermined threshold in mind",Accuracy is a poor metric for performance because of the high class imbalance,"Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07"
+Further analysis shows that the model is predicting that every patient is COVID-negative. What can be done to mitigate this effect? Check all that apply.  ,"Using dropout during training to improve performance on the test set
+
+Lowering the learning rate to improve convergence
+
+Undersampling COVID-positive exams during training
+
+Upweighting COVID-positive exams loss during training","Undersampling COVID-positive exams during training
+
+Upweighting COVID-positive exams loss during training","Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07"
+"Before you deploy the model, you want to test the fairness of the model based on anti-classification.  What variables would  you use to test fairness?","Gender
+
+Race
+
+County of residence
+
+Gender and Race
+
+All of the above",All of the above,"Phase 5
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 20, 11:59 PM +07"
+You provide the model output to the clinical team. What would be the risk category? ,"Category I
+
+Category II
+
+Category III
+
+Category IV",Category II,"Phase 5
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 20, 11:59 PM +07"
+"Given the novelty of COVID, what do you think could be used for the valid clinical association argument?","Performance of a clinical trial based on your AI solution
+
+Literature Searches
+
+Examples of how your model can generate new evidence
+
+All of the above",All of the above,"Phase 5
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 20, 11:59 PM +07"
+"Your model uses past symptoms as a predictor for invasive mechanical ventilation, however 40% of your population are on public insurance and likely do not have the same access to care as those on private insurance. How would this bias your results?","Under reporting of symptoms in public insured patients
+
+Patients on public insurance are likely to have more symptoms than patients on private insurance because they are known to have more comorbidities
+
+This will not bias the outcome, need for invasive mechanical ventilation because symptoms were not a top predictor of the outcome
+
+None of the above",Under reporting of symptoms in public insured patients,"Phase 5
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 20, 11:59 PM +07"
+Which of the following best represents an episode-based payment?,"Medicare reimburses a hospital a fixed amount for a total knee replacement
+
+Medicaid reimburses a physician a fixed amount to care for a panel of patients over a given time period
+
+An independent practice association rewards its member groups based on how many new patient visits they bring to the practice 
+
+An urgent care physician reimburses her administrative assistant for every clinic shift he works",Medicare reimburses a hospital a fixed amount for a total knee replacement,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which payment system transfers the most risk to providers?,"Per-diem
+
+DRG system
+
+Fee-for-service
+
+Global budgets",Global budgets,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following is true of generic drugs?,"They are generally made by the same manufacturer as the branded drug
+
+They are allowed to be close to but not the exact chemical composition as the branded drug
+
+Once they enter the market, the branded drug is no longer sold
+
+They go through a different FDA approval process than the original branded drug",They go through a different FDA approval process than the original branded drug,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following is NOT an example of an outcome measure?,"Hospital mortality rates
+
+Hospital readmission rates
+
+Percentage of providers appropriately credentialed 
+
+Patient-reported outcomes",Percentage of providers appropriately credentialed ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Which of the following statements most accurately describes machine learning?,"Machine learning more commonly focuses on a-priori assumptions about data
+
+Machine learning emphasizes obtaining small samples of data to generate predictive models
+
+Machine learning focuses on interpretability over performance
+
+Machine learning systems tend to improve performance for a given task with larger quantities of data",Machine learning systems tend to improve performance for a given task with larger quantities of data,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is unsupervised learning?,"Fitting a model without manually tuning the input features, i.e. unstructured data
+
+Finding patterns in a dataset using limited labeled data
+
+Finding patterns in a dataset based on the structure of the data as opposed to pre-determined labels 
+
+Fitting a model using de-identified patient data",Finding patterns in a dataset based on the structure of the data as opposed to pre-determined labels ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is an advantage of using Decision Trees over other machine learning methods?,"They are simple to understand and interpret and can work on small datasets. 
+
+They can be used for both classification and regression, whereas others are limited to one or the other.
+
+They allow for the processing of unstructured data, such as images and sequences of text.
+
+They can overfit datasets better than other methods because of the number of parameters learned.",They are simple to understand and interpret and can work on small datasets. ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Why would one use a Transformer instead of a fully connected network (DNN)?,"DNNs use filters in order to process sequential input, but Transformers do not.
+
+Transformers can relate sequential input to one another, and DNNs cannot. 
+
+Transformers are faster than DNNs.
+
+DNNs process text all at once, and Transformers process text one at a time.","Transformers can relate sequential input to one another, and DNNs cannot. ","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+What is one advantage of using a Precision-Recall Curve over an ROC Curve?,"It demonstrates the relationship between Recall and the false positive rate at various threshold points.
+
+It is more robust to imbalanced data
+
+It allows statisticians to determine if the model is overfitting or underfitting
+
+It automatically chooses the operating point to maximize clinical utility.",It is more robust to imbalanced data,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following is an example of a clinical machine learning project goal that could be categorized as “prediction + practice of care”? ,"Estimating 6-month mortality risk for heart failure patients
+
+Diagnosing lung cancer on chest computed tomography (CT) imaging
+
+Discovering new genomic relationships to medication allergies
+
+Forecasting the staffing needs of ICU nursing ",Forecasting the staffing needs of ICU nursing ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+"For automated triage, which of the following is the most important metric to satisfy when choosing an operating point? ","Sensitivity / Recall, as it measures how many positive samples are correctly predicted as positive
+
+PPV / Precision, as it measures how many of the samples predicted positive are actually positive
+
+Intersection Over Union (IOU), as it measures how well the model is able to segment the lesions
+
+Specificity, as it measures how many negative samples are correctly predicted as negative","PPV / Precision, as it measures how many of the samples predicted positive are actually positive","Phase 4. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07"
+Who is the beneficiary of the EHR-based invasive mechanical ventilation predictor? ,"The provider - the output helps the clinician manage their patients
+
+The patient - the output will help the patient make informed decisions
+
+The hospital - the output will identify the need for additional ICU rooms
+
+None of the above",The provider - the output helps the clinician manage their patients,"Phase 4. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07"
+Hypoxemia is an important feature in the EHR-based invasive mechanical ventilation predictor model that was validated in the independent sample. This can be used as a component of the:,"Valid clinical association
+
+Analytical validation
+
+Clinical validation
+
+None of the above",Valid clinical association,"Phase 4. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07"
+The model has identified that patient X is at high risk of invasive mechanical ventilation within the next 48 hours and this information was sent to the clinical team. What action can be taken based on the prediction and any mitigation strategy. ,"Reserve a ventilator and bed  in ICU to ensure the patient has the resources they need when they begin to clinically decline
+
+Administration of an experimental drug currently under investigation for COVID deterioration
+
+Notify the insurance company to ensure payment of the anticipated extended length of stay
+
+None of the above",Administration of an experimental drug currently under investigation for COVID deterioration,"Phase 4. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07"
+Why would one use a CNN instead of a fully connected network (DNN)?,"DNNs use the same set of weights when analyzing each region of an input image, and CNNs do not.
+
+DNNs use backpropagation in order to minimize loss, and CNNs do not.
+
+CNNs use the same set of weights when analyzing each region of an input image, and DNNs do not.
+
+CNNs use clustering in order to make predictions, and DNNs do not.","CNNs use the same set of weights when analyzing each region of an input image, and DNNs do not.","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+"The D-DIMER values are highly concentrated <1k, but there are many samples that are several orders of magnitude apart from the rest of the samples. What is the most likely explanation for this? (Hint: look at the data samples, particularly the exam metadata.)","The data collected from one the clinics may use different units
+
+There is a large disparity in D-DIMER lab values across patient gender
+
+The data was collected from two cohorts from two different time periods
+
+There is a large disparity in D-DIMER lab values across patient age",The data collected from one the clinics may use different units,"Phase 2. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07"
+Which of the following strategies can be used in order to accommodate for the missing values in the EHR dataset? Check all that apply. ,"A tree-based model, such as random forest, can be trained after the missing values are synthetically generated, using a process known as 
+imputation
+
+A logistic regression model can be trained directly on the data with missing values
+
+A logistic regression model can be trained after the missing values are synthetically generated, using a process known as 
+imputation
+
+A tree-based model, such as random forest, can be trained directly on the data with missing values","A tree-based model, such as random forest, can be trained after the missing values are synthetically generated, using a process known as 
+imputation
+
+A logistic regression model can be trained after the missing values are synthetically generated, using a process known as 
+imputation
+
+A tree-based model, such as random forest, can be trained directly on the data with missing values","Phase 2. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07"
+Which of the following is FALSE regarding logistic regression models?,"Logistic regression produces values between 0 and 1, regardless of the scale of the features
+
+Logistic regression uses the sigmoid activation function
+
+Logistic regression can take unstructured inputs, such as images or text
+
+Logistic regression is commonly used for classification problems","Logistic regression can take unstructured inputs, such as images or text","Phase 2. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07"
+Which of the following is FALSE regarding random forest models?  ,"Random forest models require feature normalization (i.e. scaling the features such that they are between 0 and 1) in order to work effectively
+
+Random forest models learn multiple decision trees that each learn on a subset of the available features
+
+Random forest models are highly interpretable
+
+Random forest models are a type of decision tree algorithm",Random forest models require feature normalization (i.e. scaling the features such that they are between 0 and 1) in order to work effectively,"Phase 2. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07"
+Suppose you developed a rare medical condition and your doctor suggested conducting a data-mining procedure similar to that we discussed for our example patient Laura. How would you feel about using that information to guide your treatment? What else would you want to know?,,,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+The workflow of which group within the US healthcare system would be impacted most immediately from an artificial intelligence tool that increased a physician’s ability to accurately diagnose breast cancer from imaging?,"Private insurance companies
+
+Specialty physicians
+
+Government intermediaries
+
+Nurse practitioners",Specialty physicians,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"Assume a patient has an upcoming medical procedure that will cost $1000.  
+ 
+ 
+
+Suppose the patient is in a health plan with a $500 deductible, after which 20% coinsurance applies.  Suppose that the patient has previously had $2000 in health care expenses in the year.  How much can the patient expect to pay out of pocket for this procedure?
+ 
+
+$_______
+
+Please write the answer in numeric form. No need to add a dollar sign.",,,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+Why would one use an RNN instead of a fully connected network (DNN)?,"DNNs use word embeddings in order to process text, but RNNs can process text directly.
+
+RNNs can handle variable sized inputs.
+
+DNNs can only comprise of a single hidden layer, and RNNs can comprise of many hidden layers.
+
+RNNs use gradient descent in order minimize loss, and DNNs do not.",RNNs can handle variable sized inputs.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07"
+What happens when the model is underfitting?,"It achieves bad performance on training data, and on unseen data.
+
+It achieves good performance on training data, and on unseen data.
+
+It achieves good performance on unseen data, but not on the training set.
+
+It achieves good performance on training data, but not on unseen data.","It achieves bad performance on training data, and on unseen data.","Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07"
+Which of the following is an approach to evaluate the interpretability of a trained deep learning model?,"Feature data spotting
+
+Visibility sectors
+
+Saliency maps
+
+Color topography",Saliency maps,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07"
+Which of the following best describes the relationship of data label noise in machine learning?,"Weak supervision is a machine learning training technique that optimizes training models with noisy labels
+
+Prior work on data noise has found that if a model is trained with 15% label error (noise) more than 4x data volume was required to achieve optimal performance
+
+Regression models typically are more tolerant to training data noise than neural networks. 
+
+Machine learning applications are more intolerant to noise in data labeling with increasing data volume",Weak supervision is a machine learning training technique that optimizes training models with noisy labels,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07"
+Suppose you develop a serious medical condition that definitely requires treatment. What kind of data would you want to use to guide picking a doctor for this? What part of the healthcare system would produce these data?,,,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+The team split the data into two partitions: the training set and the test set. It is considered best practice to have a third partition– the validation set. What added utility is there in having a validation set? Check all that apply.,"The validation set can be used for early stopping
+
+The validation set can be used for updating the model directly
+
+The test set should be used for final evaluation only
+
+The validation set can be used for tuning hyperparameters","The validation set can be used for early stopping
+
+The test set should be used for final evaluation only
+
+The validation set can be used for tuning hyperparameters","Phase 2. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07"
+"The team split the data randomly, without accounting for the patient to whom each exam belongs. Why would this be a problem? Recall: “The COVID dataset consists of 30,000 exams across 21,000 patients (some patients may be associated with multiple exams)”  ","Patient overlap between the training and test sets may lead to inflated model performance due to unrealistic evaluation conditions
+
+Patient overlap between the training and test sets may lead to problems with model convergence due to exposure to the test set
+
+Patient overlap between the training and test sets may lead to problems with model bias because of the underrpresentation of certain patient demographics in the training set
+
+Patient overlap between the training and test sets may lead to the leakage of PHI or other sensitive data",Patient overlap between the training and test sets may lead to inflated model performance due to unrealistic evaluation conditions,"Phase 2. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07"
+The team downsized the images to 224 by 224 pixels. Why might this lead to worse model performance?,"Many publicly available models use 224 by 224 pixel images
+
+The discriminative features in the image may be too small to identify without a higher resolution
+
+224 by 224 pixel chest x-rays are easier to classify than 3000 by 3000 pixel chest x-rays
+
+Memory constraints may limit the model’s ability to process high-resolution images",The discriminative features in the image may be too small to identify without a higher resolution,"Phase 2. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07"
+Why are Convolutional Neural Networks (CNN) particularly well suited for image classification tasks? Check all that apply.  ,"CNN architectures leverage multiple decision trees in order to make their predictions more robust
+
+CNN architectures are parameter-efficient because they use the same set of weights on each region of the image
+
+CNN architectures can condition on previous timesteps, which it takes as input in addition to the images themselves
+
+CNN architectures take advantage of feature locality through the use of filters","CNN architectures are parameter-efficient because they use the same set of weights on each region of the image
+
+CNN architectures take advantage of feature locality through the use of filters","Phase 2. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07"
+What learning phenomena is the team observing?,"Convergence
+
+Underfitting
+
+Overfitting
+
+Generalization",Underfitting,"Phase 2. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07"
+Which if the following definitions best describe the AUROC metric? ,"How well the model is able to segment objects
+
+How many of the samples predicted positive are actually positive
+
+How many positive samples are correctly predicted as positive
+
+How well separated the predicted probabilities of negatives are from positives",How well separated the predicted probabilities of negatives are from positives,"Phase 4. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07"
+Why might model B be more useful than model A in worklist prioritization?,"Model B is not more useful than model A
+
+Model B places more abnormal exams early in the worklist than model A
+
+Model B places more normal exams early in the worklist than model A
+
+Model B places fewer abnormal exams at the end of the worklist than model A",Model B places more abnormal exams early in the worklist than model A,"Phase 4. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07"
+How might both models be leveraged in order to produce a better performance immediately overall?,"The models can be re-trained using the same hyperparameters
+
+The trained models can be used to train other models
+
+For new exams, the predictions of both models can be averaged together  
+
+Each model can be deployed at separate clinics","For new exams, the predictions of both models can be averaged together  ","Phase 4. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07"
+"How can we represent a patient’s electronic health record, a form of structured data, to a machine learning model?","As a 1-dimensional vector, where each number is a hand-picked feature
+
+As a 1-dimensional vector, where each number is pixel intensity
+
+As a sequence of 1-dimensional vectors, where each number is pixel intensity
+
+As layers of number grids, where each number is pixel intensity","As a 1-dimensional vector, where each number is a hand-picked feature","Phase 1. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07"
+"Given the type of data available, which of the following are reasonable alternative framings of task at hand, from a machine learning perspective? Check all that apply.  ","A model that predicts the number of days before a patient requires invasive mechanical ventilation. This model would be trained only on patients who required invasive mechanical ventilation.
+
+A model that predicts what range of days it will take for a patient to require invasive mechanical ventilation. The 4 categories include: [“0-4 days”, “5-9 days”, “10-14 days”, “14+ days or will not need one”]
+
+A regression model that predicts the patient’s date of death.
+
+A binary classification model that predicts whether or not the patient will require hospitalization.","A model that predicts the number of days before a patient requires invasive mechanical ventilation. This model would be trained only on patients who required invasive mechanical ventilation.
+
+A model that predicts what range of days it will take for a patient to require invasive mechanical ventilation. The 4 categories include: [“0-4 days”, “5-9 days”, “10-14 days”, “14+ days or will not need one”]","Phase 1. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07"
+"Given that we are training a model to predict whether or not the patient requires invasive mechanical ventilation, which of these values should NOT be passed into the model as a feature?  Check all that apply.","Ventilator setting
+
+Ferritin
+
+Invasive mechanical ventilation date
+
+Patient inpatient arrival date
+
+Patient birth date
+
+D-DIMER
+
+White Blood Cell count","Ventilator setting
+
+Invasive mechanical ventilation date","Phase 1. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07"
+Imagine the path that the patient data took through the healthcare system. What are some possible errors that might have gotten introduced to the data before it was published? Check all that apply.  ,"Labs are logged AFTER the invasive mechanical ventilation
+
+The patient was a recent transfer from another system
+
+The patient comes to ED and gets immediately intubated, thus no labs are provided
+
+The patient had been to the hospital multiple times","Labs are logged AFTER the invasive mechanical ventilation
+
+The patient was a recent transfer from another system
+
+The patient comes to ED and gets immediately intubated, thus no labs are provided","Phase 1. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07"
+Suppose we could develop the technology to record nearly all medically-relevant events on a very fine timescale (much less than a second). Do you think this system would make it easier or harder to answer clinical research questions?,,,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+2 total points available.
+2 total points"
+True or false: PPOs restrict choice for patients more than HMOs.  ,"True
+
+False",False,"Reflection Exercise
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+1 total point available.
+1 total point"
+"As part of addressing your clinical research question, you need to write software that looks up names for diseases. Which of the following knowledge graphs would you choose for this?","Current Procedural Terminology (CPT)
+
+Logical Observation Identifiers Names and Codes (LOINC)
+
+Anatomic Therapeutic Chemical Classification System (ATC)
+
+Unified Medical Language System (UMLS)
+
+None of the above are a good choice.",Unified Medical Language System (UMLS),"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following statements about feature engineering is true?,"Standardizing a feature means that we are sure that everyone refers to it by the same name.
+
+Having more features is a good way to increase patient privacy.
+
+If a feature has the same value for all patients, it should be kept in the analysis to provide a baseline measurement.
+
+Multiple imputation is a technique used to estimate the fraction of the dataset that is missing.
+
+None of the above statements are true.",None of the above statements are true.,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following is true about observational data?,"Observational datasets provide complete coverage of a patient's medical treatment.
+
+Observational datasets all use the same standard format.
+
+Observational datasets can contain biases. 
+
+Observational data make it easy to infer causes of diseases.
+
+None of the above are true.",Observational datasets can contain biases. ,"Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07"
+Which of the following is not part of the clinical evaluation of an AI solution?,"Analytical evaluation
+
+System evaluation
+
+Clinical evaluation
+
+Clinical association",System evaluation,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+"We discussed in detail the Obermeyer paper (Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). 
+Dissecting racial bias in an algorithm used to manage the health of populations
+. Science, 366(6464), 447-453.) What type of bias was identified in the paper regarding hospital resource allocation?","Measurement Bias
+
+Historical Bias
+
+Deployment Bias
+
+Representation Bias",Measurement Bias,"Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07"
+True or false: It is possible for the physician portion of a payment to be paid via a different mechanism (e.g. fee-for-service) than the facility portion,"True
+
+False",True,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+"An ideal randomized controlled clinical trial can produce results with very little bias. However, there are some questions that will never be answered using clinical trials. Think about why that might be true. Do you feel comfortable that such questions will only be addressed using observational data?",,,"Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points"
+How are images commonly represented when given to a deep learning model?  ,"As a sequence of 1-dimensional vectors, where each number is pixel intensity
+
+As a 1-dimensional vector, where each number is pixel intensity
+
+As layers of number grids, where each number is pixel intensity
+
+As a 1-dimensional vector, where each number is a hand-picked feature","As layers of number grids, where each number is pixel intensity","Phase 1. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07"
+What deep neural network architecture is most commonly used for image classification? ,"Convolutional Neural Network (CNN)
+
+Multi-layer Perceptron (MLP)
+
+Recurrent Neural Network (RNN)
+
+Generative Adversarial Network (GAN)",Convolutional Neural Network (CNN),"Phase 1. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07"
+What is the kind of question being answered via the COVID detector?,"Sequence-to-sequence translation
+
+Binary classification
+
+Linear regression
+
+Multi-label classification",Binary classification,"Phase 1. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07"
+You are interested in further leveraging hospital resources in order to boost the performance of your COVID detector. Which of the following actions would improve the likelihood of a high performing model? Check all that apply.  ,"Giving the machine learning team a large dataset of chest x-rays, even if they do not originate from COVID-positive patients.
+
+Giving the machine learning team segmentation labels for a small subset of the COVID chest x-ray dataset.
+
+Giving the machine learning team the text reports associated with each of the COVID chest x-ray examinations.
+
+Giving the machine learning team access to an existing COVID detector.","Giving the machine learning team a large dataset of chest x-rays, even if they do not originate from COVID-positive patients.
+
+Giving the machine learning team segmentation labels for a small subset of the COVID chest x-ray dataset.
+
+Giving the machine learning team the text reports associated with each of the COVID chest x-ray examinations.
+
+Giving the machine learning team access to an existing COVID detector.","Phase 1. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07"

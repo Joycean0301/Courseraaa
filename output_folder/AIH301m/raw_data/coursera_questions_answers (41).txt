@@ -1,0 +1,151 @@
+Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||What are the three groupings of AI Applications in Healthcare?|||Biomedical Research, Translational Research, Medical Practice^^^Image Analysis, Electronic Healthcare Records, Bedside Monitoring ^^^Drug Discovery, Risk Stratification, Predictive Analytics ^^^None of the Above|||Biomedical Research, Translational Research, Medical Practice@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is important to consider when developing at AI Solution?|||Model Performance ^^^Model Lead Time ^^^Mitigation strategy for model output^^^All of the Above |||All of the Above @@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following statements is true?|||Stakeholder involvement should be considered in the development and deployment attributes of the AI solution but not in the design ^^^Multiple stakeholders must be involved when developing a useful AI solution. ^^^Stakeholder involvement should be considered in the design and deployment attributes of the AI solution but not in the development ^^^Multiple stakeholders are necessary to approve different components of the AI solution |||Multiple stakeholders must be involved when developing a useful AI solution. @@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||A researcher would like to develop an AI solution to predict in-hospital mortality among patients being treated for ischemic heart failure. The solution was developed using retrospective data from the academic medical center. Which of the following needs to be evaluated before the development phase?|||What action can be taken based on the model output ^^^Who needs to take the action ^^^A and B^^^Is funding secured to ensure dissemination and scalability of the model|||A and B@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Based on the Outcome-Action-Pairing model, what would be a good AI model to deploy?|||A classifier that can accurately separate patients with the common cold into two novel groups ^^^A prediction model that can accurately identify hospitalized patients who will have a cardiac arrest within the next two minutes^^^A prediction model that will identify patients receiving a total knee replacement who are likely to be readmitted (70% precision) within 30 days of discharge ^^^None of the above|||A prediction model that will identify patients receiving a total knee replacement who are likely to be readmitted (70% precision) within 30 days of discharge @@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||To assess feasibility, one must investigate the data being used in the AI Solution. Which of the following are necessary to assess prior to model development?|||Data availability, quality, missingness^^^The inclusion of longitudinal data^^^Data are current within 6 months ^^^None of the above|||Data availability, quality, missingness@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||True or False - AI Solutions that involve an operational action paired with the outcome have greater clinical benefit than those that have a medical action paired with the outcome|||True^^^False|||False@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||What are the components of clinical evaluation that are necessary to understand clinical utility?|||Analytical validation & clinical validation^^^Valid clinical association, analytical validation & clinical validation^^^Feasibility validation, Analytical validation & clinical validation^^^None of the above|||Valid clinical association, analytical validation & clinical validation@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||What is an example of an AI solution with an operational action?|||Predicting a patient's need for transfer to ICU^^^Predicting the number of ICU beds needed for vascular surgery patients^^^Predicting the risk of a 30-day hospital readmission^^^Predicting the number of acute injuries over a 60-day period|||Predicting a patient's need for transfer to ICU@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following are challenges to AI deployment?|||Lack of buy in from Stakeholders ^^^Lack of evidence for clinical utility^^^Lack of resources and expertise^^^All of the Above |||All of the Above @@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is true about data types and sources? |||Data sources, data types and data availability are the crux of any AI product^^^Internal data sources are best for the development and validation of an AI solution^^^The use of public data sources is standard for external validation^^^None of the Above |||Data sources, data types and data availability are the crux of any AI product@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is not an important setting in AI development?|||Academics^^^Industry^^^Government^^^Philanthropy^^^All of the above |||All of the above @@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Why is silent mode an important component in the AI Deployment Framework?|||Silent Mode is crucial for getting buy-in from all stakeholders while masking the predictive potential of the AI solution^^^Silent Mode is crucial for finalizing workflows and product configurations, as well as the prospective, temporal validation of an AI product.^^^Silent Mode provides information on the human-machine interaction.^^^None of the above|||Silent Mode is crucial for finalizing workflows and product configurations, as well as the prospective, temporal validation of an AI product.@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||How is stealth science harmful to AI solutions?|||Stealth Science is not harmful to AI solutions ^^^Stealth science uses data that may violate privacy rights of patients^^^Stealth science allows industry to generate more accurate models that may not be validated in the academic setting^^^Stealth science hinders the transparency of the AI solution, which allows bias and algorithmic fairness to go unchecked|||Stealth science hinders the transparency of the AI solution, which allows bias and algorithmic fairness to go unchecked@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||What one is an aspect of the evaluate and validate component of the AI Deployment pathway?|||Technical integration^^^Stealth science^^^Clinical validity^^^A and C^^^All of the above|||A and C@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||What type of bias is described in this example: An AI model is developed based on “known” symptoms of heart attack using retrospective data? The problem is that the model was developed based on male symptoms so the model might be very accurate for identifying males with heart attack symptoms, but it might not work well in females, who present with different symptoms. |||Measurement Bias^^^Representation Bias^^^Historical Bias^^^Deployment Bias|||Historical Bias@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||We have looked at models that predict complications in type 2 diabetes. These models had high precision and were validated across systems. However, a review of these AI solutions found that most studies did not report demographics of their training data. This raises concern given Hispanics higher prevalence and complication rates for T2DM compared to whites. What type of bias should we be concerned about here?|||Measurement Bias^^^Deployment Bias^^^Representation Bias^^^Historical Bias|||Representation Bias@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Calibration is a measure of algorithmic fairness that refers to the models agreement between model predictions and observed outcomes. In our example of 30-day hospital readmissions, how can over-estimation of the outcome be harmful?|||All of the above^^^Waste of scarce resources ^^^Potential harm to the patient if unnecessary mitigation strategies are undertaken^^^Unnecessary anxiety for the patient|||All of the above@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||When developing an AI solution, it is important to think about both equality and equity. Which statement describes what is meant by equity in AI development?|||Equity suggests that each group is given the amount of resources needed to have similar outcomes, such as mortality rates or hospitalizations^^^Equity suggests that each group should be given the same amount of resources and no group should be prioritized^^^Equity suggests that every AI model should be assessed for algorithmic fairness to ensure that each group is properly represented in the training data^^^None of the above|||Equity suggests that each group is given the amount of resources needed to have similar outcomes, such as mortality rates or hospitalizations@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||A change to which of the following does not require a modification review by the regulatory agency?|||The addition of new training data from the original source^^^Through the improvement of the AI model, in addition to “inform clinical management” the intended use can now also include “treatment recommendation” ^^^The update of the model performance to reduce false positive alarm rates ^^^The addition of 15-18 years olds to the intended population for an image-based dermatology diagnostic tool|||The update of the model performance to reduce false positive alarm rates @@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||According to the FDA’s software as a medical device, which of the following are not regulated?|||An AI solution that is intended to treat, diagnose, cure, or mitigate a disease or health condition^^^A medical device that does not achieve its primary intended purposes through chemical action within or on the body^^^An AI solution that was designed, developed, and deployed at a single institution for quality improvement purposes^^^Answer B and C|||Answer B and C@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following FDA risk categories require pre-market approval?|||Category IV only^^^Categories III and IV^^^Categories I, II, and III^^^Categories I and II|||Categories III and IV@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Clinical association under the FDA’s regulatory framework is provided at what time during the regulatory process?|||Pre-market^^^Post-Market^^^Both pre and post-market^^^None of the above|||Both pre and post-market@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||What are the criteria that determine whether clinical decision support tools are regulated as a software as a medical device under FDA regulation?|||The software cannot receive, analyze or otherwise process a medical image or signal from an in vitro diagnostic device (such as a DNA-sequencing machine) or from any other signal acquisition system^^^A healthcare professional must be able to understand the basis of its recommendations. ^^^The software cannot be intended as the sole source of recommendations regarding treatment, diagnosis or prevention of a disease.^^^Answer A and C ^^^All of the above|||All of the above@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||True or False: The FDA includes regulatory oversight for adaptive AI solutions|||True^^^False|||False

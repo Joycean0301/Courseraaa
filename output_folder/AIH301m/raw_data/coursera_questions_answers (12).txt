@@ -1,0 +1,25 @@
+Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Suppose you developed a rare medical condition and your doctor suggested conducting a data-mining procedure similar to that we discussed for our example patient Laura. How would you feel about using that information to guide your treatment? What else would you want to know?||||||@@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Which of the following factors is relevant to assessing if a clinical research question about a disease is useful?|||The number of people the disease killed last year^^^The effectiveness of treatments that exist for that disease^^^The total spending on diagnosis and treatment of that disease^^^The existence of genetic risk factors for the disease^^^All of the above|||All of the above@@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||A researcher collects data about a disease from ten different medical systems. The goal of their research is to form a very large dataset in which they hope to expand what is known about risk factors for the disease. What kind of research question is this?|||Causal^^^Exploratory^^^Predictive^^^Inferential^^^None of the above|||Inferential

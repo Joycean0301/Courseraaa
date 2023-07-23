@@ -1,0 +1,151 @@
+Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following forces are likely responsible for the acceleration interest in developing and application of AI in healthcare:|||Slowed growth in computing processing power^^^Requirement of computer science training in medical school^^^Large scale adoption of digital health records^^^Computer science algorithms replacing medical workers|||Large scale adoption of digital health records@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following are potential applications of machine learning in healthcare: |||Optimizing care delivery^^^Healthcare Information Management ^^^Cognitive support for clinical care and prediction^^^Early detection and personalized risk assessment^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements most accurately describes machine learning?|||Machine learning more commonly focuses on a-priori assumptions about data^^^Machine learning emphasizes obtaining small samples of data to generate predictive models^^^Machine learning focuses on interpretability over performance^^^Machine learning systems tend to improve performance for a given task with larger quantities of data|||Machine learning systems tend to improve performance for a given task with larger quantities of data@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following schematics best represents a machine learning paradigm to model building?|||^^^^^^^^^|||@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is the purpose of the validation set?|||To measure the generalization performance of the model, without overfitting the test set.^^^To introduce noise to the dataset, enabling the model to become more robust to unseen data.^^^To prevent the model from memorizing the training set through randomly turning off some of the model weights.^^^To allow the model to see extra training samples during the optimization step.|||To measure the generalization performance of the model, without overfitting the test set.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is an example of unstructured data?|||Patient BMI^^^Patient sex^^^Patient CT ^^^All numerical values in a patient’s medical record.|||Patient CT @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is unsupervised learning?|||Fitting a model without manually tuning the input features, i.e. unstructured data^^^Finding patterns in a dataset using limited labeled data^^^Finding patterns in a dataset based on the structure of the data as opposed to pre-determined labels ^^^Fitting a model using de-identified patient data|||Finding patterns in a dataset based on the structure of the data as opposed to pre-determined labels @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is an advantage of using Decision Trees over other machine learning methods?|||They are simple to understand and interpret and can work on small datasets. ^^^They can be used for both classification and regression, whereas others are limited to one or the other.^^^They allow for the processing of unstructured data, such as images and sequences of text.^^^They can overfit datasets better than other methods because of the number of parameters learned.|||They are simple to understand and interpret and can work on small datasets. @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What algorithm allows neural networks to train?|||Gradient descent^^^Matrix factorization^^^Data augmentation^^^Expectation-Maximization (EM)|||Gradient descent@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is the purpose of a loss function?|||To give a neural network feedback on its performance relative to ground truth^^^To calculate the AUROC of a set of model predictions when the neural network is not available^^^To identify which model architecture to use if working with unstructured data^^^To identify a clinical use case for reinforcement learning|||To give a neural network feedback on its performance relative to ground truth@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What are word embeddings?|||Language models that are faster than RNNs due to their GPU parallelization capabilities^^^Language models used in industry^^^Vectors that represent images as words^^^Representations of words that allow them to be processed by neural networks|||Representations of words that allow them to be processed by neural networks@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Why would one use a Transformer instead of a fully connected network (DNN)?|||DNNs use filters in order to process sequential input, but Transformers do not.^^^Transformers can relate sequential input to one another, and DNNs cannot. ^^^Transformers are faster than DNNs.^^^DNNs process text all at once, and Transformers process text one at a time.|||Transformers can relate sequential input to one another, and DNNs cannot. @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is one way to address underfitting?|||Apply data augmentation to the input data.^^^Multiply the loss function by a constant factor during training.^^^Apply dropout to the model parameters.^^^Increase the number of parameters in the model.|||Increase the number of parameters in the model.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is one way to address overfitting? |||Increase the number of parameters in the model.^^^Remove clinical variables from the input data.^^^Add a weight decay term in the loss function. ^^^Remove data from the validation set.|||Add a weight decay term in the loss function. @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is one advantage of using a Precision-Recall Curve over an ROC Curve?|||It demonstrates the relationship between Recall and the false positive rate at various threshold points.^^^It is more robust to imbalanced data^^^It allows statisticians to determine if the model is overfitting or underfitting^^^It automatically chooses the operating point to maximize clinical utility.|||It is more robust to imbalanced data@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is one factor that will most influence the choice of operating point for a model?|||The number of hyperparameters in the model^^^The cost of training the model^^^The average loss of the model during training^^^Severe side effects associated with treatment|||Severe side effects associated with treatment@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is a method to address class imbalance?|||Upsampling data from majority class^^^Downsampling data from minority class^^^Curate more data from majority class^^^Upsampling data from minority class|||Upsampling data from minority class@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which statement best represents the relationship between machine learning and functions learned from data?|||The function (trained model) represents associations between data and labels that are already known^^^The function (trained model) represents associations between data and labels and are most often correlations^^^The function (trained model) represents associations between data and labels that are encoded via a rules-based method^^^The function (trained model) represents associations between data and labels and are most often causative|||The function (trained model) represents associations between data and labels and are most often correlations@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is an accurate statement about data in machine learning model development and deployment? |||Heterogeneity of data sources is an advantage for machine learning applications.^^^There is rarely a difference between the data used in training and the data used in practice^^^Missing data is not a challenge for EHR data sources.^^^Missing data can lead to biased results and model failure in practice|||Missing data can lead to biased results and model failure in practice@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||You have developed a supervised machine learning model to predict patients in your practice who have >90%  risk of acute stroke in a 6 month window.  After reviewing the model performance, your team has determined that the prediction model is using annual income in order to predict stroke risk.  Which of the following represents the BEST application of this model: |||Deploy the model in a primary care practice to provide clinical decision support for medication and therapeutic decisions^^^Deploy the model in a managed care organization to make financial risk estimates for cost projections^^^Deploy the model in an emergency room to triage patients presenting with symptoms concerning for stroke^^^Deploy the model in a smartphone app for patients to use in making lifestyle and health decisions|||Deploy the model in a managed care organization to make financial risk estimates for cost projections@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is an example of a clinical machine learning project goal that could be categorized as “prediction + practice of care”? |||Estimating 6-month mortality risk for heart failure patients^^^Diagnosing lung cancer on chest computed tomography (CT) imaging^^^Discovering new genomic relationships to medication allergies^^^Forecasting the staffing needs of ICU nursing |||Forecasting the staffing needs of ICU nursing @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following are considered critical skills to have in an ideal clinical machine learning model team?|||Data Scientist^^^Domain Expert^^^Biostatistics^^^Health IT^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is NOT an example of an important question to answer in before choosing a clinical problem to address with machine learning?|||What is the capacity to intervene given existing resources?^^^Which hyper-parameter settings are best for the neural network?^^^What are the mechanics of executing the intervention? ^^^Who is the target user of the model’s output? |||Which hyper-parameter settings are best for the neural network?@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is the best definition of automation bias?|||Humans tend to ignore the recommendations of automated systems even when it agrees with their own judgement.^^^Humans tend to follow the recommendations of automated systems even when conflicting with their own judgement^^^Humans tend to follow the recommendations of older automated systems when conflicting with newer automated systems^^^Humans tend to follow their own judgement more often even when it conflicts with an automated system recommendation|||Humans tend to follow the recommendations of automated systems even when conflicting with their own judgement@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements about bias in clinical machine learning is TRUE:|||Machine learning and computer science is widely recognized as a racially and gender diverse field ^^^Most clinical machine learning applications are based on unbiased data leading to wide generalizability^^^Clinical machine learning applications are likely to replace most skilled clinical roles and disproportionately spare roles traditionally held by under-represented groups^^^Clinical machine learning applications could further disseminate medical knowledge to reduce access disparities in under-served populations|||Clinical machine learning applications could further disseminate medical knowledge to reduce access disparities in under-served populations

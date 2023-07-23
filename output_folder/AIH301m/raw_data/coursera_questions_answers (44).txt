@@ -1,0 +1,31 @@
+Phase 2. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07|||The team split the data into two partitions: the training set and the test set. It is considered best practice to have a third partition– the validation set. What added utility is there in having a validation set? Check all that apply.|||The validation set can be used for early stopping^^^The validation set can be used for updating the model directly^^^The test set should be used for final evaluation only^^^The validation set can be used for tuning hyperparameters|||The validation set can be used for early stopping^^^The test set should be used for final evaluation only^^^The validation set can be used for tuning hyperparameters@@@Phase 2. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07|||The team split the data randomly, without accounting for the patient to whom each exam belongs. Why would this be a problem? Recall: “The COVID dataset consists of 30,000 exams across 21,000 patients (some patients may be associated with multiple exams)”  |||Patient overlap between the training and test sets may lead to inflated model performance due to unrealistic evaluation conditions^^^Patient overlap between the training and test sets may lead to problems with model convergence due to exposure to the test set^^^Patient overlap between the training and test sets may lead to problems with model bias because of the underrpresentation of certain patient demographics in the training set^^^Patient overlap between the training and test sets may lead to the leakage of PHI or other sensitive data|||Patient overlap between the training and test sets may lead to inflated model performance due to unrealistic evaluation conditions@@@Phase 2. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07|||The team downsized the images to 224 by 224 pixels. Why might this lead to worse model performance?|||Many publicly available models use 224 by 224 pixel images^^^The discriminative features in the image may be too small to identify without a higher resolution^^^224 by 224 pixel chest x-rays are easier to classify than 3000 by 3000 pixel chest x-rays^^^Memory constraints may limit the model’s ability to process high-resolution images|||The discriminative features in the image may be too small to identify without a higher resolution@@@Phase 2. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07|||Why are Convolutional Neural Networks (CNN) particularly well suited for image classification tasks? Check all that apply.  |||CNN architectures leverage multiple decision trees in order to make their predictions more robust^^^CNN architectures are parameter-efficient because they use the same set of weights on each region of the image^^^CNN architectures can condition on previous timesteps, which it takes as input in addition to the images themselves^^^CNN architectures take advantage of feature locality through the use of filters|||CNN architectures are parameter-efficient because they use the same set of weights on each region of the image^^^CNN architectures take advantage of feature locality through the use of filters@@@Phase 2. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 30, 11:59 PM +07|||What learning phenomena is the team observing?|||Convergence^^^Underfitting^^^Overfitting^^^Generalization|||Underfitting

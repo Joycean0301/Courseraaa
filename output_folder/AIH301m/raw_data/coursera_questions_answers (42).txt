@@ -1,0 +1,25 @@
+Phase 1. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07|||How are images commonly represented when given to a deep learning model?  |||As a sequence of 1-dimensional vectors, where each number is pixel intensity^^^As a 1-dimensional vector, where each number is pixel intensity^^^As layers of number grids, where each number is pixel intensity^^^As a 1-dimensional vector, where each number is a hand-picked feature|||As layers of number grids, where each number is pixel intensity@@@Phase 1. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07|||What deep neural network architecture is most commonly used for image classification? |||Convolutional Neural Network (CNN)^^^Multi-layer Perceptron (MLP)^^^Recurrent Neural Network (RNN)^^^Generative Adversarial Network (GAN)|||Convolutional Neural Network (CNN)@@@Phase 1. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07|||What is the kind of question being answered via the COVID detector?|||Sequence-to-sequence translation^^^Binary classification^^^Linear regression^^^Multi-label classification|||Binary classification@@@Phase 1. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07|||You are interested in further leveraging hospital resources in order to boost the performance of your COVID detector. Which of the following actions would improve the likelihood of a high performing model? Check all that apply.  |||Giving the machine learning team a large dataset of chest x-rays, even if they do not originate from COVID-positive patients.^^^Giving the machine learning team segmentation labels for a small subset of the COVID chest x-ray dataset.^^^Giving the machine learning team the text reports associated with each of the COVID chest x-ray examinations.^^^Giving the machine learning team access to an existing COVID detector.|||Giving the machine learning team a large dataset of chest x-rays, even if they do not originate from COVID-positive patients.^^^Giving the machine learning team segmentation labels for a small subset of the COVID chest x-ray dataset.^^^Giving the machine learning team the text reports associated with each of the COVID chest x-ray examinations.^^^Giving the machine learning team access to an existing COVID detector.

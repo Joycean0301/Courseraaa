@@ -1,0 +1,25 @@
+Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||What type of bias is described in this example: An AI model is developed based on “known” symptoms of heart attack using retrospective data? The problem is that the model was developed based on male symptoms so the model might be very accurate for identifying males with heart attack symptoms, but it might not work well in females, who present with different symptoms. |||Measurement Bias^^^Historical Bias^^^Representation Bias^^^Deployment Bias|||Historical Bias@@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||We have looked at models that predict complications in type 2 diabetes. These models had high precision and were validated across systems. However, a review of these AI solutions found that most studies did not report demographics of their training data. This raises concern given Hispanics higher prevalence and complication rates for T2DM compared to whites. What type of bias should we be concerned about here?|||Historical Bias^^^Measurement Bias^^^Deployment Bias^^^Representation Bias|||Representation Bias@@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||When developing an AI solution, it is important to think about both equality and equity. Which statement describes what is meant by equity in AI development?|||Equity suggests that each group is given the amount of resources needed to have similar outcomes, such as mortality rates or hospitalizations^^^Equity suggests that each group should be given the same amount of resources and no group should be prioritized^^^Equity suggests that every AI model should be assessed for algorithmic fairness to ensure that each group is properly represented in the training data^^^None of the above|||Equity suggests that each group is given the amount of resources needed to have similar outcomes, such as mortality rates or hospitalizations

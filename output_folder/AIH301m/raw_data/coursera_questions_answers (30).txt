@@ -1,0 +1,25 @@
+Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Which of the following is important to consider when developing at AI Solution?|||Model Performance^^^Model Lead Time  ^^^Mitigation strategy for model output^^^All of the Above |||All of the Above @@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Which of the following statements is true?|||Multiple stakeholders are necessary to approve different components of the AI solution ^^^Stakeholder involvement should be considered in the design and deployment attributes of the AI solution but not in the development ^^^Multiple stakeholders must be involved when developing a useful AI solution.   ^^^Stakeholder involvement should be considered in the development and deployment attributes of the AI solution but not in the design |||Multiple stakeholders must be involved when developing a useful AI solution.   @@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||A researcher would like to develop an AI solution to predict in-hospital mortality among patients being treated for ischemic heart failure.  The solution was developed using retrospective data from the academic medical center. Which of the following needs to be evaluated before the development phase?|||What action can be taken based on the model output^^^Who needs to take the action ^^^A and B^^^Is funding secured to ensure dissemination and scalability of the model|||A and B
