@@ -1,0 +1,25 @@
+Phase 1. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07|||How can we represent a patient’s electronic health record, a form of structured data, to a machine learning model?|||As a 1-dimensional vector, where each number is a hand-picked feature^^^As a 1-dimensional vector, where each number is pixel intensity^^^As a sequence of 1-dimensional vectors, where each number is pixel intensity^^^As layers of number grids, where each number is pixel intensity|||As a 1-dimensional vector, where each number is a hand-picked feature@@@Phase 1. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07|||Given the type of data available, which of the following are reasonable alternative framings of task at hand, from a machine learning perspective? Check all that apply.  |||A model that predicts the number of days before a patient requires invasive mechanical ventilation. This model would be trained only on patients who required invasive mechanical ventilation.^^^A model that predicts what range of days it will take for a patient to require invasive mechanical ventilation. The 4 categories include: [“0-4 days”, “5-9 days”, “10-14 days”, “14+ days or will not need one”]^^^A regression model that predicts the patient’s date of death.^^^A binary classification model that predicts whether or not the patient will require hospitalization.|||A model that predicts the number of days before a patient requires invasive mechanical ventilation. This model would be trained only on patients who required invasive mechanical ventilation.^^^A model that predicts what range of days it will take for a patient to require invasive mechanical ventilation. The 4 categories include: [“0-4 days”, “5-9 days”, “10-14 days”, “14+ days or will not need one”]@@@Phase 1. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07|||Given that we are training a model to predict whether or not the patient requires invasive mechanical ventilation, which of these values should NOT be passed into the model as a feature?  Check all that apply.|||Ventilator setting^^^Ferritin^^^Invasive mechanical ventilation date^^^Patient inpatient arrival date^^^Patient birth date^^^D-DIMER^^^White Blood Cell count|||Ventilator setting^^^Invasive mechanical ventilation date@@@Phase 1. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueJul 23, 11:59 PM +07|||Imagine the path that the patient data took through the healthcare system. What are some possible errors that might have gotten introduced to the data before it was published? Check all that apply.  |||Labs are logged AFTER the invasive mechanical ventilation^^^The patient was a recent transfer from another system^^^The patient comes to ED and gets immediately intubated, thus no labs are provided^^^The patient had been to the hospital multiple times|||Labs are logged AFTER the invasive mechanical ventilation^^^The patient was a recent transfer from another system^^^The patient comes to ED and gets immediately intubated, thus no labs are provided

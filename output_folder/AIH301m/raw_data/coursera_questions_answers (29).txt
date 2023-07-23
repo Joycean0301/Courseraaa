@@ -1,0 +1,151 @@
+Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||Which of the following forces are likely responsible for the acceleration interest in developing and application of AI in healthcare:|||Slowed growth in computing processing power^^^Requirement of computer science training in medical school^^^Large scale adoption of digital health records^^^Computer science algorithms replacing medical workers|||Large scale adoption of digital health records@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||Which of the following statements is true?  |||Clinical structured data is not well suited for traditional programming approaches compared to imaging data^^^Medical data is generated in an organized systematic way that is very amenable to data science techniques and applications^^^Medical data is estimated to double in volume every 2-3 months on average^^^Most hospitals use a standardized IT and electronic health record workflow|||Medical data is estimated to double in volume every 2-3 months on average@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||What is an example of the difference between classical programming and machine learning approaches?|||Machine learning learn rules from input and the desired output example, while classical programming requires programmers to manually design and implement these rules^^^Machine learning algorithm does not require human programmer^^^Machine learning requires significantly less data to work as compared to classical programming^^^Machine learning is useful in healthcare while classical programming is not |||Machine learning learn rules from input and the desired output example, while classical programming requires programmers to manually design and implement these rules@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||Which of the following schematics best represents a machine learning paradigm to model building?|||^^^^^^^^^|||@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||What is the difference between regression and classification?|||Machine learning models can be trained to do regression, but not classification.^^^In regression, the correct answers have numerical value, but in classification the correct answers are categories.^^^In regression, the input data is structured, but in classification the input data is unstructured.^^^Machine learning models can be trained to do classification, but not regression.|||In regression, the correct answers have numerical value, but in classification the correct answers are categories.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||What is an example of unstructured data?|||Patient BMI^^^Patient sex^^^Patient CT ^^^All numerical values in a patient’s medical record.|||Patient CT @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||What is unsupervised learning?|||Fitting a model without manually tuning the input features, i.e. unstructured data^^^Finding patterns in a dataset using limited labeled data^^^Finding patterns in a dataset based on the structure of the data as opposed to pre-determined labels ^^^Fitting a model using de-identified patient data|||Finding patterns in a dataset based on the structure of the data as opposed to pre-determined labels @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||What are Support Vector Machines (SVMs)?|||SVMs maximally separates the closest support vector points.^^^SVMs remove support vector points in order to minimize the loss function.^^^SVMs generate support vector points in order to minimize the loss function.^^^SVMs attempts to bring support vector points closer together.|||SVMs maximally separates the closest support vector points.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||What algorithm allows neural networks to train?|||Gradient descent^^^Data augmentation^^^Matrix factorization^^^Expectation-Maximization (EM)|||Gradient descent@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||Why would one use an RNN instead of a fully connected network (DNN)?|||DNNs use word embeddings in order to process text, but RNNs can process text directly.^^^RNNs can handle variable sized inputs.^^^DNNs can only comprise of a single hidden layer, and RNNs can comprise of many hidden layers.^^^RNNs use gradient descent in order minimize loss, and DNNs do not.|||RNNs can handle variable sized inputs.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||What are word embeddings?|||Language models used in industry^^^Representations of words that allow them to be processed by neural networks^^^Language models that are faster than RNNs due to their GPU parallelization capabilities^^^Vectors that represent images as words|||Representations of words that allow them to be processed by neural networks@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||What is reinforcement learning?|||A branch of machine learning that seeks to group unlabeled data into semantically meaningful clusters.^^^A branch of machine learning that trains a reward-seeking AI agent in an interactive environment.^^^A branch of machine learning that seeks to train statistical models to aid law enforcement.^^^A branch of machine learning that seeks to train AI models using a static, labeled dataset.|||A branch of machine learning that trains a reward-seeking AI agent in an interactive environment.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||What is one way to address underfitting?|||Multiply the loss function by a constant factor during training.^^^Apply dropout to the model parameters.^^^Apply data augmentation to the input data.^^^Increase the number of parameters in the model.|||Increase the number of parameters in the model.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||What happens when the model is underfitting?|||It achieves bad performance on training data, and on unseen data.^^^It achieves good performance on training data, and on unseen data.^^^It achieves good performance on unseen data, but not on the training set.^^^It achieves good performance on training data, but not on unseen data.|||It achieves bad performance on training data, and on unseen data.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||What are the two axes on a Receiver Operating Characteristic (ROC) curve?|||Precision, Recall^^^Precision, Specificity^^^False positive rate, true positive rate^^^Sensitivity, specificity|||False positive rate, true positive rate@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||What is one factor that will most influence the choice of operating point for a model?|||Severe side effects associated with treatment^^^The number of hyperparameters in the model^^^The cost of training the model^^^The average loss of the model during training|||Severe side effects associated with treatment@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||Which of the following is an approach to evaluate the interpretability of a trained deep learning model?|||Feature data spotting^^^Visibility sectors^^^Saliency maps^^^Color topography|||Saliency maps@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||Which of the following best describes the relationship of data label noise in machine learning?|||Weak supervision is a machine learning training technique that optimizes training models with noisy labels^^^Prior work on data noise has found that if a model is trained with 15% label error (noise) more than 4x data volume was required to achieve optimal performance^^^Regression models typically are more tolerant to training data noise than neural networks. ^^^Machine learning applications are more intolerant to noise in data labeling with increasing data volume|||Weak supervision is a machine learning training technique that optimizes training models with noisy labels@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||What is the most accurate description of the “data shelf-life” concept?|||Retrospective medical data is not useful in training clinically useful models.^^^Changing medical practice challenges over time reduces the value of historical medical data.^^^Older data is more valuable than newer data for training clinically useful machine learning models.^^^Medical data retains value due to historical similarity in human biology and physiology|||Changing medical practice challenges over time reduces the value of historical medical data.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||You have developed a supervised machine learning model to predict patients in your practice who have >90%  risk of acute stroke in a 6 month window.  After reviewing the model performance, your team has determined that the prediction model is using annual income in order to predict stroke risk.  Which of the following represents the BEST application of this model: |||Deploy the model in a managed care organization to make financial risk estimates for cost projections^^^Deploy the model in an emergency room to triage patients presenting with symptoms concerning for stroke^^^Deploy the model in a smartphone app for patients to use in making lifestyle and health decisions^^^Deploy the model in a primary care practice to provide clinical decision support for medication and therapeutic decisions|||Deploy the model in a managed care organization to make financial risk estimates for cost projections@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||Choose the definition that best describes the “output action pair” framework to clinical machine learning project development:|||The output-action pair is an approach for exploring whether a clinical problem is worth solving with machine learning^^^The output-action pair is an approach for choosing between different machine learning model architectures^^^The output-action pair is an approach for planning marketing slogans for clinical machine learning applications in the commercial marketplace^^^The output-action pair is an approach for estimating valuation for medical AI startups|||The output-action pair is an approach for exploring whether a clinical problem is worth solving with machine learning@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||Which of the following are considered critical skills to have in an ideal clinical machine learning model team?|||Data Scientist^^^Domain Expert^^^Biostatistics^^^Health IT^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||Which of the following is NOT an example of an important question to answer in before choosing a clinical problem to address with machine learning?|||Which hyper-parameter settings are best for the neural network?^^^What is the capacity to intervene given existing resources?^^^What are the mechanics of executing the intervention? ^^^Who is the target user of the model’s output? |||Which hyper-parameter settings are best for the neural network?@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||Which of the following is the best definition of automation bias?|||Humans tend to follow their own judgement more often even when it conflicts with an automated system recommendation^^^Humans tend to follow the recommendations of automated systems even when conflicting with their own judgement^^^Humans tend to follow the recommendations of older automated systems when conflicting with newer automated systems^^^Humans tend to ignore the recommendations of automated systems even when it agrees with their own judgement.|||Humans tend to follow the recommendations of automated systems even when conflicting with their own judgement@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueJul 30, 11:59 PM +07|||Which of the following statements about bias in clinical machine learning is TRUE:|||Clinical machine learning applications could further disseminate medical knowledge to reduce access disparities in under-served populations^^^Most clinical machine learning applications are based on unbiased data leading to wide generalizability^^^Clinical machine learning applications are likely to replace most skilled clinical roles and disproportionately spare roles traditionally held by under-represented groups^^^Machine learning and computer science is widely recognized as a racially and gender diverse field |||Clinical machine learning applications could further disseminate medical knowledge to reduce access disparities in under-served populations

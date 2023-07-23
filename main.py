@@ -37,7 +37,7 @@ def merge_txt():
         # Split each question-answer base on @@@
         list_QA = txt_file.split('@@@')
 
-        # Passing all question-answer
+        # Passing all question-answer to dataframe
         for ele in list_QA:
             info = ele.split('|||')
             title, question, answer, correct = info[0], info[1], info[2].replace('^^^','\n\n'), info[3].replace('^^^','\n\n')
@@ -45,22 +45,37 @@ def merge_txt():
             # Update to csv file
             data_df.loc[len(data_df)] = [question,answer,correct,title]
 
-            # Update to json file
-            temp_dict = {}
-            temp_dict.update({'Question':question})
-            temp_dict.update({'Answer':answer.split('\n\n')})
-            temp_dict.update({'Correct':correct.split('\n\n')})
-            temp_dict.update({'Title':title})
-            data_json.append(temp_dict)
-
-            # Update to txt file
-            data_txt += question + '\n' + '-'*20 + '\n' + answer + '@@@@@' + correct + '#####'
 
     # remove duplicate in dataframe
-    data_df['check_duplicate'] = data_df['Question'] + data_df['Answer'] + ['Correct']
+    data_df['check_duplicate'] = data_df['Question'] + data_df['Correct']
     data_df['check_duplicate'] = data_df['check_duplicate'].apply(lambda x: ''.join(sorted(x)))
     data_df.drop_duplicates(subset=['check_duplicate'],inplace=True)
     data_df.drop(columns=['check_duplicate'],inplace=True)
+
+
+    # Passing all questions and answer from the dataframe to json, csv file
+    for row_index, row in data_df.iterrows():
+
+        # Access data in each row using row['ColumnName'] or row[index]
+        try:
+            question = row['Question']
+            answer = row['Answer']
+            correct = row['Correct']
+            title = row['Title']
+        except:
+            print(f'row {row_index}')
+            return data_df, data_json, data_txt
+        
+        # Update to json file
+        temp_dict = {}
+        temp_dict.update({'Question':question})
+        temp_dict.update({'Answer':answer.split('\n\n')})
+        temp_dict.update({'Correct':correct.split('\n\n')})
+        temp_dict.update({'Title':title})
+        data_json.append(temp_dict)
+
+        # Update to txt file
+        data_txt += question + '\n' + '-'*20 + '\n' + answer + '@@@@@' + correct + '#####'
 
     return data_df, data_json, data_txt
 

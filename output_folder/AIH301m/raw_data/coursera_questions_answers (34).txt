@@ -1,0 +1,133 @@
+Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||What are the three groupings of AI Applications in Healthcare?|||Biomedical Research, Translational Research, Medical Practice^^^Image Analysis, Electronic Healthcare Records, Bedside Monitoring ^^^Drug Discovery, Risk Stratification, Predictive Analytics ^^^None of the Above|||Biomedical Research, Translational Research, Medical Practice@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is important to consider when developing at AI Solution?|||Model Performance ^^^Model Lead Time ^^^Mitigation strategy for model output^^^All of the Above |||All of the Above @@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following statements is true?|||Stakeholder involvement should be considered in the design and deployment attributes of the AI solution but not in the development ^^^Multiple stakeholders must be involved when developing a useful AI solution. ^^^Stakeholder involvement should be considered in the development and deployment attributes of the AI solution but not in the design ^^^Multiple stakeholders are necessary to approve different components of the AI solution |||Multiple stakeholders must be involved when developing a useful AI solution. @@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||A researcher would like to develop an AI solution to predict in-hospital mortality among patients being treated for ischemic heart failure. The solution was developed using retrospective data from the academic medical center. Which of the following needs to be evaluated before the development phase?|||What action can be taken based on the model output ^^^Who needs to take the action ^^^A and B^^^Is funding secured to ensure dissemination and scalability of the model|||A and B@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Based on the Outcome-Action-Pairing model, what would be a good AI model to deploy?|||A classifier that can accurately separate patients with the common cold into two novel groups ^^^A prediction model that can accurately identify hospitalized patients who will have a cardiac arrest within the next two minutes^^^A prediction model that will identify patients receiving a total knee replacement who are likely to be readmitted (70% precision) within 30 days of discharge ^^^None of the above|||A prediction model that will identify patients receiving a total knee replacement who are likely to be readmitted (70% precision) within 30 days of discharge @@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||You have developed an AI solution that triages patients in the ED based on cardiac symptoms. You screen 52 people to predict 12 that need to be admitted. Your model - running in silent mode - is confirmed to be accurate 80% of the time, meaning 80% of the time the patient did need to be admitted and 20% of the time they had no benefit from the admission. What is the Number Needed to Screen and Number Needed to Treat to have 30 people benefit?|||NNT: 1.3 and you need to admit 50 people for 30 people to have a benefit^^^NNT: 1.3 and you need to admit 37.5 people for 30 people to have a benefit^^^NNT: 4.3 and you need to admit 37.5 people for 30 people to have a benefit^^^NNT: 4.3 and you need to admit 50 people for 30 people to have a benefit|||NNT: 4.3 and you need to admit 37.5 people for 30 people to have a benefit@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||True or False - AI Solutions that involve an operational action paired with the outcome have greater clinical benefit than those that have a medical action paired with the outcome|||True^^^False|||False@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||What is an example of an AI solution with an operational action?|||Predicting the number of ICU beds needed for vascular surgery patients^^^Predicting the number of acute injuries over a 60-day period^^^Predicting the risk of a 30-day hospital readmission^^^Predicting a patient's need for transfer to ICU|||Predicting a patient's need for transfer to ICU@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following are challenges to AI deployment?|||Lack of buy in from Stakeholders ^^^Lack of evidence for clinical utility^^^Lack of resources and expertise^^^All of the Above |||All of the Above @@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||The FDA has defined the total product life cycle (TPLC) of an AI solution, which includes important components that are necessary to understand and evaluate prior to deployment. What are the components of the TPLC? |||Data Selection & Management, Model Training & Tuning; Model Validation^^^Data Selection & Management; Model Validation; Model evaluation for safety and effectiveness^^^Design and Development; Model Evaluation; Model Validation^^^None of the Above |||Data Selection & Management, Model Training & Tuning; Model Validation@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is not an important setting in AI development?|||Academics^^^Industry^^^Government^^^Philanthropy^^^All of the above |||All of the above @@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Why is silent mode an important component in the AI Deployment Framework?|||Silent Mode is crucial for getting buy-in from all stakeholders while masking the predictive potential of the AI solution^^^None of the above^^^Silent Mode is crucial for finalizing workflows and product configurations, as well as the prospective, temporal validation of an AI product.^^^Silent Mode provides information on the human-machine interaction.|||Silent Mode is crucial for finalizing workflows and product configurations, as well as the prospective, temporal validation of an AI product.@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||How is stealth science harmful to AI solutions?|||Stealth science uses data that may violate privacy rights of patients^^^Stealth science hinders the transparency of the AI solution, which allows bias and algorithmic fairness to go unchecked^^^Stealth Science is not harmful to AI solutions ^^^Stealth science allows industry to generate more accurate models that may not be validated in the academic setting|||Stealth science hinders the transparency of the AI solution, which allows bias and algorithmic fairness to go unchecked@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||What one is an aspect of the evaluate and validate component of the AI Deployment pathway?|||Technical integration^^^Stealth science^^^Clinical validity^^^A and C^^^All of the above|||A and C@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||What type of bias is described in this example: An AI model is developed based on “known” symptoms of heart attack using retrospective data? The problem is that the model was developed based on male symptoms so the model might be very accurate for identifying males with heart attack symptoms, but it might not work well in females, who present with different symptoms. |||Representation Bias^^^Measurement Bias^^^Historical Bias^^^Deployment Bias|||Historical Bias@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||We have looked at models that predict complications in type 2 diabetes. These models had high precision and were validated across systems. However, a review of these AI solutions found that most studies did not report demographics of their training data. This raises concern given Hispanics higher prevalence and complication rates for T2DM compared to whites. What type of bias should we be concerned about here?|||Measurement Bias^^^Deployment Bias^^^Representation Bias^^^Historical Bias|||Representation Bias@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||While there are many types of algorithmic fairness measures, we focused on three main types of algorithmic fairness in our lecture. Which of the following is not one of the main fairness algorithms?|||Classification parity^^^Anti-classification^^^Calibration^^^Infra-marginality|||Infra-marginality@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||A change to which of the following does not require a modification review by the regulatory agency?|||The addition of 15-18 years olds to the intended population for an image-based dermatology diagnostic tool^^^The update of the model performance to reduce false positive alarm rates ^^^Through the improvement of the AI model, in addition to “inform clinical management” the intended use can now also include “treatment recommendation” ^^^The addition of new training data from the original source|||The update of the model performance to reduce false positive alarm rates @@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||According to the FDA’s software as a medical device, which of the following are not regulated?|||An AI solution that is intended to treat, diagnose, cure, or mitigate a disease or health condition^^^A medical device that does not achieve its primary intended purposes through chemical action within or on the body^^^An AI solution that was designed, developed, and deployed at a single institution for quality improvement purposes^^^Answer B and C|||Answer B and C@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following FDA risk categories require pre-market approval?|||Categories I, II, and III^^^Categories III and IV^^^Category IV only^^^Categories I and II|||Categories III and IV@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Clinical association under the FDA’s regulatory framework is provided at what time during the regulatory process?|||Pre-market^^^Post-Market^^^Both pre and post-market^^^None of the above|||Both pre and post-market@@@Final Exam
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||What type of evidence can be used to justify a valid clinical association under the FDA’s regulatory framework?|||Literature searches^^^Professional guidelines^^^Secondary data analysis^^^None of the above^^^All of the above|||All of the above

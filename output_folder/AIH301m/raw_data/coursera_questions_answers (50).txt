@@ -1,0 +1,25 @@
+Phase 5
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 20, 11:59 PM +07|||Before you deploy the model, you want to test the fairness of the model based on anti-classification.  What variables would  you use to test fairness?|||Gender^^^Race^^^County of residence^^^Gender and Race^^^All of the above|||All of the above@@@Phase 5
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 20, 11:59 PM +07|||You provide the model output to the clinical team. What would be the risk category? |||Category I^^^Category II^^^Category III^^^Category IV|||Category II@@@Phase 5
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 20, 11:59 PM +07|||Given the novelty of COVID, what do you think could be used for the valid clinical association argument?|||Performance of a clinical trial based on your AI solution^^^Literature Searches^^^Examples of how your model can generate new evidence^^^All of the above|||All of the above@@@Phase 5
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 20, 11:59 PM +07|||Your model uses past symptoms as a predictor for invasive mechanical ventilation, however 40% of your population are on public insurance and likely do not have the same access to care as those on private insurance. How would this bias your results?|||Under reporting of symptoms in public insured patients^^^Patients on public insurance are likely to have more symptoms than patients on private insurance because they are known to have more comorbidities^^^This will not bias the outcome, need for invasive mechanical ventilation because symptoms were not a top predictor of the outcome^^^None of the above|||Under reporting of symptoms in public insured patients

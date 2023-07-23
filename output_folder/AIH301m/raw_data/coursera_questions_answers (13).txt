@@ -1,0 +1,25 @@
+Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Suppose you develop a serious medical condition that definitely requires treatment. What kind of data would you want to use to guide picking a doctor for this? What part of the healthcare system would produce these data?||||||@@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Which of the following are NOT exposures?|||A list of the patient's medications from five years ago^^^The kinds of foods the patient usually eats^^^The volume of blood lost in the patient's last surgery^^^Whether the patient ever smoked tobacco^^^All of the above are exposures|||All of the above are exposures@@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Which of the following is NOT an advantage of using observational data?|||Observational datasets can be very large, and capture rare events.^^^Observational datasets have few biases. ^^^Observational datasets contain data about actual patterns of clinical practice.^^^Observational datasets may be available at low additional cost.^^^All of the above are advantages.|||Observational datasets have few biases. 

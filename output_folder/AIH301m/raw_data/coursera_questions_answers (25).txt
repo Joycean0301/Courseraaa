@@ -1,0 +1,139 @@
+Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Choose the decade when artificial intelligence applications in healthcare were first reported:|||1990-1999^^^1950-1959^^^2000-2009^^^2010-2019^^^1970-1979|||1970-1979@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following are potential applications of machine learning in healthcare: |||Optimizing care delivery^^^Healthcare Information Management ^^^Cognitive support for clinical care and prediction^^^Early detection and personalized risk assessment^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is an example of the difference between classical programming and machine learning approaches?|||Machine learning is useful in healthcare while classical programming is not ^^^Machine learning learn rules from input and the desired output example, while classical programming requires programmers to manually design and implement these rules^^^Machine learning algorithm does not require human programmer^^^Machine learning requires significantly less data to work as compared to classical programming|||Machine learning learn rules from input and the desired output example, while classical programming requires programmers to manually design and implement these rules@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following schematics best represents a machine learning paradigm to model building?|||^^^^^^^^^|||@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is the purpose of the validation set?|||To allow the model to see extra training samples during the optimization step.^^^To measure the generalization performance of the model, without overfitting the test set.^^^To introduce noise to the dataset, enabling the model to become more robust to unseen data.^^^To prevent the model from memorizing the training set through randomly turning off some of the model weights.|||To measure the generalization performance of the model, without overfitting the test set.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is an example of unstructured data?|||Patient BMI^^^Patient sex^^^Patient CT ^^^All numerical values in a patient’s medical record.|||Patient CT @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is a decision boundary?|||The line predicted by a regression model.^^^A metric that differentiates radiologists from statistical models.^^^The line at which a classifier’s predictions change from one value to another.^^^A metric that determines when the model can be used on real patient data.|||The line at which a classifier’s predictions change from one value to another.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is an advantage of using Decision Trees over other machine learning methods?|||They can be used for both classification and regression, whereas others are limited to one or the other.^^^They are simple to understand and interpret and can work on small datasets. ^^^They allow for the processing of unstructured data, such as images and sequences of text.^^^They can overfit datasets better than other methods because of the number of parameters learned.|||They are simple to understand and interpret and can work on small datasets. @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What algorithm allows neural networks to train?|||Gradient descent^^^Matrix factorization^^^Data augmentation^^^Expectation-Maximization (EM)|||Gradient descent@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is the purpose of a loss function?|||To identify a clinical use case for reinforcement learning^^^To calculate the AUROC of a set of model predictions when the neural network is not available^^^To give a neural network feedback on its performance relative to ground truth^^^To identify which model architecture to use if working with unstructured data|||To give a neural network feedback on its performance relative to ground truth@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What are word embeddings?|||Representations of words that allow them to be processed by neural networks^^^Language models that are faster than RNNs due to their GPU parallelization capabilities^^^Vectors that represent images as words^^^Language models used in industry|||Representations of words that allow them to be processed by neural networks@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Why would one use a Transformer instead of a fully connected network (DNN)?|||Transformers can relate sequential input to one another, and DNNs cannot. ^^^Transformers are faster than DNNs.^^^DNNs process text all at once, and Transformers process text one at a time.^^^DNNs use filters in order to process sequential input, but Transformers do not.|||Transformers can relate sequential input to one another, and DNNs cannot. @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What happens when a model is overfitting?|||It achieves good performance on training data, but not on unseen data.^^^It achieves bad performance on training data, and on unseen data.^^^It achieves good performance on unseen data, but not on the training set.^^^It achieves good performance on training data, and on unseen data.|||It achieves good performance on training data, but not on unseen data.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What happens when the model is underfitting?|||It achieves good performance on unseen data, but not on the training set.^^^It achieves good performance on training data, and on unseen data.^^^It achieves good performance on training data, but not on unseen data.^^^It achieves bad performance on training data, and on unseen data.|||It achieves bad performance on training data, and on unseen data.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is one advantage of using a Precision-Recall Curve over an ROC Curve?|||It automatically chooses the operating point to maximize clinical utility.^^^It demonstrates the relationship between Recall and the false positive rate at various threshold points.^^^It is more robust to imbalanced data^^^It allows statisticians to determine if the model is overfitting or underfitting|||It is more robust to imbalanced data@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is one factor that will most influence the choice of operating point for a model?|||The cost of training the model^^^Severe side effects associated with treatment^^^The number of hyperparameters in the model^^^The average loss of the model during training|||Severe side effects associated with treatment@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is a method to address class imbalance?|||Upsampling data from majority class^^^Curate more data from majority class^^^Upsampling data from minority class^^^Downsampling data from minority class|||Upsampling data from minority class@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following best describes the relationship of data label noise in machine learning?|||Weak supervision is a machine learning training technique that optimizes training models with noisy labels^^^Regression models typically are more tolerant to training data noise than neural networks. ^^^Machine learning applications are more intolerant to noise in data labeling with increasing data volume^^^Prior work on data noise has found that if a model is trained with 15% label error (noise) more than 4x data volume was required to achieve optimal performance|||Weak supervision is a machine learning training technique that optimizes training models with noisy labels@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is the most accurate description of the “data shelf-life” concept?|||Retrospective medical data is not useful in training clinically useful models.^^^Changing medical practice challenges over time reduces the value of historical medical data.^^^Older data is more valuable than newer data for training clinically useful machine learning models.^^^Medical data retains value due to historical similarity in human biology and physiology|||Changing medical practice challenges over time reduces the value of historical medical data.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||You have developed a supervised machine learning model to predict patients in your practice who have >90%  risk of acute stroke in a 6 month window.  After reviewing the model performance, your team has determined that the prediction model is using annual income in order to predict stroke risk.  Which of the following represents the BEST application of this model: |||Deploy the model in a managed care organization to make financial risk estimates for cost projections^^^Deploy the model in a smartphone app for patients to use in making lifestyle and health decisions^^^Deploy the model in an emergency room to triage patients presenting with symptoms concerning for stroke^^^Deploy the model in a primary care practice to provide clinical decision support for medication and therapeutic decisions|||Deploy the model in a managed care organization to make financial risk estimates for cost projections@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following are considered critical skills to have in an ideal clinical machine learning model team?|||Data Scientist^^^Domain Expert^^^Biostatistics^^^Health IT^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is NOT an example of an important question to answer in before choosing a clinical problem to address with machine learning?|||What is the capacity to intervene given existing resources?^^^Who is the target user of the model’s output? ^^^Which hyper-parameter settings are best for the neural network?^^^What are the mechanics of executing the intervention? |||Which hyper-parameter settings are best for the neural network?@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is the best definition of automation bias?|||Humans tend to follow their own judgement more often even when it conflicts with an automated system recommendation^^^Humans tend to follow the recommendations of older automated systems when conflicting with newer automated systems^^^Humans tend to ignore the recommendations of automated systems even when it agrees with their own judgement.^^^Humans tend to follow the recommendations of automated systems even when conflicting with their own judgement|||Humans tend to follow the recommendations of automated systems even when conflicting with their own judgement

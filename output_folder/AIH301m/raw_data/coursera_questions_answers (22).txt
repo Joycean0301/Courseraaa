@@ -1,0 +1,127 @@
+Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Choose the decade when artificial intelligence applications in healthcare were first reported:|||2010-2019^^^1950-1959^^^2000-2009^^^1970-1979^^^1990-1999|||1970-1979@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements is true?  |||Medical data is generated in an organized systematic way that is very amenable to data science techniques and applications^^^Clinical structured data is not well suited for traditional programming approaches compared to imaging data^^^Most hospitals use a standardized IT and electronic health record workflow^^^Medical data is estimated to double in volume every 2-3 months on average|||Medical data is estimated to double in volume every 2-3 months on average@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is an example of the difference between classical programming and machine learning approaches?|||Machine learning learn rules from input and the desired output example, while classical programming requires programmers to manually design and implement these rules^^^Machine learning algorithm does not require human programmer^^^Machine learning requires significantly less data to work as compared to classical programming^^^Machine learning is useful in healthcare while classical programming is not |||Machine learning learn rules from input and the desired output example, while classical programming requires programmers to manually design and implement these rules@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is the difference between regression and classification?|||In regression, the correct answers have numerical value, but in classification the correct answers are categories.^^^Machine learning models can be trained to do regression, but not classification.^^^In regression, the input data is structured, but in classification the input data is unstructured.^^^Machine learning models can be trained to do classification, but not regression.|||In regression, the correct answers have numerical value, but in classification the correct answers are categories.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is an example of unstructured data?|||Patient BMI^^^Patient sex^^^Patient CT ^^^All numerical values in a patient’s medical record.|||Patient CT @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is unsupervised learning?|||Finding patterns in a dataset based on the structure of the data as opposed to pre-determined labels ^^^Finding patterns in a dataset using limited labeled data^^^Fitting a model using de-identified patient data^^^Fitting a model without manually tuning the input features, i.e. unstructured data|||Finding patterns in a dataset based on the structure of the data as opposed to pre-determined labels @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What algorithm allows neural networks to train?|||Expectation-Maximization (EM)^^^Data augmentation^^^Gradient descent^^^Matrix factorization|||Gradient descent@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is the purpose of a loss function?|||To calculate the AUROC of a set of model predictions when the neural network is not available^^^To give a neural network feedback on its performance relative to ground truth^^^To identify which model architecture to use if working with unstructured data^^^To identify a clinical use case for reinforcement learning|||To give a neural network feedback on its performance relative to ground truth@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What are word embeddings?|||Language models that are faster than RNNs due to their GPU parallelization capabilities^^^Language models used in industry^^^Vectors that represent images as words^^^Representations of words that allow them to be processed by neural networks|||Representations of words that allow them to be processed by neural networks@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is reinforcement learning?|||A branch of machine learning that trains a reward-seeking AI agent in an interactive environment.^^^A branch of machine learning that seeks to train AI models using a static, labeled dataset.^^^A branch of machine learning that seeks to group unlabeled data into semantically meaningful clusters.^^^A branch of machine learning that seeks to train statistical models to aid law enforcement.|||A branch of machine learning that trains a reward-seeking AI agent in an interactive environment.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is one way to address overfitting? |||Remove data from the validation set.^^^Add a weight decay term in the loss function. ^^^Remove clinical variables from the input data.^^^Increase the number of parameters in the model.|||Add a weight decay term in the loss function. @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What are the two axes on a Receiver Operating Characteristic (ROC) curve?|||False positive rate, true positive rate^^^Precision, Recall^^^Precision, Specificity^^^Sensitivity, specificity|||False positive rate, true positive rate@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is one factor that will most influence the choice of operating point for a model?|||The average loss of the model during training^^^The cost of training the model^^^Severe side effects associated with treatment^^^The number of hyperparameters in the model|||Severe side effects associated with treatment@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is a method to address class imbalance?|||Downsampling data from minority class^^^Upsampling data from minority class^^^Upsampling data from majority class^^^Curate more data from majority class|||Upsampling data from minority class@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which statement best represents the relationship between machine learning and functions learned from data?|||The function (trained model) represents associations between data and labels and are most often correlations^^^The function (trained model) represents associations between data and labels that are encoded via a rules-based method^^^The function (trained model) represents associations between data and labels and are most often causative^^^The function (trained model) represents associations between data and labels that are already known|||The function (trained model) represents associations between data and labels and are most often correlations@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is an accurate statement about data in machine learning model development and deployment? |||Missing data is not a challenge for EHR data sources.^^^Heterogeneity of data sources is an advantage for machine learning applications.^^^Missing data can lead to biased results and model failure in practice^^^There is rarely a difference between the data used in training and the data used in practice|||Missing data can lead to biased results and model failure in practice@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||You have developed a supervised machine learning model to predict patients in your practice who have >90%  risk of acute stroke in a 6 month window.  After reviewing the model performance, your team has determined that the prediction model is using annual income in order to predict stroke risk.  Which of the following represents the BEST application of this model: |||Deploy the model in a managed care organization to make financial risk estimates for cost projections^^^Deploy the model in a primary care practice to provide clinical decision support for medication and therapeutic decisions^^^Deploy the model in a smartphone app for patients to use in making lifestyle and health decisions^^^Deploy the model in an emergency room to triage patients presenting with symptoms concerning for stroke|||Deploy the model in a managed care organization to make financial risk estimates for cost projections@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Choose the definition that best describes the “output action pair” framework to clinical machine learning project development:|||The output-action pair is an approach for exploring whether a clinical problem is worth solving with machine learning^^^The output-action pair is an approach for estimating valuation for medical AI startups^^^The output-action pair is an approach for choosing between different machine learning model architectures^^^The output-action pair is an approach for planning marketing slogans for clinical machine learning applications in the commercial marketplace|||The output-action pair is an approach for exploring whether a clinical problem is worth solving with machine learning@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following are considered critical skills to have in an ideal clinical machine learning model team?|||Data Scientist^^^Domain Expert^^^Biostatistics^^^Health IT^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is NOT an example of an important question to answer in before choosing a clinical problem to address with machine learning?|||Who is the target user of the model’s output? ^^^What is the capacity to intervene given existing resources?^^^What are the mechanics of executing the intervention? ^^^Which hyper-parameter settings are best for the neural network?|||Which hyper-parameter settings are best for the neural network?@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements about bias in clinical machine learning is TRUE:|||Clinical machine learning applications could further disseminate medical knowledge to reduce access disparities in under-served populations^^^Machine learning and computer science is widely recognized as a racially and gender diverse field ^^^Clinical machine learning applications are likely to replace most skilled clinical roles and disproportionately spare roles traditionally held by under-represented groups^^^Most clinical machine learning applications are based on unbiased data leading to wide generalizability|||Clinical machine learning applications could further disseminate medical knowledge to reduce access disparities in under-served populations

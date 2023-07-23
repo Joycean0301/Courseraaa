@@ -1,0 +1,25 @@
+Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Which of the following are challenges to AI deployment?|||Lack of buy in from Stakeholders^^^Lack of evidence for clinical utility^^^Lack of resources and expertise^^^All of the Above |||All of the Above @@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||Why is silent mode an important component in the AI Deployment Framework?|||Silent Mode is crucial for finalizing workflows and product configurations, as well as the prospective, temporal validation of an AI product.^^^Silent Mode is crucial for getting buy-in from all stakeholders while masking the predictive potential of the AI solution^^^Silent Mode provides information on the human-machine interaction.^^^None of the above|||Silent Mode is crucial for finalizing workflows and product configurations, as well as the prospective, temporal validation of an AI product.@@@Knowledge Check
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+3 total points available.
+3 total points|||What one is an aspect of the evaluate and validate component of the AI Deployment pathway?|||Technical integration^^^Stealth science^^^Clinical Validity^^^A and C^^^All of the above|||A and C

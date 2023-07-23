@@ -1,0 +1,25 @@
+Phase 4. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07|||For automated triage, which of the following is the most important metric to satisfy when choosing an operating point? |||Sensitivity / Recall, as it measures how many positive samples are correctly predicted as positive^^^PPV / Precision, as it measures how many of the samples predicted positive are actually positive^^^Intersection Over Union (IOU), as it measures how well the model is able to segment the lesions^^^Specificity, as it measures how many negative samples are correctly predicted as negative|||PPV / Precision, as it measures how many of the samples predicted positive are actually positive@@@Phase 4. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07|||Who is the beneficiary of the EHR-based invasive mechanical ventilation predictor? |||The provider - the output helps the clinician manage their patients^^^The patient - the output will help the patient make informed decisions^^^The hospital - the output will identify the need for additional ICU rooms^^^None of the above|||The provider - the output helps the clinician manage their patients@@@Phase 4. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07|||Hypoxemia is an important feature in the EHR-based invasive mechanical ventilation predictor model that was validated in the independent sample. This can be used as a component of the:|||Valid clinical association^^^Analytical validation^^^Clinical validation^^^None of the above|||Valid clinical association@@@Phase 4. Project 2
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 13, 11:59 PM +07|||The model has identified that patient X is at high risk of invasive mechanical ventilation within the next 48 hours and this information was sent to the clinical team. What action can be taken based on the prediction and any mitigation strategy. |||Reserve a ventilator and bed  in ICU to ensure the patient has the resources they need when they begin to clinically decline^^^Administration of an experimental drug currently under investigation for COVID deterioration^^^Notify the insurance company to ensure payment of the anticipated extended length of stay^^^None of the above|||Administration of an experimental drug currently under investigation for COVID deterioration
