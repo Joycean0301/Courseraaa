@@ -1,0 +1,41 @@
+Module 3 - Practice Quiz: Managing Applications with Kubernetes
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What Kubernetes object adds or deletes pods for scaling and redundancy?   |||A ConfigMap^^^A ReplicaSet^^^A DaemonSet^^^A Secret|||A ReplicaSet@@@Module 3 - Practice Quiz: Managing Applications with Kubernetes
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What are the autoscaling types in Kubernetes?|||Horizontal, Vertical, and Cluster^^^Horizontal and Vertical^^^Horizontal, Vertical, Node^^^Deployment, Node, and Pod|||Horizontal, Vertical, and Cluster@@@Module 3 - Practice Quiz: Managing Applications with Kubernetes
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||Which three statements about ConfigMaps are correct?|||A ConfigMap provides configuration data to pods and deployments.^^^A ConfigMap object stores non-confidential data in key-value pairs.^^^Data stored in a ConfigMap must not exceed one megabyte.^^^A ConfigMap is meant for sensitive information (encrypted).|||A ConfigMap provides configuration data to pods and deployments.^^^A ConfigMap object stores non-confidential data in key-value pairs.^^^Data stored in a ConfigMap must not exceed one megabyte.@@@Module 3 - Practice Quiz: Managing Applications with Kubernetes
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What is Service binding? |||The process of storing non-confidential data^^^The process needed to consume external Service or backing Services, including REST APIs, databases, and event buses in your applications^^^A Kubernetes capability that performs container auto-placement based on resource requirements and conditions without sacrificing high availability ^^^The process of attaching key-value pairs to objects|||The process needed to consume external Service or backing Services, including REST APIs, databases, and event buses in your applications@@@Module 3 - Practice Quiz: Managing Applications with Kubernetes
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What rollout command do you use to implement a rollback to a previous version in Kubernetes?|||A ‘history’ command^^^A ‘status’ command^^^A ‘delete’ command^^^An ‘undo’ command|||An ‘undo’ command

@@ -1,0 +1,233 @@
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which of these are essential characteristics of the Cloud? Select the two characteristics that apply.||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||A ______________ is an executable unit of software in which application code is packaged, along with its libraries and dependencies, in common ways so that it can be run anywhere—desktops, traditional IT, or the cloud.||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which type of cloud storage can be mounted on multiple servers at once?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which HTML tag should you use for additional information that is related to the page’s main discussion?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||The cloud native application stack consists of four different layers: application runtime; application and data services; scheduling and orchestration; and cloud infrastructure. The ____________________ layer defines the underlying environment.||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which continuous delivery feature can you use to automate builds, unit tests, and deployment?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which of the following is not an immediate benefit of modernizing your application?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which of the following is a characteristic of cloud native computing?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||IBM Watson APIs are exposed as __________.||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||What does JSON stand for?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||React is an open-source library created and maintained by Facebook and community developers. What is it mainly used to build?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||To make a function or a value available to Node.js applications that import your module, you should:||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||What are the three states of a promise?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which of the following is not a type of middleware?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Some of the common Docker CLI commands include___________ to copy and rename images and ___________ for storing images in a remote location.||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which of these is not a function of container orchestration?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||What is a container image?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which of the following is not true of the apply command?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||What is Red Hat OpenShift?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||What is the result of running the following lines of code?
+
+1
+2
+3
+4
+5
+6
+7
+8
+class Points(object):
+      def __init__(self,x,y):
+            self.x=x
+            self.y=y
+      def print_point(self):
+            print('x=',self.x,' y=',self.y)
+p1=Points("Q","Z")
+p1.print_point()||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||In the BeautifulSoup Python library, what is the function of the Tag object?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||In the following code, if x=4, what is the output?
+
+1
+2
+3
+4
+5
+if(x > 3): 
+  print('Hello') 
+else: 
+  print('Bye') 
+print('Hillary') ||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||When using the open() function to write to a file what are the two parameters that should be passed into it?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which of the following statements is true about tuples and lists?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which statement about an entity-attribute model regarding a movie is true?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||What is the purpose of using a Django template?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||When you create a Django project, Django creates some core files, including manage.py. What purpose does manage.py serve?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which statement best describes Bootstrap?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which statement best describes Cursor?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Modern software development often uses which of the following along with the twelve-factor application methodology?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which compute model has the shortest provisioning time?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which statement best describes OpenShift?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which statement best describes the retrieve activation command?||||||@@@Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which statement is true about object storage?||||||

@@ -1,0 +1,41 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||What makes a Style Sheet “Cascading”? |||Each element has a unique style, unrelated to its’ parent ^^^Parent elements inherit styles that are defined for child elements^^^Child elements inherit styles that are defined for parent elements^^^Elements inherit styles that are defined before them in a CSS document|||Child elements inherit styles that are defined for parent elements@@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following describes a Utility-first Framework? Select all that apply.|||Provides pre-styled components and templates^^^Makes HTML markup more verbose by mixing styles with content^^^Provides complete freedom when styling elements^^^References CSS properties via Utility Classes|||Makes HTML markup more verbose by mixing styles with content^^^References CSS properties via Utility Classes@@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following tags is used to separate areas in a document? |||<input>^^^<nav>^^^<body>^^^<div>|||<div>@@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||What type of element is <article>? |||A multimedia element^^^A graphic element ^^^An input element^^^A semantic element|||A semantic element@@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which tag is used to specify self-contained content like an image, illustration, or diagram? |||<figure>^^^<figcaption>^^^<image>^^^<img>|||<figure>

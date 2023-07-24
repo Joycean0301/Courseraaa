@@ -1,0 +1,210 @@
+Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||When slicing in Python what does the “0” in this statement [0:2] specify?|||It specifies the step of the slicing^^^It specifies the position to start the slice^^^It specifies the position to end the slice|||It specifies the position to start the slice@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||If var = “01234567” what Python statement would print out only the even elements?|||print(var[::1])^^^print(var[::3])^^^print(var[::2]) |||print(var[::2]) @@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||Consider the string Name=”EMILY”, what statement would return the index of 3?|||Name.find("L")^^^Name.find("Y")^^^Name.find("M")|||Name.find("L")@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||In Python what data type is used to represent text and not numbers?|||int^^^float^^^str|||str@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What is the result of the following code segment: int(3.99)|||3.99^^^4^^^3|||3@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What following code segment would produce an output of “0”?|||1//2^^^1/2|||1//2@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||In Python 3, what is the type of the variable x after the following: x=2/2 ?|||float^^^int|||float@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||Whatdata type must have unique keys?|||List^^^Dictionary^^^Tuple|||Dictionary@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What is a tuple?|||A collection that is ordered and unchangeable^^^A collection that is unordered and changeable^^^A collection that is ordered and changeable|||A collection that is ordered and unchangeable@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What is the result of the following operation: '1,2,3,4'.split(',') ?|||('1','2','3','4')^^^'1','2','3','4'^^^'1234'^^^['1','2','3','4']|||['1','2','3','4']@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||Tuples are:|||Mutable^^^Unordered^^^Not indexed^^^Not mutable|||Not mutable@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What happens with this segment of code: a=set(A) ?|||It returns an error^^^It casts the list “a” to the set “A”^^^It casts the list “A” to the set “a”|||It casts the list “A” to the set “a”@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||If x=1 what will produce the below output?
+
+Hi
+
+Mike|||if(x==1): 
+
+print('Hello') 
+
+ else: 
+
+    print('Hi') 
+
+ print('Mike') ^^^if(x!=1): 
+
+print('Hello') 
+
+ else: 
+
+    print('Hi') 
+
+ print('Mike') ^^^if(x!=1): 
+
+print('Hi') 
+
+ else: 
+
+    print('Hello') 
+
+ print('Mike') |||if(x!=1): 
+
+print('Hello') 
+
+ else: 
+
+    print('Hi') 
+
+ print('Mike') @@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What is an error that occurs during the execution of code?|||Finally^^^Exception^^^Error messages^^^Exception handling|||Exception@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What add function would return ‘2’ ?|||def add(x): return(x+x) add(1) ^^^def add(x): return(x+x) add('1') ^^^def add(x): return(x+x+x) add('1') |||def add(x): return(x+x) add(1) @@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What method organizes the elements in a given list in a specific descending or ascending order?|||join()^^^split()^^^replace()^^^sort()|||sort()@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What segment of code would output the following?
+
+3
+
+6
+
+9|||A=['1','2','3'] for a in A: print(2*a) ^^^A=[1,2,3] for a in A: print(3*a) ^^^A=[1,2,3] for a in A: print(2*a) |||A=[1,2,3] for a in A: print(3*a) @@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What code segment would output the following?
+
+2|||for i in range(1,5): if (i!=2): print(i)^^^for i in range(1,5): if (i==2): print(i)^^^for i in range(1,5): if (i!=1): print(i)|||for i in range(1,5): if (i==2): print(i)@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||Consider the class Rectangle, what are the data attributes?
+
+ class Rectangle(object):
+        def __init__(self,width=2,height =3,color='r'):
+                                  self.height=height
+                                  self.width=width
+                                  self.color=color
+    def drawRectangle(self):
+                       import matplotlib.pyplot as plt
+                       plt.gca().add_patch(plt.Rectangle((0, 0),self.width, self.height ,fc=self.color))
+                       plt.axis('scaled')
+                       plt.show()|||drawRectangle^^^__init__^^^self.height, self.width,self.color|||self.height, self.width,self.color@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What is the result of the following lines of code?
+
+ a=np.array([0,1,0,1,0]) b=np.array([1,0,1,0,1]) a+b |||0^^^array([1, 1, 1, 1, 1])^^^array([0, 0, 0, 0, 0])|||array([1, 1, 1, 1, 1])@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What is the result of the following lines of code?
+
+ a=np.array([10,9,8,7,6]) a+1|||array([9, 8, 7, 6, 5])^^^array([11,10,9,8,7])^^^array([101,91,81,71,61])|||array([11,10,9,8,7])@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||How would you select the columns with the headers: Artist, Length and Genre from the dataframe df and assign them to the variable y ?|||y=df['Artist','Length','Genre'] ^^^y=df[['Artist','Length','Genre']]^^^y=df[['Artist'],['Length'],['Genre']]|||y=df[['Artist','Length','Genre']]@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What is the method readline() used for?|||It reads the entire file all at once^^^It reads 10 lines of a file at a time^^^It helps to read one complete line from a given text file|||It helps to read one complete line from a given text file@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||Which line of code is in the mode of append?|||with open("Example.txt","r") as file1:^^^with open("Example.txt","w") as file1:^^^with open("Example.txt","a") as file1:|||with open("Example.txt","a") as file1:@@@Final Exam
+
+Graded Quiz
+.
+ • 1h 15m
+
+DueJul 9, 11:59 PM +07|||What are the 3 parts to a URL?|||Put, route, and get^^^Get, post, and scheme^^^Scheme, internet address, and route^^^Block, post, and route|||Scheme, internet address, and route

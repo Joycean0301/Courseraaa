@@ -1,0 +1,41 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Who is more likely to work with databases?  |||Back-end developer^^^Front-end developer|||Back-end developer@@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following do version control systems help you to keep track of? (Select all that apply) |||What changes were made to the code ^^^Who made the changes^^^When the changes were made^^^Debugging the errors in the code|||What changes were made to the code ^^^Who made the changes^^^When the changes were made@@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following is not a development framework? |||Vue.js ^^^Django^^^Angular^^^Git |||Git @@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which process automatically builds and tests your code?  |||CD (Continuous Delivery)^^^CI (Continuous Integration) |||CI (Continuous Integration) @@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||True or False: JavaScript can be used for both front-end and back-end development.  |||True^^^False|||True

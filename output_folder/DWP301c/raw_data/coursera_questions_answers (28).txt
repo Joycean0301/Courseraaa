@@ -1,0 +1,57 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 14 min
+.
+ • 
+7 total points available.
+7 total points|||In what manner do network operations run?|||Single-threaded^^^Asynchronous^^^Distributed^^^Synchronized|||Asynchronous@@@Practice Quiz
+
+Practice Quiz
+.
+ • 14 min
+.
+ • 
+7 total points available.
+7 total points|||You write a callback function to run for which of the following events?|||The network operation completes.^^^The network operation commences.^^^The application makes a call to http.request.^^^The Node.js framework receives a response message from the remote server|||The network operation completes.@@@Practice Quiz
+
+Practice Quiz
+.
+ • 14 min
+.
+ • 
+7 total points available.
+7 total points|||Where in the callback function does a Node.js generally pass an error object?|||The http.request( ) call^^^The HTTP response message^^^The second parameter^^^The first parameter|||The first parameter@@@Practice Quiz
+
+Practice Quiz
+.
+ • 14 min
+.
+ • 
+7 total points available.
+7 total points|||What do you use response.end for? |||To log the error from a callback function^^^To end the request and send a response to the client^^^To define the error message from a callback function^^^To print the result from the function call|||To end the request and send a response to the client@@@Practice Quiz
+
+Practice Quiz
+.
+ • 14 min
+.
+ • 
+7 total points available.
+7 total points|||Which of the following can be helpful to mitigate the issue of needing nested callbacks in order to make something happen sequentially?|||Inversion of control^^^async/await ^^^Use the setTimeout() method^^^HTTP method calls|||async/await @@@Practice Quiz
+
+Practice Quiz
+.
+ • 14 min
+.
+ • 
+7 total points available.
+7 total points|||What do you use to convert a JavaScript object to a string?|||Method JSON.parsestring()^^^Method JSON.stringify()^^^Method JSON.parse() ^^^Method JSON.convert()|||Method JSON.stringify()@@@Practice Quiz
+
+Practice Quiz
+.
+ • 14 min
+.
+ • 
+7 total points available.
+7 total points|||A promise is defined as an object returned by an asynchronous method that has three states. Which of the following is one of the states?|||Resolved ^^^Waiting^^^Acknowledged^^^Closed|||Resolved 

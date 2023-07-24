@@ -1,0 +1,61 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+6 total points available.
+6 total points|||What python object do you cast to a dataframe?|||set^^^tuple ^^^dictionary|||dictionary@@@Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+6 total points available.
+6 total points|||How would you access the first-row and first column in the dataframe df?|||df.ix[0,0]
+
+^^^df.ix[0,1]^^^df.ix[1,0]
+|||df.ix[0,0]
+
+@@@Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+6 total points available.
+6 total points|||What is the proper way to load a CSV file using pandas?|||pandas.from_csv(‘data.csv’)^^^pandas.load_csv(‘data.csv’)^^^pandas.read_csv(‘data.csv’)^^^pandas.import_csv(‘data.csv’)|||pandas.read_csv(‘data.csv’)@@@Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+6 total points available.
+6 total points|||Use this dataframe to answer the question.
+
+How would you select the Genre disco? Select all that apply.|||df.iloc[6, ‘genre’]^^^df.loc[6, 5]^^^df.iloc[6, 4]^^^df.loc[‘Bee Gees’, ‘Genre’]|||df.iloc[6, 4]@@@Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+6 total points available.
+6 total points|||Use this dataframe to answer the question.
+
+Which will NOT evaluate to 20.6? Select all that apply.|||df.iloc[4,5]^^^df.iloc[6,5]^^^df.loc[4,’Music Recording Sales’]^^^df.iloc[6, ‘Music Recording Sales (millions)’]|||df.loc[4,’Music Recording Sales’]^^^df.iloc[6, ‘Music Recording Sales (millions)’]@@@Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+6 total points available.
+6 total points|||Use this dataframe to answer the question.
+
+How do we select Albums The Dark Side of the Moon to Their Greatest Hits
+(1971-1975)? Select all that apply.|||df.iloc[2:5, ‘Album’]^^^df.loc[2:5, ‘Album’]^^^df.iloc[2:6, 1]^^^df.loc[2:5, 1]|||df.loc[2:5, ‘Album’]^^^df.iloc[2:6, 1]

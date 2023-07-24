@@ -1,0 +1,41 @@
+Practice Quiz: Getting Started with Git and GitHub
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following do you use to request that someone reviews and approves your changes to a project before they become final?|||Pull request^^^Repository^^^Commit changes^^^Fork|||Pull request@@@Practice Quiz: Getting Started with Git and GitHub
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which git command allows you to see the state of your working directory and the staged snapshot of your changes?|||git-log^^^git-checkout^^^git-status^^^git-reset|||git-status@@@Practice Quiz: Getting Started with Git and GitHub
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following is a feature of the Git Repository model?|||It is a distributed version control system^^^It sorts code into folders and sub-folders^^^It is based on a binary tree^^^It corrects bad code in a project|||It is a distributed version control system@@@Practice Quiz: Getting Started with Git and GitHub
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||In GitHub, what is an organization?|||The top level of a repository tree^^^A path to the code files in a project^^^A name you must specify for your repository^^^A collection of user accounts that owns repositories|||A collection of user accounts that owns repositories@@@Practice Quiz: Getting Started with Git and GitHub
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Under which tab on GitHub will you find all the source files for a repository?|||Settings^^^<> Code^^^Pull Requests^^^Projects|||<> Code

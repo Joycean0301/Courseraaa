@@ -1,0 +1,57 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+7 total points available.
+7 total points|||In the car analogy used in the video to explain and differentiate between the three service models, which of the provided options is an analogy for PaaS?|||Buying a car^^^Hiring a taxi^^^Leasing a car^^^Renting a car|||Renting a car@@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+7 total points available.
+7 total points|||According to the IaaS video, which one of these is NOT a likely use case for IaaS? |||Big Data Analysis^^^High-performance computing^^^Retaining in-house control over workload availability and performance ^^^Business Continuity and Disaster Recovery|||Retaining in-house control over workload availability and performance @@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+7 total points available.
+7 total points|||Which of these scenarios are good use cases for PaaS. Select two.|||Build, test, deploy, enhance, and scale applications rapidly and cost-effectively^^^Organizations who do not want to invest in ongoing upgrades and maintenance of their applications^^^API Development and Management^^^Organizations who want to maintain full control over the installation, configuration, and operation of their application infrastructure|||Build, test, deploy, enhance, and scale applications rapidly and cost-effectively^^^API Development and Management@@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+7 total points available.
+7 total points|||Which one of the following is a good use case for SaaS?|||Organizations looking to reduce on-premises IT infrastructure and capital expenditure^^^Applications that have highly confidential and sensitive data^^^Business-critical applications^^^Organizations that have a geographically spread workforce, some of them working in areas with erratic or unreliable internet connections|||Organizations looking to reduce on-premises IT infrastructure and capital expenditure@@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+7 total points available.
+7 total points|||Which of these scenarios are good use cases for Public Cloud? Select two.|||Reducing time-to-market for products and services^^^Disaster recovery, data protection, and business continuity^^^Applications with stable capacity and resourcing needs^^^Managing business critical platforms and applications|||Reducing time-to-market for products and services^^^Disaster recovery, data protection, and business continuity@@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+7 total points available.
+7 total points|||Private cloud platforms can be implemented internally or externally. What is an external private cloud platform?|||Platform that is owned, managed, and operated by the organization^^^Cloud platform that runs on-premises^^^Virtual Private Cloud or VPC^^^Controlled access and customized security measures.|||Virtual Private Cloud or VPC@@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+7 total points available.
+7 total points|||What do we mean when we say that the Hybrid Cloud is interoperable?|||The public and private cloud services can understand each other’s APIs, configuration, data formats, and forms of authentication and authorization^^^Organizations can choose to run their sensitive workloads on a private cloud^^^When there is a spike in demand, a workload running on the private cloud can leverage the additional public cloud capacity^^^You are no longer locked-in with a specific vendor|||The public and private cloud services can understand each other’s APIs, configuration, data formats, and forms of authentication and authorization

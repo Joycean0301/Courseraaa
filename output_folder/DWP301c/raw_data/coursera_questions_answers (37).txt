@@ -1,0 +1,21 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 6 min
+.
+ • 
+2 total points available.
+2 total points|||What are the keys of the following dictionary: {"a":1,"b":2}|||"a","b"^^^1,2|||"a","b"@@@Practice Quiz
+
+Practice Quiz
+.
+ • 6 min
+.
+ • 
+2 total points available.
+2 total points|||Consider the following Python Dictionary:
+
+Dict={"A":1,"B":"2","C":[3,3,3],"D":(4,4,4),'E':5,'F':6}
+
+What is the result of the following operation: Dict["D"]|||1^^^(4, 4, 4)^^^[3,3,3]|||(4, 4, 4)

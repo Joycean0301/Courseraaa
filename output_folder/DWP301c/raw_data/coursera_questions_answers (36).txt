@@ -1,0 +1,69 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||Consider the following tuple:
+
+say_what=('say',' what', 'you', 'will') 
+
+
+what is the result of the following say_what[-1]|||'you'^^^' what'^^^'will'^^^'say'|||'will'@@@Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||Consider the following tuple A=(1,2,3,4,5). What is the result of the following: A[1:4]:|||(2, 3, 4,5)^^^(3, 4,5)^^^(2, 3, 4)|||(2, 3, 4)@@@Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||Consider the following tuple A=(1,2,3,4,5), what is the result of the following: len(A)|||6^^^5^^^4|||5@@@Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||Consider the following list B=[1,2,[3,'a'],[4,'b']], what is the result of the following:B[3][1]|||"c"^^^"b"^^^[4,"b"]|||"b"@@@Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||What is the result of the following operation?
+
+
+
+
+
+[1,2,3]+[1,1,1]|||[2,3,4]^^^TypeError     ^^^[1, 2, 3, 1, 1, 1]|||[1, 2, 3, 1, 1, 1]@@@Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||What is the length of the list A = [1] after the following operation: A.append([2,3,4,5])|||5 ^^^2^^^6|||2@@@Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||What is the result of the following: "Hello
+Mike".split()|||["H"]^^^["Hello","Mike"]^^^["HelloMike"]|||["Hello","Mike"]

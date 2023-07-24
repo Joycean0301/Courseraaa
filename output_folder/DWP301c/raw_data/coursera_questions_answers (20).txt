@@ -1,0 +1,49 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+6 total points available.
+6 total points|||Which new ES6 feature doesn't allow you to reassign a variable in the same code block? |||Promise^^^let^^^const^^^Arrow functions|||const@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+6 total points available.
+6 total points|||Which new ES6 feature adds object-oriented programming capability to JavaScript? |||Promise^^^Arrow functions^^^const^^^Class|||Class@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+6 total points available.
+6 total points|||What is one of the things that React provides when building UIs?|||Eliminates a need to synchronize UI elements with the application state ^^^Clarifies user feedback in applications ^^^Synchronizes UI elements with user interaction ^^^Extends markdown syntax |||Eliminates a need to synchronize UI elements with the application state @@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+6 total points available.
+6 total points|||What is the first step to create a class component?|||Pass props to a constructor ^^^Override the render method^^^Change the index.js file^^^Inherit the class component from the React module|||Inherit the class component from the React module@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+6 total points available.
+6 total points|||Why do we use JSX?|||To use JavaScript variable^^^To create user interface components in React^^^To produce XML elements^^^To convert JavaScript into XML code|||To create user interface components in React@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+6 total points available.
+6 total points|||Which component type can be used to replace a stateless functional component?|||High-order^^^Class^^^Pure^^^Cannot be replaced|||Pure

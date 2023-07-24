@@ -1,0 +1,75 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What does the following function return: len(['A','B',1]) ?|||3^^^2^^^4|||3@@@Practice Quiz
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What does the following function return: len([sum([0,0,1])]) ?|||1^^^0^^^3|||1@@@Practice Quiz
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What is the value of list L after the following code segment is run  :
+
+L=[1,3,2]
+
+sorted(L)
+
+|||L:[1,3,2]^^^L:[1,2,3]^^^L:[0,0,0]|||L:[1,3,2]@@@Practice Quiz
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||From the video what is the value of c after the following:
+
+c=add1(2)
+
+c=add1(10)
+
+|||3^^^11^^^14|||11@@@Practice Quiz
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||what is the output of the following lines of code:
+
+def Print(A):   
+
+ for a in A: 
+
+    print(a+'1')
+
+Print(['a','b','c'])
+
+|||a
+
+b
+
+c^^^a1
+
+b1
+
+c1^^^a1|||a1
+
+b1
+
+c1

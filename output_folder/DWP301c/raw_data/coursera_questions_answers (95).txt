@@ -1,0 +1,51 @@
+Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07|||Have you created an IBM Cloud Lite account?
+
+Note: Select “Yes” if you already had an IBM Cloud Lite account and therefore didn’t need to create it for Module 1.|||Yes^^^No|||Yes@@@Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07|||Have you created an IBM Cloudant service instance? |||Yes^^^No|||Yes@@@Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07|||Have you created a Watson Natural Language Understanding (NLU) service instance? |||Yes^^^No|||Yes@@@Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07|||Have you forked the GitHub repo containing the project template? |||Yes^^^No|||Yes@@@Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07|||Have you added the "About Us" static page? |||Yes^^^No|||Yes@@@Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07|||Have you added the "Contact Us" static page? |||Yes^^^No|||Yes@@@Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07|||Have you run and test your Django application? |||Yes^^^No|||Yes@@@Check-list : Static Pages
+
+Graded Quiz
+.
+ • 18 min
+
+DueJun 11, 11:59 PM +07||| Have you updated your forked repository with all changes? |||Yes^^^No|||Yes
