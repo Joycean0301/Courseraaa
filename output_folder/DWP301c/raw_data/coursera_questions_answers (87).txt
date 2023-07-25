@@ -1,0 +1,41 @@
+Practice Quiz: Web API Essentials - REST API and GraphQL
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which HTTP method and endpoint should be used to get a resource from a REST endpoint?|||GET /products?productId=145^^^GET /products/productId/145^^^GET /products/145/a4-notebook^^^GET /products/145|||GET /products/145@@@Practice Quiz: Web API Essentials - REST API and GraphQL
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which microservice identifies the users on the platform?|||Product information^^^Authentication service^^^Inventory service^^^Order service|||Authentication service@@@Practice Quiz: Web API Essentials - REST API and GraphQL
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||What does an OpenAPI specification define? |||Anonymous access for all operations ^^^Only input parameters of your API^^^Supported operations by your API^^^Documentation standard |||Supported operations by your API@@@Practice Quiz: Web API Essentials - REST API and GraphQL
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||What is a key feature of Postman?|||It is a tool to test APIs ^^^It only supports the GET request ^^^It only shows output in JSON^^^It is an online-only tool|||It is a tool to test APIs @@@Practice Quiz: Web API Essentials - REST API and GraphQL
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||What is the SciPy library in Python used for? |||Artificial intelligence^^^Scientific and numeric computing ^^^Machine learning^^^Web development|||Scientific and numeric computing 

@@ -1,0 +1,33 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What is the Python library used for scientific computing and is a basis for Pandas?|||Requests^^^Numpy^^^Tkinter^^^datetime|||Numpy@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What attribute is used to retrieve the number of elements in an array?|||a.size^^^a.ndim^^^a.shape^^^a.dtype|||a.size@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||How would you change the first element to "10" in this array c:array([100,1,2,3,0])?|||c[2]=10^^^c[0]=10^^^c[1]=10^^^c[4]=10|||c[0]=10@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What attribute is used to return the number of dimensions in an array?|||a.shape^^^a.ndim^^^a.size^^^a.dtype|||a.ndim

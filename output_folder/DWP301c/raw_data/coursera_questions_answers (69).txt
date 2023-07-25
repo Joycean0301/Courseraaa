@@ -1,0 +1,33 @@
+Practice Quiz: Consolidate and Deploy Your Django App
+
+Practice Quiz
+.
+ • 8 min
+.
+ • 
+4 total points available.
+4 total points|||Authentication is a process that does what?|||Creates user credentials^^^Checks users’ access permissions ^^^Validates user identity^^^Groups users based on permissions|||Validates user identity@@@Practice Quiz: Consolidate and Deploy Your Django App
+
+Practice Quiz
+.
+ • 8 min
+.
+ • 
+4 total points available.
+4 total points|||Bootstrap is a free web front-end framework that helps develop web apps. What does it provide Django?|||HTML and CSS templates^^^Server interfaces ^^^Databases ^^^Code examples|||HTML and CSS templates@@@Practice Quiz: Consolidate and Deploy Your Django App
+
+Practice Quiz
+.
+ • 8 min
+.
+ • 
+4 total points available.
+4 total points|||What does Django use name spacing for when you add static files to an app?|||Sorts static files^^^Tracks static files in each app^^^Uniquely refers to static files that use the same name, across multiple apps^^^Limits the number of static files in an app|||Uniquely refers to static files that use the same name, across multiple apps@@@Practice Quiz: Consolidate and Deploy Your Django App
+
+Practice Quiz
+.
+ • 8 min
+.
+ • 
+4 total points available.
+4 total points|||When Django developers run a runserver command line, what does it start?|||Minimal development web server ^^^File server^^^Barebones backend server ^^^Storage server|||Minimal development web server 

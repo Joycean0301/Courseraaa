@@ -1,0 +1,53 @@
+Practice Quiz: Basic SQL Statements
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points|||What is the function of a predicate when reading and modifying data?|||It is a condition that evaluates to true, false, or unknown.^^^It is always required when using the Where clause.^^^It allows us to restrict the result set using the Where clause^^^All of the above |||All of the above @@@Practice Quiz: Basic SQL Statements
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points|||Which of the following INSERT statements will add one row containing a student’s identification number, first name, and last name?|||INSERT INTO STUDENT 
+
+             (STUDENT_ID, LASTNAME, FIRSTNAME) 
+
+     STUDENT_ID (‘345DT2000’), LASTNAME (‘Morales’), FIRSTNAME (‘Raul’) ^^^INSERT INTO STUDENT
+
+                 (STUDENT_ID, LASTNAME, FIRSTNAME)
+
+        VALUES (STUDENT ID = ‘345DT2000’, LASTNAME = ‘Morales’, FIRSTNAME = ‘Raul’)^^^INSERT INTO STUDENT 
+
+             (STUDENT_ID, LASTNAME, FIRSTNAME) 
+
+     VALUES (‘345DT2000’, ‘Morales’, ‘Raul’) ^^^INSERT INTO STUDENT 
+
+             (STUDENT_ID, LASTNAME, FIRSTNAME, DOB) 
+
+     VALUES (‘345DT2000’, ‘Morales’, ‘Raul’) |||INSERT INTO STUDENT 
+
+             (STUDENT_ID, LASTNAME, FIRSTNAME) 
+
+     VALUES (‘345DT2000’, ‘Morales’, ‘Raul’) @@@Practice Quiz: Basic SQL Statements
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points|||You want to update a row in the Student table to change a student’s first name from “Kristen” to “Christine.” What will happen if you leave out the Where clause in the UPDATE statement?|||Student(s) with the first name of “Kristen” would be deleted from the database.^^^The update would take longer because SQL would need to search through the whole database for a student with a first name of “Kristen.”^^^Every student’s first name would change to “Christine” in the table.  ^^^Nothing. The UPDATE clause won’t work without the WHERE clause.|||Every student’s first name would change to “Christine” in the table.  @@@Practice Quiz: Basic SQL Statements
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points|||Which expression below is used with a SELECT statement to retrieve the number of rows that match the query criteria?|||LIMIT^^^COUNT^^^DISTINCT^^^All of the above|||COUNT

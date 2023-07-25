@@ -1,0 +1,65 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following statement is correct about Pylint?|||It is a python code compiler^^^It is a python static code analysis tool^^^It is a python IDE^^^It is a python package creating tool |||It is a python static code analysis tool@@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+5 total points available.
+5 total points|||assertEqual tests for equality of the first and second parameters passed.|||True^^^False|||True@@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+5 total points available.
+5 total points|||In a real-life environment, what happens after the unit test passes?|||The code is deployed and published in the cloud^^^The unit is tested in a continuous integration /continuous delivery test server environment. ^^^The developer cannot code any further.^^^The code is linted for any code structure corrections.|||The unit is tested in a continuous integration /continuous delivery test server environment. @@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+5 total points available.
+5 total points|||Consider the following code:
+
+@app.route('/memberdetails/<membercode>')
+
+def get_member_details(membercode):
+
+    print("Member code :",membercode)
+
+    return {"memberdetails":"Details of member"}
+
+Which of the URLs will be mapped to this end-point?|||http://localhost:8080/memberdetails_1^^^http://localhost:8080/memberdetails/M001^^^http://localhost:8080/memberdetails^^^http://localhost:8080/memberdetails/1|||http://localhost:8080/memberdetails/M001^^^http://localhost:8080/memberdetails/1@@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+5 total points available.
+5 total points|||Consider the following code in the file mycode.py a directory named mypackage with __init__.py.
+
+def print_hello():
+
+    print("Hello")
+
+Which of the following statements is the right way to access the method?|||import mycode
+
+print_hello()^^^from mypackge import mycode
+
+mycode.print_hello()^^^from mypackage.mycode import print_hello
+
+print_hello()^^^mypackage.mycode.print_hello()|||from mypackge import mycode
+
+mycode.print_hello()

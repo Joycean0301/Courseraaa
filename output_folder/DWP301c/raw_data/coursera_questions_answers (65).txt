@@ -1,0 +1,9 @@
+Practice Quiz: MVC and Django MVT Pattern
+
+Practice Quiz
+.
+ • 2 min
+.
+ • 
+1 total point available.
+1 total point|||MVC design pattern includes three components. Which component routes requests?|||Access ^^^Model ^^^View ^^^Controller |||Controller 

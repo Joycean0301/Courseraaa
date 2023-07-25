@@ -1,0 +1,74 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||What are the building blocks of HTML called?|||Elements^^^Attributes^^^Chunks^^^Nodes|||Elements@@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which tag is used to provide keywords for search engines?|||<header>^^^<footer>^^^<title>^^^<meta>|||<meta>@@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Fill in the blank: In HTML5, ______________ allow you to run processing intensive tasks without blocking the user interface.|||DOM accessors^^^Non-blocking feeds^^^Structural elements^^^Web workers|||Web workers@@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||How do you properly recreate the following table using HTML code?
+
+Date
+
+	
+
+Language
+
+
+
+
+2014
+
+	
+
+HTML5
+
+
+
+
+1999
+
+	
+
+CSS3
+
+
+
+
+1995
+
+	
+
+JavaScript|||<table> <td> <th>Date</th> <th>Language</th> </td> <td> <tr>2014</tr> <tr>HTML5</tr> </td> <td> <tr>1999</tr> <tr>CSS3</tr> </td> <td> <tr>1995</tr> <tr>JavaScript</tr> </td> </table> ^^^<table> <tr> <th>Date</th> <th>Language</th> </tr> <tr> <td>2014</td> <td>HTML5</td> </tr> <tr> <td>1999</td> <td>CSS3</td> </tr> <tr> <td>1995</td> <td>JavaScript</td> </tr> </table> ^^^<table> <tr> <td>Date</td> <td>Language</td> </tr> <tr> <th>2014</th> <th>HTML5</th> </tr> <tr> <th>1999</th> <th>CSS3</th> </tr> <tr> <th>1995</th> <th>JavaScript</th> </tr> </table> ^^^<table> <tc> <th>Date</th> <th>Language</th> </tc> <tc> <td>2014</td> <td>HTML5</td> </tc> <tc> <td>1999</td> <td>CSS3</td> </tc> <tc> <td>1995</td> <td>JavaScript</td> </tc> </table> |||<table> <tr> <th>Date</th> <th>Language</th> </tr> <tr> <td>2014</td> <td>HTML5</td> </tr> <tr> <td>1999</td> <td>CSS3</td> </tr> <tr> <td>1995</td> <td>JavaScript</td> </tr> </table> @@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following statements about document.images is correct?|||document.images is a DOM property^^^document.images returns a collection of image elements in a document^^^document.images is part of the HTML document API^^^All of the above |||All of the above 

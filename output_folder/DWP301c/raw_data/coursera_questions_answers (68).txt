@@ -1,0 +1,9 @@
+Practice Quiz: Class-based and Generic Views
+
+Practice Quiz
+.
+ • 2 min
+.
+ • 
+1 total point available.
+1 total point|||Which view was the original implemented view in Django?|||Feature-based view^^^Function-based view^^^Class-based view^^^Expression-based view|||Function-based view

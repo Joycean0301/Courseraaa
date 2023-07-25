@@ -1,0 +1,41 @@
+Practice Quiz: Serverless Overview
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||A Serverless computer is a combination of which of the following services? Select two answers.|||Function as a Service^^^Backend as a Service^^^Infrastructure as a Service^^^Platform as a Service|||Function as a Service^^^Backend as a Service@@@Practice Quiz: Serverless Overview
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following is a benefit of a Serverless computing model?|||Low latency^^^Fine grain hardware control^^^Only paying for use^^^Persistent state|||Only paying for use@@@Practice Quiz: Serverless Overview
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which service is provided by Function-as-a-Service or FaaS, a Cloud Computing service?|||Identifies and forwards requests^^^Provides notifications^^^Stores data in file storage^^^Executes code in response to events|||Executes code in response to events@@@Practice Quiz: Serverless Overview
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which language writes Serverless Framework?|||Python^^^Java^^^C#^^^Node.js|||Node.js@@@Practice Quiz: Serverless Overview
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||How can you utilize Serverless Reference Architecture for an Event streaming use case? Select two answers.|||You can update secondary data stores and caches^^^You can trigger your application using publisher-subscriber topics^^^Create dependencies on other resources^^^You can trigger your application using HTTP events|||You can update secondary data stores and caches^^^You can trigger your application using publisher-subscriber topics

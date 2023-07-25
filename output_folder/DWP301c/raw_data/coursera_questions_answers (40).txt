@@ -1,0 +1,69 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||what is the result of the following: 1=2|||False ^^^SyntaxError:can't assign to literal^^^True|||SyntaxError:can't assign to literal@@@Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||What is the output of the following code segment:
+
+i=6
+
+i<5
+
+|||True^^^False^^^SyntaxError: can't assign to literal|||False@@@Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||What is the result of the following: 5!=5|||False^^^True|||False@@@Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||What is the output of the following code segment: 'a'=='A'|||False^^^True|||False@@@Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||in the video, if age=18 what would be the result |||move on^^^you can enter |||move on@@@Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||in the video what would be the result if we set the variable age as follows: age= -10|||go see Meat Loaf
+
+move on^^^you can enter
+
+move on|||go see Meat Loaf
+
+move on@@@Practice Quiz
+
+Practice Quiz
+.
+ • 21 min
+.
+ • 
+7 total points available.
+7 total points|||what is the result of the following:   True  or False |||True, an or statement is only False if all the Boolean values are False^^^False|||True, an or statement is only False if all the Boolean values are False

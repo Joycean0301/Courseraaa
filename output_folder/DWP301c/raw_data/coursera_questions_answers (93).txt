@@ -1,0 +1,41 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Red Hat OpenShift is a Kubernetes application platform. Where can Red Hat OpenShift run? |||Public cloud ^^^On Red Hat infrastructure only^^^On-premises ^^^Private cloud |||Public cloud ^^^On-premises ^^^Private cloud @@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following are features provided by Istio?|||Traffic management^^^Observability of service behavior^^^Encryption of traffic between services^^^Application development platform|||Traffic management^^^Observability of service behavior^^^Encryption of traffic between services@@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||What job does OpenShift create to automatically build microservices into containers? |||Open-source job ^^^Atkins job ^^^Container job ^^^Jenkins job |||Jenkins job @@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||OpenShift enables use of third-party software to supplement solutions. Which are examples of third-party software that could be use?|||OpenShift^^^Logging and monitoring solutions ^^^JSON ^^^Databases|||Logging and monitoring solutions ^^^Databases@@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||When you're ready to buy software, which are provided by Red Hat Marketplace?|||Billing and subscription ^^^Real-time pricing ^^^Multiple payment options ^^^Free trials|||Billing and subscription ^^^Real-time pricing ^^^Multiple payment options ^^^Free trials

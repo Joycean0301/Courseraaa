@@ -1,0 +1,256 @@
+Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which of these are essential characteristics of the Cloud? Select the two characteristics that apply.||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||In the _______ cloud model, an organization's on-premises private cloud and third-party public cloud connect into a single, flexible infrastructure for running the organization's applications and workloads.||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Virtualization is the process of creating a software-based version of physical resources, made possible through the use of ___________________.||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||A ______________ is an executable unit of software in which application code is packaged, along with its libraries and dependencies, in common ways so that it can be run anywhere—desktops, traditional IT, or the cloud.||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which type of cloud storage is ideal for storing unstructured data?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||____________ work on the parts of a website or app that the user interacts with, while ____________ work on the logic that supports the functionality of the website or the application.||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||HTML uses _______________ to talk to servers and backend services to process user events and display results on a website.||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which HTML element should you use to define a document’s logical separations, such as the numbered chapters of an online manual?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||In JavaScript, which of the following is a primitive data type? Select the two choices that apply.||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||In JavaScript, assume you need to create a variable with global scope and whose value will never change. What is the first step you must take to declare this variable?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which of the following is a popular web-hosted service for Git repositories?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which of the following Git commands fetches and tries to automatically merge changes from the remote repository to your local repository?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||In a Git team project, which team member uses the git-http-backend command as part of their responsibilities?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||The cloud native application stack consists of four different layers: application runtime; application and data services; scheduling and orchestration; and cloud infrastructure. The ____________________ layer is where control planes operate.||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which continuous delivery feature can you use to automate builds, unit tests, and deployment?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||The process of refactoring and breaking down large legacy applications into a collection of small, loosely coupled microservices that can be aligned to a feature or a business function is called what?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||IBM Watson uses Natural Language Classifier (NLC) – what does NLC do?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||JSON is the standard format for API data exchange. What relationship does JSON have with Node.js?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||React is a UI library that uses what language?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||What is a promise?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Some of the common Docker CLI commands include___________ to copy and rename images and ___________ for storing images in a remote location.||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which of these is true of Kubernetes?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||What is a container image?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||What is the result of running the following lines of code?
+
+1
+2
+3
+4
+5
+6
+7
+8
+class Points(object):
+      def __init__(self,a,b):
+            self.a=a
+            self.b=b
+      def print_point(self):
+            print('a=',self.a,' b=',self.b)
+p1=Points("X","Y")
+p1.print_point()||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which of the following statements is true about tuples and lists?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||In a library entity-relationship data model, a book is an example of _____ and the book’s title, edition, and publication date are examples of _______.||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||What is the purpose of using a Django template?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||When you create a Django project, Django creates some core files, including manage.py. What purpose does manage.py serve?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which statement best describes Bootstrap?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which statement is true regarding OOP and CRUD?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||In accordance with the twelve-factor app methodology, why should developers avoid storing configuration as constants in their code?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||FaaS is considered the originating technology in the serverless category. Which part of the serverless stack does FaaS represent?||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||OpenShift is a platform for running microservices. Which of the following are some of its features? Select the two features that apply.||||||@@@Back
+Final Exam
+
+Graded Quiz
+.
+ • 3h 45m
+
+DueJun 11, 11:59 PM +07|||Which technology is generally considered an example of serverless computing?||||||

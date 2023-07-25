@@ -1,0 +1,31 @@
+Graded Quiz: Introduction to Databases
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07|||Which of the following statements are correct about databases?|||A database is a repository of data^^^There are different types of databases - Relational, Hierarchical, NoSQL, etc.^^^A database can be populated with data and be queried ^^^All of the above|||All of the above@@@Graded Quiz: Introduction to Databases
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07|||A database stores data in tabular form only. True or False?|||True^^^False|||False@@@Graded Quiz: Introduction to Databases
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07|||In a library entity-relationship data model, a book is an example of _____ and the book’s title, edition, and publication date are examples of _______.|||an entity, attributes^^^an attribute, entities^^^an entity, properties ^^^a row, columns|||an entity, attributes@@@Graded Quiz: Introduction to Databases
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07|||Which of the following statements about a database is/are correct?|||A database is a logically coherent collection of data with some inherent meaning^^^Data can only be added and queried from a database but not modified^^^Only SQL can be used to query data in a database^^^All of the above|||A database is a logically coherent collection of data with some inherent meaning@@@Graded Quiz: Introduction to Databases
+
+Graded Quiz
+.
+ • 10 min
+
+DueJun 11, 11:59 PM +07|||The primary key of a relational table uniquely identifies each row in a table. True or False?|||True^^^False|||True

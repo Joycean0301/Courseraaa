@@ -1,0 +1,41 @@
+Module 1 - Practice Quiz: Containers and Containerization
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What is a container?|||A data center server that stores cloud files^^^A special method of designing more efficient code^^^A digital platform designed to store files developed in different operating systems^^^A standard unit of software that packages code and all its dependencies|||A standard unit of software that packages code and all its dependencies@@@Module 1 - Practice Quiz: Containers and Containerization
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What are some of the traits of containers?|||Containers save both time and money and improve utilization.^^^Containers are more expensive but save time during deployment. ^^^Containers lower costs, but add time.^^^Containers save both time and money at the expense of utilization and automation. |||Containers save both time and money and improve utilization.@@@Module 1 - Practice Quiz: Containers and Containerization
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What is Docker?|||Deep storage for digital containers^^^An open platform used for developing, shipping, and running applications in containers ^^^An enterprise security tool that prevents malware from accessing containers^^^A network connector that allows containers to travel from one platform to another|||An open platform used for developing, shipping, and running applications in containers @@@Module 1 - Practice Quiz: Containers and Containerization
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What does an image name consist of?|||The Dockerfile, the running container, and the storage plugin^^^The network, the repository, and the template^^^The hostname, the repository, and the tag^^^Only tags|||The hostname, the repository, and the tag@@@Module 1 - Practice Quiz: Containers and Containerization
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What are the three parts of the Docker architecture? |||Registry^^^Host^^^Client^^^Virtual machines|||Registry^^^Host^^^Client

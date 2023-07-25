@@ -1,0 +1,61 @@
+Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||What else does the Django template contain besides Python code?|||Static HTML elements^^^Markdown elements^^^XML elements^^^Dynamic HTML elements|||Static HTML elements@@@Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Three files are created by Django after you've created a project. Which of these files is a command-line interface used to interact with the Django project?|||settings.py^^^manage.py^^^urls.py ^^^access.py|||manage.py@@@Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||For the onlinecourse example, when registering the course and instructor models in the Django admin site, you would write and run "admin.site.register(Course)" and what other code statements?|||admin.site.register(Superuser)^^^admin.site.register(App) ^^^admin.site.register(Instructor)^^^admin.site.register(Admin)|||admin.site.register(Instructor)@@@Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||When you map a URL to the course view, what file do you add path objects to?|||manage.py^^^config.py^^^settings.py ^^^urls.py|||urls.py@@@Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Django template files display content, such as course names and descriptions. How is the content displayed?|||Markdown^^^Plain text^^^XML^^^HTML|||HTML@@@Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Which is one of the differences between the Django MVT and the MVC design pattern?|||The Django framework or Django server itself acts as controller^^^MVC has a Model^^^There is no difference^^^MVT has a View|||The Django framework or Django server itself acts as controller@@@Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||What two development tasks need to be performed to manage and determine which data will be presented to the UI?|||Control the project^^^Model data and create views^^^Access data and build tables^^^Sort data and sort views|||Model data and create views@@@Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Which command is used in the Django Admin video to start the server?|||python manage.py startserver^^^ python manage.py run^^^python manage.py runserver^^^python manage.py startDjango|||python manage.py runserver@@@Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Django functions, like View, accept arguments as input and return something. Typically, View needs an HTTP request object as the first argument. What does this request object contain?|||Python commands^^^Django static files^^^Read-only HTTP metadata^^^Python scripts|||Read-only HTTP metadata@@@Graded Quiz: Full-stack Django Development
+
+Graded Quiz
+.
+ • 20 min
+
+DueJun 25, 11:59 PM +07|||Django template file structure sometimes has two files created with the same name. How do you ensure Django points to the correct file?||| Add an identifier^^^Note the differences^^^Name spacing^^^Add metadata|||Name spacing

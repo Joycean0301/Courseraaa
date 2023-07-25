@@ -1,0 +1,41 @@
+Practice Quiz: GitHub Workflows with Branches and Git Commands
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||What is stored on the master or main branch?|||Files which contain documentation only^^^The deployable version of the project code^^^The original, unchanged version of the code^^^All the project files, including files from forks|||The deployable version of the project code@@@Practice Quiz: GitHub Workflows with Branches and Git Commands
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which Git command transfers changes from your local repository to the remote repository?|||git-remote^^^git-fetch^^^git-push^^^git-pull|||git-push@@@Practice Quiz: GitHub Workflows with Branches and Git Commands
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||When would you fork a project?|||To add a branch to an existing tree in the project^^^To use an existing repository as the base for a new project^^^To give a new user permissions to the project^^^To create a backup of the master branch of the project|||To use an existing repository as the base for a new project@@@Practice Quiz: GitHub Workflows with Branches and Git Commands
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which GitHub developer command prepares an email submission in a form appropriate for a Linux kernel-style public workflow?|||git-send-email^^^git-format-patch^^^git-request-pull^^^git-request-email|||git-format-patch@@@Practice Quiz: GitHub Workflows with Branches and Git Commands
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which Git command can a repository administrator use to allow anonymous downloads from the repository?|||git-remote^^^git-shell^^^git-am^^^git-daemon|||git-daemon

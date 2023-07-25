@@ -1,0 +1,33 @@
+Practice Quiz: Introduction to Databases
+
+Practice Quiz
+.
+ • 8 min
+.
+ • 
+4 total points available.
+4 total points|||What are the five basic SQL commands?|||CREATE, SELECT, INSERT, UPDATE, DELETE^^^SELECT, COPY, PASTE, INSERT, ALTER ^^^CREATE, INSERT, RETRIEVE, MODIFY, DELETE^^^None of the above|||CREATE, SELECT, INSERT, UPDATE, DELETE@@@Practice Quiz: Introduction to Databases
+
+Practice Quiz
+.
+ • 8 min
+.
+ • 
+4 total points available.
+4 total points|||In use cases for RDBMS, what is one of the reasons that relational databases are so well suited for Online Transaction Processing (OLTP) applications?|||It’s easy to migrate data between two RDBMSs^^^They support unlimited length of data fields. ^^^They support the ability to insert, update, or delete small amounts of data^^^All of the above.|||They support the ability to insert, update, or delete small amounts of data@@@Practice Quiz: Introduction to Databases
+
+Practice Quiz
+.
+ • 8 min
+.
+ • 
+4 total points available.
+4 total points|||The Relational Model stores data in tables, which allows for data independence. What type of data independence does it provide?|||Logical data independence^^^Physical data independence^^^Physical storage independence^^^All of the above|||All of the above@@@Practice Quiz: Introduction to Databases
+
+Practice Quiz
+.
+ • 8 min
+.
+ • 
+4 total points available.
+4 total points|||In a relational data model, a primary key uniquely identifies each row in a table. What is the function of a foreign key? |||A foreign key allows tables to be joined based on a relationship between certain columns in the tables.^^^A foreign key is a set of columns referring to a primary key of another entity.^^^A foreign key allows you to use certain attributes as a link between tables. ^^^All of the above. |||All of the above. 

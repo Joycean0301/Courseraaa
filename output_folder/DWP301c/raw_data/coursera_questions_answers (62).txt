@@ -1,0 +1,9 @@
+Practice Quiz: Django Model API
+
+Practice Quiz
+.
+ • 2 min
+.
+ • 
+1 total point available.
+1 total point|||Which of the following relationships between entities does Django ORM support?|||One-to-One ^^^Many-to-One^^^Many-to-Many^^^All of the above|||All of the above

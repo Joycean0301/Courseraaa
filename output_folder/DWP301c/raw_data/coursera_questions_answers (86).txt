@@ -1,0 +1,63 @@
+Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which phase of the Twelve-Factor Methodology contains Port binding?|||Configure^^^Code^^^Deploy^^^Operate|||Deploy@@@Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What makes an application concurrent?|||It should have a minimal process start time^^^It should contain the same backend services across environments^^^It should store config in environment variables^^^It should be stateless|||It should be stateless@@@Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||In a microservice architecture, you should|||Use a different technology stack for each service^^^Create interdependency among services^^^Scale all services together^^^Deploy all services together|||Use a different technology stack for each service@@@Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Select the correct answer that completes this sentence: 
+
+Monolith application has __________ components. |||Scalable^^^Interconnected^^^Independent^^^Reusable|||Interconnected@@@Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which component of services design in an SOA architecture defines how the service provider and service consumer should interact?|||Implementation^^^ Interface^^^Contract^^^Own storage|||Contract@@@Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is the purpose of Backend For Frontend?|||Refactoring in stages^^^Service discovery^^^Loading one interface that never reloads^^^Customized user experiences|||Customized user experiences@@@Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is the purpose of the Strangler pattern?|||Supports refactoring in stages^^^Simplifies the front-end experience^^^Combine functional domains^^^Helps with third-party API integrations|||Supports refactoring in stages@@@Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Larger services should be broken into smaller services when:|||Common data model becomes overly complex^^^Automation is required^^^Functional reusability is required^^^Refactoring is required|||Common data model becomes overly complex@@@Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is the requirement of Microservices?|||Manual deployment process^^^Independent storage^^^Its own implementation of auxiliary services like loggings, security, throttling, and so on^^^Coarse-grained functionality|||Independent storage@@@Graded Quiz: Introduction to Microservices
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is the requirement of a development and production environment?|||Different dependencies^^^Different source control^^^Similar backing services across the environments.^^^Embedded access details in code|||Similar backing services across the environments.

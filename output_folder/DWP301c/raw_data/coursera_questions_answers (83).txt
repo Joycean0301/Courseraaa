@@ -1,0 +1,41 @@
+Module 4 - Practice Quiz: The Kubernetes Ecosystem
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What are three true statements about Red Hat OpenShift?|||Red Hat OpenShift uses kubectl CLI, the most commonly used CLI tool to perform end-to-end operations.^^^Red Hat OpenShift provides full-stack automated operations and self-service provisioning for developers to efficiently move ideas from development to production.^^^Red Hat OpenShift provides additional tooling around the complete lifecycle of applications, from Build to CI/CD, to monitoring and logs. ^^^Red Hat OpenShift is a consistent application platform used to manage hybrid, multi-cloud, and edge deployments. |||Red Hat OpenShift provides full-stack automated operations and self-service provisioning for developers to efficiently move ideas from development to production.^^^Red Hat OpenShift provides additional tooling around the complete lifecycle of applications, from Build to CI/CD, to monitoring and logs. ^^^Red Hat OpenShift is a consistent application platform used to manage hybrid, multi-cloud, and edge deployments. @@@Module 4 - Practice Quiz: The Kubernetes Ecosystem
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What are three examples of Build input sources?|||Pods^^^Input Secrets^^^Inline Dockerfile definitions^^^External artifacts|||Input Secrets^^^Inline Dockerfile definitions^^^External artifacts@@@Module 4 - Practice Quiz: The Kubernetes Ecosystem
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What do Operators provide?|||Integration with APIs and CLI tools^^^Service communication metrics for basic Service monitoring needs: latency, traffic, errors, and saturation.^^^Customizations and parameterization, but only at the time of installations^^^Support for connection, security, enforcement, and observability.|||Integration with APIs and CLI tools@@@Module 4 - Practice Quiz: The Kubernetes Ecosystem
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What is a valid Istio feature?|||Ease of repeatable installation and upgrade processes ^^^Istio provides Service communication metrics for basic Service monitoring needs: latency, traffic, errors, and saturation.^^^Regular full-system health checks^^^Integration with APIs and CLI tools|||Istio provides Service communication metrics for basic Service monitoring needs: latency, traffic, errors, and saturation.@@@Module 4 - Practice Quiz: The Kubernetes Ecosystem
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What are three functions of a service mesh?|||Encrypts traffic between Services^^^Reduces container size for faster Services^^^Provides Service behavior metrics for optimization^^^Manages traffic between Services|||Encrypts traffic between Services^^^Provides Service behavior metrics for optimization^^^Manages traffic between Services

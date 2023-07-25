@@ -1,0 +1,41 @@
+Practice Quiz: OpenShift Essentials/Working with OpenShift and Istio
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||OpenShift is a platform for running microservices. Select three features you’ll find on the OpenShift platform.|||Deploy cloud-native applications^^^Sell third-party software^^^Integrate with serverless architectures^^^Orchestrate containerized workloads|||Deploy cloud-native applications^^^Integrate with serverless architectures^^^Orchestrate containerized workloads@@@Practice Quiz: OpenShift Essentials/Working with OpenShift and Istio
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||In the analogy described in the Red Hat OpenShift Recap video, which of the following terms is analogous to Kubernetes?|||Fedora^^^Linux kernel^^^Ubuntu^^^Debian|||Linux kernel@@@Practice Quiz: OpenShift Essentials/Working with OpenShift and Istio
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Istio doesn't encrypt traffic among services because OpenShift does this already.|||True^^^False|||True@@@Practice Quiz: OpenShift Essentials/Working with OpenShift and Istio
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Select three capabilities that a service mesh enables.|||Traffic management^^^Secure service-to-service communication^^^Third-party software procurement^^^Troubleshooting|||Traffic management^^^Secure service-to-service communication^^^Troubleshooting@@@Practice Quiz: OpenShift Essentials/Working with OpenShift and Istio
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||A service mesh is a dedicated layer that supplies logging capabilities in an OpenShift cluster.|||True^^^False|||True

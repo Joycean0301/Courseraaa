@@ -1,0 +1,73 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+9 total points available.
+9 total points|||How can you obtain public data and information from an external web server?|||Manually get data from a website^^^Send an XML request^^^Send an HTTP request^^^Send an HTML request|||Send an HTTP request@@@Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+9 total points available.
+9 total points|||When Node.js receives the final part of the HTTP response message, what event handler does it call?|||buffer.match ^^^response.on(‘end’)^^^http.request()^^^response.on(‘start’)|||response.on(‘end’)@@@Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+9 total points available.
+9 total points|||What can you use to manage Node.js packages in your Node.js framework?|||XML^^^JavaScript^^^HTML^^^npm application|||npm application@@@Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+9 total points available.
+9 total points|||What are two different types of patterns that web frameworks employ?|||Express and Koa^^^JSON and HTML^^^Ruby on Rails and Django^^^Model-View-Controller (MVC) and Representational State Transfer APIs (REST API)|||Model-View-Controller (MVC) and Representational State Transfer APIs (REST API)@@@Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+9 total points available.
+9 total points|||Which of the following is one of the five steps needed to work with Express?|||Run Node.js command to create a port^^^Export uniform resource locater^^^Create a new route handler^^^Install a terminal|||Create a new route handler@@@Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+9 total points available.
+9 total points|||You can use the app.get() method to handle requests in Express. What does the app.get() method call look like?|||app.get(path, callback)^^^app.get(callback, path)^^^app.get(port, path, error)^^^app.get(error, callback, path)|||app.get(path, callback)@@@Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+9 total points available.
+9 total points|||Which statement is true regarding passwordless authorization?|||It is the oldest form of authentication technology.^^^It uses a token that gets passed back and forth between user and client.^^^They enter their credentials and are then asked a series of security questions that they only know the answers to.^^^They gain access to the system by demonstrating they possess a factor that proves their identity such as biometrics or a “magic link”.|||They gain access to the system by demonstrating they possess a factor that proves their identity such as biometrics or a “magic link”.@@@Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+9 total points available.
+9 total points|||Which npm package is used to generate a JSON web token?|||key^^^express^^^tokens^^^jsonwebtoken|||jsonwebtoken@@@Practice Quiz
+
+Practice Quiz
+.
+ • 18 min
+.
+ • 
+9 total points available.
+9 total points|||Which of the following npm commands is a best practice to use when installing dependencies?|||npm require -save^^^npm init -save^^^npm commit -save^^^npm install -save|||npm install -save

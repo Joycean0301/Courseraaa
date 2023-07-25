@@ -1,0 +1,41 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following is an example of a shared state?|||Tags for ID, name, and age^^^Hiding and showing information^^^An application with a button and counter^^^List of all orders in an order application|||List of all orders in an order application@@@Practice Quiz
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What are the phases of a React component’s lifecycle?|||Invoke and render^^^Mounting, updating, and unmounting^^^Rendering, data send, and callback^^^Mounting and unmounting|||Mounting, updating, and unmounting@@@Practice Quiz
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What happens in the mounting phase?|||The component is removed from the DOM^^^The component is added to the DOM^^^User events cause the component’s states and props to change^^^The component is re-rendered|||The component is added to the DOM@@@Practice Quiz
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What is used to make the call to a server asynchronous?|||GET^^^POST^^^UPDATE^^^Promise|||Promise@@@Practice Quiz
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What is testing?|||A modular construction of a complex application^^^Rejection of continuous integration^^^A line-by-line review of how your code will execute^^^Manual verification that code is bug free|||A line-by-line review of how your code will execute

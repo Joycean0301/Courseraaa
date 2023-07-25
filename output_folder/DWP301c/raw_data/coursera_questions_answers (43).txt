@@ -1,0 +1,17 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 6 min
+.
+ • 
+2 total points available.
+2 total points|||Why do we use exception handlers?|||Read a file^^^Terminate a program^^^Write a file^^^Catch errors within a program|||Catch errors within a program@@@Practice Quiz
+
+Practice Quiz
+.
+ • 6 min
+.
+ • 
+2 total points available.
+2 total points|||What is the purpose of a try…except statement?|||Crash a program when errors occur^^^Only executes if one condition is true^^^Catch and handle exceptions when an error occurs^^^Executes the code block only if a certain condition exists|||Catch and handle exceptions when an error occurs
