@@ -28,9 +28,9 @@ Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Develop
 ## Automatically filled
 
 - Step 1: After run `main.py` file, the **data.json** data file contain correct answers located in `..\Courseraaa\output_folder\[name]` folder.
-- Step 2: Rename new json path name **URL** in file `..\Courseraaa\feature_fill.js` with the path of **data.json** data file.
+- Step 2: Rename new json path name **FOLDER_NAME** in file `..\Courseraaa\feature_fill.js` with the folder path of **data.json** data file.
 
-![Screenshot from 2023-06-03 00-20-06](https://github.com/Joycean0301/Courseraaa/assets/103662477/eaf4c872-264b-4050-8168-c06a91a54116)
+file:///home/joycean/Pictures/Screenshots/Screenshot%20from%202023-08-18%2016-48-37.png
 
 - Step 3: Save file and click `Reload` button on Manage Extensions 
 
