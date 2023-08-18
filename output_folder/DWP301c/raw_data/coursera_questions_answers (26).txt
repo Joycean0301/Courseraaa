@@ -1,0 +1,65 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 16 min
+.
+ • 
+8 total points available.
+8 total points|||What technology do web servers use to respond to client requests?|||CSS^^^HTTP^^^Node.js^^^HTML|||HTTP@@@Practice Quiz
+
+Practice Quiz
+.
+ • 16 min
+.
+ • 
+8 total points available.
+8 total points|||What is a popular format for sending data to REST services over HTTP?|||Node.js^^^HTML/CSS^^^JSON^^^Express.js|||JSON@@@Practice Quiz
+
+Practice Quiz
+.
+ • 16 min
+.
+ • 
+8 total points available.
+8 total points|||Which of the following is true regarding the import() function but NOT the require() function?|||Binding errors are identified at run-time^^^It must be called at the beginning of the file.^^^It is bound dynamically^^^It can be used within conditional statements and functions|||It must be called at the beginning of the file.@@@Practice Quiz
+
+Practice Quiz
+.
+ • 16 min
+.
+ • 
+8 total points available.
+8 total points|||How can you handle incoming request messages and return response messages with a web server?|||Import a Node.js module^^^Set the web server to listen to a port^^^Group Node.js modules into a package^^^Develop a callback function|||Develop a callback function@@@Practice Quiz
+
+Practice Quiz
+.
+ • 16 min
+.
+ • 
+8 total points available.
+8 total points|||How do you make a function or a value available to Node.js applications that import your module?|||Add a property to exports^^^Use the http.createServer function ^^^Edit the module manifest^^^Create an instance of a web server application|||Add a property to exports@@@Practice Quiz
+
+Practice Quiz
+.
+ • 16 min
+.
+ • 
+8 total points available.
+8 total points|||If you find a module written by someone else on the internet with a copyleft license, what type of node module is this considered?|||Library^^^Local^^^Core^^^Third-party|||Third-party@@@Practice Quiz
+
+Practice Quiz
+.
+ • 16 min
+.
+ • 
+8 total points available.
+8 total points|||What is the function of a package manager?|||It is a run-time environment for the Chrome V8 engine^^^Automates dependency package configuration^^^It translates code into a machine-readable language^^^It is the protocol used by servers to communicate with each other|||Automates dependency package configuration@@@Practice Quiz
+
+Practice Quiz
+.
+ • 16 min
+.
+ • 
+8 total points available.
+8 total points|||What would you use let today = require('./today’);  for?|||To import a Node.js module ^^^To create an instance of a web server application ^^^To download an npm package from the Internet on the terminal^^^To retrieve the date from a weather service|||To import a Node.js module 

@@ -1,0 +1,41 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||True or False: 10car is a valid variable name in JavaScript. |||True^^^False|||False@@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following statement is the correct way to define a function with no parameters in JavaScript? |||function = new function(myfunction) ^^^function = myFunction() { } ^^^function myFunction { } ^^^function myFunction() { } |||function myFunction() { } @@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following statements is the correct way to include a script in an HTML? |||<include script = “/source/script.js”> </script> ^^^<script name = “/source/script.js”> </script> ^^^<script ref= “/source/script.js”> </script>^^^<script src = “/source/script.js”> </script> |||<script src = “/source/script.js”> </script> @@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||How would you display a confirmation dialog box in a window?|||window.confirm(“message”) ^^^window.prompt(“message”)^^^window.alert(confirmation, “message”) ^^^window.alert(“message”) |||window.confirm(“message”) @@@Practice Quiz
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Select all the following statements about errors which are true.|||RangeError is created when a numeric value or parameter is outside a valid range^^^Error instance objects contain one property which contains information about the error^^^JavaScript has 6 core types of errors^^^To create a new custom “InputError”, the correct code would be: throw new Error(“InputError”, “The input provided is invalid”)|||RangeError is created when a numeric value or parameter is outside a valid range^^^JavaScript has 6 core types of errors

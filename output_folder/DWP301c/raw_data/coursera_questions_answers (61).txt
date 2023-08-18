@@ -1,0 +1,9 @@
+Practice Quiz: ORM and Django Model
+
+Practice Quiz
+.
+ • 2 min
+.
+ • 
+1 total point available.
+1 total point|||What does Django map each field to in a database table?|||Column ^^^Parameter^^^Field class^^^Schema|||Column 

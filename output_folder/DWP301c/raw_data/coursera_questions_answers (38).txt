@@ -1,0 +1,33 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||Consider the following set: {"A","A"}, what will the result be when the set is created? ||| {"A","A"}^^^ {"A"} ||| {"A"} @@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What is the result of the following: type(set([1,2,3]))|||set^^^list|||set@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What method do you use to add an element to a set?|||add^^^append^^^extend|||add@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What is the result of the following operation : {'a','b'} &{'a'}|||{'a','b'}^^^{'a'}|||{'a'}

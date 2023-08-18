@@ -1,0 +1,33 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What is the function of "GET" in HTTP requests?|||Returns the response from the client to the requestor^^^Carries the request to the client from the requestor^^^Deletes a specific resource^^^Sends data to create or update a resource |||Carries the request to the client from the requestor@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What does URL stand for?|||Uniform Request Location^^^Uniform Resource Locator^^^Unilateral Resistance Locator^^^Uniform Resource Learning|||Uniform Resource Locator@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What does the file extension “csv” stand for?|||Comma Separated Values^^^Comma Separation Valuations ^^^Common Separated Variables^^^Comma Serrated Values |||Comma Separated Values@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What is webscraping?|||The process to extract data from a particular website^^^The process to request and retrieve information from a client^^^The process to display all data within a URL^^^The process to describe communication options|||The process to extract data from a particular website

@@ -1,0 +1,80 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 9 min
+.
+ • 
+3 total points available.
+3 total points|||what will be the output of the following:
+
+for x in range(0,3):     
+
+print(x)
+
+|||0
+
+1
+
+2^^^0
+
+1
+
+2
+
+3|||0
+
+1
+
+2@@@Practice Quiz
+
+Practice Quiz
+.
+ • 9 min
+.
+ • 
+3 total points available.
+3 total points|||what is the output of the following:
+
+for x in ['A','B','C']:
+  print(x+'A')
+
+|||AA
+
+BA
+
+CA^^^A
+
+B
+
+C|||AA
+
+BA
+
+CA@@@Practice Quiz
+
+Practice Quiz
+.
+ • 9 min
+.
+ • 
+3 total points available.
+3 total points|||what is the output of the following:
+
+for i,x in enumerate(['A','B','C']):    
+
+print(i,x)
+
+|||0 A
+
+1 B
+
+2 C^^^AA
+
+BB
+
+CC|||0 A
+
+1 B
+
+2 C

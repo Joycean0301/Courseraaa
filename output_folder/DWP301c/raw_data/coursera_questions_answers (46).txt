@@ -1,0 +1,33 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What are the most common modes used when opening a file?|||(s)ave, (r)ead, (w)rite^^^(a)ppend, (r)ead, (w)rite^^^(a)ppend, (r)edline, (w)rite^^^(a)ppend, (c)lose, (w)rite|||(a)ppend, (r)ead, (w)rite@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What is the data attribute that will return the title of the file?|||File1.close()^^^File1.mode^^^File1.open()^^^File1.name|||File1.name@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What is the command that tells Python to begin a new line?|||\b^^^\n^^^\e^^^\q|||\n@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What attribute is used to input data into a file?|||File1.read()^^^File1.close()^^^File1.write()^^^File1.open()|||File1.write()

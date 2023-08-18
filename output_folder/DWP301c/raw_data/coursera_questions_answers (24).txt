@@ -1,0 +1,49 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+6 total points available.
+6 total points|||How are Hooks called in a React application?|||Inside a React function component^^^Inside a class component^^^Inside nested functions^^^Inside regular JavaScript functions|||Inside a React function component@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+6 total points available.
+6 total points|||Which function holds the information that updates the state of a variable on the form?|||setState()^^^input^^^onChange()^^^onSubmit()|||onChange()@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+6 total points available.
+6 total points|||What is Redux?|||A properties store^^^A state management system^^^A complex code management system^^^A function |||A state management system@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+6 total points available.
+6 total points|||Which Redux element is the singular location and authoritative source of the app state?|||Action^^^Reducer^^^Store^^^Result|||Store@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+6 total points available.
+6 total points|||How does a synchronous code execute?|||All operations execute at one time^^^Only one operation is executed^^^Each operation waits for the previous operation to complete^^^An operation can occur while another one is still being processed|||Each operation waits for the previous operation to complete@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+6 total points available.
+6 total points|||Which are the elements of a conventional React-Redux application?|||Store and a global variable^^^Multiple Reducers^^^Single store and single root Reducer^^^Multiple stores|||Single store and single root Reducer

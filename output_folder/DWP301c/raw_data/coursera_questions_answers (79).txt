@@ -1,0 +1,41 @@
+Module 2 - Practice Quiz: Kubernetes Basics
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What languages are used to create the container orchestration configuration file?|||Python or Node.js^^^JSON only^^^YAML or JSON^^^YAML only|||YAML or JSON@@@Module 2 - Practice Quiz: Kubernetes Basics
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What is a Kubernetes Cluster?|||A controller manager^^^An image downloader^^^A distributed key value store^^^A cluster of nodes that run containerized applications|||A cluster of nodes that run containerized applications@@@Module 2 - Practice Quiz: Kubernetes Basics
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What is Kubernetes?|||An all-inclusive platform as a service^^^A continuous integration and delivery pipeline for applications^^^A built-in middleware and database provider^^^An open source containerization orchestration platform|||An open source containerization orchestration platform@@@Module 2 - Practice Quiz: Kubernetes Basics
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What are three examples of Kubernetes objects?|||Namespaces^^^Pods^^^ReplicaSets^^^Containers|||Namespaces^^^Pods^^^ReplicaSets@@@Module 2 - Practice Quiz: Kubernetes Basics
+
+Practice Quiz
+.
+ • 15 min
+.
+ • 
+5 total points available.
+5 total points|||What is the function of a ClusterIP Service?|||Provides inter-service communication within the Cluster^^^Directs traffic to the NodePort Service^^^Maps to a DNS name^^^Automatically creates and routes incoming requests to the ClusterIP Service |||Provides inter-service communication within the Cluster

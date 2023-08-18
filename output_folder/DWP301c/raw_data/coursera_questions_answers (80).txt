@@ -1,0 +1,61 @@
+Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||In what three environments can container orchestration be implemented?|||Private cloud environments^^^ A single device ^^^On-premises environments^^^Public cloud environments|||Private cloud environments^^^On-premises environments^^^Public cloud environments@@@Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What is the most popular container orchestration tool used as of 2022?|||Kubernetes ^^^Marathon^^^Nomad^^^Docker Swarm|||Kubernetes @@@Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What does a control plane do?|||Maintains the intended Cluster state by making decisions about the Cluster and detecting and responding to events in the Cluster   ^^^Shares all the resources of a node^^^Assigns newly created Pods to nodes^^^Contains Pods|||Maintains the intended Cluster state by making decisions about the Cluster and detecting and responding to events in the Cluster   @@@Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What component of a worker node ensures containers are running as desired?|||Etcd^^^Container runtime^^^The Kubernetes proxy^^^The kubelet|||The kubelet@@@Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What are three Kubernetes capabilities?|||Automated rollouts^^^Storage orchestration^^^CI/CD pipelines^^^Secret and configuration management|||Automated rollouts^^^Storage orchestration^^^Secret and configuration management@@@Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What is automated bin packing?|||A Kubernetes capability that scales workloads based on metrics or commands^^^A Kubernetes capability that applies automatic changes^^^A Kubernetes capability that performs container auto-placement based on resource requirements and conditions without sacrificing high availability ^^^A Kubernetes capability that mounts a chosen storage system|||A Kubernetes capability that performs container auto-placement based on resource requirements and conditions without sacrificing high availability @@@Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What is a label?|||A mechanism for isolating groups of resources within a single Cluster^^^A key-value pair attached to an object^^^The simplest unit in Kubernetes^^^A set of identical running Pod replicas that are horizontally scaled|||A key-value pair attached to an object@@@Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What Kubernetes object should be used for stateless applications?|||DaemonSet^^^ReplicaSet^^^StatefulSet^^^Deployment|||Deployment@@@Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What is Kubectl?|||Kubernetes command line interface (CLI) ^^^OpenShift command line interface (oc) ^^^Docker command line interface ^^^Cloud command line interface |||Kubernetes command line interface (CLI) @@@Module 2 - Graded Quiz: Kubernetes Basics
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 18, 11:59 PM +07|||What is the function of an External Name Service?|||Maps to a DNS name^^^Creates and routes the incoming requests automatically to the ClusterIP Service^^^Directs traffic to the NodePort Service^^^Provides inter-service communication within the Cluster|||Maps to a DNS name

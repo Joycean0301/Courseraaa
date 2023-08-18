@@ -1,0 +1,49 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+6 total points available.
+6 total points|||In the use case illustrated in the video, how does the global flower delivery company leverage the Hybrid Multicloud architecture to meet its requirement of varying capacity demands across different geographies?|||By scaling up their on-premise architecture ^^^By using the automatic provisioning and de-provisioning of resources that cloud offers ^^^By distributing their delivery service application across multiple cloud environments and providers, spread across multiple geographies|||By distributing their delivery service application across multiple cloud environments and providers, spread across multiple geographies@@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+6 total points available.
+6 total points|||Which one of these is an attribute of the microservices architecture approach?|||When one of the microservices of an application stops to function, it disrupts the functioning of the complete application ^^^All the microservices that need to perform a task, need to be bundled in a single container so that they can perform the assigned task ^^^Every new functionality in a microservice needs to be developed from scratch ^^^Microservices breakdown large applications into their core functions to create a fully functional application |||Microservices breakdown large applications into their core functions to create a fully functional application @@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+6 total points available.
+6 total points|||Which of these scenarios is NOT a good use case for serverless architecture?|||Workloads characterized by long-running processes ^^^Stream processing workloads^^^Microservices that can be built as functions that are stateless ^^^Supporting microservices architecture |||Workloads characterized by long-running processes @@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+6 total points available.
+6 total points|||Cloud native applications follow a consistent set of development principles. Identify two of these development principles from the provided options.|||Tightly couple the different functions of the application so that they can work together as a whole ^^^Bring the various single-function components of an application into one huge piece of software ^^^Containerize the microservices for maximum flexibility, scalability, and portability ^^^Break applications down to single-function microservices |||Containerize the microservices for maximum flexibility, scalability, and portability ^^^Break applications down to single-function microservices @@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+6 total points available.
+6 total points|||Which of the following statements describe the DevOps approach and process? Select two.|||A collaborative approach where business owners and development, operations, and quality assurance teams collaborate to continuously deliver software^^^Eliminates the need to monitor performance and availability^^^Eliminates the need to provision servers, build middleware, and install application code ^^^DevOps process defines how people work together to build, deploy, and manage applications in a cloud native environment|||A collaborative approach where business owners and development, operations, and quality assurance teams collaborate to continuously deliver software^^^DevOps process defines how people work together to build, deploy, and manage applications in a cloud native environment@@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+6 total points available.
+6 total points|||Which of the provided options encapsulates the complete application modernization journey?|||The journey from physical servers and VMs to cloud infrastructure. ^^^The journey from waterfall and agile development methodologies to DevOps. ^^^The journey from monolithic and service-oriented architecture to microservices architecture, from physical servers and VMs to cloud infrastructure, and from waterfall and agile methodology to DevOps. ^^^The journey from monolithic and service-oriented architecture to microservices architecture. |||The journey from monolithic and service-oriented architecture to microservices architecture, from physical servers and VMs to cloud infrastructure, and from waterfall and agile methodology to DevOps. 

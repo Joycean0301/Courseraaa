@@ -1,0 +1,33 @@
+Practice Quiz: Full-stack Django Development
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points|||What do templates do in Django?|||List tasks^^^Arrange Django project structure^^^Specify how data is presented^^^Determine which data should be presented|||Specify how data is presented@@@Practice Quiz: Full-stack Django Development
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points|||After the core development work is done in Django apps, what is one thing that could be done to facilitate app content management?|||Add an admin site^^^Add a client site^^^Use a 3rd-party backend library^^^Add another server|||Add an admin site@@@Practice Quiz: Full-stack Django Development
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points|||One of the first steps when building a Django admin site is to create an admin user. What command is used to do this in the Django Admin video?|||python config.py createadmin^^^python manage.py addusername ^^^python manage.py createsuperuser^^^python manage.py adduser |||python manage.py createsuperuser@@@Practice Quiz: Full-stack Django Development
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+4 total points available.
+4 total points|||A view takes an HTTP request and returns an HTTP response. The HTTP response can be a string, a JSON/XML file, or an HTML page with what response status?|||Success status^^^ Error status^^^Informational status ^^^All of the above|||All of the above

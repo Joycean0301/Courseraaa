@@ -1,0 +1,121 @@
+Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is FALSE regarding insurance or intermediaries? |||In the US, the most common way people get insurance is through their employer. ^^^Insurance companies and government programs are two different types of intermediaries. ^^^If you are a healthy person in a risk pool with people of a range of health statuses (i.e. sick and healthy individuals), your premium will likely be higher than your expected spending. ^^^Private insurance can only be obtained through an employer. |||Private insurance can only be obtained through an employer. @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is FALSE regarding healthcare delivery organizations such as physician practices or hospitals in the US?|||Healthcare delivery organizations can be operated by the government.^^^Essentially all delivery organizations are a part of a physician practice or a hospital^^^Physician practices and the facilities in which physicians provide services are always integrated into the same organization.^^^Both non-profit and for-profit organizations face economic pressures.|||Physician practices and the facilities in which physicians provide services are always integrated into the same organization.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||A 50-year-old woman goes to her doctor for her annual physical exam. At the visit, she receives a mammogram and her annual influenza shot. Which level of care does this represent?|||Secondary^^^Quaternary^^^Primary^^^Tertiary|||Primary@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following regarding rising healthcare costs over time is true?|||Aging of the population, increasing standards of living, and the adoption of new technologies, have all contributed to spending growth.^^^Rising costs are easily justified because they almost always result from using expensive new technologies that end up improving population health outcomes.^^^While the total amount of spending on healthcare in the US is increasing, the percent GDP spent on healthcare is not.^^^This trend is only found in the United States.|||Aging of the population, increasing standards of living, and the adoption of new technologies, have all contributed to spending growth.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is true about physician practices?|||Compared to large practices, small practices are more likely to be single-specialty^^^Compared to large practices, small practices tend to offer more in-house laboratory services^^^Compared to large practices, small practices are more likely have multiple locations^^^Compared to large practices, small practices are more likely to have more sophisticated EHR systems|||Compared to large practices, small practices are more likely to be single-specialty@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is MOST likely to incentivize health care providers to over-utilize medical care?|||Fee for service payment system^^^Paying physicians a salary^^^Using “supply-side” tools such as gatekeepers^^^Capitation payment system^^^Increasing the number of expensive but not readily accessible diagnostic tools and services|||Fee for service payment system@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following does NOT accurately describe the Medicare Fee Schedule?|||It was developed by private insurance companies^^^It is updated from time to time^^^Details about it are available for public use ^^^It is weighted in part by both the work a physician puts into a given procedure as well as the risk a physician undertakes in doing that procedure|||It was developed by private insurance companies@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is true regarding the US healthcare system?|||Patients can only see physicians within the same practice so that all of their data is streamlined into one EHR record^^^Payment records are not a useful source of data, as they often do not accurately reflect the amount of care given to a patient^^^When payment records are used, those from capitation systems are more useful than those from fee-for-service systems in assessing care utilization^^^Larger practices are more likely to have complete patient data than smaller practices|||Larger practices are more likely to have complete patient data than smaller practices@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Hospitals in the US can:|||Operate on a for-profit or a not-for-profit basis^^^Be publicly or privately owned^^^Be teaching or non-teaching^^^Have or lack an emergency department (ED)^^^Have or lack an intensive care unit (ICU)^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following accurately describes a hospital network, in the context of U.S. health insurance?|||All hospitals within the same geographic area^^^The group of physicians with admitting privileges at a hospital^^^A group of hospitals with whom an insurer works, and whose enrollees are encouraged to use^^^None of the above|||A group of hospitals with whom an insurer works, and whose enrollees are encouraged to use@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following best describes the DRG system?|||It incentivizes efficient care by paying hospitals based on patient characteristics, not length of stay or services performed^^^It is compatible with paying a hospital on a fee-for-service basis^^^It gives a hospital a single payment for a patient with a given diagnosis, regardless of whether or not that patient is an “outlier”^^^It is a form of retrospective payment|||It incentivizes efficient care by paying hospitals based on patient characteristics, not length of stay or services performed@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||True of False? It is possible for the physician portion of a payment to be paid via a different mechanism (e.g. fee-for-service) than the facility portion.|||True^^^False|||True@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is FALSE regarding Accountable Care Organizations (ACOs)?|||An ACO is an entity that works to integrate and coordinate care by involving a range of physicians who work together but are not necessarily financially integrated^^^When interfacing with intermediaries, the ACO can act on behalf of the participating providers^^^The ACO concept was originally devised by private insurance companies as a way to decrease costs for their members^^^Larger organizations can be better suited to ACO adoption because they can often more easily provide for a wide range of care and manage payment arrangements that can incentivize efficient care|||The ACO concept was originally devised by private insurance companies as a way to decrease costs for their members@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following INCORRECTLY pairs a tool used by intermediaries with an example of its use?|||Tiered formulary- an insurance company requires a smaller copayment from patients when they use the drugs preferred by the company, usually generic drugs. ^^^Pre-admission review- prior to surgery, an insurance company requires that a patient get approval for a hospital stay following surgery, or else the company will not pay for the hospitalization. ^^^Case management- an insurance company works with doctors to ensure that a patient receives appropriate follow-up care after returning home from a hospitalization. ^^^Utilization review- an insurance company asks for a second physician’s opinion before approving a patient’s surgery. |||Case management- an insurance company works with doctors to ensure that a patient receives appropriate follow-up care after returning home from a hospitalization. @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is true regarding public and private health insurance?|||Within the private insurance market in the US, is uncommon for people to need to buy separate coverage for things like optometry or dental care^^^Individual private insurance companies in the US each offer one type of product (e.g. HMO, PPO)^^^Countries have either public insurance or private insurance options, but not both^^^If a government decides to act as a public intermediary, it can decide what type of plan to act most like (e.g. HMO, PPO)|||If a government decides to act as a public intermediary, it can decide what type of plan to act most like (e.g. HMO, PPO)@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following does NOT accurately describe Medicaid?|||Medicaid is a government-run program that covers low-income people^^^Though the Federal government oversees some aspects of Medicaid, a different Medicaid program is operated by each state^^^Medicaid is the only public insurance program in the US with broad coverage for long-term care^^^Most people enrolled in Medicaid have traditional indemnity style insurance coverage|||Most people enrolled in Medicaid have traditional indemnity style insurance coverage@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following is regulated by the FDA?|||Prescription drugs^^^Over-the-counter drugs^^^Medical devices^^^Biologic products^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||You are a drug company finishing your New Drug Application with the US FDA for a newly discovered treatment for Crohn’s disease. You received a 20-year patent in 2012 for your drug, and you are expecting your NDA approval in 2020. Based on this information, how many years will you have with your drug on the market before a generic is able to enter the market as a competitor?|||20 years ^^^12 years ^^^25 years ^^^11 years ^^^8 years |||12 years @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||Which of the following are potential uses of quality data?|||Monitoring and improvement of care^^^Public reporting in order to incentivize future quality improvements and assist patients in provider selection^^^Designing better pay-for-performance metrics^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 3, 11:59 PM +07|||What the major reason risk adjustment methods are important to use when measuring outcomes?|||To account for variation in the types of procedures physicians use to treat the same condition^^^To account for differences in patients presenting with the same condition^^^To account for differences in diagnostic capabilities at different hospitals^^^To account for differences in provider efficiency between geographic regions|||To account for differences in patients presenting with the same condition

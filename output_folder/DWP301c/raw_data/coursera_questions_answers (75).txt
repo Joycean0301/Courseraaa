@@ -1,0 +1,26 @@
+Practice Quiz: Creating Tables, Sorting Results, and Join
+
+Practice Quiz
+.
+ • 6 min
+.
+ • 
+3 total points available.
+3 total points|||Which attributes of columns in a table must always be defined in a CREATE TABLE statement?|||Name and datatype^^^Datatype and number of columns ^^^Datatype and Primary Key constraint ^^^Name and Primary Key constraint|||Name and datatype@@@Practice Quiz: Creating Tables, Sorting Results, and Join
+
+Practice Quiz
+.
+ • 6 min
+.
+ • 
+3 total points available.
+3 total points|||What would you add to this SELECT statement to sort the result set alphabetically by author’s last name? 
+SELECT title, lastname from Author|||ORDER BY column 1 ^^^DESC lastname^^^SORT BY lastname^^^ORDER BY lastname|||ORDER BY lastname@@@Practice Quiz: Creating Tables, Sorting Results, and Join
+
+Practice Quiz
+.
+ • 6 min
+.
+ • 
+3 total points available.
+3 total points|||What is the best definition of a JOIN operator?|||It combines the rows from two or more tables that are related by a common column.^^^It retrieves data from one or more columns of a single table.^^^It combines all the data in two or more tables and replaces the tables with a new table.^^^It combines the rows from two or more tables that are related by a common row.|||It combines the rows from two or more tables that are related by a common column.

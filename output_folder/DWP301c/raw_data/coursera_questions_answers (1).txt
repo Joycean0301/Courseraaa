@@ -1,0 +1,77 @@
+Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||In the US National Institute of Standards and Technology (NIST) definition of “cloud computing”, what does the statement “shared pool of configurable computing resources” include?|||Leverage cloud services over the open internet on hardware owned by the cloud provider^^^Five essential characteristics, three deployment models, three service models^^^Data security, associated with loss or unavailability of data causing business disruption^^^Networks, servers, storage, applications, and services|||Networks, servers, storage, applications, and services@@@Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What tasks do hypervisors accomplish? Select two.|||Scale on demand to support fluctuating workloads.^^^Facilitate access to mainframes for multiple users to access the same data storage layer.^^^Enable multiple operating systems to run alongside each other, sharing the same physical computing resources.^^^Separates VMs logically and assigns each a share of the underlying computing power, memory, and storage.|||Enable multiple operating systems to run alongside each other, sharing the same physical computing resources.^^^Separates VMs logically and assigns each a share of the underlying computing power, memory, and storage.@@@Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What are some of the cloud benefits that make it lower-risk for enterprises to adopt cloud? Select two.|||The pay-as-you-go model allows enterprises to experiment with technologies as opposed to making long-term decisions based on little or no trial.^^^Diversity of standardization in how the constantly evolving technologies integrate and interoperate.^^^Data security associated with loss or unavailability of data causing business disruption^^^The speed with which applications can be up and running on the cloud versus months on traditional platforms, means enterprises can experiment, fail fast, learn, and course correct without setting them back significantly.|||The pay-as-you-go model allows enterprises to experiment with technologies as opposed to making long-term decisions based on little or no trial.^^^The speed with which applications can be up and running on the cloud versus months on traditional platforms, means enterprises can experiment, fail fast, learn, and course correct without setting them back significantly.@@@Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07||| Which of these are full-service cloud platforms?
+
+     A.     IBM Cloud
+
+     B.     Amazon Web Services
+
+     C.      Google Cloud Platform
+
+     D.     Microsoft Azure|||A, B, C, and D^^^A, B, and C only^^^A only^^^A and B only|||A, B, C, and D@@@Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||An IBM Institute for Business Value study says that more than three-quarters of enterprises today are using cloud computing to expand into new industries. What additional benefits do organizations find when adopting the cloud:|||Improve customer experience and create enhanced products and services^^^Lengthen product lifecycles to ensure higher quality offerings^^^Avoid having to fail at all^^^Continue making expensive decisions because it often worked in the past |||Improve customer experience and create enhanced products and services@@@Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What are some of the results companies like Bitly, American Airlines, UBank, and ActivTrades achieve with cloud adoption?
+
+     A.     Better customer service
+
+     B.     Remove barriers to innovation
+
+     C.     Demand for enterprise scale
+
+     D.     Accelerating growth|||A and B only^^^A, B, C, and D^^^B and D only^^^C and D only|||A, B, C, and D@@@Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||IoT, AI, Blockchain, and Analytics are emerging technologies enabled by the cloud. What are some of the attributes of cloud computing that enable these technologies? Select two.|||Computing resources can be accessed via internet connection^^^The power and scale of cloud resources^^^Cloud offers on-demand computing^^^Cloud resources are offered in a single-tenant model|||The power and scale of cloud resources^^^Cloud offers on-demand computing@@@Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is the three-way symbiotic relationship between IoT, AI, and Cloud?|||Power, scale, dynamic nature, and economics of the cloud resources^^^AI consumes the data produced by IoT devices^^^Making sense of the endless streams of data from IoT devices^^^IoT delivers the data, AI powers the insights, and both emerging technologies leverage cloud's scalability and processing power|||IoT delivers the data, AI powers the insights, and both emerging technologies leverage cloud's scalability and processing power@@@Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||What is the three-way relationship between blockchain, AI, and the Cloud?|||Lends trust and transparency to AI by recording the data and variables that go into a decision made in an AI algorithm.^^^Globally distributed, scalable, and cost-efficient computing resources.^^^Blockchain provides an immutable network allowing members to view only those transactions that are relevant to them.^^^Blockchain provides the trusted, decentralized source of truth, AI powers the analytics and decisions made from the collected data, and cloud provides the globally distributed, scalable, and cost-efficient computing resources to support both technologies.|||Blockchain provides the trusted, decentralized source of truth, AI powers the analytics and decisions made from the collected data, and cloud provides the globally distributed, scalable, and cost-efficient computing resources to support both technologies.@@@Module 1 Graded Quiz
+
+Graded Quiz
+.
+ • 30 min
+
+DueJun 11, 11:59 PM +07|||Which of these are essential characteristics of the Cloud? Select two.|||Fixed fee^^^On-demand self-service^^^Resource pooling^^^Single-tenant|||On-demand self-service^^^Resource pooling

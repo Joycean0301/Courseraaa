@@ -1,0 +1,25 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 6 min
+.
+ • 
+3 total points available.
+3 total points|||What does API stand for?|||Automatic Program Interaction^^^Application Programming Interface^^^Application Programming Interaction^^^Application Process Interface|||Application Programming Interface@@@Practice Quiz
+
+Practice Quiz
+.
+ • 6 min
+.
+ • 
+3 total points available.
+3 total points|||The chart used to plot the cryptocurrency data in the lab is a|||Pole Chart^^^Point and Figure Chart^^^Line Chart^^^Candlestick Chart|||Candlestick Chart@@@Practice Quiz
+
+Practice Quiz
+.
+ • 6 min
+.
+ • 
+3 total points available.
+3 total points|||What information are we trying to find for each day in the lab for the chart?|||Open (Last), High (Max), Low (Min), Close (First)^^^Open (Max), High (First), Low (Last), Close (Min)^^^Open (First), High (Max), Low (Min), Close (Last)^^^Open (Min), High (First), Low (Max), Close (Last)|||Open (First), High (Max), Low (Min), Close (Last)

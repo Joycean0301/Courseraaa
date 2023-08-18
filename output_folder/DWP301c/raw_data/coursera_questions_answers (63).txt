@@ -1,0 +1,25 @@
+Practice Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Practice Quiz
+.
+ • 6 min
+.
+ • 
+3 total points available.
+3 total points|||How does OOP model entities?|||Using classes and objects^^^Using cells, sparklines, and filters^^^Using methods, strings, and variables ^^^Using tables, rows, and columns |||Using classes and objects@@@Practice Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Practice Quiz
+.
+ • 6 min
+.
+ • 
+3 total points available.
+3 total points|||What can you use to perform actions on data in databases without writing SQL queries?|||Django Models APIs ^^^SQL object model ^^^SQL queries ^^^Python object model|||Django Models APIs @@@Practice Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+Practice Quiz
+.
+ • 6 min
+.
+ • 
+3 total points available.
+3 total points|||Django only requires relationships be defined on one side, what is this called?|||Related object^^^ Child object^^^Forward access^^^Singular access|||Forward access

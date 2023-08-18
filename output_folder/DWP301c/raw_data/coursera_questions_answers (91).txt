@@ -1,0 +1,41 @@
+Practice Quiz: Create and Deploy Microservices
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following is a challenge of deploying microservices?|||Need to create publicly accessible entry points/URLs for your microservices^^^Require you to connect two microservices via REST APIs^^^Require dynamic scaling of your microservice instances^^^Require building and testing of your microservices|||Require dynamic scaling of your microservice instances@@@Practice Quiz: Create and Deploy Microservices
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following statements about IBM Cloud Code Engine project and application is correct?|||You are allowed to create only one project under your IBM Cloud account.^^^You can have two applications with the same name in two different projects.^^^You can have two applications with the same name in one project.^^^You are allowed to create only one application for each project.|||You can have two applications with the same name in two different projects.@@@Practice Quiz: Create and Deploy Microservices
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which of the following is a feature of containers?|||It is suitable for microservice architecture^^^It is not portable^^^It is dependent on other software for execution^^^It runs on specific devices|||It is suitable for microservice architecture@@@Practice Quiz: Create and Deploy Microservices
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which are the two main interfaces to deploy applications on IBM Cloud Code Engine?|||REST APIs and IBM Cloud Console^^^IBM Cloud CLI and REST APIs^^^Secure Copy Protocol (SCP) and REST API^^^IBM Cloud Console and IBM Cloud CLI|||IBM Cloud Console and IBM Cloud CLI@@@Practice Quiz: Create and Deploy Microservices
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Which is a feature of Code Engine Jobs?|||Designed for one-time execution of your code^^^Data processing tasks cannot be deployed as Jobs.^^^Only one job instance can be deployed.^^^Once deployed, Job provides publicly accessible web end points|||Designed for one-time execution of your code

@@ -1,0 +1,133 @@
+Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following forces are likely responsible for the acceleration interest in developing and application of AI in healthcare:|||Large scale adoption of digital health records^^^Requirement of computer science training in medical school^^^Computer science algorithms replacing medical workers^^^Slowed growth in computing processing power|||Large scale adoption of digital health records@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following are potential applications of machine learning in healthcare: |||Optimizing care delivery^^^Healthcare Information Management ^^^Cognitive support for clinical care and prediction^^^Early detection and personalized risk assessment^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements most accurately describes machine learning?|||Machine learning more commonly focuses on a-priori assumptions about data^^^Machine learning focuses on interpretability over performance^^^Machine learning systems tend to improve performance for a given task with larger quantities of data^^^Machine learning emphasizes obtaining small samples of data to generate predictive models|||Machine learning systems tend to improve performance for a given task with larger quantities of data@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following schematics best represents a machine learning paradigm to model building?|||^^^^^^^^^|||@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is the purpose of the validation set?|||To measure the generalization performance of the model, without overfitting the test set.^^^To introduce noise to the dataset, enabling the model to become more robust to unseen data.^^^To prevent the model from memorizing the training set through randomly turning off some of the model weights.^^^To allow the model to see extra training samples during the optimization step.|||To measure the generalization performance of the model, without overfitting the test set.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is an example of unstructured data?|||Patient BMI^^^Patient sex^^^Patient CT ^^^All numerical values in a patient’s medical record.|||Patient CT @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is a decision boundary?|||A metric that determines when the model can be used on real patient data.^^^A metric that differentiates radiologists from statistical models.^^^The line predicted by a regression model.^^^The line at which a classifier’s predictions change from one value to another.|||The line at which a classifier’s predictions change from one value to another.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What algorithm allows neural networks to train?|||Gradient descent^^^Expectation-Maximization (EM)^^^Data augmentation^^^Matrix factorization|||Gradient descent@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Why would one use an RNN instead of a fully connected network (DNN)?|||RNNs use gradient descent in order minimize loss, and DNNs do not.^^^DNNs can only comprise of a single hidden layer, and RNNs can comprise of many hidden layers.^^^DNNs use word embeddings in order to process text, but RNNs can process text directly.^^^RNNs can handle variable sized inputs.|||RNNs can handle variable sized inputs.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What are word embeddings?|||Vectors that represent images as words^^^Language models used in industry^^^Language models that are faster than RNNs due to their GPU parallelization capabilities^^^Representations of words that allow them to be processed by neural networks|||Representations of words that allow them to be processed by neural networks@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Why would one use a Transformer instead of a fully connected network (DNN)?|||Transformers are faster than DNNs.^^^Transformers can relate sequential input to one another, and DNNs cannot. ^^^DNNs process text all at once, and Transformers process text one at a time.^^^DNNs use filters in order to process sequential input, but Transformers do not.|||Transformers can relate sequential input to one another, and DNNs cannot. @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What happens when a model is overfitting?|||It achieves good performance on training data, and on unseen data.^^^It achieves bad performance on training data, and on unseen data.^^^It achieves good performance on unseen data, but not on the training set.^^^It achieves good performance on training data, but not on unseen data.|||It achieves good performance on training data, but not on unseen data.@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is one way to address overfitting? |||Increase the number of parameters in the model.^^^Add a weight decay term in the loss function. ^^^Remove data from the validation set.^^^Remove clinical variables from the input data.|||Add a weight decay term in the loss function. @@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||What is one factor that will most influence the choice of operating point for a model?|||Severe side effects associated with treatment^^^The average loss of the model during training^^^The number of hyperparameters in the model^^^The cost of training the model|||Severe side effects associated with treatment@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is an approach to evaluate the interpretability of a trained deep learning model?|||Feature data spotting^^^Color topography^^^Visibility sectors^^^Saliency maps|||Saliency maps@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which statement best represents the relationship between machine learning and functions learned from data?|||The function (trained model) represents associations between data and labels and are most often correlations^^^The function (trained model) represents associations between data and labels and are most often causative^^^The function (trained model) represents associations between data and labels that are encoded via a rules-based method^^^The function (trained model) represents associations between data and labels that are already known|||The function (trained model) represents associations between data and labels and are most often correlations@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is an accurate statement about data in machine learning model development and deployment? |||Heterogeneity of data sources is an advantage for machine learning applications.^^^There is rarely a difference between the data used in training and the data used in practice^^^Missing data is not a challenge for EHR data sources.^^^Missing data can lead to biased results and model failure in practice|||Missing data can lead to biased results and model failure in practice@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||You have developed a supervised machine learning model to predict patients in your practice who have >90%  risk of acute stroke in a 6 month window.  After reviewing the model performance, your team has determined that the prediction model is using annual income in order to predict stroke risk.  Which of the following represents the BEST application of this model: |||Deploy the model in a managed care organization to make financial risk estimates for cost projections^^^Deploy the model in a primary care practice to provide clinical decision support for medication and therapeutic decisions^^^Deploy the model in an emergency room to triage patients presenting with symptoms concerning for stroke^^^Deploy the model in a smartphone app for patients to use in making lifestyle and health decisions|||Deploy the model in a managed care organization to make financial risk estimates for cost projections@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Choose the definition that best describes the “output action pair” framework to clinical machine learning project development:|||The output-action pair is an approach for choosing between different machine learning model architectures^^^The output-action pair is an approach for estimating valuation for medical AI startups^^^The output-action pair is an approach for exploring whether a clinical problem is worth solving with machine learning^^^The output-action pair is an approach for planning marketing slogans for clinical machine learning applications in the commercial marketplace|||The output-action pair is an approach for exploring whether a clinical problem is worth solving with machine learning@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following are considered critical skills to have in an ideal clinical machine learning model team?|||Data Scientist^^^Domain Expert^^^Biostatistics^^^Health IT^^^All of the above|||All of the above@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following is NOT an example of an important question to answer in before choosing a clinical problem to address with machine learning?|||What are the mechanics of executing the intervention? ^^^Which hyper-parameter settings are best for the neural network?^^^What is the capacity to intervene given existing resources?^^^Who is the target user of the model’s output? |||Which hyper-parameter settings are best for the neural network?@@@Final Assessment
+
+Graded Quiz
+.
+ • 1h
+
+DueSep 10, 11:59 PM +07|||Which of the following statements about bias in clinical machine learning is TRUE:|||Most clinical machine learning applications are based on unbiased data leading to wide generalizability^^^Clinical machine learning applications are likely to replace most skilled clinical roles and disproportionately spare roles traditionally held by under-represented groups^^^Clinical machine learning applications could further disseminate medical knowledge to reduce access disparities in under-served populations^^^Machine learning and computer science is widely recognized as a racially and gender diverse field |||Clinical machine learning applications could further disseminate medical knowledge to reduce access disparities in under-served populations

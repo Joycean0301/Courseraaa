@@ -1,0 +1,43 @@
+Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07|||What learning phenomena is the team observing now? |||Generalization^^^Underfitting^^^Overfitting^^^Convergence|||Overfitting@@@Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07|||What are some techniques that can be applied in order to improve generalization performance? Check all that apply.  |||Increasing the number of model parameters^^^Weight decay (L2 regularization)^^^Early stopping^^^Dropout^^^Stronger data augmentation|||Weight decay (L2 regularization)^^^Early stopping^^^Dropout^^^Stronger data augmentation@@@Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07|||What is weight decay? |||An added penalty in the loss function that mitigates class imbalance^^^An added penalty in the loss function that encourages semantic clustering in feature space^^^An added penalty in the loss function that discourages models from becoming overly complex^^^An added penalty in the loss function that ensures the model is well calibrated|||An added penalty in the loss function that discourages models from becoming overly complex@@@Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07|||What does dropout do?|||Dropout randomly removes layers in the network during training in order to improve the rate of convergence^^^Dropout randomly removes neurons in the network during training in order to prevent overreliance on any one neuron^^^Dropout randomly removes layers in the network during training in order to prevent overreliance on any one layer^^^Dropout randomly removes neurons in the network during training in order to improve the rate of convergence|||Dropout randomly removes neurons in the network during training in order to prevent overreliance on any one neuron@@@Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07|||Which of the following are tunable hyperparameters? Check all that apply. |||Learning rate^^^Dropout probability^^^Model weights^^^Weight decay strength|||Learning rate^^^Dropout probability^^^Weight decay strength@@@Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07|||The team is noticing counterintuitive results regarding the performance of the model when measured with accuracy and AUROC. What is likely occurring? NOTE: There are 27,000 COVID-negative exams and 3,000 COVID-positive exams, a breakdown of 90% negative cases and 10% positive cases.|||AUROC is a poor metric for performance because it can only be used in multi-class settings^^^Accuracy is a poor metric for performance because of the high class imbalance^^^Accuracy is a poor metric for performance because of the small number of samples in the test set^^^AUROC is a poor metric for performance because they have a predetermined threshold in mind|||Accuracy is a poor metric for performance because of the high class imbalance@@@Phase 3. Project 1
+
+Graded Quiz
+.
+ • 30 min
+
+DueAug 6, 11:59 PM +07|||Further analysis shows that the model is predicting that every patient is COVID-negative. What can be done to mitigate this effect? Check all that apply.  |||Using dropout during training to improve performance on the test set^^^Lowering the learning rate to improve convergence^^^Undersampling COVID-positive exams during training^^^Upweighting COVID-positive exams loss during training|||Undersampling COVID-positive exams during training^^^Upweighting COVID-positive exams loss during training

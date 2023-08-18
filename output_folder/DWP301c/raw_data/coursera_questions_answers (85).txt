@@ -1,0 +1,41 @@
+Practice Quiz: Introduction to Microservices
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Twelve factor methodology expects the processes to be: Select two answers.|||Generating and maintaining logging mechanism^^^Stateless and share nothing^^^Embedding config details^^^Centrally store the data|||Stateless and share nothing^^^Centrally store the data@@@Practice Quiz: Introduction to Microservices
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||In a microservices architecture you should segregate services based on ______ |||Functional requirements^^^Dependencies^^^Release cycles^^^Different configuration|||Functional requirements@@@Practice Quiz: Introduction to Microservices
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||SOA components are:|||Agile^^^Tightly coupled^^^Simple^^^Reusable|||Reusable@@@Practice Quiz: Introduction to Microservices
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Single page application (SPA): Select two answers:|||Supports side-by-side implementation^^^Inserts a layer between user experience and the resource that calls it^^^Is built using HTML, CSS and JavaScript^^^Updates dynamically using calls to backing REST-based services|||Is built using HTML, CSS and JavaScript^^^Updates dynamically using calls to backing REST-based services@@@Practice Quiz: Introduction to Microservices
+
+Practice Quiz
+.
+ • 10 min
+.
+ • 
+5 total points available.
+5 total points|||Microservices should have:|||Automation for deployment and monitoring^^^Custom logging functionality^^^Dependencies on other services^^^Shared storage|||Automation for deployment and monitoring

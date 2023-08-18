@@ -1,0 +1,51 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What is the result of the following: Name[0]|||"i"^^^"M"^^^"n"|||"M"@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What is the result of the following: Name[-1]|||"M"^^^"o"^^^"n"|||"n"@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What is the output of the following: print("AB\nC\nDE")|||ABC
+
+DE^^^AB
+
+C
+
+DE^^^AB
+
+CD
+
+E|||AB
+
+C
+
+DE@@@Practice Quiz
+
+Practice Quiz
+.
+ • 12 min
+.
+ • 
+4 total points available.
+4 total points|||What is the result of following? 
+
+"hello Mike".find("Mike") 
+
+If you are unsure, copy and paste the code into Jupyter Notebook and check.|||5^^^6^^^6,7,8|||6

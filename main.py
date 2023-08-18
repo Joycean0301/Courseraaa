@@ -4,9 +4,12 @@ import json
 import glob
 import logging
 import pandas as pd
+import argparse
+import sys
 logging.basicConfig(level=logging.INFO)
 
-def merge_txt():
+
+def merge_txt(history_row = None):
     """Merge all txt file in 'input_folder' into one single file in json and csv format.
     - The json file: use for auto fill question. More details in README.md
     - The csv file: use for store data 
@@ -20,49 +23,41 @@ def merge_txt():
         data_txt (txt): Data in csv format, use for making flashcard.
     """
 
-    # Create Data
-    data = {'Question': [], 'Answer': [], 'Correct': [], 'Title': []}
-    data_df = pd.DataFrame(data)
-    data_json = []
-    data_txt = ''
+    # Define variable
+    json_file_folder = sorted(glob.glob("input_folder/*.json"),reverse=False)
+    logging.info(f'Find {len(json_file_folder)} json files in input_folder...')
+    df_structure = {'Question': [], 'Answer': [], 'Correct': [], 'Title': []}
+    seen_value = set()  # Track seen names
+    DATA_DF = pd.DataFrame(df_structure)
+    DATA_TXT = ''
+    DATA_JSON = []  # Create a new list to store unique objects
 
+    # Loop through all json file too merge it all together
+    for json_path in json_file_folder:
+        # Load data from JSON file
+        with open(json_path, "r") as file:
+            json_file_data = json.load(file)
 
-    # Passing all txt file in folder
-    txt_file_folder = glob.glob("input_folder/*.txt")
-    logging.info(f'Find {len(txt_file_folder)} txt files in input_folder...')
-    for txt_path in txt_file_folder:
-        with open(txt_path,'r',encoding="utf-8") as file:
-            txt_file = file.read()
-        
-        # Split each question-answer base on @@@
-        list_QA = txt_file.split('@@@')
+        # Iterate through each object in the original data
+        for obj in json_file_data:
+            identity_value = ''.join(sorted(obj['Question'] + ''.join(obj['Answer']) + ''.join(obj['Correct']),reverse=False))
+            if identity_value not in seen_value: # filter duplicate items
+                if (len(obj['Question']) != 0) and (len(''.join(obj['Answer'])) != 0) and (len(''.join(obj['Correct'])) != 0): # filter empty question
+                    DATA_JSON.append(obj)
+                    seen_value.add(identity_value)
 
-        # Passing all question-answer
-        for ele in list_QA:
-            info = ele.split('|||')
-            title, question, answer, correct = info[0], info[1], info[2].replace('^^^','\n\n'), info[3].replace('^^^','\n\n')
-            
-            # Update to csv file
-            data_df.loc[len(data_df)] = [question,answer,correct,title]
+    # Update data to txt and dataframe
+    for object in DATA_JSON:
+        DATA_TXT += object['Question'] + '\n' + '-'*20 + '\n' + '\n'.join(object['Answer']) + '@@@@@' + '\n'.join(object['Correct']) + '#####'
+        DATA_DF.loc[len(DATA_DF)] = [object['Question'],'\n'.join(object['Answer']),'\n'.join(object['Correct']),object['Title']]
+    # Loggin the change
+    if history_row == None:
+        logging.info(f'Add new {len(DATA_DF)} questions in dataset')
+    else:
+        logging.info(f'Upgrade {history_row} -> {len(DATA_DF)} questions in dataset')
+    
 
-            # Update to json file
-            temp_dict = {}
-            temp_dict.update({'Question':question})
-            temp_dict.update({'Answer':answer.split('\n\n')})
-            temp_dict.update({'Correct':correct.split('\n\n')})
-            temp_dict.update({'Title':title})
-            data_json.append(temp_dict)
-
-            # Update to txt file
-            data_txt += question + '\n' + '-'*20 + '\n' + answer + '@@@@@' + correct + '#####'
-
-    # remove duplicate in dataframe
-    data_df['check_duplicate'] = data_df['Question'] + data_df['Answer'] + ['Correct']
-    data_df['check_duplicate'] = data_df['check_duplicate'].apply(lambda x: ''.join(sorted(x)))
-    data_df.drop_duplicates(subset=['check_duplicate'],inplace=True)
-    data_df.drop(columns=['check_duplicate'],inplace=True)
-
-    return data_df, data_json, data_txt
+    return DATA_DF, DATA_JSON, DATA_TXT
 
 
 def create_output_folder():
@@ -73,6 +68,40 @@ def create_output_folder():
         logging.info('Create output folder.')
     else:
         logging.info('Folder output already exists.')
+
+
+def check_recreate(name:str):
+    """check if mooc exist or not
+          - if yes: move data back to update
+          - if no: do nothing
+
+    Args:
+        name (str): path of current data
+    """
+    if name is None:
+        logging.info('Argument --name is empty...')
+        sys.exit()
+    elif name in os.listdir('output_folder'):
+        # move all json file to input_folder
+        input_folder = glob.glob(f'output_folder/{name}/raw_data/*.json')
+        for old_path in input_folder:
+            new_path = old_path.replace(f'output_folder/{name}/raw_data/','input_folder/')
+            os.rename(old_path,new_path)
+
+        # log past num question
+        history_rows = int(len(pd.read_csv(f'output_folder/{name}/data.csv')))
+
+        # delete folder
+        os.remove(f'output_folder/{name}/data.csv')
+        os.remove(f'output_folder/{name}/data.txt')
+        os.remove(f'output_folder/{name}/data.json')
+        os.rmdir(f'output_folder/{name}/raw_data')
+        os.rmdir(f'output_folder/{name}')
+        logging.info('Mooc exist, re-create mooc')
+        return history_rows
+    else:
+        logging.info('Creating new mooc')
+        return None
 
 
 def save_result(filename, dataframe_data, json_data, txt_quizlet_data):
@@ -89,18 +118,18 @@ def save_result(filename, dataframe_data, json_data, txt_quizlet_data):
     os.makedirs(f'output_folder/{filename}/raw_data') #create folder
 
     # Save info to csv file
-    dataframe_data.to_csv(f'output_folder/{file_name}/data.csv',index=False)
+    dataframe_data.to_csv(f'output_folder/{filename}/data.csv',index=False)
 
     # Save info to json file
-    with open(f'output_folder/{file_name}/data.json', 'w') as json_file:
+    with open(f'output_folder/{filename}/data.json', 'w') as json_file:
         json.dump(json_data, json_file, indent=4)
     
     # Save info to txt file
-    with open(f'output_folder/{file_name}/data.txt', 'w') as txt_file:
+    with open(f'output_folder/{filename}/data.txt', 'w') as txt_file:
         txt_file.write(txt_quizlet_data)
 
     # Move data to output_folder
-    input_folder = glob.glob('input_folder/*.txt')
+    input_folder = glob.glob('input_folder/*.json')
     for old_path in input_folder:
         new_path = old_path.replace('input_folder/',f'output_folder/{filename}/raw_data/')
         os.rename(old_path,new_path)
@@ -108,12 +137,19 @@ def save_result(filename, dataframe_data, json_data, txt_quizlet_data):
 
 
 if __name__ == "__main__":
-    create_output_folder()
+    parser = argparse.ArgumentParser(description='get input data from source')
+    parser.add_argument('--name',type=str,default=None)
+    args = parser.parse_args()
 
-    data_df, data_json, data_txt = merge_txt()
-    file_name = str(input('Input subject name: '))
+    create_output_folder()
+    history_row = check_recreate(args.name)
     
-    save_result(file_name,data_df,data_json,data_txt)
+    data_df, data_json, data_txt = merge_txt(history_row=history_row)
+    
+    save_result(filename=args.name,
+                dataframe_data=data_df,
+                json_data=data_json,
+                txt_quizlet_data=data_txt)
     logging.info('Merge Complete!!!')
 
 

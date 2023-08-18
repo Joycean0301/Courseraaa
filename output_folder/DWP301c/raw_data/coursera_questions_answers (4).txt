@@ -1,0 +1,97 @@
+Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+12 total points available.
+12 total points|||The infrastructure layer is the foundation of the cloud and consists of physical resources. Where do these physical resources reside? |||Regions, Zones, and Data Centers^^^Virtual Servers, Bare Metal Servers, and Serverless computing resources^^^In a warehouse that houses a centralized mainframe server^^^Compute, Storage, and Networking Resources |||Regions, Zones, and Data Centers@@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+12 total points available.
+12 total points|||Virtualization is the process of creating a software-based or virtual version of something. What is typically created with virtualization in the cloud?|||Oracle VirtualBox, VMware Workstation^^^Servers, storage devices, networking resources, and applications ^^^VMware ESX and ESXI, Microsoft Hyper-V, open-source KVM ^^^Windows, Linux, UNIX |||Servers, storage devices, networking resources, and applications @@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+12 total points available.
+12 total points|||Which type of Virtual Machine (VM) takes advantage of unused capacity in data centers at a much lower cost than regular VMs of similar sizes?|||Shared or Public Cloud VMs ^^^Reserved virtual servers ^^^Transient or Spot VMs ^^^Dedicated hosts |||Transient or Spot VMs @@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+12 total points available.
+12 total points|||Why do bare metal servers take longer to provision than virtual servers?|||Customer configures the physical servers ^^^GPUs for data analytics are hard to configure and provision ^^^They're multi-tenant servers, and all tenants must help configure them ^^^They are physical servers that can be customized to specified capacity|||They are physical servers that can be customized to specified capacity@@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+12 total points available.
+12 total points|||Which part of a logically segmented cloud network is the main area where security is implemented?|||Load balancers ^^^Networking spaces ^^^Logical instances of networking elements^^^Subnets |||Subnets @@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+12 total points available.
+12 total points|||What benefits do runtime engines provide to containers?|||Uses device drivers targeting the abstract machine^^^Allows multiple OS and applications to run simultaneously and share resources ^^^Share the operating system (OS) with other containers ^^^Serves as an interface between the VM and underlying physical hardware    |||Share the operating system (OS) with other containers @@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+12 total points available.
+12 total points|||There are four main types of cloud storage available. Which storage type is sometimes called "Local Storage"?|||Direct Attached ^^^File Storage ^^^Object Storage ^^^Block Storage |||Direct Attached @@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+12 total points available.
+12 total points|||What is File Storage sometimes called?|||COS ^^^Ethernet^^^Remote storage appliances^^^NFS|||NFS@@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+12 total points available.
+12 total points|||Which of these statements is true of File Storage but not Object Storage? Select two.|||Highly resilient and available^^^Storage is attached to compute nodes using an ethernet network ^^^Include data encryption at rest and in transit    ^^^Based on the load, speed of the connecting network can be inconsistent |||Storage is attached to compute nodes using an ethernet network ^^^Based on the load, speed of the connecting network can be inconsistent @@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+12 total points available.
+12 total points|||Which of the following is NOT a good fit for Object Storage?|||Operating systems or applications like databases ^^^Files or objects that are static ^^^Storage needs are finite and can be pre-defined^^^Data that does not require fast read and write speeds|||Operating systems or applications like databases @@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+12 total points available.
+12 total points|||What is a standard tier bucket in Object Storage typically used for?|||Storing objects that are frequently accessed ^^^Storing objects that are only accessed once or twice a month or less ^^^Supporting applications that need consistent fast access to disk, such as databases^^^Storing data that is typically accessed only once or twice a year |||Storing objects that are frequently accessed @@@Practice Quiz
+
+Practice Quiz
+.
+ • 30 min
+.
+ • 
+12 total points available.
+12 total points|||What is a Content Delivery Network (CDN)?|||Network topology^^^A distributed server network ^^^A network node ^^^A network link|||A distributed server network 
