@@ -1,0 +1,4 @@
+.DS_Store
+output_folder/*.DS_Store
+quiz_learn.py
+quiz_test.py

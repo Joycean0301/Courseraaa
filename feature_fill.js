@@ -17,8 +17,10 @@ button.style.borderRadius = "10px";
 document.body.appendChild(button);
 
 
+// Folder Name
+const FOLDER_NAME = "ASR301c"
 // URL file Json
-const url_json = chrome.runtime.getURL('output_folder/introduction-to-cloud/data.json');
+const url_json = chrome.runtime.getURL(`output_folder/${FOLDER_NAME}/data.json`);
 
 
 // Function to crawl questions and answers and save them into a text file
@@ -29,9 +31,9 @@ function fillQuestionsAndAnswers() {
   // Pass each block of QA
   for (var i = 0; i < question_answers.length; i++) {
     // Define QA
-    const question = question_answers[i].querySelector('.rc-FormPartsQuestion__contentCell').innerText;
+    const question = question_answers[i].querySelector(".rc-FormPartsQuestion__contentCell").innerText;
     // const answers = question_answers[i].querySelectorAll('label._1oyudm1w');
-    const answers = question_answers[i].querySelectorAll('label.cui-Checkbox');
+    const answers = question_answers[i].querySelectorAll("label.cui-Checkbox");
     
     
     // create answer_check_1

@@ -19,61 +19,55 @@ document.body.appendChild(button);
 // Function to crawl questions and answers and save them into a text file
 function crawlQuestionsAndAnswers() {
   try{
-  // Check in the right page
+  // Check in the right page if not: crash whole system 
   var check_point = document.querySelector('.css-k008qs').innerText;
   
-
   // Title of course
   var title = document.querySelector('.rc-TunnelVisionHeader').innerText;
   // Code to crawl questions and answers here
   var questions_answers = document.querySelectorAll(".rc-FormPartsQuestion"); // Adjust the selector based on the structure of the Coursera page
 
-  var data = "";
+  // Loop through all questions
+  var data = [];
   for (var i = 0; i < questions_answers.length; i++) {
-    var point = questions_answers[i].querySelector('.rc-FormPartsQuestion__pointsCell').innerText
-    
+    var point = questions_answers[i].querySelector('.rc-FormPartsQuestion__pointsCell').innerText 
     if (point == '1 / 1 point'){
 
       var question = questions_answers[i].querySelector('.rc-FormPartsQuestion__contentCell').innerText;
       var answers = questions_answers[i].querySelectorAll('.rc-Option.rc-Option--isReadOnly')
       var corrects = questions_answers[i].querySelectorAll('.cui-isChecked')
-
-      //seperate question
-      if (i!== 0){
-        data += '@@@'
-      }
-      data += title + '|||'
-
-      //question
-      data += question + "|||"
-
+      temp_data = {}
+      temp_data['Question'] = question
+      temp_data['Answer'] = []
+      temp_data['Correct'] = []
+      temp_data['Title'] = title
+      
       //answers
       for (var j = 0; j < answers.length; j++) {
-          if (j!== 0){
-              data += '^^^'
-          }
-          data += answers[j].innerText 
+        temp_data['Answer'].push(answers[j].innerText)
       }
-      data += "|||"
-
       //corrects
       for (var j = 0; j < corrects.length; j++) {
-          if (j!== 0){
-              data += '^^^'
-          }
-          data += corrects[j].innerText 
+        temp_data['Correct'].push(corrects[j].innerText)
       }
-
+      //push to final data
+      data.push(temp_data)
    }
   }
+
+  // create file name
+  const currentDate = new Date();
+  const formattedTime = `${(currentDate.getMonth() + 1).toString().padStart(2, '0')}-${currentDate.getDate().toString().padStart(2, '0')}-${currentDate.getHours().toString().padStart(2, '0')}h-${currentDate.getMinutes().toString().padStart(2, '0')}m-${currentDate.getSeconds().toString().padStart(2, '0')}s.json`;
   
-  var blob = new Blob([data], { type: "text/plain" });
+  // create download object
+  const dataString = JSON.stringify(data, null, 2);
+  var blob = new Blob([dataString], { type: "application/json" });
   var url = URL.createObjectURL(blob);
 
   // Create a download link and click it to initiate the download
   var a = document.createElement("a");
   a.href = url;
-  a.download = "coursera_questions_answers.txt";
+  a.download = formattedTime;
   a.click();
   alert('Download Complete!!!')
   }
