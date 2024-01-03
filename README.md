@@ -18,11 +18,11 @@ Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Develop
 ## Download question
 
 - Step 1: Go to Coursera Quiz -> Click **Download** button 
-- Step 2: Put all txt in `..\Courseraaa\input_folder` folder -> Run file `..\Courseraaa\main.py` -> Input file name subject -> result in: `..\Courseraaa\output_folder`.
+- Step 2: Put all json file (contain correct answer) in `..\Courseraaa\input_folder` folder -> Run file `..\Courseraaa\main.py` -> Input file name subject -> result in: `..\Courseraaa\output_folder`.
 
 ![Screenshot from 2023-06-02 03-04-22](https://github.com/Joycean0301/Courseraaa/assets/103662477/5e371b37-e33b-4ca4-948f-340460409f2c)
 
-
+[main.py]
 
 
 ## Automatically filled
