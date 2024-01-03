@@ -22,7 +22,7 @@ Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Develop
 
 ![Screenshot from 2023-06-02 03-04-22](https://github.com/Joycean0301/Courseraaa/assets/103662477/5e371b37-e33b-4ca4-948f-340460409f2c)
 
-[mainpy](main.py)
+
 
 
 ## Automatically filled
