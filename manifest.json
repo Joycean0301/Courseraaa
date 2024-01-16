@@ -1,23 +1,30 @@
 {
-    "manifest_version": 2,
-    "name": "Coursera Tỏọl",
-    "version": "69.96",
-    "permissions": ["activeTab", "downloads"],
-    "web_accessible_resources": ["output_folder/*.json"],
-    "background": {
-      "scripts": ["background.js"],
-      "persistent": false
-    },
-    "browser_action": {
-      "default_title": "Crawl Questions and Answers"
-    },
-    "icons": {
-      "48": "icon.png"
-    },
-    "content_scripts": [
-      {
-        "matches": ["https://www.coursera.org/*"],
-        "js": ["feature_download.js","feature_fill.js"]
-      }
-    ]
-  }
+  "manifest_version": 3,
+  "name": "Coursera Tỏọl",
+  "version": "69.96",
+  "permissions": ["activeTab", "downloads"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png"
+    }
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["output_folder/*.json"],
+      "matches": ["https://www.coursera.org/*"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "48": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.coursera.org/*"],
+      "js": ["feature_download.js","feature_fill.js"]
+    }
+  ]
+}

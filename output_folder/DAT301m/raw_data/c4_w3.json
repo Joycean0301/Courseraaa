@@ -1,0 +1,106 @@
+[
+  {
+    "Question": "If X is the standard notation for the input to an RNN, what are the standard notations for the outputs?",
+    "Answer": [
+      "Y",
+      "H",
+      "Y(hat) and H",
+      "H(hat) and Y"
+    ],
+    "Correct": [
+      "Y(hat) and H"
+    ],
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+  },
+  {
+    "Question": "What is a sequence to vector if an RNN has 30 cells numbered 0 to 29",
+    "Answer": [
+      "The average Y(hat) for all 30 cells",
+      "The Y(hat) for the second cell",
+      "The Y(hat) for the last cell",
+      "The total Y(hat) for all cells"
+    ],
+    "Correct": [
+      "The Y(hat) for the last cell"
+    ],
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+  },
+  {
+    "Question": "What does a Lambda layer in a neural network do?",
+    "Answer": [
+      "Changes the shape of the input or output data",
+      "Allows you to execute arbitrary code while training",
+      "There are no Lambda layers in a neural network",
+      "Pauses training without a callback"
+    ],
+    "Correct": [
+      "Allows you to execute arbitrary code while training"
+    ],
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+  },
+  {
+    "Question": "What does the axis parameter of tf.expand_dims do?",
+    "Answer": [
+      "Defines the dimension index to remove when you expand the tensor",
+      "Defines the axis around which to expand the dimensions",
+      "Defines the dimension index at which you will expand the shape of the tensor ",
+      "Defines if the tensor is X or Y"
+    ],
+    "Correct": [
+      "Defines the dimension index at which you will expand the shape of the tensor "
+    ],
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+  },
+  {
+    "Question": "A new loss function was introduced in this module, named after a famous statistician. What is it called?",
+    "Answer": [
+      "Hubble loss",
+      "Huber loss",
+      "Hawking loss",
+      "Hyatt loss"
+    ],
+    "Correct": [
+      "Huber loss"
+    ],
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+  },
+  {
+    "Question": "What’s the primary difference between a simple RNN and an LSTM",
+    "Answer": [
+      "In addition to the H output, RNNs have a cell state that runs across all cells ",
+      "LSTMs have multiple outputs, RNNs have a single one",
+      "In addition to the H output, LSTMs have a cell state that runs across all cells ",
+      "LSTMs have a single output, RNNs have multiple"
+    ],
+    "Correct": [
+      "In addition to the H output, LSTMs have a cell state that runs across all cells "
+    ],
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+  },
+  {
+    "Question": "If you want to clear out all temporary variables that tensorflow might have from previous sessions, what code do you run?",
+    "Answer": [
+      "tf.keras.clear_session",
+      "tf.cache.clear_session()",
+      "tf.keras.backend.clear_session()  ",
+      "tf.cache.backend.clear_session()"
+    ],
+    "Correct": [
+      "tf.keras.backend.clear_session()  "
+    ],
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+  },
+  {
+    "Question": "What happens if you define a neural network with these two layers?\n\ntf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32)),\n\ntf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32)),\n\ntf.keras.layers.Dense(1),",
+    "Answer": [
+      "Your model will fail because you have the same number of cells in each LSTM",
+      "Your model will fail because you need return_sequences=True after each LSTM layer",
+      "Your model will compile and run correctly",
+      "Your model will fail because you need return_sequences=True after the first LSTM layer"
+    ],
+    "Correct": [
+      "Your model will fail because you need return_sequences=True after the first LSTM layer"
+    ],
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+  }
+]

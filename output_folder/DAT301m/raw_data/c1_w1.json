@@ -1,0 +1,90 @@
+[
+  {
+    "Question": "What is the difference between traditional programming and Machine Learning?",
+    "Answer": [
+      "Machine learning identifies complex activities such as golf, while traditional programming is better suited to simpler activities such as walking.",
+      "In traditional programming, a programmer has to formulate or code rules manually, whereas, in Machine Learning, the algorithm automatically formulates the rules from the data."
+    ],
+    "Correct": [
+      "In traditional programming, a programmer has to formulate or code rules manually, whereas, in Machine Learning, the algorithm automatically formulates the rules from the data."
+    ],
+    "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+  },
+  {
+    "Question": "What do we call the process of telling the computer what the data represents (i.e. this data is for walking, this data is for running)?",
+    "Answer": [
+      "Labelling the Data",
+      "Categorizing the Data",
+      "Learning the Data",
+      "Programming the Data"
+    ],
+    "Correct": [
+      "Labelling the Data"
+    ],
+    "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+  },
+  {
+    "Question": "What is a Dense layer?",
+    "Answer": [
+      "A single neuron",
+      "A layer of disconnected neurons",
+      "An amount of mass occupying a volume",
+      "A layer of neurons fully connected to its adjacent layers"
+    ],
+    "Correct": [
+      "A layer of neurons fully connected to its adjacent layers"
+    ],
+    "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+  },
+  {
+    "Question": "How do you measure how good the current ‘guess’ is?",
+    "Answer": [
+      "Training a neural network",
+      "Figuring out if you win or lose",
+      "Using the Loss function"
+    ],
+    "Correct": [
+      "Using the Loss function"
+    ],
+    "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+  },
+  {
+    "Question": "What does the optimizer do?",
+    "Answer": [
+      "Decides to stop training a neural network",
+      "Generates a new and improved guess",
+      "Measures how good the current guess is",
+      "Figures out how to efficiently compile your code"
+    ],
+    "Correct": [
+      "Generates a new and improved guess"
+    ],
+    "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+  },
+  {
+    "Question": "What is Convergence?",
+    "Answer": [
+      "An analysis that corresponds too closely or exactly to a particular set of data.",
+      "A programming API for AI",
+      "The process of getting very close to the correct answer",
+      "A dramatic increase in loss"
+    ],
+    "Correct": [
+      "The process of getting very close to the correct answer"
+    ],
+    "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+  },
+  {
+    "Question": "What does model.fit do?",
+    "Answer": [
+      "It makes a model fit available memory",
+      "It trains the neural network to fit one set of values to another",
+      "It determines if your activity is good for your body",
+      "It optimizes an existing model"
+    ],
+    "Correct": [
+      "It trains the neural network to fit one set of values to another"
+    ],
+    "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+  }
+]

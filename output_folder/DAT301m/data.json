@@ -1,0 +1,1540 @@
+[
+    {
+        "Question": "What is the difference between traditional programming and Machine Learning?",
+        "Answer": [
+            "Machine learning identifies complex activities such as golf, while traditional programming is better suited to simpler activities such as walking.",
+            "In traditional programming, a programmer has to formulate or code rules manually, whereas, in Machine Learning, the algorithm automatically formulates the rules from the data."
+        ],
+        "Correct": [
+            "In traditional programming, a programmer has to formulate or code rules manually, whereas, in Machine Learning, the algorithm automatically formulates the rules from the data."
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "What do we call the process of telling the computer what the data represents (i.e. this data is for walking, this data is for running)?",
+        "Answer": [
+            "Labelling the Data",
+            "Categorizing the Data",
+            "Learning the Data",
+            "Programming the Data"
+        ],
+        "Correct": [
+            "Labelling the Data"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "What is a Dense layer?",
+        "Answer": [
+            "A single neuron",
+            "A layer of disconnected neurons",
+            "An amount of mass occupying a volume",
+            "A layer of neurons fully connected to its adjacent layers"
+        ],
+        "Correct": [
+            "A layer of neurons fully connected to its adjacent layers"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "How do you measure how good the current \u2018guess\u2019 is?",
+        "Answer": [
+            "Training a neural network",
+            "Figuring out if you win or lose",
+            "Using the Loss function"
+        ],
+        "Correct": [
+            "Using the Loss function"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "What does the optimizer do?",
+        "Answer": [
+            "Decides to stop training a neural network",
+            "Generates a new and improved guess",
+            "Measures how good the current guess is",
+            "Figures out how to efficiently compile your code"
+        ],
+        "Correct": [
+            "Generates a new and improved guess"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "What is Convergence?",
+        "Answer": [
+            "An analysis that corresponds too closely or exactly to a particular set of data.",
+            "A programming API for AI",
+            "The process of getting very close to the correct answer",
+            "A dramatic increase in loss"
+        ],
+        "Correct": [
+            "The process of getting very close to the correct answer"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "What does model.fit do?",
+        "Answer": [
+            "It makes a model fit available memory",
+            "It trains the neural network to fit one set of values to another",
+            "It determines if your activity is good for your body",
+            "It optimizes an existing model"
+        ],
+        "Correct": [
+            "It trains the neural network to fit one set of values to another"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "What is the resolution of o the 70,000 images from the Fashion MNIST dataset?",
+        "Answer": [
+            "28x28 Greyscale",
+            "100x100 Color",
+            "82x82 Greyscale",
+            "28x28 Color"
+        ],
+        "Correct": [
+            "28x28 Greyscale"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "Why are there 10 output neurons in the Neural Network used as an example for the Computer Vision Problem?",
+        "Answer": [
+            "To make it classify 10x faster",
+            "To make it train 10x faster",
+            "There are 10 different labels",
+            "Purely arbitrary"
+        ],
+        "Correct": [
+            "There are 10 different labels"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "What does Relu do?",
+        "Answer": [
+            "It only returns x if x is greater than zero",
+            "It only returns x if x is less than zero",
+            "For a value x, it returns 1/x",
+            "It returns the negative of x"
+        ],
+        "Correct": [
+            "It only returns x if x is greater than zero"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "Why do you split data into training and test sets?",
+        "Answer": [
+            "To test a network with previously unseen data",
+            "To train a network with previously unseen data",
+            "To make training quicker",
+            "To make testing quicker"
+        ],
+        "Correct": [
+            "To test a network with previously unseen data"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "True or False: The on_epoch_end function sends a logs object with lots of great information about the current state of training at the start of every epoch",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "Why do you set the callbacks= parameter in your fit function?",
+        "Answer": [
+            "So that the training loops performs all epochs",
+            "Because it accelerates the training",
+            "So, on every epoch you can call back to a code function"
+        ],
+        "Correct": [
+            "So, on every epoch you can call back to a code function"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "How do Convolutions improve image recognition?",
+        "Answer": [
+            "They make the image clearer",
+            "They isolate features in images",
+            "They make the image smaller",
+            "They make processing of images faster"
+        ],
+        "Correct": [
+            "They isolate features in images"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "What does the Pooling technique do to the images?",
+        "Answer": [
+            "Makes them sharper",
+            "Isolates features in them",
+            "Combines them",
+            "Reduces information in them while maintaining some features"
+        ],
+        "Correct": [
+            "Reduces information in them while maintaining some features"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "True or  False. If you pass a 28x28 image through a 3x3 filter the output will be 26x26",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "After max pooling a 26x26 image with a 2x2 filter, the output will be 56x56",
+        "Answer": [
+            "False",
+            "True"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "How does using Convolutions in our Deep neural network impact training?",
+        "Answer": [
+            "It does not affect training",
+            "Its impact will depend on other factors.",
+            "It makes it faster",
+            "It makes it slower"
+        ],
+        "Correct": [
+            "Its impact will depend on other factors."
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "Using Image Generator, how do you label images?",
+        "Answer": [
+            "It\u2019s based on the directory the image is contained in",
+            "It\u2019s based on the file name",
+            "You have to manually do it",
+            "TensorFlow figures it out from the contents"
+        ],
+        "Correct": [
+            "It\u2019s based on the directory the image is contained in"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "What method on the Image Generator is used to normalize the image?",
+        "Answer": [
+            "rescale",
+            "normalize",
+            "normalize_image",
+            "Rescale_image"
+        ],
+        "Correct": [
+            "rescale"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "How did we specify the training size for the images?",
+        "Answer": [
+            "The training_size parameter on the training generator",
+            "The training_size parameter on the validation generator",
+            "The target_size parameter on the validation generator",
+            "The target_size parameter on the training generator"
+        ],
+        "Correct": [
+            "The target_size parameter on the training generator"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "When we specify the input_shape to be (300, 300, 3), what does that mean?",
+        "Answer": [
+            "There will be 300 images, each size 300, loaded in batches of 3",
+            "There will be 300 horses and 300 humans, loaded in batches of 3",
+            "Every Image will be 300x300 pixels, with 3 bytes to define color",
+            "Every Image will be 300x300 pixels, and there should be 3 Convolutional Layers"
+        ],
+        "Correct": [
+            "Every Image will be 300x300 pixels, with 3 bytes to define color"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "If your training data is close to 1.000 accuracy, but your validation data isn\u2019t, what\u2019s the risk here?",
+        "Answer": [
+            "No risk, that\u2019s a great result",
+            "You\u2019re overfitting on your validation data",
+            "You\u2019re overfitting on your training data",
+            "You\u2019re underfitting on your validation data"
+        ],
+        "Correct": [
+            "You\u2019re overfitting on your training data"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "Convolutional Neural Networks are better for classifying images like horses and humans because:",
+        "Answer": [
+            "There\u2019s a wide variety of humans",
+            "In these images, the features may be in different parts of the frame",
+            "There\u2019s a wide variety of horses"
+        ],
+        "Correct": [
+            "There\u2019s a wide variety of humans",
+            "In these images, the features may be in different parts of the frame",
+            "There\u2019s a wide variety of horses"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "After reducing the size of the images, the training results were different. Why?",
+        "Answer": [
+            "We removed some convolutions to handle the smaller images",
+            "There was more condensed information in the images",
+            "The training was faster",
+            "There was less information in the images"
+        ],
+        "Correct": [
+            "We removed some convolutions to handle the smaller images"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "What does flow_from_directory give you on the ImageDataGenerator?",
+        "Answer": [
+            "The ability to easily load images for training",
+            "The ability to pick the size of training images",
+            "The ability to automatically label images based on their directory name",
+            "All of the above"
+        ],
+        "Correct": [
+            "All of the above"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "If my Image is sized 150x150, and I pass a 3x3 Convolution over it, what size is the resulting image?",
+        "Answer": [
+            "450x450",
+            "150x150",
+            "148x148",
+            "153x153"
+        ],
+        "Correct": [
+            "148x148"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "If my data is sized 150x150, and I use Pooling of size 2x2, what size will the resulting image be?",
+        "Answer": [
+            "75x75",
+            "148x148",
+            "300x300",
+            "149x149"
+        ],
+        "Correct": [
+            "75x75"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "If I want to view the history of my training, how can I access it?",
+        "Answer": [
+            "Download the model and inspect it",
+            "Pass the parameter \u2018history=true\u2019 to the model.fit",
+            "Use a model.fit_generator",
+            "Create a variable \u2018history\u2019 and assign it to the return of model.fit or model.fit_generator"
+        ],
+        "Correct": [
+            "Create a variable \u2018history\u2019 and assign it to the return of model.fit or model.fit_generator"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "What\u2019s the name of the API that allows you to inspect the impact of convolutions on the images?",
+        "Answer": [
+            "The model.images API",
+            "The model.layers API",
+            "The model.convolutions API",
+            "The model.pools API"
+        ],
+        "Correct": [
+            "The model.layers API"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "When exploring the graphs, the loss levelled out at about .75 after 2 epochs, but the accuracy climbed close to 1.0 after 15 epochs. What's the significance of this?",
+        "Answer": [
+            "There was no point training after 2 epochs, as we overfit to the validation data",
+            "There was no point training after 2 epochs, as we overfit to the training data",
+            "A bigger training set would give us better validation accuracy",
+            "A bigger validation set would give us better training accuracy"
+        ],
+        "Correct": [
+            "There was no point training after 2 epochs, as we overfit to the training data"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "Why is the validation accuracy a better indicator of model performance than training accuracy?",
+        "Answer": [
+            "It isn't, they're equally valuable",
+            "There's no relationship between them",
+            "The validation accuracy is based on images that the model hasn't been trained with, and thus a better indicator of how the model will perform with new images.",
+            "The validation dataset is smaller, and thus less accurate at measuring accuracy, so its performance isn't as important"
+        ],
+        "Correct": [
+            "The validation accuracy is based on images that the model hasn't been trained with, and thus a better indicator of how the model will perform with new images."
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "Why is overfitting more likely to occur on smaller datasets?",
+        "Answer": [
+            "Because in a smaller dataset, your validation data is more likely to look like your training data",
+            "Because there isn't enough data to activate all the convolutions or neurons",
+            "Because with less data, the training will take place more quickly, and some features may be missed",
+            "Because there's less likelihood of all possible features being encountered in the training process."
+        ],
+        "Correct": [
+            "Because there's less likelihood of all possible features being encountered in the training process."
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "How do you use Image Augmentation in TensorFLow",
+        "Answer": [
+            "With the tf.augment API",
+            "Using parameters to the ImageDataGenerator",
+            "With the keras.augment API",
+            "You have to write a plugin to extend tf.layers"
+        ],
+        "Correct": [
+            "Using parameters to the ImageDataGenerator"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "If my training data only has people facing left, but I want to classify people facing right, how would I avoid overfitting?",
+        "Answer": [
+            "Use the \u2018flip\u2019 parameter",
+            "Use the \u2018horizontal_flip\u2019 parameter",
+            "Use the \u2018flip_vertical\u2019 parameter around the Y axis",
+            "Use the \u2018flip\u2019 parameter and set \u2018horizontal\u2019"
+        ],
+        "Correct": [
+            "Use the \u2018horizontal_flip\u2019 parameter"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "After adding data augmentation and using the same batch size and steps per epoch, you noticed that each training epoch became a little slower than when you trained without it. Why?",
+        "Answer": [
+            "Because the image preprocessing takes cycles",
+            "Because the training is making more mistakes",
+            "Because there is more data to train on",
+            "Because the augmented data is bigger"
+        ],
+        "Correct": [
+            "Because the image preprocessing takes cycles"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "What does the fill_mode parameter do?",
+        "Answer": [
+            "There is no fill_mode parameter",
+            "It creates random noise in the image",
+            "It attempts to recreate lost information after a transformation like a shear",
+            "It masks the background of an image"
+        ],
+        "Correct": [
+            "It attempts to recreate lost information after a transformation like a shear"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "When using Image Augmentation with the ImageDataGenerator, what happens to your raw image data on-disk.",
+        "Answer": [
+            "It gets overwritten, so be sure to make a backup",
+            "A copy is made and the augmentation is done on the copy",
+            "Nothing, all augmentation is done in-memory",
+            "It gets deleted"
+        ],
+        "Correct": [
+            "Nothing, all augmentation is done in-memory"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "How does Image Augmentation help solve overfitting?",
+        "Answer": [
+            "It slows down the training process",
+            "It manipulates the training set to generate more scenarios for features in the images",
+            "It manipulates the validation set to generate more scenarios for features in the images",
+            "It automatically fits features to images by finding them through image processing techniques"
+        ],
+        "Correct": [
+            "It manipulates the training set to generate more scenarios for features in the images"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "When using Image Augmentation my training gets...",
+        "Answer": [
+            "Slower",
+            "Faster",
+            "Stays the Same",
+            "Much Faster"
+        ],
+        "Correct": [
+            "Slower"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "Using Image Augmentation effectively simulates having a larger data set for training.",
+        "Answer": [
+            "False",
+            "True"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "If I put a dropout parameter of 0.2, how many nodes will I lose?",
+        "Answer": [
+            "20% of them",
+            "2% of them",
+            "20% of the untrained ones",
+            "2% of the untrained ones"
+        ],
+        "Correct": [
+            "20% of them"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "Why is transfer learning useful?",
+        "Answer": [
+            "Because I can use all of the data from the original training set",
+            "Because I can use all of the data from the original validation set",
+            "Because I can use the features that were learned from large datasets that I may not have access to",
+            "Because I can use the validation metadata from large datasets that I may not have access to"
+        ],
+        "Correct": [
+            "Because I can use the features that were learned from large datasets that I may not have access to"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "How did you lock or freeze a layer from retraining?",
+        "Answer": [
+            "tf.freeze(layer)",
+            "tf.layer.frozen = true",
+            "tf.layer.locked = true",
+            "layer.trainable = false"
+        ],
+        "Correct": [
+            "layer.trainable = false"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "How do you change the number of classes the model can classify when using transfer learning? (i.e. the original model handled 1000 classes, but yours handles just 2)",
+        "Answer": [
+            "Ignore all the classes above yours (i.e. Numbers 2 onwards if I'm just classing 2)",
+            "Use all classes but set their weights to 0",
+            "When you add your DNN at the bottom of the network, you specify your output layer with the number of classes you want",
+            "Use dropouts to eliminate the unwanted classes"
+        ],
+        "Correct": [
+            "When you add your DNN at the bottom of the network, you specify your output layer with the number of classes you want"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "Can you use Image Augmentation with Transfer Learning Models? ",
+        "Answer": [
+            "No, because you are using pre-set features",
+            "Yes, because you are adding new layers at the bottom of the network, and you can use image augmentation when training these"
+        ],
+        "Correct": [
+            "Yes, because you are adding new layers at the bottom of the network, and you can use image augmentation when training these"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "Why do dropouts help avoid overfitting?",
+        "Answer": [
+            "Because neighbor neurons can have similar weights, and thus can skew the final training ",
+            "Having less neurons speeds up training"
+        ],
+        "Correct": [
+            "Because neighbor neurons can have similar weights, and thus can skew the final training "
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "What would the symptom of a Dropout rate being set too high?",
+        "Answer": [
+            "The network would lose specialization to the effect that it would be inefficient or ineffective at learning, driving accuracy down",
+            "Training time would increase due to the extra calculations being required for higher dropout"
+        ],
+        "Correct": [
+            "The network would lose specialization to the effect that it would be inefficient or ineffective at learning, driving accuracy down"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "Which is the correct line of code for adding Dropout of 20% of neurons using TensorFlow",
+        "Answer": [
+            "tf.keras.layers.Dropout(20)",
+            "tf.keras.layers.DropoutNeurons(20),",
+            "tf.keras.layers.Dropout(0.2),",
+            "tf.keras.layers.DropoutNeurons(0.2),"
+        ],
+        "Correct": [
+            "tf.keras.layers.Dropout(0.2),"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "The diagram for traditional programming had Rules and Data In, but what came out?",
+        "Answer": [
+            "Answers",
+            "Binary",
+            "Machine Learning",
+            "Bugs"
+        ],
+        "Correct": [
+            "Answers"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "Why does the DNN for Fashion MNIST have 10 output neurons?",
+        "Answer": [
+            "To make it train 10x faster",
+            "To make it classify 10x faster",
+            "Purely Arbitrary",
+            "The dataset has 10 classes"
+        ],
+        "Correct": [
+            "The dataset has 10 classes"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "What is a Convolution? ",
+        "Answer": [
+            "A technique to make images smaller",
+            "A technique to make images larger",
+            "A technique to extract features from an image",
+            "A technique to remove unwanted images"
+        ],
+        "Correct": [
+            "A technique to extract features from an image"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "Applying Convolutions on top of a DNN will have what impact on training?",
+        "Answer": [
+            "It will be slower",
+            "It will be faster",
+            "There will be no impact",
+            "It depends on many factors. It might make your training faster or slower, and a poorly designed Convolutional layer may even be less efficient than a plain DNN!"
+        ],
+        "Correct": [
+            "It depends on many factors. It might make your training faster or slower, and a poorly designed Convolutional layer may even be less efficient than a plain DNN!"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "What method on an ImageGenerator is used to normalize the image? ",
+        "Answer": [
+            "normalize",
+            "flatten",
+            "rezize()",
+            "rescale"
+        ],
+        "Correct": [
+            "rescale"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "When using Image Augmentation with the ImageDataGenerator, what happens to your raw image data on-disk.",
+        "Answer": [
+            "A copy will be made, and the copies are augmented",
+            "A copy will be made, and the originals will be augmented",
+            "Nothing",
+            "The images will be edited on disk, so be sure to have a backup"
+        ],
+        "Correct": [
+            "Nothing"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "Can you use Image augmentation with Transfer Learning? ",
+        "Answer": [
+            "No - because the layers are frozen so they can't be augmented",
+            "Yes. It's pre-trained layers that are frozen. So you can augment your images as you train the bottom layers of the DNN with them"
+        ],
+        "Correct": [
+            "Yes. It's pre-trained layers that are frozen. So you can augment your images as you train the bottom layers of the DNN with them"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "When training for multiple classes what is the Class Mode for Image Augmentation?",
+        "Answer": [
+            "class_mode='multiple'",
+            "class_mode='non_binary'",
+            "class_mode='categorical'",
+            "class_mode='all'"
+        ],
+        "Correct": [
+            "class_mode='categorical'"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "What is the name of the object used to tokenize sentences?",
+        "Answer": [
+            "CharacterTokenizer",
+            "TextTokenizer",
+            "WordTokenizer",
+            "Tokenizer"
+        ],
+        "Correct": [
+            "Tokenizer"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "What is the name of the method used to tokenize a list of sentences?",
+        "Answer": [
+            "fit_to_text(sentences)",
+            "tokenize(sentences)",
+            "tokenize_on_text(sentences)",
+            "fit_on_texts(sentences)"
+        ],
+        "Correct": [
+            "fit_on_texts(sentences)"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "Once you have the corpus tokenized, what\u2019s the method used to encode a list of sentences to use those tokens?",
+        "Answer": [
+            "text_to_tokens(sentences)",
+            "text_to_sequences(sentences)",
+            "texts_to_sequences(sentences)",
+            "texts_to_tokens(sentences)"
+        ],
+        "Correct": [
+            "texts_to_sequences(sentences)"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "When initializing the tokenizer, how do you specify a token to use for unknown words?",
+        "Answer": [
+            "out_of_vocab=<Token>",
+            "unknown_token=<Token>",
+            "oov_token=<Token>",
+            "unknown_word=<Token>"
+        ],
+        "Correct": [
+            "oov_token=<Token>"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "If you don\u2019t use a token for out of vocabulary words, what happens at encoding?",
+        "Answer": [
+            "The word isn\u2019t encoded, and is skipped in the sequence",
+            "The word isn\u2019t encoded, and the sequencing ends",
+            "The word isn\u2019t encoded, and is replaced by a zero in the sequence",
+            "The word is replaced by the most common token"
+        ],
+        "Correct": [
+            "The word isn\u2019t encoded, and is skipped in the sequence"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "If you have a number of sequences of different lengths, how do you ensure that they are understood when fed into a neural network?",
+        "Answer": [
+            "Make sure that they are all the same length using the pad_sequences method of the tokenizer",
+            "Specify the input layer of the Neural Network to expect different sizes with dynamic_length",
+            "Process them on the input layer of the Neural Network using the pad_sequences property",
+            "Use the pad_sequences function from the tensorflow.keras.preprocessing.sequence namespace"
+        ],
+        "Correct": [
+            "Use the pad_sequences function from the tensorflow.keras.preprocessing.sequence namespace"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "If you have a number of sequences of different length, and call pad_sequences on them, what\u2019s the default result?",
+        "Answer": [
+            "They\u2019ll get padded to the length of the longest sequence by adding zeros to the end of shorter ones",
+            "They\u2019ll get cropped to the length of the shortest sequence",
+            "They\u2019ll get padded to the length of the longest sequence by adding zeros to the beginning of shorter ones",
+            "Nothing, they\u2019ll remain unchanged"
+        ],
+        "Correct": [
+            "They\u2019ll get padded to the length of the longest sequence by adding zeros to the beginning of shorter ones"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "When padding sequences, if you want the padding to be at the end of the sequence, how do you do it?",
+        "Answer": [
+            "Call the padding method of the pad_sequences object, passing it \u2018after\u2019",
+            "Pass padding=\u2019after\u2019 to pad_sequences when initializing it",
+            "Call the padding method of the pad_sequences object, passing it \u2018post\u2019",
+            "Pass padding=\u2019post\u2019 to pad_sequences when initializing it"
+        ],
+        "Correct": [
+            "Pass padding=\u2019post\u2019 to pad_sequences when initializing it"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM +07"
+    },
+    {
+        "Question": "What is the name of the TensorFlow library containing common data that you can use to train and test neural networks?",
+        "Answer": [
+            "TensorFlow Data",
+            "There is no library of common data sets, you have to use your own",
+            "TensorFlow Datasets",
+            "TensorFlow Data Libraries"
+        ],
+        "Correct": [
+            "TensorFlow Datasets"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "How many reviews are there in the IMDB dataset and how are they split?",
+        "Answer": [
+            "60,000 records, 80/20 train/test split",
+            "60,000 records, 50/50 train/test split",
+            "50,000 records, 80/20 train/test split",
+            "50,000 records, 50/50 train/test split"
+        ],
+        "Correct": [
+            "50,000 records, 50/50 train/test split"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "How are the labels for the IMDB dataset encoded?",
+        "Answer": [
+            "Reviews encoded as a number 0-1",
+            "Reviews encoded as a number 1-10",
+            "Reviews encoded as a number 1-5",
+            "Reviews encoded as a boolean true/false"
+        ],
+        "Correct": [
+            "Reviews encoded as a number 0-1"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "What is the purpose of the embedding dimension?",
+        "Answer": [
+            "It is the number of dimensions required to encode every word in the corpus",
+            "It is the number of letters in the word, denoting the size of the encoding",
+            "It is the number of words to encode in the embedding",
+            "It is the number of dimensions for the vector representing the word encoding"
+        ],
+        "Correct": [
+            "It is the number of dimensions for the vector representing the word encoding"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "When tokenizing a corpus, what does the num_words=n parameter do?",
+        "Answer": [
+            "It specifies the maximum number of words to be tokenized, and picks the first \u2018n\u2019 words that were tokenized",
+            "It specifies the maximum number of words to be tokenized, and stops tokenizing when it reaches n",
+            "It errors out if there are more than n distinct words in the corpus",
+            "It specifies the maximum number of words to be tokenized, and picks the most common \u2018n-1\u2019 words"
+        ],
+        "Correct": [
+            "It specifies the maximum number of words to be tokenized, and picks the most common \u2018n-1\u2019 words"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "To use word embeddings in TensorFlow, in a sequential layer, what is the name of the class?",
+        "Answer": [
+            "tf.keras.layers.Embedding",
+            "tf.keras.layers.WordEmbedding",
+            "tf.keras.layers.Word2Vector",
+            "tf.keras.layers.Embed"
+        ],
+        "Correct": [
+            "tf.keras.layers.Embedding"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "IMDB Reviews are either positive or negative. What type of loss function should be used in this scenario?",
+        "Answer": [
+            "Categorical crossentropy",
+            "Binary Gradient descent",
+            "Adam",
+            "Binary crossentropy"
+        ],
+        "Correct": [
+            "Binary crossentropy"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "When using IMDB Sub Words dataset, our results in classification were poor. Why?",
+        "Answer": [
+            "Our neural network didn\u2019t have enough layers",
+            "We didn\u2019t train long enough",
+            "The sub words make no sense, so can\u2019t be classified",
+            "Sequence becomes much more important when dealing with subwords, but we\u2019re ignoring word positions"
+        ],
+        "Correct": [
+            "Sequence becomes much more important when dealing with subwords, but we\u2019re ignoring word positions"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    },
+    {
+        "Question": "Why does sequence make a large difference when determining semantics of language?",
+        "Answer": [
+            "Because the order in which words appear dictate their impact on the meaning of the sentence",
+            "Because the order of words doesn\u2019t matter",
+            "It doesn\u2019t",
+            "Because the order in which words appear dictate their meaning"
+        ],
+        "Correct": [
+            "Because the order in which words appear dictate their impact on the meaning of the sentence"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "How do Recurrent Neural Networks help you understand the impact of sequence on meaning?",
+        "Answer": [
+            "They look at the whole sentence at a time",
+            "They don\u2019t",
+            "They shuffle the words evenly",
+            "They carry meaning from one cell to the next"
+        ],
+        "Correct": [
+            "They carry meaning from one cell to the next"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "How does an LSTM help understand meaning when words that qualify each other aren\u2019t necessarily beside each other in a sentence?",
+        "Answer": [
+            "They don\u2019t",
+            "They load all words into a cell state",
+            "Values from earlier words can be carried to later ones via a cell state",
+            "They shuffle the words randomly"
+        ],
+        "Correct": [
+            "Values from earlier words can be carried to later ones via a cell state"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "What keras layer type allows LSTMs to look forward and backward in a sentence?",
+        "Answer": [
+            "Bilateral",
+            "Bothdirection",
+            "Bidirectional",
+            "Unilateral"
+        ],
+        "Correct": [
+            "Bidirectional"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "What\u2019s the output shape of a bidirectional LSTM layer with 64 units?",
+        "Answer": [
+            "(128,None)",
+            "(None, 64)",
+            "(None, 128)",
+            "(128,1)"
+        ],
+        "Correct": [
+            "(None, 128)"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "When stacking LSTMs, how do you instruct an LSTM to feed the next one in the sequence?",
+        "Answer": [
+            "Ensure that return_sequences is set to True on all units",
+            "Ensure that return_sequences is set to True only on units that feed to another LSTM",
+            "Ensure that they have the same number of units",
+            "Do nothing, TensorFlow handles this automatically"
+        ],
+        "Correct": [
+            "Ensure that return_sequences is set to True only on units that feed to another LSTM"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "If a sentence has 120 tokens in it, and a Conv1D with 128 filters with a Kernal size of 5 is passed over it, what\u2019s the output shape?",
+        "Answer": [
+            "(None, 116, 124)",
+            "(None, 116, 128)",
+            "(None, 120, 128)",
+            "(None, 120, 124)"
+        ],
+        "Correct": [
+            "(None, 116, 128)"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "What\u2019s the best way to avoid overfitting in NLP datasets?",
+        "Answer": [
+            "Use LSTMs",
+            "Use GRUs",
+            "Use Conv1D",
+            "None of the above"
+        ],
+        "Correct": [
+            "None of the above"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    },
+    {
+        "Question": "When predicting words to generate poetry, the more words predicted the more likely it will end up gibberish. Why?",
+        "Answer": [
+            "Because the probability that each word matches an existing phrase goes down the more words you create",
+            "Because you are more likely to hit words not in the training set",
+            "It doesn\u2019t, the likelihood of gibberish doesn\u2019t change",
+            "Because the probability of prediction compounds, and thus increases overall"
+        ],
+        "Correct": [
+            "Because the probability that each word matches an existing phrase goes down the more words you create"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "What is a major drawback of word-based training for text generation instead of character-based generation?",
+        "Answer": [
+            "Character based generation is more accurate because there are less characters to predict",
+            "There is no major drawback, it\u2019s always better to do word-based training",
+            "Because there are far more words in a typical corpus than characters, it is much more memory intensive",
+            "Word based generation is more accurate because there is a larger body of words to draw from"
+        ],
+        "Correct": [
+            "Because there are far more words in a typical corpus than characters, it is much more memory intensive"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "What are the critical steps in preparing the input sequences for the prediction model?",
+        "Answer": [
+            "Converting the seed text to a token sequence using texts_to_sequences.",
+            "Pre-padding the subphrases sequences.",
+            "Generating subphrases from each line using n_gram_sequences. ",
+            "Splitting the dataset into training and testing sentences."
+        ],
+        "Correct": [
+            "Pre-padding the subphrases sequences.",
+            "Generating subphrases from each line using n_gram_sequences. "
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "In  natural language processing, predicting the next item in a sequence is a classification problem. Therefore, after creating inputs and labels from the subphrases, we one-hot encode the labels. What function do we use to create one-hot encoded arrays of the labels?",
+        "Answer": [
+            "tf.keras.utils.SequenceEnqueuer",
+            "tf.keras.utils.img_to_array",
+            "tf.keras.utils.to_categorical",
+            "tf.keras.preprocessing.text.one_hot"
+        ],
+        "Correct": [
+            "tf.keras.utils.to_categorical"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "True or False: When building the model, we use a sigmoid activated Dense output layer with one neuron per word that lights up when we predict a given word.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    },
+    {
+        "Question": "What is an example of a Univariate time series?",
+        "Answer": [
+            "Hour by hour temperature",
+            "Fashion items",
+            "Baseball scores",
+            "Hour by hour weather \u00a0 "
+        ],
+        "Correct": [
+            "Hour by hour temperature"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 7, 11:59 PM PST"
+    },
+    {
+        "Question": "What is an example of a Multivariate time series?",
+        "Answer": [
+            "Fashion items",
+            "Baseball scores",
+            "Hour by hour weather ",
+            "Hour by hour temperature\u00a0"
+        ],
+        "Correct": [
+            "Hour by hour weather "
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 7, 11:59 PM PST"
+    },
+    {
+        "Question": "What is imputed data?\n\n\n",
+        "Answer": [
+            "Data that has been withheld for various reasons",
+            "A bad prediction of future data",
+            "A good prediction of future data",
+            "A projection of unknown (usually past or missing) data"
+        ],
+        "Correct": [
+            "A projection of unknown (usually past or missing) data"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 7, 11:59 PM PST"
+    },
+    {
+        "Question": "A sound wave is a good example of time series data\n\n\n",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 7, 11:59 PM PST"
+    },
+    {
+        "Question": "What is Seasonality?",
+        "Answer": [
+            "A regular change in shape of the data",
+            "Data aligning to the 4 seasons of the calendar",
+            "Data that is only available at certain times of the year",
+            "Weather data"
+        ],
+        "Correct": [
+            "A regular change in shape of the data"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 7, 11:59 PM PST"
+    },
+    {
+        "Question": "What is a trend?",
+        "Answer": [
+            "An overall consistent downward direction for data",
+            "An overall consistent upward direction for data",
+            "An overall direction for data regardless of direction",
+            "An overall consistent flat direction for data"
+        ],
+        "Correct": [
+            "An overall direction for data regardless of direction"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 7, 11:59 PM PST"
+    },
+    {
+        "Question": "In the context of time series, what is noise?\n\n\n",
+        "Answer": [
+            "Sound waves forming a time series",
+            "Data that doesn\u2019t have seasonality",
+            "Data that doesn\u2019t have a trend",
+            "Unpredictable changes in time series data"
+        ],
+        "Correct": [
+            "Unpredictable changes in time series data"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 7, 11:59 PM PST"
+    },
+    {
+        "Question": "What is autocorrelation?",
+        "Answer": [
+            "Data that follows a predictable shape, even if the scale is different",
+            "Data that automatically lines up seasonally",
+            "Data that automatically lines up in trends",
+            "Data that doesn\u2019t have noise"
+        ],
+        "Correct": [
+            "Data that follows a predictable shape, even if the scale is different"
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 7, 11:59 PM PST"
+    },
+    {
+        "Question": "What is a non-stationary time series?",
+        "Answer": [
+            "One that moves seasonally.",
+            "One that has a constructive event forming trend and seasonality.",
+            "One that is consistent across all seasons.",
+            "One that has a disruptive event breaking trend and seasonality. "
+        ],
+        "Correct": [
+            "One that has a disruptive event breaking trend and seasonality. "
+        ],
+        "Title": "Back\nWeek 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 7, 11:59 PM PST"
+    },
+    {
+        "Question": "What is a windowed dataset?\n\n\n",
+        "Answer": [
+            "A consistent set of subsets of a time series",
+            "The time series aligned to a fixed shape",
+            "There\u2019s no such thing",
+            "A fixed-size subset of a time series "
+        ],
+        "Correct": [
+            "A fixed-size subset of a time series "
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM PST"
+    },
+    {
+        "Question": "What does \u2018drop_remainder=True\u2019 do?",
+        "Answer": [
+            "It ensures that all rows in the data window are the same length by adding data",
+            "It ensures that all rows in the data window are the same length by cropping data",
+            "It ensures that the data is all the same shape",
+            "It ensures that all data is used"
+        ],
+        "Correct": [
+            "It ensures that all rows in the data window are the same length by cropping data"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM PST"
+    },
+    {
+        "Question": "What\u2019s the correct line of code to split an n column window into n-1 columns for features and 1 column for a label",
+        "Answer": [
+            "dataset = dataset.map(lambda window: (window[n-1], window[1]))",
+            "dataset = dataset.map(lambda window: (window[:-1], window[-1:]))",
+            "dataset = dataset.map(lambda window: (window[-1:], window[:-1]))",
+            "dataset = dataset.map(lambda window: (window[n], window[1]))"
+        ],
+        "Correct": [
+            "dataset = dataset.map(lambda window: (window[:-1], window[-1:]))"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM PST"
+    },
+    {
+        "Question": "What does MSE stand for?\n\n\n",
+        "Answer": [
+            "Mean Series error",
+            "Mean Second error",
+            "Mean Slight error",
+            "Mean Squared error"
+        ],
+        "Correct": [
+            "Mean Squared error"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM PST"
+    },
+    {
+        "Question": "What does MAE stand for?",
+        "Answer": [
+            "Mean Average Error",
+            "Mean Advanced Error",
+            " Mean Absolute Error",
+            "Mean Active Error"
+        ],
+        "Correct": [
+            " Mean Absolute Error"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM PST"
+    },
+    {
+        "Question": "If time values are in time[], series values are in series[] and we want to split the series into training and validation at time split_time, what is the correct code?\n\n\n",
+        "Answer": [
+            "time_train = time[split_time]\n\nx_train = series[split_time]\n\ntime_valid = time[split_time]\n\nx_valid = series[split_time]\n\n\n",
+            "time_train = time[:split_time]\n\nx_train = series[:split_time]\n\ntime_valid = time[split_time:]\n\nx_valid = series[split_time:]\n\n\n",
+            "time_train = time[split_time]\n\nx_train = series[split_time]\n\ntime_valid = time[split_time:]\n\nx_valid = series[split_time:]",
+            "time_train = time[:split_time]\n\nx_train = series[:split_time]\n\ntime_valid = time[split_time]\n\nx_valid = series[split_time]\n\n\n"
+        ],
+        "Correct": [
+            "time_train = time[:split_time]\n\nx_train = series[:split_time]\n\ntime_valid = time[split_time:]\n\nx_valid = series[split_time:]\n\n\n"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM PST"
+    },
+    {
+        "Question": "If you want to inspect the learned parameters in a layer after training, what\u2019s a good technique to use?\n\n\n",
+        "Answer": [
+            "Assign a variable to the layer and add it to the model using that variable. Inspect its properties after training.",
+            "Iterate through the layers dataset of the model to find the layer you want.",
+            "Run the model with unit data and inspect the output for that layer.",
+            "Decompile the model and inspect the parameter set for that layer."
+        ],
+        "Correct": [
+            "Assign a variable to the layer and add it to the model using that variable. Inspect its properties after training."
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM PST"
+    },
+    {
+        "Question": "How do you set the learning rate of the SGD optimizer?\u00a0\n\n\n",
+        "Answer": [
+            "Use the learning_rate property",
+            "Use the RateOfLearning property",
+            "You can\u2019t set it",
+            "Use the Rate property\u00a0"
+        ],
+        "Correct": [
+            "Use the learning_rate property"
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM PST"
+    },
+    {
+        "Question": "If you want to amend the learning rate of the optimizer on the fly, after each epoch. What do you do?\n\n\n",
+        "Answer": [
+            "Use a LearningRateScheduler and pass it as a parameter to a callback",
+            "Callback to a custom function and change the SGD property",
+            "Use a LearningRateScheduler object in the callbacks namespace and assign that to the callback ",
+            "You can\u2019t set it"
+        ],
+        "Correct": [
+            "Use a LearningRateScheduler object in the callbacks namespace and assign that to the callback "
+        ],
+        "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 14, 11:59 PM PST"
+    },
+    {
+        "Question": "If X is the standard notation for the input to an RNN, what are the standard notations for the outputs?",
+        "Answer": [
+            "Y",
+            "H",
+            "Y(hat) and H",
+            "H(hat) and Y"
+        ],
+        "Correct": [
+            "Y(hat) and H"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+    },
+    {
+        "Question": "What is a sequence to vector if an RNN has 30 cells numbered 0 to 29",
+        "Answer": [
+            "The average Y(hat) for all 30 cells",
+            "The Y(hat) for the second cell",
+            "The Y(hat) for the last cell",
+            "The total Y(hat) for all cells"
+        ],
+        "Correct": [
+            "The Y(hat) for the last cell"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+    },
+    {
+        "Question": "What does a Lambda layer in a neural network do?",
+        "Answer": [
+            "Changes the shape of the input or output data",
+            "Allows you to execute arbitrary code while training",
+            "There are no Lambda layers in a neural network",
+            "Pauses training without a callback"
+        ],
+        "Correct": [
+            "Allows you to execute arbitrary code while training"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+    },
+    {
+        "Question": "What does the axis parameter of tf.expand_dims do?",
+        "Answer": [
+            "Defines the dimension index to remove when you expand the tensor",
+            "Defines the axis around which to expand the dimensions",
+            "Defines the dimension index at which you will expand the shape of the tensor ",
+            "Defines if the tensor is X or Y"
+        ],
+        "Correct": [
+            "Defines the dimension index at which you will expand the shape of the tensor "
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+    },
+    {
+        "Question": "A new loss function was introduced in this module, named after a famous statistician. What is it called?",
+        "Answer": [
+            "Hubble loss",
+            "Huber loss",
+            "Hawking loss",
+            "Hyatt loss"
+        ],
+        "Correct": [
+            "Huber loss"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+    },
+    {
+        "Question": "What\u2019s the primary difference between a simple RNN and an LSTM",
+        "Answer": [
+            "In addition to the H output, RNNs have a cell state that runs across all cells ",
+            "LSTMs have multiple outputs, RNNs have a single one",
+            "In addition to the H output, LSTMs have a cell state that runs across all cells ",
+            "LSTMs have a single output, RNNs have multiple"
+        ],
+        "Correct": [
+            "In addition to the H output, LSTMs have a cell state that runs across all cells "
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+    },
+    {
+        "Question": "If you want to clear out all temporary variables that tensorflow might have from previous sessions, what code do you run?",
+        "Answer": [
+            "tf.keras.clear_session",
+            "tf.cache.clear_session()",
+            "tf.keras.backend.clear_session()\u00a0 ",
+            "tf.cache.backend.clear_session()"
+        ],
+        "Correct": [
+            "tf.keras.backend.clear_session()\u00a0 "
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+    },
+    {
+        "Question": "What happens if you define a neural network with these two layers?\n\ntf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32)),\n\ntf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32)),\n\ntf.keras.layers.Dense(1),",
+        "Answer": [
+            "Your model will fail because you have the same number of cells in each LSTM",
+            "Your model will fail because you need return_sequences=True after each LSTM layer",
+            "Your model will compile and run correctly",
+            "Your model will fail because you need return_sequences=True after the first LSTM layer"
+        ],
+        "Correct": [
+            "Your model will fail because you need return_sequences=True after the first LSTM layer"
+        ],
+        "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
+    },
+    {
+        "Question": "How do you add a 1 dimensional convolution to your model for predicting time series data?\n\n\n",
+        "Answer": [
+            "Use a 1DConv layer type",
+            "Use a Conv1D layer type",
+            "Use a ConvolutionD1 layer type",
+            "Use a 1DConvolution layer type"
+        ],
+        "Correct": [
+            "Use a Conv1D layer type"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
+    },
+    {
+        "Question": "What\u2019s the input shape for a univariate time series to a Conv1D?\u00a0",
+        "Answer": [
+            "[None, 1]",
+            "[1, None]",
+            "[]",
+            "[1]"
+        ],
+        "Correct": [
+            "[None, 1]"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
+    },
+    {
+        "Question": "You used a sunspots dataset that was stored in CSV. What\u2019s the name of the Python library used to read CSVs?\n\n\n",
+        "Answer": [
+            "CSV",
+            "PyFiles",
+            "CommaSeparatedValues",
+            "PyCSV"
+        ],
+        "Correct": [
+            "CSV"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
+    },
+    {
+        "Question": "If your CSV file has a header that you don\u2019t want to read into your dataset, what do you execute before iterating through the file using a \u2018reader\u2019 object?\n\n\n",
+        "Answer": [
+            "next(reader)",
+            "reader.next",
+            "reader.ignore_header()",
+            "reader.read(next)"
+        ],
+        "Correct": [
+            "next(reader)"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
+    },
+    {
+        "Question": "When you read a row from a reader and want to cast column 2 to another data type, for example, a float, what\u2019s the correct syntax?\n\n\n",
+        "Answer": [
+            "float(row[2]) ",
+            "You can\u2019t. It needs to be read into a buffer and a new float instantiated from the buffer",
+            "float f = row[2].read()",
+            "Convert.toFloat(row[2])"
+        ],
+        "Correct": [
+            "float(row[2]) "
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
+    },
+    {
+        "Question": "What was the sunspot seasonality?\n\n\n",
+        "Answer": [
+            "22 years",
+            "11 years",
+            "4 times a year",
+            "11 or 22 years depending on who you ask"
+        ],
+        "Correct": [
+            "11 or 22 years depending on who you ask"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
+    },
+    {
+        "Question": "After studying this course, what neural network type do you think is best for predicting time series like our sunspots dataset?\n\n\n",
+        "Answer": [
+            "Convolutions",
+            "RNN / LSTM",
+            "A combination of all other answers",
+            "DNN"
+        ],
+        "Correct": [
+            "A combination of all other answers"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
+    },
+    {
+        "Question": "Why is MAE a good analytic for measuring accuracy of predictions for time series?\n\n\n",
+        "Answer": [
+            "It only counts positive errors",
+            "It biases towards small errors",
+            "It punishes larger errors ",
+            "It doesn\u2019t heavily punish larger errors like square errors do"
+        ],
+        "Correct": [
+            "It doesn\u2019t heavily punish larger errors like square errors do"
+        ],
+        "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
+    }
+]

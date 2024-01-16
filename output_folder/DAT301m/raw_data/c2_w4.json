@@ -1,0 +1,104 @@
+[
+  {
+    "Question": "The diagram for traditional programming had Rules and Data In, but what came out?",
+    "Answer": [
+      "Answers",
+      "Binary",
+      "Machine Learning",
+      "Bugs"
+    ],
+    "Correct": [
+      "Answers"
+    ],
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+  },
+  {
+    "Question": "Why does the DNN for Fashion MNIST have 10 output neurons?",
+    "Answer": [
+      "To make it train 10x faster",
+      "To make it classify 10x faster",
+      "Purely Arbitrary",
+      "The dataset has 10 classes"
+    ],
+    "Correct": [
+      "The dataset has 10 classes"
+    ],
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+  },
+  {
+    "Question": "What is a Convolution? ",
+    "Answer": [
+      "A technique to make images smaller",
+      "A technique to make images larger",
+      "A technique to extract features from an image",
+      "A technique to remove unwanted images"
+    ],
+    "Correct": [
+      "A technique to extract features from an image"
+    ],
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+  },
+  {
+    "Question": "Applying Convolutions on top of a DNN will have what impact on training?",
+    "Answer": [
+      "It will be slower",
+      "It will be faster",
+      "There will be no impact",
+      "It depends on many factors. It might make your training faster or slower, and a poorly designed Convolutional layer may even be less efficient than a plain DNN!"
+    ],
+    "Correct": [
+      "It depends on many factors. It might make your training faster or slower, and a poorly designed Convolutional layer may even be less efficient than a plain DNN!"
+    ],
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+  },
+  {
+    "Question": "What method on an ImageGenerator is used to normalize the image? ",
+    "Answer": [
+      "normalize",
+      "flatten",
+      "rezize()",
+      "rescale"
+    ],
+    "Correct": [
+      "rescale"
+    ],
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+  },
+  {
+    "Question": "When using Image Augmentation with the ImageDataGenerator, what happens to your raw image data on-disk.",
+    "Answer": [
+      "A copy will be made, and the copies are augmented",
+      "A copy will be made, and the originals will be augmented",
+      "Nothing",
+      "The images will be edited on disk, so be sure to have a backup"
+    ],
+    "Correct": [
+      "Nothing"
+    ],
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+  },
+  {
+    "Question": "Can you use Image augmentation with Transfer Learning? ",
+    "Answer": [
+      "No - because the layers are frozen so they can't be augmented",
+      "Yes. It's pre-trained layers that are frozen. So you can augment your images as you train the bottom layers of the DNN with them"
+    ],
+    "Correct": [
+      "Yes. It's pre-trained layers that are frozen. So you can augment your images as you train the bottom layers of the DNN with them"
+    ],
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+  },
+  {
+    "Question": "When training for multiple classes what is the Class Mode for Image Augmentation?",
+    "Answer": [
+      "class_mode='multiple'",
+      "class_mode='non_binary'",
+      "class_mode='categorical'",
+      "class_mode='all'"
+    ],
+    "Correct": [
+      "class_mode='categorical'"
+    ],
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+  }
+]

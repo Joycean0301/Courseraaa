@@ -1,0 +1,77 @@
+[
+  {
+    "Question": "What is the resolution of o the 70,000 images from the Fashion MNIST dataset?",
+    "Answer": [
+      "28x28 Greyscale",
+      "100x100 Color",
+      "82x82 Greyscale",
+      "28x28 Color"
+    ],
+    "Correct": [
+      "28x28 Greyscale"
+    ],
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+  },
+  {
+    "Question": "Why are there 10 output neurons in the Neural Network used as an example for the Computer Vision Problem?",
+    "Answer": [
+      "To make it classify 10x faster",
+      "To make it train 10x faster",
+      "There are 10 different labels",
+      "Purely arbitrary"
+    ],
+    "Correct": [
+      "There are 10 different labels"
+    ],
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+  },
+  {
+    "Question": "What does Relu do?",
+    "Answer": [
+      "It only returns x if x is greater than zero",
+      "It only returns x if x is less than zero",
+      "For a value x, it returns 1/x",
+      "It returns the negative of x"
+    ],
+    "Correct": [
+      "It only returns x if x is greater than zero"
+    ],
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+  },
+  {
+    "Question": "Why do you split data into training and test sets?",
+    "Answer": [
+      "To test a network with previously unseen data",
+      "To train a network with previously unseen data",
+      "To make training quicker",
+      "To make testing quicker"
+    ],
+    "Correct": [
+      "To test a network with previously unseen data"
+    ],
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+  },
+  {
+    "Question": "True or False: The on_epoch_end function sends a logs object with lots of great information about the current state of training at the start of every epoch",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+  },
+  {
+    "Question": "Why do you set the callbacks= parameter in your fit function?",
+    "Answer": [
+      "So that the training loops performs all epochs",
+      "Because it accelerates the training",
+      "So, on every epoch you can call back to a code function"
+    ],
+    "Correct": [
+      "So, on every epoch you can call back to a code function"
+    ],
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+  }
+]
