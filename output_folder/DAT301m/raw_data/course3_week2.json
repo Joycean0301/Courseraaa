@@ -4,103 +4,103 @@
     "Answer": [
       "TensorFlow Data",
       "There is no library of common data sets, you have to use your own",
-      "TensorFlow Datasets",
-      "TensorFlow Data Libraries"
+      "TensorFlow Data Libraries",
+      "TensorFlow Datasets"
     ],
     "Correct": [
       "TensorFlow Datasets"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "How many reviews are there in the IMDB dataset and how are they split?",
     "Answer": [
-      "60,000 records, 80/20 train/test split",
       "60,000 records, 50/50 train/test split",
+      "50,000 records, 50/50 train/test split",
       "50,000 records, 80/20 train/test split",
-      "50,000 records, 50/50 train/test split"
+      "60,000 records, 80/20 train/test split"
     ],
     "Correct": [
       "50,000 records, 50/50 train/test split"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "How are the labels for the IMDB dataset encoded?",
     "Answer": [
-      "Reviews encoded as a number 0-1",
-      "Reviews encoded as a number 1-10",
       "Reviews encoded as a number 1-5",
-      "Reviews encoded as a boolean true/false"
+      "Reviews encoded as a boolean true/false",
+      "Reviews encoded as a number 1-10",
+      "Reviews encoded as a number 0-1"
     ],
     "Correct": [
       "Reviews encoded as a number 0-1"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "What is the purpose of the embedding dimension?",
     "Answer": [
-      "It is the number of dimensions required to encode every word in the corpus",
       "It is the number of letters in the word, denoting the size of the encoding",
-      "It is the number of words to encode in the embedding",
-      "It is the number of dimensions for the vector representing the word encoding"
+      "It is the number of dimensions for the vector representing the word encoding",
+      "It is the number of dimensions required to encode every word in the corpus",
+      "It is the number of words to encode in the embedding"
     ],
     "Correct": [
       "It is the number of dimensions for the vector representing the word encoding"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "When tokenizing a corpus, what does the num_words=n parameter do?",
     "Answer": [
       "It specifies the maximum number of words to be tokenized, and picks the first ‘n’ words that were tokenized",
-      "It specifies the maximum number of words to be tokenized, and stops tokenizing when it reaches n",
       "It errors out if there are more than n distinct words in the corpus",
-      "It specifies the maximum number of words to be tokenized, and picks the most common ‘n-1’ words"
+      "It specifies the maximum number of words to be tokenized, and picks the most common ‘n-1’ words",
+      "It specifies the maximum number of words to be tokenized, and stops tokenizing when it reaches n"
     ],
     "Correct": [
       "It specifies the maximum number of words to be tokenized, and picks the most common ‘n-1’ words"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "To use word embeddings in TensorFlow, in a sequential layer, what is the name of the class?",
     "Answer": [
-      "tf.keras.layers.Embedding",
       "tf.keras.layers.WordEmbedding",
       "tf.keras.layers.Word2Vector",
+      "tf.keras.layers.Embedding",
       "tf.keras.layers.Embed"
     ],
     "Correct": [
       "tf.keras.layers.Embedding"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "IMDB Reviews are either positive or negative. What type of loss function should be used in this scenario?",
     "Answer": [
       "Categorical crossentropy",
-      "Binary Gradient descent",
       "Adam",
-      "Binary crossentropy"
+      "Binary crossentropy",
+      "Binary Gradient descent"
     ],
     "Correct": [
       "Binary crossentropy"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "When using IMDB Sub Words dataset, our results in classification were poor. Why?",
     "Answer": [
-      "Our neural network didn’t have enough layers",
       "We didn’t train long enough",
-      "The sub words make no sense, so can’t be classified",
-      "Sequence becomes much more important when dealing with subwords, but we’re ignoring word positions"
+      "Our neural network didn’t have enough layers",
+      "Sequence becomes much more important when dealing with subwords, but we’re ignoring word positions",
+      "The sub words make no sense, so can’t be classified"
     ],
     "Correct": [
       "Sequence becomes much more important when dealing with subwords, but we’re ignoring word positions"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   }
 ]

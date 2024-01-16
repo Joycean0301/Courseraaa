@@ -2,15 +2,15 @@
   {
     "Question": "How do Convolutions improve image recognition?",
     "Answer": [
-      "They make the image clearer",
+      "They make processing of images faster",
       "They isolate features in images",
-      "They make the image smaller",
-      "They make processing of images faster"
+      "They make the image clearer",
+      "They make the image smaller"
     ],
     "Correct": [
       "They isolate features in images"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
   },
   {
     "Question": "What does the Pooling technique do to the images?",
@@ -23,18 +23,18 @@
     "Correct": [
       "Reduces information in them while maintaining some features"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
   },
   {
     "Question": "True or  False. If you pass a 28x28 image through a 3x3 filter the output will be 26x26",
     "Answer": [
-      "True",
-      "False"
+      "False",
+      "True"
     ],
     "Correct": [
       "True"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
   },
   {
     "Question": "After max pooling a 26x26 image with a 2x2 filter, the output will be 56x56",
@@ -45,19 +45,19 @@
     "Correct": [
       "False"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
   },
   {
     "Question": "How does using Convolutions in our Deep neural network impact training?",
     "Answer": [
-      "It does not affect training",
-      "Its impact will depend on other factors.",
       "It makes it faster",
-      "It makes it slower"
+      "It makes it slower",
+      "It does not affect training",
+      "Its impact will depend on other factors."
     ],
     "Correct": [
       "Its impact will depend on other factors."
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM PST"
   }
 ]

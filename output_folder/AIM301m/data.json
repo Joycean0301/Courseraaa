@@ -1,0 +1,1086 @@
+[
+    {
+        "Question": "Which of the following is not one of the key challenges for AI diagnostic algorithms that is discussed in the lecture?\u00a0 ",
+        "Answer": [
+            "Multiple tasks",
+            "Dataset size",
+            "Inflexible models",
+            "Class imbalance"
+        ],
+        "Correct": [
+            "Inflexible models"
+        ],
+        "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "You find that your training set has 70% negative examples and 30% positive. Which of the following techniques will NOT help for training this imbalanced dataset?  ",
+        "Answer": [
+            "Oversampling positive examples ",
+            "Reweighting examples in training loss ",
+            "Oversampling negative examples ",
+            "Undersampling negative examples "
+        ],
+        "Correct": [
+            "Oversampling negative examples "
+        ],
+        "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "What is the total loss from the normal (non-mass) examples in this example dataset? \n\nPlease use the natural logarithm in your calculation.  When you use numpy.log, this is using the natural logarithm.  Also, to get the total loss, please add up the losses from each \u2018normal\u2019 example. \n\nExample\n\n\t\n\nP(positive)\n\n\n\n\nP1 Normal \n\n\t\n\n0.6 \n\n\n\n\nP3 Normal \n\n\t\n\n0.3 \n\n\n\n\nP5 Mass \n\n\t\n\n0.4 ",
+        "Answer": [
+            "2.19",
+            "0.00",
+            "-0.4",
+            "1.27 "
+        ],
+        "Correct": [
+            "1.27 "
+        ],
+        "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "What is the typical size of medical image dataset? ",
+        "Answer": [
+            "~10 thousand to 100 thousand\u00a0 images",
+            "~1 to 1 hundred images",
+            "~ 1 hundred to 1 thousand images",
+            "~1 million or more\u00a0 images"
+        ],
+        "Correct": [
+            "~10 thousand to 100 thousand\u00a0 images"
+        ],
+        "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following are valid methods for determining ground truth?\u00a0 Choose all that apply.",
+        "Answer": [
+            "Biopsy",
+            "Confirmation by CT scan",
+            "Consensus voting from a board of doctors"
+        ],
+        "Correct": [
+            "Biopsy",
+            "Confirmation by CT scan",
+            "Consensus voting from a board of doctors"
+        ],
+        "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "In what order should the training, validation, and test sets be sampled?  ",
+        "Answer": [
+            "Test, Validation, Training",
+            "Training, Validation, Test",
+            "Validation, Test, Training",
+            "Validation, Training, Test"
+        ],
+        "Correct": [
+            "Test, Validation, Training"
+        ],
+        "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Why is it bad to have the same patients in both training and test sets?",
+        "Answer": [
+            "Overly optimistic test performance",
+            "None of these above",
+            "Leaves too few images for the training set",
+            "Leaves too few images for the test set "
+        ],
+        "Correct": [
+            "Overly optimistic test performance"
+        ],
+        "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Let\u2019s say you have a relatively small training set (~5 thousand images). Which training strategy makes the most sense?\u00a0\u00a0\u00a0",
+        "Answer": [
+            "Retraining all layers of a pre-trained model",
+            "Train a model with randomly initialized weights",
+            "Retraining the last layer of a pre-trained model",
+            "Retraining the first layer of a pre-trained model"
+        ],
+        "Correct": [
+            "Retraining the last layer of a pre-trained model"
+        ],
+        "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Now let\u2019s say you have a very large dataset (~1 million images). Which training strategies will make the most sense?",
+        "Answer": [
+            "Retraining the first layer of a pretrained model",
+            "Training a model with randomly initialized weights.",
+            "Retraining the last layer of a pretrained model",
+            "Retraining all layers of a pretrained model"
+        ],
+        "Correct": [
+            "Training a model with randomly initialized weights.",
+            "Retraining all layers of a pretrained model"
+        ],
+        "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "What is the sensitivity and specificity of a pneumonia model that always outputs positive?  In other words, the models says that every patient has the disease.",
+        "Answer": [
+            "sensitivity = 0.5,  specificity = 0.5",
+            "sensitivity = 1.0, specificity = 0.0",
+            "sensitivity  = 1.0, specificity = 1.0",
+            "sensitivity = 0.0, specificity = 1.0"
+        ],
+        "Correct": [
+            "sensitivity = 1.0, specificity = 0.0"
+        ],
+        "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "In some studies, you may have to compute the Positive predictive value (PPV) from the sensitivity, specificity and prevalence.  \n\nGiven a sensitivity = 0.9, specificity = 0.8, and prevalence = 0.2, what is the PPV (positive predictive value)? \n\nHINT: please check the reading item \"Calculating PPV in terms of sensitivity, specificity and prevalence\"",
+        "Answer": [
+            "0.02",
+            "0.53",
+            "0.18",
+            "0.9"
+        ],
+        "Correct": [
+            "0.53"
+        ],
+        "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "If sensitivity = 0.9, specificity = 0.8, and prevalence = 0.2, then what is the accuracy? \n\nHint: You can watch the video \"Sensitivity, Specificity and Prevalence\" to find the equation.",
+        "Answer": [
+            "0.82",
+            "0.75",
+            "0.52",
+            "0.44"
+        ],
+        "Correct": [
+            "0.82"
+        ],
+        "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "What is the sensitivity and specificity of a model which randomly assigns a score between 0 and 1 to each example (with equal probability) if we use a threshold of 0.7?  ",
+        "Answer": [
+            "Sensitivity = 0.7, Specificity = 0.3",
+            "Not enough information to answer the question.",
+            "Sensitivity = 0.3, Specificity = 0.7",
+            "Sensitivity = 0.5, Specificity = 0.5"
+        ],
+        "Correct": [
+            "Sensitivity = 0.3, Specificity = 0.7"
+        ],
+        "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "What is the PPV and sensitivity associated with the following confusion matrix?  \n\nRecall that \n\n\ud835\udc43\n\ud835\udc43\n\ud835\udc49\n=\nTruePositives\npositive\u00a0predictions\nPPV=\npositive\u00a0predictions\nTruePositives\n\t\u200b\n\n\n\ud835\udc46\n\ud835\udc52\n\ud835\udc5b\n\ud835\udc60\n\ud835\udc56\n\ud835\udc61\n\ud835\udc56\n\ud835\udc63\n\ud835\udc56\n\ud835\udc61\n\ud835\udc66\n=\nHow\u00a0many\u00a0actual\u00a0positives\u00a0are\u00a0predicted\u00a0positive?\nSensitivity=How\u00a0many\u00a0actual\u00a0positives\u00a0are\u00a0predicted\u00a0positive?\n\n\t\n\nTest Positive \n\n\t\n\nTest Negative \n\n\n\n\nDisease Positive\n\n\t\n\n30\n\n\t\n\n20\n\n\n\n\nDisease Negative\n\n\t\n\n70\n\n\t\n\n10",
+        "Answer": [
+            "PPV = 0.6, Sensitivity = 0.33",
+            "PPV = 0.4, Sensitivity = 0.2",
+            "PPV = 0.3,  Sensitivity = 0.6",
+            "Not enough information is given"
+        ],
+        "Correct": [
+            "PPV = 0.3,  Sensitivity = 0.6"
+        ],
+        "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "You have a model such that the lowest score for a positive example is higher than the maximum score for a negative example. What is its ROC AUC?  \n\nHINT 1: watch the video \u201cVarying the threshold\u201d.\n\nHINT 2: draw a number line and choose values for the score that is the lowest prediction for any positive example, and choose another number that is the score for the highest prediction for any negative example.\u00a0 Draw a few circles for \u201cpositive\u201d examples and a few \u201cx\u201d for the negative examples.  What do you notice about the model\u2019s ability to identify positive and negative examples?",
+        "Answer": [
+            "Not enough information is given",
+            "1.0",
+            "0.82",
+            "0.52"
+        ],
+        "Correct": [
+            "1.0"
+        ],
+        "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "For every specificity, as we vary the threshold, the sensitivity of model 1 is at least as high as model 2. Which of the following must be true? ",
+        "Answer": [
+            "None of the above",
+            "The ROC of model 2 is higher than model 1",
+            "The ROC of model 1 is at least as high as model 2",
+            "The accuracy of model 2 is higher than model 1"
+        ],
+        "Correct": [
+            "The ROC of model 1 is at least as high as model 2"
+        ],
+        "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "You want to measure the proportion of people with high blood pressure in a population. You sample 1000 people and find that 55% have high blood pressure with a 90% confidence interval of (50%, 60%). What is the correct interpretation of this result?  \n\nHINT: Please watch the video \"Confidence interval\" to help you answer this question.",
+        "Answer": [
+            "If we repeated this sampling, the middle of the confidence interval would be 55%, 90% of the time",
+            "There is a 5% chance that the true mean is less than 50%",
+            "If you repeated this sampling, the true proportion would be in the confidence interval about 90% of the time",
+            "With 90% probability, the proportion of people with high blood pressure is between 50% and 60%"
+        ],
+        "Correct": [
+            "If you repeated this sampling, the true proportion would be in the confidence interval about 90% of the time"
+        ],
+        "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "One experiment calculates a confidence interval using 1000 samples, and the another computes it using 10000 samples. Which interval do you expect to be tighter (assume they use the normal approximation)?  ",
+        "Answer": [
+            "Not enough information",
+            "10,000 samples",
+            "1,000 samples",
+            "Cannot say with confidence"
+        ],
+        "Correct": [
+            "10,000 samples"
+        ],
+        "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is a segmentation task?  ",
+        "Answer": [
+            "Determining which areas of the brain have tumor from an MRI",
+            "Determining whether there is a mass in a chest X-ray",
+            "None of the above",
+            "Determining whether a brain tumor is present in an MRI"
+        ],
+        "Correct": [
+            "Determining which areas of the brain have tumor from an MRI"
+        ],
+        "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "What is the MAIN disadvantage of processing each MRI slice independently using a 2D segmentation model (as mentioned in the lecture)?  \n\nHint: watch the lecture video \"Segmentation\" to help you answer this question.",
+        "Answer": [
+            "3D models are always better than 2D models ",
+            "It is difficult to register slices of MRI models",
+            "None of the above",
+            "You lose some context between slices"
+        ],
+        "Correct": [
+            "You lose some context between slices"
+        ],
+        "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "The U-net consists of...",
+        "Answer": [
+            "A contracting path followed by an expanding path",
+            "Just an expanding path",
+            "An expanding path followed by a contracting path",
+            "Just a contracting path"
+        ],
+        "Correct": [
+            "A contracting path followed by an expanding path"
+        ],
+        "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following data augmentation is most effective for MRI sequences?  ",
+        "Answer": [
+            "Randomly shuffle the pixels in each slice ",
+            "Shifting each pixel to the right by a constant amount with wrap around ",
+            "Shuffling the slices",
+            "Rotation  "
+        ],
+        "Correct": [
+            "Rotation  "
+        ],
+        "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "What is the soft dice loss for the example below?  \n\n\ud835\udc3f\n(\n\ud835\udc43\n,\n\ud835\udc3a\n)\n=\n1\n\u2212\n2\n\u2211\n\ud835\udc56\n=\n1\n\ud835\udc5b\n\ud835\udc5d\n\ud835\udc56\n\ud835\udc54\n\ud835\udc56\n\u2211\n\ud835\udc56\n=\n1\n\ud835\udc5b\n\ud835\udc5d\n\ud835\udc56\n2\n+\n\u2211\n\ud835\udc56\n=\n1\n\ud835\udc5b\n\ud835\udc54\n\ud835\udc56\n2\nL(P,G)=1\u2212\n\u2211\ni=1\nn\n\t\u200b\n\np\ni\n2\n\t\u200b\n\n+\u2211\ni=1\nn\n\t\u200b\n\ng\ni\n2\n\t\u200b\n\n2\u2211\ni=1\nn\n\t\u200b\n\np\ni\n\t\u200b\n\ng\ni\n\t\u200b\n\n\t\u200b\n",
+        "Answer": [
+            "0.910",
+            "-0.089",
+            "0.089",
+            "0.544"
+        ],
+        "Correct": [
+            "0.089"
+        ],
+        "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Look at the output of model 1 and model 2: \n\nWhich one will have a lower soft dice loss? \n\nHint: Notice the prediction scores of P1 and P2 on the pixels where the ground truth is 1.  This may help you focus on certain parts of the soft dice loss formula:\n\n\ud835\udc3f\n(\n\ud835\udc43\n,\n\ud835\udc3a\n)\n=\n1\n\u2212\n2\n\u2211\n\ud835\udc56\n=\n1\n\ud835\udc5b\n\ud835\udc5d\n\ud835\udc56\n\ud835\udc54\n\ud835\udc56\n\u2211\n\ud835\udc56\n=\n1\n\ud835\udc5b\n\ud835\udc5d\n\ud835\udc56\n2\n+\n\u2211\n\ud835\udc56\n=\n1\n\ud835\udc5b\n\ud835\udc54\n\ud835\udc56\n2\nL(P,G)=1\u2212\n\u2211\ni=1\nn\n\t\u200b\n\np\ni\n2\n\t\u200b\n\n+\u2211\ni=1\nn\n\t\u200b\n\ng\ni\n2\n\t\u200b\n\n2\u2211\ni=1\nn\n\t\u200b\n\np\ni\n\t\u200b\n\ng\ni\n\t\u200b\n\n\t\u200b\n",
+        "Answer": [
+            "They will be the same ",
+            "Model 1 has a lower loss",
+            "Model 2 has a smaller loss",
+            "None of the above "
+        ],
+        "Correct": [
+            "Model 1 has a lower loss"
+        ],
+        "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "What is the minimum value of the soft dice loss?  \n\n\ud835\udc3f\n(\n\ud835\udc43\n,\n\ud835\udc3a\n)\n=\n1\n\u2212\n2\n\u2211\n\ud835\udc56\n=\n1\n\ud835\udc5b\n\ud835\udc5d\n\ud835\udc56\n\ud835\udc54\n\ud835\udc56\n\u2211\n\ud835\udc56\n=\n1\n\ud835\udc5b\n\ud835\udc5d\n\ud835\udc56\n2\n+\n\u2211\n\ud835\udc56\n=\n1\n\ud835\udc5b\n\ud835\udc54\n\ud835\udc56\n2\nL(P,G)=1\u2212\n\u2211\ni=1\nn\n\t\u200b\n\np\ni\n2\n\t\u200b\n\n+\u2211\ni=1\nn\n\t\u200b\n\ng\ni\n2\n\t\u200b\n\n2\u2211\ni=1\nn\n\t\u200b\n\np\ni\n\t\u200b\n\ng\ni\n\t\u200b\n\n\t\u200b\n",
+        "Answer": [
+            "1",
+            "0",
+            "4",
+            "- infinity "
+        ],
+        "Correct": [
+            "0"
+        ],
+        "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "An X-ray classification model is developed on data from US hospitals and is later tested on an external dataset from Latin America. Which if the following do you expect?",
+        "Answer": [
+            "Performance remains unchanged ",
+            "None of the above ",
+            "Performance improves on the new dataset ",
+            "Performance drops on the new dataset "
+        ],
+        "Correct": [
+            "Performance drops on the new dataset "
+        ],
+        "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is an example of a prospective study?  ",
+        "Answer": [
+            "A model is trained and tested on a dataset of X-rays collected between 2001 and 2010 ",
+            "A model is deployed for 1 year in an emergency room and its performance over that time is evaluated  ",
+            "None of the above ",
+            "A model is trained on data collected between 2001 and 2010 and then validated on data collected between 2011 and 2013 "
+        ],
+        "Correct": [
+            "A model is deployed for 1 year in an emergency room and its performance over that time is evaluated  "
+        ],
+        "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is not an example of a clinical application of a prognostic model? ",
+        "Answer": [
+            "Informing patients about their risk of developing illness ",
+            "Detecting atrial fibrillation automatically using a EKG ",
+            "Determining who should receive drugs for reducing heart attack risk ",
+            "Determining who should receive end of life care "
+        ],
+        "Correct": [
+            "Detecting atrial fibrillation automatically using a EKG "
+        ],
+        "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Recall the MELD score from the lesson. What is the output for a person with \n\nCreatinine = 0.8 mg/dL, \n\nBilirubin total = 1.5 mg/dL, \n\nINR = 1.3 \n\nRemember that the final score is multiplied by 10. \n\nPlease use natural logarithm instead of base 10 log.\n\nYou can also watch the video \"Liver Disease Mortality\" to review the calculation of the MELD score.\n\nVariable\n\n\t\n\nCoefficient\n\n\n\n\nLn Creatinine (mg/dL)  \n\n\t\n\n0.957 \n\n\n\n\nLn Bilirubin total (mg/dL) \n\n\t\n\n0.378 \n\n\n\n\nLn INR \n\n\t\n\n1.120 \n\n\n\n\nIntercept\n\n\t\n\n0.643 ",
+        "Answer": [
+            "7.44",
+            "None of the above ",
+            "0.876",
+            "8.76 "
+        ],
+        "Correct": [
+            "8.76 "
+        ],
+        "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "You\u2019ve fit a linear model with no interaction terms, and which include Age (in years) as an input feature of the model. Also, you don't multiply the sum product by any scaling number (unlike the MELD score, for instance).\n\nThe risk score for a patient measured today is 0.56. \n\nThe model's coefficient for age is 0.24. \n\nWhat will this patient's risk score be one year later, if all other features remain the same? ",
+        "Answer": [
+            "0.80 ",
+            "0.56 ",
+            "Not enough information ",
+            "0.24 "
+        ],
+        "Correct": [
+            "0.80 "
+        ],
+        "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "A linear risk model for the risk of heart attack has three inputs: Age, Systolic Blood Pressure (BP), and the interaction term between Age and Systolic Blood Pressure.  The coefficients for Age, BP, and the interaction term are 0.1, 0.3, and 0.5.\n\nCan you determine how an increase in blood pressure is affected by an increase in age?\n\nHINT: here is the formula for the model:\n\n\ud835\udc66\n=\n(\n\ud835\udefd\n\ud835\udc34\n\u00d7\n\ud835\udc34\n\ud835\udc54\n\ud835\udc52\n)\n+\n(\n\ud835\udefd\n\ud835\udc35\n\u00d7\n\ud835\udc35\n\ud835\udc43\n)\n+\n(\n\ud835\udefd\n\ud835\udc34\n\ud835\udc35\n\u00d7\n\ud835\udc34\n\ud835\udc54\n\ud835\udc52\n\u00d7\n\ud835\udc35\n\ud835\udc43\n)\ny=(\u03b2\nA\n\t\u200b\n\n\u00d7Age)+(\u03b2\nB\n\t\u200b\n\n\u00d7BP)+(\u03b2\nAB\n\t\u200b\n\n\u00d7Age\u00d7BP)",
+        "Answer": [
+            "None of the above ",
+            "As you get older, the same increase in blood pressure leads to a LARGER change in your risk of heart attack.",
+            "As you get older, the same increase in blood pressure leads to a SMALLER change in your risk of heart attack.",
+            "The effect of blood pressure on risk is independent of age "
+        ],
+        "Correct": [
+            "As you get older, the same increase in blood pressure leads to a LARGER change in your risk of heart attack."
+        ],
+        "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "If a feature \n\ud835\udc65\nx has range 0 to \n\u221e\n\u221e, then what is the range of \nln\n\u2061\n(\n\ud835\udc65\n)\nln(x)? ",
+        "Answer": [
+            "(0, infinity) ",
+            "(-infinity, 1) ",
+            "(-infinity, infinity) ",
+            "None of the above "
+        ],
+        "Correct": [
+            "(-infinity, infinity) "
+        ],
+        "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "True or False: If a > b, then ln(a) > ln(b). ",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which assignment of risk would make the following pair concordant? ",
+        "Answer": [
+            "(0.76, 0.34) ",
+            "(0.44, 0.44) ",
+            "(0.5, 0.83) ",
+            "None of the above "
+        ],
+        "Correct": [
+            "(0.5, 0.83) "
+        ],
+        "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "What is the C-index for the following set of predictions? \n\nPatient\n\n\t\n\nEvent\n\n\t\n\nRisk\n\n\n\n\n1\n\n\t\n\nYes\n\n\t\n\n0.74\u00a0\n\n\n\n\n2\n\n\t\n\nYes\n\n\t\n\n0.52\n\n\n\n\n3\n\n\t\n\nNo\n\n\t\n\n0.60\n\n\n\n\n4\n\n\t\n\nNo\n\n\t\n\n0.28",
+        "Answer": [
+            "0.75 ",
+            "0.5 ",
+            "1.0 ",
+            "0.25 "
+        ],
+        "Correct": [
+            "0.75 "
+        ],
+        "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "What is the C-index for a model which always outputs 0.6 for any patient regardless of their health outcome?",
+        "Answer": [
+            "0.5 ",
+            "0.6 ",
+            "There is not enough information to say ",
+            "0.0 "
+        ],
+        "Correct": [
+            "0.5 "
+        ],
+        "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Model 1 has a c-index of 0.7 and Model 2 has a c-index of 0.6. Which is more accurate using a threshold of 0.5 for the risk score? \n\nIn other words, if the risk score is 0.5 or higher, predict that the patient will have the disease in the future.  If the risk score is < 0.5, predict that the patient will not have the disease.",
+        "Answer": [
+            "They are equally as accurate ",
+            "Model 1 ",
+            "Model 2 ",
+            "There is not enough information to say "
+        ],
+        "Correct": [
+            "There is not enough information to say "
+        ],
+        "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "True or False: A tree of depth 1 is more expressive than a classical linear model.  ",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "One way to aggregate predictions from multiple trees is by a majority vote. Using this aggregation rule, select the prediction of the following trees on the data point (x=4, y=7, z=2):   ",
+        "Answer": [
+            "High risk",
+            "Low risk"
+        ],
+        "Correct": [
+            "Low risk"
+        ],
+        "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "You\u2019ve fit a random forest of 10 trees with max depth 20. Your training ROC is 0.99 and test ROC is 0.54. Which of the following is NOT a reasonable thing to try?  ",
+        "Answer": [
+            "Trying a linear model ",
+            "Increasing the number of trees ",
+            "Decreasing max depth ",
+            "Increasing the max depth "
+        ],
+        "Correct": [
+            "Increasing the max depth "
+        ],
+        "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "When is complete case analysis least likely to bias your model? ",
+        "Answer": [
+            "Data is missing at random ",
+            "Dropping data will bias your model in all of the above cases ",
+            "Data is missing not at random ",
+            "Data is missing completely at random "
+        ],
+        "Correct": [
+            "Data is missing completely at random "
+        ],
+        "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "You have created a model using mean imputation. At test time, you should fill in missing values with:  ",
+        "Answer": [
+            "0.0 ",
+            "None of the above ",
+            "Mean from the train data ",
+            "Mean from the test data "
+        ],
+        "Correct": [
+            "Mean from the train data "
+        ],
+        "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Let\u2019s say blood pressure (BP) measurements are more likely to be missing among young people, who generally have lower blood pressure. You use mean imputation to train your model. Which option correctly characterizes the mean BP (after imputation) in your training dataset?  ",
+        "Answer": [
+            "It is lower than the true mean ",
+            "None of the above ",
+            "It is higher than the true mean ",
+            "It is the same as the true mean "
+        ],
+        "Correct": [
+            "It is higher than the true mean "
+        ],
+        "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "You have trained the following tree and want to make a prediction on someone, but all you know is they are 40 years old, and do not have their blood pressure.\n\nFrom you dataset, you learn the linear relationship between blood pressure and age is:\n\n\ud835\udc35\n\ud835\udc43\n=\n1.7\n\u00d7\n\ud835\udc34\n\ud835\udc54\n\ud835\udc52\n+\n60\nBP=1.7\u00d7Age+60. \n\nUsing regression imputation, and the decision tree shown here, what is your prediction for this person's risk of heart attack? ",
+        "Answer": [
+            "High Risk",
+            "Low Risk"
+        ],
+        "Correct": [
+            "Low Risk"
+        ],
+        "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Assume you have missing data on one of your features, and are considering two options:\n\nOption 1: Drop the feature that has missing values and fit a linear regression on the remaining features.\n\nOption 2: Use imputation on the feature that has missing values, and fit a linear regression on all features.\n\nTrue or False: \"Both options have the same performance\".",
+        "Answer": [
+            "False",
+            "True"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Let \n\ud835\udc53\n(\n\ud835\udc65\n)\nf(x) be the probability that a person with feature \n\ud835\udc65\nx dies within 5 years. \n\nLet \n\ud835\udc46\n\ud835\udc65\n(\n\ud835\udc61\n)\nS\nx\n\t\u200b\n\n(t) be the survival function of a person with feature \n\ud835\udc65\nx.  Assume t is measured in years. \n\nWhich of the following is true? ",
+        "Answer": [
+            "f(x) = 1-S_x(5) ",
+            "\ud835\udc53\n(\n\ud835\udc65\n)\n=\n\ud835\udc46\n\ud835\udc65\n(\n5\n)\nf(x)=S\nx\n\t\u200b\n\n(5)",
+            "f(x) = S_x(0) "
+        ],
+        "Correct": [
+            "f(x) = 1-S_x(5) "
+        ],
+        "Title": "Back\nSurvival\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "The survival function is always: ",
+        "Answer": [
+            "Increasing",
+            "Linear",
+            "Decreasing"
+        ],
+        "Correct": [
+            "Decreasing"
+        ],
+        "Title": "Back\nSurvival\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is a difference between survival data and classification datasets?  ",
+        "Answer": [
+            "Survival data can be used to build prognostic models  ",
+            "Classification dataset contain information on other features ",
+            "In survival data the labels are amounts of time and in classification data the labels are binary  "
+        ],
+        "Correct": [
+            "In survival data the labels are amounts of time and in classification data the labels are binary  "
+        ],
+        "Title": "Back\nSurvival\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is an example of censoring?  ",
+        "Answer": [
+            "Patient does not have the event by the end of the study period.",
+            "The patient withdraws from a study before having an event, and before the study ends.",
+            "Death due to other, unrelated causes (such as an automobile accident) "
+        ],
+        "Correct": [
+            "Patient does not have the event by the end of the study period.",
+            "The patient withdraws from a study before having an event, and before the study ends.",
+            "Death due to other, unrelated causes (such as an automobile accident) "
+        ],
+        "Title": "Back\nSurvival\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "Estimate \n\ud835\udc43\n(\n\ud835\udc47\n>\n2\n\u2223\n\ud835\udc47\n>\n=\n2\n)\nP(T>2\u2223T>=2) from the following dataset:\n\ni\n\n\t\n\n\ud835\udc47\n\ud835\udc56\nT\ni\n\t\u200b\n\n\n\n\n\n1\n\n\t\n\n3\n\n\n\n\n2\n\n\t\n\n5\n\n\n\n\n3\n\n\t\n\n4+\n\n\n\n\n4\n\n\t\n\n2\n\nHint: \n\ud835\udc43\n(\n\ud835\udc47\n>\n2\n\u2223\n\ud835\udc47\n>\n=\n2\n)\n=\n(\n1\n\u2212\n\ud835\udc43\n(\n\ud835\udc47\n=\n2\n\u2223\n\ud835\udc47\n>\n=\n2\n)\n)\nP(T>2\u2223T>=2)=(1\u2212P(T=2\u2223T>=2)). ",
+        "Answer": [
+            "0",
+            "1/4 ",
+            "3/4 ",
+            "1/2 "
+        ],
+        "Correct": [
+            "3/4 "
+        ],
+        "Title": "Back\nSurvival\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "Compute the probability of surviving up to 4 years \n\ud835\udc46\n(\n4\n)\nS(4) given the following dataset using the Kaplan Meier estimate:\n\ni\n\n\t\n\nT_i\n\n\n\n\n1\n\n\t\n\n3\n\n\n\n\n2\n\n\t\n\n5\n\n\n\n\n3\n\n\t\n\n4+\n\n\n\n\n4\n\n\t\n\n2\n\nThe Kaplan Meier Estimator is\n\n\ud835\udc46\n(\n\ud835\udc61\n)\n=\n\u220f\n\ud835\udc56\n=\n0\n\ud835\udc41\n(\n1\n\u2212\n\ud835\udc51\n\ud835\udc56\n\ud835\udc5b\n\ud835\udc56\n)\nS(t)=\u220f\ni=0\nN\n\t\u200b\n\n(1\u2212\nn\ni\n\t\u200b\n\nd\ni\n\t\u200b\n\n\t\u200b\n\n)",
+        "Answer": [
+            "1/2 ",
+            "1/4 ",
+            "3/4",
+            "0"
+        ],
+        "Correct": [
+            "1/2 "
+        ],
+        "Title": "Back\nSurvival\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "Compute S(5) given the following dataset using the Kaplan Meier estimate (note, it's the same dataset as in the previous question).\n\ni\n\n\t\n\nT_i\n\n\n\n\n1\n\n\t\n\n3\n\n\n\n\n2\n\n\t\n\n5\n\n\n\n\n3\n\n\t\n\n4+\n\n\n\n\n4\n\n\t\n\n2\n\nThe Kaplan Meier Estimator is\n\n\ud835\udc46\n(\n\ud835\udc61\n)\n=\n\u220f\n\ud835\udc56\n=\n0\n\ud835\udc41\n(\n1\n\u2212\n\ud835\udc51\n\ud835\udc56\n\ud835\udc5b\n\ud835\udc56\n)\nS(t)=\u220f\ni=0\nN\n\t\u200b\n\n(1\u2212\nn\ni\n\t\u200b\n\nd\ni\n\t\u200b\n\n\t\u200b\n\n)\n\nHint: since we're using the same dataset as in the previous question, you may notice that\n\n\ud835\udc46\n(\n5\n)\n=\n\ud835\udc46\n(\n4\n)\n\u00d7\n(\n1\n\u2212\n\ud835\udc51\n5\n\ud835\udc5b\n5\n)\nS(5)=S(4)\u00d7(1\u2212\nn\n5\n\t\u200b\n\nd\n5\n\t\u200b\n\n\t\u200b\n\n)",
+        "Answer": [
+            "1/2",
+            "0",
+            "3/4",
+            "1/4"
+        ],
+        "Correct": [
+            "0"
+        ],
+        "Title": "Back\nSurvival\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "True or False: If t is larger than the longest survival time recorded in the dataset, then \n\ud835\udc46\n(\n\ud835\udc61\n)\n=\n0\nS(t)=0 according to the Kaplan-Meier estimate.  \n\nThe Kaplan Meier Estimator is\n\n\ud835\udc46\n(\n\ud835\udc61\n)\n=\n\u220f\n\ud835\udc56\n=\n0\n\ud835\udc41\n(\n1\n\u2212\n\ud835\udc51\n\ud835\udc56\n\ud835\udc5b\n\ud835\udc56\n)\nS(t)=\u220f\ni=0\nN\n\t\u200b\n\n(1\u2212\nn\ni\n\t\u200b\n\nd\ni\n\t\u200b\n\n\t\u200b\n\n)",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nSurvival\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "Person 1 has hazard \n\u210e\n1\n(\n\ud835\udc61\n)\n=\n1\nh\n1\n\t\u200b\n\n(t)=1, and Person 2 has hazard \n\u210e\n2\n(\n\ud835\udc61\n)\n=\n2\nh\n2\n\t\u200b\n\n(t)=2. What is the  probability of dying within the first year for each patient?\n\nHint: \n\nThe survival function \n\ud835\udc46\n(\n\ud835\udc61\n)\nS(t) in terms of the hazard function is:\n\n\ud835\udc46\n(\n\ud835\udc61\n)\n=\n\ud835\udc52\n\u2212\n\u222b\n0\n\ud835\udc61\n\u210e\n(\n\ud835\udc60\n)\n\ud835\udc51\n\ud835\udc60\nS(t)=e\n\u2212\u222b\n0\nt\n\t\u200b\n\nh(s)ds",
+        "Answer": [
+            "0.63, 0.86",
+            "0.6, 0.6 ",
+            "0.37, 0.14 "
+        ],
+        "Correct": [
+            "0.63, 0.86"
+        ],
+        "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Let \n\ud835\udc47\n>\n0\nT>0.  \n\nFor patient 1, let the survival function be \n\ud835\udc46\n1\n(\n\ud835\udc61\n)\nS\n1\n\t\u200b\n\n(t) and the hazard function be \n\u210e\n1\n(\n\ud835\udc61\n)\nh\n1\n\t\u200b\n\n(t).\n\nFor patient 2, let the survival function be \n\ud835\udc46\n2\n(\n\ud835\udc61\n)\nS\n2\n\t\u200b\n\n(t) and the hazard function be  \n\u210e\n2\n(\n\ud835\udc61\n)\nh\n2\n\t\u200b\n\n(t) \n\nYou see that \n\ud835\udc46\n1\n(\n\ud835\udc47\n)\n>\n\ud835\udc46\n2\n(\n\ud835\udc47\n)\nS\n1\n\t\u200b\n\n(T)>S\n2\n\t\u200b\n\n(T).   The survival probability of patient 1 at time T is higher than the survival probability of patient 2 at time T.\n\nWhich of the following is true about the hazard of patient 1 and 2 at time T?\n\nHint:\n\n\ud835\udc46\n(\n\ud835\udc61\n)\n=\n\ud835\udc52\n\u2212\n\u222b\n0\n\ud835\udc61\n\u210e\n(\n\ud835\udc60\n)\n\ud835\udc51\n\ud835\udc60\nS(t)=e\n\u2212\u222b\n0\nt\n\t\u200b\n\nh(s)ds",
+        "Answer": [
+            "h_1(T) > h_2(T) ",
+            "h_1(T) < h_2(T) ",
+            "h_1(T) = h_2(T) ",
+            "None of the above "
+        ],
+        "Correct": [
+            "None of the above "
+        ],
+        "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Now assume that the hazards for patient 1, \n\u210e\n1\nh\n1\n\t\u200b\n\n and for patient 2, \n\u210e\n2\nh\n2\n\t\u200b\n\n are proportional to each other.  Also assume  that \n\ud835\udc46\n1\n(\n\ud835\udc47\n)\n>\n\ud835\udc46\n2\n(\n\ud835\udc47\n)\nS\n1\n\t\u200b\n\n(T)>S\n2\n\t\u200b\n\n(T) for some T > 0. \n\nThen which of the following is true about the hazards?",
+        "Answer": [
+            "h_1(T) > h_2(T) ",
+            "h_1(T) = h_2(T) ",
+            "h_1(T) < h_2(T) "
+        ],
+        "Correct": [
+            "h_1(T) < h_2(T) "
+        ],
+        "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "You\u2019ve fit a Cox model on 2 features: age and smoking status. \n\nThe coefficients of these features are:\n\n\ud835\udefd\n\ud835\udc4e\n\ud835\udc54\n\ud835\udc52\n=\n0.9\n\u03b2\nage\n\t\u200b\n\n=0.9 and \n\ud835\udefd\n\ud835\udc60\n\ud835\udc5a\n\ud835\udc5c\n\ud835\udc58\n\ud835\udc52\n\ud835\udc5f\n=\n10.0\n\u03b2\nsmoker\n\t\u200b\n\n=10.0. \n\nWhat is the hazard ratio between Person 1, a 40 year old non-smoker, and Person 2, a 30 year old smoker?  \n\nRecall that Cox Proportional Hazards assumes a model of the form: \n\n\u210e\n(\n\ud835\udc61\n)\n=\n\ud835\udf06\n0\n(\n\ud835\udc61\n)\n\ud835\udc52\n(\n\ud835\udefd\n\ud835\udc4e\n\ud835\udc54\n\ud835\udc52\n\u00d7\n\ud835\udc34\n\ud835\udc54\n\ud835\udc52\n+\n\ud835\udefd\n\ud835\udc60\n\ud835\udc5a\n\ud835\udc5c\n\ud835\udc58\n\ud835\udc52\n\ud835\udc5f\n\u00d7\n\ud835\udc46\n\ud835\udc5a\n\ud835\udc5c\n\ud835\udc58\n\ud835\udc52\n\ud835\udc5f\n)\nh(t)=\u03bb\n0\n\t\u200b\n\n(t)e\n(\u03b2\nage\n\t\u200b\n\n\u00d7Age+\u03b2\nsmoker\n\t\u200b\n\n\u00d7Smoker)\n\nWe're asking you to find the ratio: \n\n\u210e\n1\n(\n\ud835\udc61\n)\n\u210e\n2\n(\n\ud835\udc61\n)\nh\n2\n\t\u200b\n\n(t)\nh\n1\n\t\u200b\n\n(t)\n\t\u200b\n",
+        "Answer": [
+            "0.37",
+            "2.64",
+            "2.7"
+        ],
+        "Correct": [
+            "0.37"
+        ],
+        "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "You\u2019ve fit a cox model and have the following coefficients: \n\n\ud835\udefd\n\ud835\udc53\n\ud835\udc52\n\ud835\udc5a\n\ud835\udc4e\n\ud835\udc59\n\ud835\udc52\n=\n\u2212\n1.0\n\u03b2\nfemale\n\t\u200b\n\n=\u22121.0\n\n\ud835\udefd\n\ud835\udc4e\n\ud835\udc54\n\ud835\udc52\n=\n1.0\n\u03b2\nage\n\t\u200b\n\n=1.0,\n\n\ud835\udefd\n\ud835\udc35\n\ud835\udc43\n=\n0.6\n\u03b2\nBP\n\t\u200b\n\n=0.6 \n\n\u210e\n(\n\ud835\udc61\n)\n=\n\ud835\udf06\n0\n(\n\ud835\udc61\n)\n\ud835\udc52\n(\n(\n\ud835\udefd\n\ud835\udc53\n\ud835\udc52\n\ud835\udc5a\n\ud835\udc4e\n\ud835\udc59\n\ud835\udc52\n\u00d7\n\ud835\udc53\n\ud835\udc52\n\ud835\udc5a\n\ud835\udc4e\n\ud835\udc59\n\ud835\udc52\n)\n+\n(\n\ud835\udefd\n\ud835\udc4e\n\ud835\udc54\n\ud835\udc52\n\u00d7\n\ud835\udc34\n\ud835\udc54\n\ud835\udc52\n)\n+\n(\n\ud835\udefd\n\ud835\udc35\n\ud835\udc43\n\u00d7\n\ud835\udc35\n\ud835\udc43\n)\n)\nh(t)=\u03bb\n0\n\t\u200b\n\n(t)e\n((\u03b2\nfemale\n\t\u200b\n\n\u00d7female)+(\u03b2\nage\n\t\u200b\n\n\u00d7Age)+(\u03b2\nBP\n\t\u200b\n\n\u00d7BP))\n\nWhich of the following interpretations is most correct?  ",
+        "Answer": [
+            "All other things held equal, having higher BP decreases your risk ",
+            "All other things held equal, having lower age increases your risk ",
+            "All other things held equal, being a female decreases your risk "
+        ],
+        "Correct": [
+            "All other things held equal, being a female decreases your risk "
+        ],
+        "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Assume h_1(t) = t, and h_2(t) = 1.0. At which time T > 0 does S_1(T) = S_2(T)?  ",
+        "Answer": [
+            "None of the above",
+            "0.5",
+            "2",
+            "1 "
+        ],
+        "Correct": [
+            "2"
+        ],
+        "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Using the Nelson-Aalen estimator estimate H(7), the value of the cumulative hazard at t=7 for this dataset.  \n\nID\n\n\t\n\nOutcome\n\n\n\n\n1\n\n\t\n\n3\n\n\n\n\n2\n\n\t\n\n4\n\n\n\n\n3\n\n\t\n\n8\n\n\n\n\n4\n\n\t\n\n6+\n\nThe Nelson-Aalen estimator is:\n\n\ud835\udc3b\n(\n\ud835\udc61\n)\n=\n\u2211\n\ud835\udc56\n=\n0\n\ud835\udc61\n\ud835\udc51\n\ud835\udc56\n\ud835\udc5b\n\ud835\udc56\nH(t)=\u2211\ni=0\nt\n\t\u200b\n\nn\ni\n\t\u200b\n\nd\ni\n\t\u200b\n\n\t\u200b\n",
+        "Answer": [
+            "5/9",
+            "7/12",
+            "8/11"
+        ],
+        "Correct": [
+            "7/12"
+        ],
+        "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which risk assignments would make this pair concordant? ",
+        "Answer": [
+            "0.3, 0.8 ",
+            "0.5, 0.3 ",
+            "0.5, 0.5 ",
+            "The pair is not permissible "
+        ],
+        "Correct": [
+            "The pair is not permissible "
+        ],
+        "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "Compute the Harrell C-index for the following dataset and risk scores: \n\nID\n\n\t\n\nOutcome\n\n\t\n\nScore\n\n\n\n\n1\n\n\t\n\n4\n\n\t\n\n1.6\n\n\n\n\n2\n\n\t\n\n6+\n\n\t\n\n1.2\n\n\n\n\n3\n\n\t\n\n5\n\n\t\n\n0.8\n\n\n\n\n4\n\n\t\n\n7\n\n\t\n\n0.1\n\nStep 1: Find all the permissible pairs\n\nStep 2: of the permissible pairs, determine which ones are concordant.\n\nStep 3: of the permissible pairs, determine which ones are risk ties.\n\nHarrell's c-index = \n\ud835\udc50\n\ud835\udc5c\n\ud835\udc5b\n\ud835\udc50\n\ud835\udc5c\n\ud835\udc5f\n\ud835\udc51\n\ud835\udc4e\n\ud835\udc5b\n\ud835\udc61\n+\n0.5\n\u00d7\n\ud835\udc5f\n\ud835\udc56\n\ud835\udc60\n\ud835\udc58\n\ud835\udc61\n\ud835\udc56\n\ud835\udc52\n\ud835\udc60\n\ud835\udc5d\n\ud835\udc52\n\ud835\udc5f\n\ud835\udc5a\n\ud835\udc56\n\ud835\udc60\n\ud835\udc60\n\ud835\udc56\n\ud835\udc4f\n\ud835\udc59\n\ud835\udc52\npermissible\nconcordant+0.5\u00d7riskties\n\t\u200b\n",
+        "Answer": [
+            "1.0",
+            "0.8",
+            "0.7"
+        ],
+        "Correct": [
+            "0.8"
+        ],
+        "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n9 total points available.\n9 total points\n\nEnglish"
+    },
+    {
+        "Question": "You are part of a medical team trying to create an alternative treatment for patients with lung cancer. Your group performs several experiments and reports results with the following p-values. Which has the most statistically significant result?",
+        "Answer": [
+            "p-value = 0.0001",
+            "p-value = 0.0003",
+            "p-value = 0.5",
+            "p-value = 0.001"
+        ],
+        "Correct": [
+            "p-value = 0.0001"
+        ],
+        "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "Given an average risk reduction (ARR) of 0.2, on average, how many people need to receive the treatment in order to benefit one of them (NNT)?",
+        "Answer": [
+            "5",
+            "10",
+            "20",
+            "0.8"
+        ],
+        "Correct": [
+            "5"
+        ],
+        "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "You are studying the effect of a new treatment for heart attack, your job consists in looking at outcomes of the effect in patients, fill the unit level treatment effect column using the Neyman-Rubin causal model, and then calculate the average treatment effect.\n\nTips:\n\nThe event doesn\u2019t occur: 0\n\nThe event occurs: 1\n\nUnit Level Treatment Effect: -1 represents a benefit, 0 represents no effect, 1 represents harm.",
+        "Answer": [
+            "0.375",
+            "-0.75",
+            "0.75",
+            "-0.375"
+        ],
+        "Correct": [
+            "0.375"
+        ],
+        "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "Calculate the conditional average treatment effect applying the Two-Tree Learner method, the patient has an Age=61 and BP= 130.",
+        "Answer": [
+            "0.24",
+            "-0.20",
+            "0.43",
+            "-0.24"
+        ],
+        "Correct": [
+            "-0.20"
+        ],
+        "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "Using the S-Learner, or Single Tree, method, what is the conditional average treatment effect for a 61 year-old patient with a blood pressure (BP) of 140?",
+        "Answer": [
+            "0.22",
+            "0.10",
+            "0.02",
+            "We can\u2019t estimate the conditional ATE using this S-Learner. "
+        ],
+        "Correct": [
+            "We can\u2019t estimate the conditional ATE using this S-Learner. "
+        ],
+        "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which considerations are relevant to the S-Learner Method? Choose all that are correct.\u2028",
+        "Answer": [
+            "The Decision Tree might decide not to use the treatment feature.",
+            "Your model is more likely to overfit your data.",
+            "Since the two models are using each half of the data, there are fewer samples available to learn the relationships between the features.",
+            "This model might produce a treatment effect estimate of 0 for everyone. "
+        ],
+        "Correct": [
+            "The Decision Tree might decide not to use the treatment feature.",
+            "This model might produce a treatment effect estimate of 0 for everyone. "
+        ],
+        "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which considerations are relevant to the T-Learner Method? Choose all that are correct.\u2028",
+        "Answer": [
+            "Your model is more likely to overfit your data.",
+            "This model might produce a treatment effect estimate of 0 for everyone.",
+            "Since the two models are using each half of the data, there are fewer samples available to learn the relationships between the features.",
+            "The Decision Tree might decide not to use the treatment feature."
+        ],
+        "Correct": [
+            "Since the two models are using each half of the data, there are fewer samples available to learn the relationships between the features."
+        ],
+        "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n8 total points available.\n8 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is not true about BERT\u2019s inner word representations?\u00a0",
+        "Answer": [
+            "Each unique word can have exactly one vector representation",
+            "The representation of a word depends on the words around it",
+            "Words which are similar in meaning are typically close as vector",
+            "None of the above"
+        ],
+        "Correct": [
+            "Each unique word can have exactly one vector representation"
+        ],
+        "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "True or False: the start and end vectors are fixed throughout training\u00a0",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is a difference between BERT and LSTM models?\u00a0",
+        "Answer": [
+            "BERT can be trained on multiple languages, while LSTMs cannot",
+            "BERT is trained using backpropagation while LSTMs are not",
+            "BERT takes entire sequences as input, while LSTM models process words one by one",
+            "BERT uses regular word vectors, while LSTMs use contextualized word vectors"
+        ],
+        "Correct": [
+            "BERT takes entire sequences as input, while LSTM models process words one by one"
+        ],
+        "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Given the following word vectors and start and end vectors, determine the start and end of the sequence of interest.",
+        "Answer": [
+            "start: The, end: cancer",
+            "start: gene, end: associated",
+            "start: with, end: gene",
+            "start: breast, end: cancer"
+        ],
+        "Correct": [
+            "start: breast, end: cancer"
+        ],
+        "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "You find that a radiology report mentions \u201cedema\u201d. Which of the following can you immediately conclude?\u00a0",
+        "Answer": [
+            "The x-ray contains edema ",
+            "The x-ray contains pneumonia",
+            "The x-ray does not contain edema",
+            "None of the above"
+        ],
+        "Correct": [
+            "None of the above"
+        ],
+        "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Use the following entry in SNOMED CT to help determine the positive labels for this x-ray report.",
+        "Answer": [
+            "common cold: 0, lesion: 0",
+            "common cold: 0, lesion: 1",
+            "common cold: 1, lesion: 1",
+            "common cold: 1, lesion: 0"
+        ],
+        "Correct": [
+            "common cold: 1, lesion: 0"
+        ],
+        "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Let\u2019s see why F1 is used instead of the regular mean of precision and recall. Let\u2019s say the mean of precision and recall is at least 0.75. Which of the following could be the true value of the precision? ",
+        "Answer": [
+            "0.75",
+            "0.5",
+            "Both",
+            "Neither"
+        ],
+        "Correct": [
+            "Both"
+        ],
+        "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Now let\u2019s say F1 score is at least 0.75. Now which of the following values of precision are possible?\u00a0",
+        "Answer": [
+            "0.75",
+            "0.5",
+            "Both",
+            "Neither"
+        ],
+        "Correct": [
+            "0.75"
+        ],
+        "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Compute the F1 score for pneumonia and mass separately based on the following retrieved labels and ground truth:\n\n\u00a0",
+        "Answer": [
+            "(0.5, 0.83)",
+            "(0.5, 0.8)",
+            "(0.75, 0.8)",
+            "None of the above"
+        ],
+        "Correct": [
+            "(0.5, 0.8)"
+        ],
+        "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "Now compute the F1 score for all labels jointly:\u00a0",
+        "Answer": [
+            "1.35",
+            "0.61",
+            "0.66",
+            "None of the above"
+        ],
+        "Correct": [
+            "0.66"
+        ],
+        "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n10 total points available.\n10 total points\n\nEnglish"
+    },
+    {
+        "Question": "You train the random forest pictured below and it gets a c-index of 0.90. After shuffling the values for x, your dataset is the following. What is the variable importance for x? \n\n\u00a0\n\nID\n\n\t\n\nx\n\n\t\n\ny\n\n\t\n\ndeath\n\n\n\n\n1\n\n\t\n\n2\n\n\t\n\n3\n\n\t\n\n1\n\n\n\n\n2\n\n\t\n\n4\n\n\t\n\n5\n\n\t\n\n0\n\n\n\n\n3\n\n\t\n\n1\n\n\t\n\n2\n\n\t\n\n1\n\n\n\n\n4\n\n\t\n\n5\n\n\t\n\n2\n\n\t\n\n0",
+        "Answer": [
+            "-0.05",
+            "0.1",
+            "0.5",
+            "0.65"
+        ],
+        "Correct": [
+            "0.65"
+        ],
+        "Title": "Back\nML Interpretation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n6 total points available.\n6 total points\n\nEnglish"
+    },
+    {
+        "Question": "Say you have trained a decision tree which never splits on a variable X. What will be the variable importance for X using the permutation method?",
+        "Answer": [
+            "0.5",
+            "A random number between 0 and 1",
+            "0",
+            "There is too little information to say"
+        ],
+        "Correct": [
+            "0"
+        ],
+        "Title": "Back\nML Interpretation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n6 total points available.\n6 total points\n\nEnglish"
+    },
+    {
+        "Question": "We have the following table the output of a model f on an example using subsets of the variable. What is the Shapley value for s_BP? \n\n\u00a0\n\nFeature Set\n\n\t\n\nOutput\n\n\n\n\n{}\n\n\t\n\n0.5\n\n\n\n\n{s_BP}\n\n\t\n\n0.7\n\n\n\n\n{d_BP}\n\n\t\n\n0.6\n\n\n\n\n{s_BP, d_BP}\n\n\t\n\n0.65",
+        "Answer": [
+            "0.0",
+            "0.2",
+            "0.05",
+            "0.125"
+        ],
+        "Correct": [
+            "0.125"
+        ],
+        "Title": "Back\nML Interpretation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n6 total points available.\n6 total points\n\nEnglish"
+    },
+    {
+        "Question": "We have the following table the output of a model f on an example using subsets of the variable. What is the sum of the Shapley value for s_BP and d_BP?\u00a0\n\n\u00a0\n\nFeature Set\n\n\t\n\nOutput\n\n\n\n\n{}\n\n\t\n\n0.5\n\n\n\n\n{s_BP}\n\n\t\n\n0.7\n\n\n\n\n{d_BP}\n\n\t\n\n0.6\n\n\n\n\n{s_BP, d_BP}\n\n\t\n\n0.65",
+        "Answer": [
+            "0.0",
+            "0.2",
+            "0.05",
+            "0.15"
+        ],
+        "Correct": [
+            "0.15"
+        ],
+        "Title": "Back\nML Interpretation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n6 total points available.\n6 total points\n\nEnglish"
+    },
+    {
+        "Question": "Could the following table of outputs be given by a linear model with no interactions (assume not including a feature means setting it to 0)? \n\n\u00a0\n\nFeature Set\n\n\t\n\nOutput\n\n\n\n\n{}\n\n\t\n\n0.5\n\n\n\n\n{s_BP}\n\n\t\n\n0.7\n\n\n\n\n{d_BP}\n\n\t\n\n0.6\n\n\n\n\n{s_BP, d_BP}\n\n\t\n\n0.65",
+        "Answer": [
+            "Yes",
+            "No"
+        ],
+        "Correct": [
+            "No"
+        ],
+        "Title": "Back\nML Interpretation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n6 total points available.\n6 total points\n\nEnglish"
+    },
+    {
+        "Question": "Now assume we add Age as a variable. What is the new Shapley value for s_BP?\n\n\u00a0\n\nFeature Set\n\n\t\n\nOutput\n\n\n\n\n{}\n\n\t\n\n0.5\n\n\n\n\n{s_BP}\n\n\t\n\n0.7\n\n\n\n\n{d_BP}\n\n\t\n\n0.6\n\n\n\n\n{Age}\u00a0\n\n\t\n\n0.7\n\n\n\n\n{s_BP, d_BP}\n\n\t\n\n0.65\n\n\n\n\n{s_BP, Age}\n\n\t\n\n0.7\n\n\n\n\n{d_BP, Age}\n\n\t\n\n0.8\n\n\n\n\n{d_BP, s_BP, Age}\n\n\t\n\n0.85",
+        "Answer": [
+            "0.0",
+            "0.09",
+            "0.125",
+            "0.20"
+        ],
+        "Correct": [
+            "0.09"
+        ],
+        "Title": "Back\nML Interpretation\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n6 total points available.\n6 total points\n\nEnglish"
+    }
+]

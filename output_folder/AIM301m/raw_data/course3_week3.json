@@ -1,0 +1,78 @@
+[
+  {
+    "Question": "You train the random forest pictured below and it gets a c-index of 0.90. After shuffling the values for x, your dataset is the following. What is the variable importance for x? \n\n \n\nID\n\n\t\n\nx\n\n\t\n\ny\n\n\t\n\ndeath\n\n\n\n\n1\n\n\t\n\n2\n\n\t\n\n3\n\n\t\n\n1\n\n\n\n\n2\n\n\t\n\n4\n\n\t\n\n5\n\n\t\n\n0\n\n\n\n\n3\n\n\t\n\n1\n\n\t\n\n2\n\n\t\n\n1\n\n\n\n\n4\n\n\t\n\n5\n\n\t\n\n2\n\n\t\n\n0",
+    "Answer": [
+      "-0.05",
+      "0.1",
+      "0.5",
+      "0.65"
+    ],
+    "Correct": [
+      "0.65"
+    ],
+    "Title": "Back\nML Interpretation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n6 total points available.\n6 total points\n\nEnglish"
+  },
+  {
+    "Question": "Say you have trained a decision tree which never splits on a variable X. What will be the variable importance for X using the permutation method?",
+    "Answer": [
+      "0.5",
+      "A random number between 0 and 1",
+      "0",
+      "There is too little information to say"
+    ],
+    "Correct": [
+      "0"
+    ],
+    "Title": "Back\nML Interpretation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n6 total points available.\n6 total points\n\nEnglish"
+  },
+  {
+    "Question": "We have the following table the output of a model f on an example using subsets of the variable. What is the Shapley value for s_BP? \n\n \n\nFeature Set\n\n\t\n\nOutput\n\n\n\n\n{}\n\n\t\n\n0.5\n\n\n\n\n{s_BP}\n\n\t\n\n0.7\n\n\n\n\n{d_BP}\n\n\t\n\n0.6\n\n\n\n\n{s_BP, d_BP}\n\n\t\n\n0.65",
+    "Answer": [
+      "0.0",
+      "0.2",
+      "0.05",
+      "0.125"
+    ],
+    "Correct": [
+      "0.125"
+    ],
+    "Title": "Back\nML Interpretation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n6 total points available.\n6 total points\n\nEnglish"
+  },
+  {
+    "Question": "We have the following table the output of a model f on an example using subsets of the variable. What is the sum of the Shapley value for s_BP and d_BP? \n\n \n\nFeature Set\n\n\t\n\nOutput\n\n\n\n\n{}\n\n\t\n\n0.5\n\n\n\n\n{s_BP}\n\n\t\n\n0.7\n\n\n\n\n{d_BP}\n\n\t\n\n0.6\n\n\n\n\n{s_BP, d_BP}\n\n\t\n\n0.65",
+    "Answer": [
+      "0.0",
+      "0.2",
+      "0.05",
+      "0.15"
+    ],
+    "Correct": [
+      "0.15"
+    ],
+    "Title": "Back\nML Interpretation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n6 total points available.\n6 total points\n\nEnglish"
+  },
+  {
+    "Question": "Could the following table of outputs be given by a linear model with no interactions (assume not including a feature means setting it to 0)? \n\n \n\nFeature Set\n\n\t\n\nOutput\n\n\n\n\n{}\n\n\t\n\n0.5\n\n\n\n\n{s_BP}\n\n\t\n\n0.7\n\n\n\n\n{d_BP}\n\n\t\n\n0.6\n\n\n\n\n{s_BP, d_BP}\n\n\t\n\n0.65",
+    "Answer": [
+      "Yes",
+      "No"
+    ],
+    "Correct": [
+      "No"
+    ],
+    "Title": "Back\nML Interpretation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n6 total points available.\n6 total points\n\nEnglish"
+  },
+  {
+    "Question": "Now assume we add Age as a variable. What is the new Shapley value for s_BP?\n\n \n\nFeature Set\n\n\t\n\nOutput\n\n\n\n\n{}\n\n\t\n\n0.5\n\n\n\n\n{s_BP}\n\n\t\n\n0.7\n\n\n\n\n{d_BP}\n\n\t\n\n0.6\n\n\n\n\n{Age} \n\n\t\n\n0.7\n\n\n\n\n{s_BP, d_BP}\n\n\t\n\n0.65\n\n\n\n\n{s_BP, Age}\n\n\t\n\n0.7\n\n\n\n\n{d_BP, Age}\n\n\t\n\n0.8\n\n\n\n\n{d_BP, s_BP, Age}\n\n\t\n\n0.85",
+    "Answer": [
+      "0.0",
+      "0.09",
+      "0.125",
+      "0.20"
+    ],
+    "Correct": [
+      "0.09"
+    ],
+    "Title": "Back\nML Interpretation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n6 total points available.\n6 total points\n\nEnglish"
+  }
+]

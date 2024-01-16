@@ -1,0 +1,94 @@
+[
+  {
+    "Question": "You are part of a medical team trying to create an alternative treatment for patients with lung cancer. Your group performs several experiments and reports results with the following p-values. Which has the most statistically significant result?",
+    "Answer": [
+      "p-value = 0.0001",
+      "p-value = 0.0003",
+      "p-value = 0.5",
+      "p-value = 0.001"
+    ],
+    "Correct": [
+      "p-value = 0.0001"
+    ],
+    "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Given an average risk reduction (ARR) of 0.2, on average, how many people need to receive the treatment in order to benefit one of them (NNT)?",
+    "Answer": [
+      "5",
+      "10",
+      "20",
+      "0.8"
+    ],
+    "Correct": [
+      "5"
+    ],
+    "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "You are studying the effect of a new treatment for heart attack, your job consists in looking at outcomes of the effect in patients, fill the unit level treatment effect column using the Neyman-Rubin causal model, and then calculate the average treatment effect.\n\nTips:\n\nThe event doesn’t occur: 0\n\nThe event occurs: 1\n\nUnit Level Treatment Effect: -1 represents a benefit, 0 represents no effect, 1 represents harm.",
+    "Answer": [
+      "0.375",
+      "-0.75",
+      "0.75",
+      "-0.375"
+    ],
+    "Correct": [
+      "0.375"
+    ],
+    "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Calculate the conditional average treatment effect applying the Two-Tree Learner method, the patient has an Age=61 and BP= 130.",
+    "Answer": [
+      "0.24",
+      "-0.20",
+      "0.43",
+      "-0.24"
+    ],
+    "Correct": [
+      "-0.20"
+    ],
+    "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Using the S-Learner, or Single Tree, method, what is the conditional average treatment effect for a 61 year-old patient with a blood pressure (BP) of 140?",
+    "Answer": [
+      "0.22",
+      "0.10",
+      "0.02",
+      "We can’t estimate the conditional ATE using this S-Learner. "
+    ],
+    "Correct": [
+      "We can’t estimate the conditional ATE using this S-Learner. "
+    ],
+    "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which considerations are relevant to the S-Learner Method? Choose all that are correct. ",
+    "Answer": [
+      "The Decision Tree might decide not to use the treatment feature.",
+      "Your model is more likely to overfit your data.",
+      "Since the two models are using each half of the data, there are fewer samples available to learn the relationships between the features.",
+      "This model might produce a treatment effect estimate of 0 for everyone. "
+    ],
+    "Correct": [
+      "The Decision Tree might decide not to use the treatment feature.",
+      "This model might produce a treatment effect estimate of 0 for everyone. "
+    ],
+    "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which considerations are relevant to the T-Learner Method? Choose all that are correct. ",
+    "Answer": [
+      "Your model is more likely to overfit your data.",
+      "This model might produce a treatment effect estimate of 0 for everyone.",
+      "Since the two models are using each half of the data, there are fewer samples available to learn the relationships between the features.",
+      "The Decision Tree might decide not to use the treatment feature."
+    ],
+    "Correct": [
+      "Since the two models are using each half of the data, there are fewer samples available to learn the relationships between the features."
+    ],
+    "Title": "Back\nMeasuring Treatment Effects\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  }
+]

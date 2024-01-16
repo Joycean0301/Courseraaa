@@ -1,0 +1,113 @@
+[
+  {
+    "Question": "Person 1 has hazard \nℎ\n1\n(\n𝑡\n)\n=\n1\nh\n1\n\t​\n\n(t)=1, and Person 2 has hazard \nℎ\n2\n(\n𝑡\n)\n=\n2\nh\n2\n\t​\n\n(t)=2. What is the  probability of dying within the first year for each patient?\n\nHint: \n\nThe survival function \n𝑆\n(\n𝑡\n)\nS(t) in terms of the hazard function is:\n\n𝑆\n(\n𝑡\n)\n=\n𝑒\n−\n∫\n0\n𝑡\nℎ\n(\n𝑠\n)\n𝑑\n𝑠\nS(t)=e\n−∫\n0\nt\n\t​\n\nh(s)ds",
+    "Answer": [
+      "0.63, 0.86",
+      "0.6, 0.6 ",
+      "0.37, 0.14 "
+    ],
+    "Correct": [
+      "0.63, 0.86"
+    ],
+    "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "Let \n𝑇\n>\n0\nT>0.  \n\nFor patient 1, let the survival function be \n𝑆\n1\n(\n𝑡\n)\nS\n1\n\t​\n\n(t) and the hazard function be \nℎ\n1\n(\n𝑡\n)\nh\n1\n\t​\n\n(t).\n\nFor patient 2, let the survival function be \n𝑆\n2\n(\n𝑡\n)\nS\n2\n\t​\n\n(t) and the hazard function be  \nℎ\n2\n(\n𝑡\n)\nh\n2\n\t​\n\n(t) \n\nYou see that \n𝑆\n1\n(\n𝑇\n)\n>\n𝑆\n2\n(\n𝑇\n)\nS\n1\n\t​\n\n(T)>S\n2\n\t​\n\n(T).   The survival probability of patient 1 at time T is higher than the survival probability of patient 2 at time T.\n\nWhich of the following is true about the hazard of patient 1 and 2 at time T?\n\nHint:\n\n𝑆\n(\n𝑡\n)\n=\n𝑒\n−\n∫\n0\n𝑡\nℎ\n(\n𝑠\n)\n𝑑\n𝑠\nS(t)=e\n−∫\n0\nt\n\t​\n\nh(s)ds",
+    "Answer": [
+      "h_1(T) > h_2(T) ",
+      "h_1(T) < h_2(T) ",
+      "h_1(T) = h_2(T) ",
+      "None of the above "
+    ],
+    "Correct": [
+      "None of the above "
+    ],
+    "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "Now assume that the hazards for patient 1, \nℎ\n1\nh\n1\n\t​\n\n and for patient 2, \nℎ\n2\nh\n2\n\t​\n\n are proportional to each other.  Also assume  that \n𝑆\n1\n(\n𝑇\n)\n>\n𝑆\n2\n(\n𝑇\n)\nS\n1\n\t​\n\n(T)>S\n2\n\t​\n\n(T) for some T > 0. \n\nThen which of the following is true about the hazards?",
+    "Answer": [
+      "h_1(T) > h_2(T) ",
+      "h_1(T) = h_2(T) ",
+      "h_1(T) < h_2(T) "
+    ],
+    "Correct": [
+      "h_1(T) < h_2(T) "
+    ],
+    "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "You’ve fit a Cox model on 2 features: age and smoking status. \n\nThe coefficients of these features are:\n\n𝛽\n𝑎\n𝑔\n𝑒\n=\n0.9\nβ\nage\n\t​\n\n=0.9 and \n𝛽\n𝑠\n𝑚\n𝑜\n𝑘\n𝑒\n𝑟\n=\n10.0\nβ\nsmoker\n\t​\n\n=10.0. \n\nWhat is the hazard ratio between Person 1, a 40 year old non-smoker, and Person 2, a 30 year old smoker?  \n\nRecall that Cox Proportional Hazards assumes a model of the form: \n\nℎ\n(\n𝑡\n)\n=\n𝜆\n0\n(\n𝑡\n)\n𝑒\n(\n𝛽\n𝑎\n𝑔\n𝑒\n×\n𝐴\n𝑔\n𝑒\n+\n𝛽\n𝑠\n𝑚\n𝑜\n𝑘\n𝑒\n𝑟\n×\n𝑆\n𝑚\n𝑜\n𝑘\n𝑒\n𝑟\n)\nh(t)=λ\n0\n\t​\n\n(t)e\n(β\nage\n\t​\n\n×Age+β\nsmoker\n\t​\n\n×Smoker)\n\nWe're asking you to find the ratio: \n\nℎ\n1\n(\n𝑡\n)\nℎ\n2\n(\n𝑡\n)\nh\n2\n\t​\n\n(t)\nh\n1\n\t​\n\n(t)\n\t​\n",
+    "Answer": [
+      "0.37",
+      "2.64",
+      "2.7"
+    ],
+    "Correct": [
+      "0.37"
+    ],
+    "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "You’ve fit a cox model and have the following coefficients: \n\n𝛽\n𝑓\n𝑒\n𝑚\n𝑎\n𝑙\n𝑒\n=\n−\n1.0\nβ\nfemale\n\t​\n\n=−1.0\n\n𝛽\n𝑎\n𝑔\n𝑒\n=\n1.0\nβ\nage\n\t​\n\n=1.0,\n\n𝛽\n𝐵\n𝑃\n=\n0.6\nβ\nBP\n\t​\n\n=0.6 \n\nℎ\n(\n𝑡\n)\n=\n𝜆\n0\n(\n𝑡\n)\n𝑒\n(\n(\n𝛽\n𝑓\n𝑒\n𝑚\n𝑎\n𝑙\n𝑒\n×\n𝑓\n𝑒\n𝑚\n𝑎\n𝑙\n𝑒\n)\n+\n(\n𝛽\n𝑎\n𝑔\n𝑒\n×\n𝐴\n𝑔\n𝑒\n)\n+\n(\n𝛽\n𝐵\n𝑃\n×\n𝐵\n𝑃\n)\n)\nh(t)=λ\n0\n\t​\n\n(t)e\n((β\nfemale\n\t​\n\n×female)+(β\nage\n\t​\n\n×Age)+(β\nBP\n\t​\n\n×BP))\n\nWhich of the following interpretations is most correct?  ",
+    "Answer": [
+      "All other things held equal, having higher BP decreases your risk ",
+      "All other things held equal, having lower age increases your risk ",
+      "All other things held equal, being a female decreases your risk "
+    ],
+    "Correct": [
+      "All other things held equal, being a female decreases your risk "
+    ],
+    "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "Assume h_1(t) = t, and h_2(t) = 1.0. At which time T > 0 does S_1(T) = S_2(T)?  ",
+    "Answer": [
+      "None of the above",
+      "0.5",
+      "2",
+      "1 "
+    ],
+    "Correct": [
+      "2"
+    ],
+    "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "Using the Nelson-Aalen estimator estimate H(7), the value of the cumulative hazard at t=7 for this dataset.  \n\nID\n\n\t\n\nOutcome\n\n\n\n\n1\n\n\t\n\n3\n\n\n\n\n2\n\n\t\n\n4\n\n\n\n\n3\n\n\t\n\n8\n\n\n\n\n4\n\n\t\n\n6+\n\nThe Nelson-Aalen estimator is:\n\n𝐻\n(\n𝑡\n)\n=\n∑\n𝑖\n=\n0\n𝑡\n𝑑\n𝑖\n𝑛\n𝑖\nH(t)=∑\ni=0\nt\n\t​\n\nn\ni\n\t​\n\nd\ni\n\t​\n\n\t​\n",
+    "Answer": [
+      "5/9",
+      "7/12",
+      "8/11"
+    ],
+    "Correct": [
+      "7/12"
+    ],
+    "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which risk assignments would make this pair concordant? ",
+    "Answer": [
+      "0.3, 0.8 ",
+      "0.5, 0.3 ",
+      "0.5, 0.5 ",
+      "The pair is not permissible "
+    ],
+    "Correct": [
+      "The pair is not permissible "
+    ],
+    "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "Compute the Harrell C-index for the following dataset and risk scores: \n\nID\n\n\t\n\nOutcome\n\n\t\n\nScore\n\n\n\n\n1\n\n\t\n\n4\n\n\t\n\n1.6\n\n\n\n\n2\n\n\t\n\n6+\n\n\t\n\n1.2\n\n\n\n\n3\n\n\t\n\n5\n\n\t\n\n0.8\n\n\n\n\n4\n\n\t\n\n7\n\n\t\n\n0.1\n\nStep 1: Find all the permissible pairs\n\nStep 2: of the permissible pairs, determine which ones are concordant.\n\nStep 3: of the permissible pairs, determine which ones are risk ties.\n\nHarrell's c-index = \n𝑐\n𝑜\n𝑛\n𝑐\n𝑜\n𝑟\n𝑑\n𝑎\n𝑛\n𝑡\n+\n0.5\n×\n𝑟\n𝑖\n𝑠\n𝑘\n𝑡\n𝑖\n𝑒\n𝑠\n𝑝\n𝑒\n𝑟\n𝑚\n𝑖\n𝑠\n𝑠\n𝑖\n𝑏\n𝑙\n𝑒\npermissible\nconcordant+0.5×riskties\n\t​\n",
+    "Answer": [
+      "1.0",
+      "0.8",
+      "0.7"
+    ],
+    "Correct": [
+      "0.8"
+    ],
+    "Title": "Back\nWeek 4\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  }
+]

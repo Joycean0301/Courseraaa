@@ -1,0 +1,121 @@
+[
+  {
+    "Question": "Which of the following is not one of the key challenges for AI diagnostic algorithms that is discussed in the lecture?  ",
+    "Answer": [
+      "Multiple tasks",
+      "Dataset size",
+      "Inflexible models",
+      "Class imbalance"
+    ],
+    "Correct": [
+      "Inflexible models"
+    ],
+    "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "You find that your training set has 70% negative examples and 30% positive. Which of the following techniques will NOT help for training this imbalanced dataset?  ",
+    "Answer": [
+      "Oversampling positive examples ",
+      "Reweighting examples in training loss ",
+      "Oversampling negative examples ",
+      "Undersampling negative examples "
+    ],
+    "Correct": [
+      "Oversampling negative examples "
+    ],
+    "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the total loss from the normal (non-mass) examples in this example dataset? \n\nPlease use the natural logarithm in your calculation.  When you use numpy.log, this is using the natural logarithm.  Also, to get the total loss, please add up the losses from each ‘normal’ example. \n\nExample\n\n\t\n\nP(positive)\n\n\n\n\nP1 Normal \n\n\t\n\n0.6 \n\n\n\n\nP3 Normal \n\n\t\n\n0.3 \n\n\n\n\nP5 Mass \n\n\t\n\n0.4 ",
+    "Answer": [
+      "2.19",
+      "0.00",
+      "-0.4",
+      "1.27 "
+    ],
+    "Correct": [
+      "1.27 "
+    ],
+    "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the typical size of medical image dataset? ",
+    "Answer": [
+      "~10 thousand to 100 thousand  images",
+      "~1 to 1 hundred images",
+      "~ 1 hundred to 1 thousand images",
+      "~1 million or more  images"
+    ],
+    "Correct": [
+      "~10 thousand to 100 thousand  images"
+    ],
+    "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following are valid methods for determining ground truth?  Choose all that apply.",
+    "Answer": [
+      "Biopsy",
+      "Confirmation by CT scan",
+      "Consensus voting from a board of doctors"
+    ],
+    "Correct": [
+      "Biopsy",
+      "Confirmation by CT scan",
+      "Consensus voting from a board of doctors"
+    ],
+    "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "In what order should the training, validation, and test sets be sampled?  ",
+    "Answer": [
+      "Test, Validation, Training",
+      "Training, Validation, Test",
+      "Validation, Test, Training",
+      "Validation, Training, Test"
+    ],
+    "Correct": [
+      "Test, Validation, Training"
+    ],
+    "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Why is it bad to have the same patients in both training and test sets?",
+    "Answer": [
+      "Overly optimistic test performance",
+      "None of these above",
+      "Leaves too few images for the training set",
+      "Leaves too few images for the test set "
+    ],
+    "Correct": [
+      "Overly optimistic test performance"
+    ],
+    "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Let’s say you have a relatively small training set (~5 thousand images). Which training strategy makes the most sense?   ",
+    "Answer": [
+      "Retraining all layers of a pre-trained model",
+      "Train a model with randomly initialized weights",
+      "Retraining the last layer of a pre-trained model",
+      "Retraining the first layer of a pre-trained model"
+    ],
+    "Correct": [
+      "Retraining the last layer of a pre-trained model"
+    ],
+    "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Now let’s say you have a very large dataset (~1 million images). Which training strategies will make the most sense?",
+    "Answer": [
+      "Retraining the first layer of a pretrained model",
+      "Training a model with randomly initialized weights.",
+      "Retraining the last layer of a pretrained model",
+      "Retraining all layers of a pretrained model"
+    ],
+    "Correct": [
+      "Training a model with randomly initialized weights.",
+      "Retraining all layers of a pretrained model"
+    ],
+    "Title": "Back\nDisease Detection with Computer Vision\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "Question": "Which of the following is a segmentation task?  ",
+    "Answer": [
+      "Determining which areas of the brain have tumor from an MRI",
+      "Determining whether there is a mass in a chest X-ray",
+      "None of the above",
+      "Determining whether a brain tumor is present in an MRI"
+    ],
+    "Correct": [
+      "Determining which areas of the brain have tumor from an MRI"
+    ],
+    "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the MAIN disadvantage of processing each MRI slice independently using a 2D segmentation model (as mentioned in the lecture)?  \n\nHint: watch the lecture video \"Segmentation\" to help you answer this question.",
+    "Answer": [
+      "3D models are always better than 2D models ",
+      "It is difficult to register slices of MRI models",
+      "None of the above",
+      "You lose some context between slices"
+    ],
+    "Correct": [
+      "You lose some context between slices"
+    ],
+    "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "The U-net consists of...",
+    "Answer": [
+      "A contracting path followed by an expanding path",
+      "Just an expanding path",
+      "An expanding path followed by a contracting path",
+      "Just a contracting path"
+    ],
+    "Correct": [
+      "A contracting path followed by an expanding path"
+    ],
+    "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following data augmentation is most effective for MRI sequences?  ",
+    "Answer": [
+      "Randomly shuffle the pixels in each slice ",
+      "Shifting each pixel to the right by a constant amount with wrap around ",
+      "Shuffling the slices",
+      "Rotation  "
+    ],
+    "Correct": [
+      "Rotation  "
+    ],
+    "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the soft dice loss for the example below?  \n\n𝐿\n(\n𝑃\n,\n𝐺\n)\n=\n1\n−\n2\n∑\n𝑖\n=\n1\n𝑛\n𝑝\n𝑖\n𝑔\n𝑖\n∑\n𝑖\n=\n1\n𝑛\n𝑝\n𝑖\n2\n+\n∑\n𝑖\n=\n1\n𝑛\n𝑔\n𝑖\n2\nL(P,G)=1−\n∑\ni=1\nn\n\t​\n\np\ni\n2\n\t​\n\n+∑\ni=1\nn\n\t​\n\ng\ni\n2\n\t​\n\n2∑\ni=1\nn\n\t​\n\np\ni\n\t​\n\ng\ni\n\t​\n\n\t​\n",
+    "Answer": [
+      "0.910",
+      "-0.089",
+      "0.089",
+      "0.544"
+    ],
+    "Correct": [
+      "0.089"
+    ],
+    "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "Look at the output of model 1 and model 2: \n\nWhich one will have a lower soft dice loss? \n\nHint: Notice the prediction scores of P1 and P2 on the pixels where the ground truth is 1.  This may help you focus on certain parts of the soft dice loss formula:\n\n𝐿\n(\n𝑃\n,\n𝐺\n)\n=\n1\n−\n2\n∑\n𝑖\n=\n1\n𝑛\n𝑝\n𝑖\n𝑔\n𝑖\n∑\n𝑖\n=\n1\n𝑛\n𝑝\n𝑖\n2\n+\n∑\n𝑖\n=\n1\n𝑛\n𝑔\n𝑖\n2\nL(P,G)=1−\n∑\ni=1\nn\n\t​\n\np\ni\n2\n\t​\n\n+∑\ni=1\nn\n\t​\n\ng\ni\n2\n\t​\n\n2∑\ni=1\nn\n\t​\n\np\ni\n\t​\n\ng\ni\n\t​\n\n\t​\n",
+    "Answer": [
+      "They will be the same ",
+      "Model 1 has a lower loss",
+      "Model 2 has a smaller loss",
+      "None of the above "
+    ],
+    "Correct": [
+      "Model 1 has a lower loss"
+    ],
+    "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the minimum value of the soft dice loss?  \n\n𝐿\n(\n𝑃\n,\n𝐺\n)\n=\n1\n−\n2\n∑\n𝑖\n=\n1\n𝑛\n𝑝\n𝑖\n𝑔\n𝑖\n∑\n𝑖\n=\n1\n𝑛\n𝑝\n𝑖\n2\n+\n∑\n𝑖\n=\n1\n𝑛\n𝑔\n𝑖\n2\nL(P,G)=1−\n∑\ni=1\nn\n\t​\n\np\ni\n2\n\t​\n\n+∑\ni=1\nn\n\t​\n\ng\ni\n2\n\t​\n\n2∑\ni=1\nn\n\t​\n\np\ni\n\t​\n\ng\ni\n\t​\n\n\t​\n",
+    "Answer": [
+      "1",
+      "0",
+      "4",
+      "- infinity "
+    ],
+    "Correct": [
+      "0"
+    ],
+    "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "An X-ray classification model is developed on data from US hospitals and is later tested on an external dataset from Latin America. Which if the following do you expect?",
+    "Answer": [
+      "Performance remains unchanged ",
+      "None of the above ",
+      "Performance improves on the new dataset ",
+      "Performance drops on the new dataset "
+    ],
+    "Correct": [
+      "Performance drops on the new dataset "
+    ],
+    "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is an example of a prospective study?  ",
+    "Answer": [
+      "A model is trained and tested on a dataset of X-rays collected between 2001 and 2010 ",
+      "A model is deployed for 1 year in an emergency room and its performance over that time is evaluated  ",
+      "None of the above ",
+      "A model is trained on data collected between 2001 and 2010 and then validated on data collected between 2011 and 2013 "
+    ],
+    "Correct": [
+      "A model is deployed for 1 year in an emergency room and its performance over that time is evaluated  "
+    ],
+    "Title": "Back\nSegmentation on Medical mages\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  }
+]

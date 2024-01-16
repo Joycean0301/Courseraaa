@@ -1,0 +1,98 @@
+[
+  {
+    "Question": "True or False: A tree of depth 1 is more expressive than a classical linear model.  ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "One way to aggregate predictions from multiple trees is by a majority vote. Using this aggregation rule, select the prediction of the following trees on the data point (x=4, y=7, z=2):   ",
+    "Answer": [
+      "High risk",
+      "Low risk"
+    ],
+    "Correct": [
+      "Low risk"
+    ],
+    "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "You’ve fit a random forest of 10 trees with max depth 20. Your training ROC is 0.99 and test ROC is 0.54. Which of the following is NOT a reasonable thing to try?  ",
+    "Answer": [
+      "Trying a linear model ",
+      "Increasing the number of trees ",
+      "Decreasing max depth ",
+      "Increasing the max depth "
+    ],
+    "Correct": [
+      "Increasing the max depth "
+    ],
+    "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "When is complete case analysis least likely to bias your model? ",
+    "Answer": [
+      "Data is missing at random ",
+      "Dropping data will bias your model in all of the above cases ",
+      "Data is missing not at random ",
+      "Data is missing completely at random "
+    ],
+    "Correct": [
+      "Data is missing completely at random "
+    ],
+    "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "You have created a model using mean imputation. At test time, you should fill in missing values with:  ",
+    "Answer": [
+      "0.0 ",
+      "None of the above ",
+      "Mean from the train data ",
+      "Mean from the test data "
+    ],
+    "Correct": [
+      "Mean from the train data "
+    ],
+    "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "Let’s say blood pressure (BP) measurements are more likely to be missing among young people, who generally have lower blood pressure. You use mean imputation to train your model. Which option correctly characterizes the mean BP (after imputation) in your training dataset?  ",
+    "Answer": [
+      "It is lower than the true mean ",
+      "None of the above ",
+      "It is higher than the true mean ",
+      "It is the same as the true mean "
+    ],
+    "Correct": [
+      "It is higher than the true mean "
+    ],
+    "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "You have trained the following tree and want to make a prediction on someone, but all you know is they are 40 years old, and do not have their blood pressure.\n\nFrom you dataset, you learn the linear relationship between blood pressure and age is:\n\n𝐵\n𝑃\n=\n1.7\n×\n𝐴\n𝑔\n𝑒\n+\n60\nBP=1.7×Age+60. \n\nUsing regression imputation, and the decision tree shown here, what is your prediction for this person's risk of heart attack? ",
+    "Answer": [
+      "High Risk",
+      "Low Risk"
+    ],
+    "Correct": [
+      "Low Risk"
+    ],
+    "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "Assume you have missing data on one of your features, and are considering two options:\n\nOption 1: Drop the feature that has missing values and fit a linear regression on the remaining features.\n\nOption 2: Use imputation on the feature that has missing values, and fit a linear regression on all features.\n\nTrue or False: \"Both options have the same performance\".",
+    "Answer": [
+      "False",
+      "True"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nDecision Trees, Missing Data and Imputation\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  }
+]

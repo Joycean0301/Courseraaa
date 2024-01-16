@@ -10,7 +10,7 @@
     "Correct": [
       "20% of them"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "Why is transfer learning useful?",
@@ -23,7 +23,7 @@
     "Correct": [
       "Because I can use the features that were learned from large datasets that I may not have access to"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "How did you lock or freeze a layer from retraining?",
@@ -36,7 +36,7 @@
     "Correct": [
       "layer.trainable = false"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "How do you change the number of classes the model can classify when using transfer learning? (i.e. the original model handled 1000 classes, but yours handles just 2)",
@@ -49,7 +49,7 @@
     "Correct": [
       "When you add your DNN at the bottom of the network, you specify your output layer with the number of classes you want"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "Can you use Image Augmentation with Transfer Learning Models? ",
@@ -60,7 +60,7 @@
     "Correct": [
       "Yes, because you are adding new layers at the bottom of the network, and you can use image augmentation when training these"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "Why do dropouts help avoid overfitting?",
@@ -71,7 +71,7 @@
     "Correct": [
       "Because neighbor neurons can have similar weights, and thus can skew the final training "
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "What would the symptom of a Dropout rate being set too high?",
@@ -82,7 +82,7 @@
     "Correct": [
       "The network would lose specialization to the effect that it would be inefficient or ineffective at learning, driving accuracy down"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "Which is the correct line of code for adding Dropout of 20% of neurons using TensorFlow",
@@ -95,6 +95,6 @@
     "Correct": [
       "tf.keras.layers.Dropout(0.2),"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   }
 ]

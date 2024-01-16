@@ -1,0 +1,130 @@
+[
+  {
+    "Question": "Which of the following is not an example of a clinical application of a prognostic model? ",
+    "Answer": [
+      "Informing patients about their risk of developing illness ",
+      "Detecting atrial fibrillation automatically using a EKG ",
+      "Determining who should receive drugs for reducing heart attack risk ",
+      "Determining who should receive end of life care "
+    ],
+    "Correct": [
+      "Detecting atrial fibrillation automatically using a EKG "
+    ],
+    "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Recall the MELD score from the lesson. What is the output for a person with \n\nCreatinine = 0.8 mg/dL, \n\nBilirubin total = 1.5 mg/dL, \n\nINR = 1.3 \n\nRemember that the final score is multiplied by 10. \n\nPlease use natural logarithm instead of base 10 log.\n\nYou can also watch the video \"Liver Disease Mortality\" to review the calculation of the MELD score.\n\nVariable\n\n\t\n\nCoefficient\n\n\n\n\nLn Creatinine (mg/dL)  \n\n\t\n\n0.957 \n\n\n\n\nLn Bilirubin total (mg/dL) \n\n\t\n\n0.378 \n\n\n\n\nLn INR \n\n\t\n\n1.120 \n\n\n\n\nIntercept\n\n\t\n\n0.643 ",
+    "Answer": [
+      "7.44",
+      "None of the above ",
+      "0.876",
+      "8.76 "
+    ],
+    "Correct": [
+      "8.76 "
+    ],
+    "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "You’ve fit a linear model with no interaction terms, and which include Age (in years) as an input feature of the model. Also, you don't multiply the sum product by any scaling number (unlike the MELD score, for instance).\n\nThe risk score for a patient measured today is 0.56. \n\nThe model's coefficient for age is 0.24. \n\nWhat will this patient's risk score be one year later, if all other features remain the same? ",
+    "Answer": [
+      "0.80 ",
+      "0.56 ",
+      "Not enough information ",
+      "0.24 "
+    ],
+    "Correct": [
+      "0.80 "
+    ],
+    "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "A linear risk model for the risk of heart attack has three inputs: Age, Systolic Blood Pressure (BP), and the interaction term between Age and Systolic Blood Pressure.  The coefficients for Age, BP, and the interaction term are 0.1, 0.3, and 0.5.\n\nCan you determine how an increase in blood pressure is affected by an increase in age?\n\nHINT: here is the formula for the model:\n\n𝑦\n=\n(\n𝛽\n𝐴\n×\n𝐴\n𝑔\n𝑒\n)\n+\n(\n𝛽\n𝐵\n×\n𝐵\n𝑃\n)\n+\n(\n𝛽\n𝐴\n𝐵\n×\n𝐴\n𝑔\n𝑒\n×\n𝐵\n𝑃\n)\ny=(β\nA\n\t​\n\n×Age)+(β\nB\n\t​\n\n×BP)+(β\nAB\n\t​\n\n×Age×BP)",
+    "Answer": [
+      "None of the above ",
+      "As you get older, the same increase in blood pressure leads to a LARGER change in your risk of heart attack.",
+      "As you get older, the same increase in blood pressure leads to a SMALLER change in your risk of heart attack.",
+      "The effect of blood pressure on risk is independent of age "
+    ],
+    "Correct": [
+      "As you get older, the same increase in blood pressure leads to a LARGER change in your risk of heart attack."
+    ],
+    "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "If a feature \n𝑥\nx has range 0 to \n∞\n∞, then what is the range of \nln\n⁡\n(\n𝑥\n)\nln(x)? ",
+    "Answer": [
+      "(0, infinity) ",
+      "(-infinity, 1) ",
+      "(-infinity, infinity) ",
+      "None of the above "
+    ],
+    "Correct": [
+      "(-infinity, infinity) "
+    ],
+    "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False: If a > b, then ln(a) > ln(b). ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which assignment of risk would make the following pair concordant? ",
+    "Answer": [
+      "(0.76, 0.34) ",
+      "(0.44, 0.44) ",
+      "(0.5, 0.83) ",
+      "None of the above "
+    ],
+    "Correct": [
+      "(0.5, 0.83) "
+    ],
+    "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the C-index for the following set of predictions? \n\nPatient\n\n\t\n\nEvent\n\n\t\n\nRisk\n\n\n\n\n1\n\n\t\n\nYes\n\n\t\n\n0.74 \n\n\n\n\n2\n\n\t\n\nYes\n\n\t\n\n0.52\n\n\n\n\n3\n\n\t\n\nNo\n\n\t\n\n0.60\n\n\n\n\n4\n\n\t\n\nNo\n\n\t\n\n0.28",
+    "Answer": [
+      "0.75 ",
+      "0.5 ",
+      "1.0 ",
+      "0.25 "
+    ],
+    "Correct": [
+      "0.75 "
+    ],
+    "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the C-index for a model which always outputs 0.6 for any patient regardless of their health outcome?",
+    "Answer": [
+      "0.5 ",
+      "0.6 ",
+      "There is not enough information to say ",
+      "0.0 "
+    ],
+    "Correct": [
+      "0.5 "
+    ],
+    "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Model 1 has a c-index of 0.7 and Model 2 has a c-index of 0.6. Which is more accurate using a threshold of 0.5 for the risk score? \n\nIn other words, if the risk score is 0.5 or higher, predict that the patient will have the disease in the future.  If the risk score is < 0.5, predict that the patient will not have the disease.",
+    "Answer": [
+      "They are equally as accurate ",
+      "Model 1 ",
+      "Model 2 ",
+      "There is not enough information to say "
+    ],
+    "Correct": [
+      "There is not enough information to say "
+    ],
+    "Title": "Back\nPrognostic Models\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  }
+]

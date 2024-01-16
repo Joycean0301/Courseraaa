@@ -4,39 +4,39 @@
     "Answer": [
       "With the tf.augment API",
       "Using parameters to the ImageDataGenerator",
-      "With the keras.augment API",
-      "You have to write a plugin to extend tf.layers"
+      "You have to write a plugin to extend tf.layers",
+      "With the keras.augment API"
     ],
     "Correct": [
       "Using parameters to the ImageDataGenerator"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "If my training data only has people facing left, but I want to classify people facing right, how would I avoid overfitting?",
     "Answer": [
       "Use the ‘flip’ parameter",
-      "Use the ‘horizontal_flip’ parameter",
       "Use the ‘flip_vertical’ parameter around the Y axis",
+      "Use the ‘horizontal_flip’ parameter",
       "Use the ‘flip’ parameter and set ‘horizontal’"
     ],
     "Correct": [
       "Use the ‘horizontal_flip’ parameter"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "After adding data augmentation and using the same batch size and steps per epoch, you noticed that each training epoch became a little slower than when you trained without it. Why?",
     "Answer": [
-      "Because the image preprocessing takes cycles",
-      "Because the training is making more mistakes",
       "Because there is more data to train on",
+      "Because the training is making more mistakes",
+      "Because the image preprocessing takes cycles",
       "Because the augmented data is bigger"
     ],
     "Correct": [
       "Because the image preprocessing takes cycles"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "What does the fill_mode parameter do?",
@@ -49,7 +49,7 @@
     "Correct": [
       "It attempts to recreate lost information after a transformation like a shear"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "When using Image Augmentation with the ImageDataGenerator, what happens to your raw image data on-disk.",
@@ -62,7 +62,7 @@
     "Correct": [
       "Nothing, all augmentation is done in-memory"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "How does Image Augmentation help solve overfitting?",
@@ -75,7 +75,7 @@
     "Correct": [
       "It manipulates the training set to generate more scenarios for features in the images"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "When using Image Augmentation my training gets...",
@@ -88,7 +88,7 @@
     "Correct": [
       "Slower"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   },
   {
     "Question": "Using Image Augmentation effectively simulates having a larger data set for training.",
@@ -99,6 +99,6 @@
     "Correct": [
       "True"
     ],
-    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 21, 11:59 PM +07"
+    "Title": "Back\nWeek 2 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueJan 28, 11:59 PM PST"
   }
 ]

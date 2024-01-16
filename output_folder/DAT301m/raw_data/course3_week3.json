@@ -2,93 +2,93 @@
   {
     "Question": "Why does sequence make a large difference when determining semantics of language?",
     "Answer": [
-      "Because the order in which words appear dictate their impact on the meaning of the sentence",
       "Because the order of words doesn’t matter",
+      "Because the order in which words appear dictate their meaning",
       "It doesn’t",
-      "Because the order in which words appear dictate their meaning"
+      "Because the order in which words appear dictate their impact on the meaning of the sentence"
     ],
     "Correct": [
       "Because the order in which words appear dictate their impact on the meaning of the sentence"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "How do Recurrent Neural Networks help you understand the impact of sequence on meaning?",
     "Answer": [
-      "They look at the whole sentence at a time",
       "They don’t",
       "They shuffle the words evenly",
+      "They look at the whole sentence at a time",
       "They carry meaning from one cell to the next"
     ],
     "Correct": [
       "They carry meaning from one cell to the next"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "How does an LSTM help understand meaning when words that qualify each other aren’t necessarily beside each other in a sentence?",
     "Answer": [
-      "They don’t",
-      "They load all words into a cell state",
       "Values from earlier words can be carried to later ones via a cell state",
-      "They shuffle the words randomly"
+      "They shuffle the words randomly",
+      "They don’t",
+      "They load all words into a cell state"
     ],
     "Correct": [
       "Values from earlier words can be carried to later ones via a cell state"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "What keras layer type allows LSTMs to look forward and backward in a sentence?",
     "Answer": [
-      "Bilateral",
-      "Bothdirection",
       "Bidirectional",
+      "Bothdirection",
+      "Bilateral",
       "Unilateral"
     ],
     "Correct": [
       "Bidirectional"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "What’s the output shape of a bidirectional LSTM layer with 64 units?",
     "Answer": [
       "(128,None)",
-      "(None, 64)",
       "(None, 128)",
+      "(None, 64)",
       "(128,1)"
     ],
     "Correct": [
       "(None, 128)"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "When stacking LSTMs, how do you instruct an LSTM to feed the next one in the sequence?",
     "Answer": [
       "Ensure that return_sequences is set to True on all units",
-      "Ensure that return_sequences is set to True only on units that feed to another LSTM",
       "Ensure that they have the same number of units",
+      "Ensure that return_sequences is set to True only on units that feed to another LSTM",
       "Do nothing, TensorFlow handles this automatically"
     ],
     "Correct": [
       "Ensure that return_sequences is set to True only on units that feed to another LSTM"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "If a sentence has 120 tokens in it, and a Conv1D with 128 filters with a Kernal size of 5 is passed over it, what’s the output shape?",
     "Answer": [
-      "(None, 116, 124)",
+      "(None, 120, 124)",
       "(None, 116, 128)",
       "(None, 120, 128)",
-      "(None, 120, 124)"
+      "(None, 116, 124)"
     ],
     "Correct": [
       "(None, 116, 128)"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   },
   {
     "Question": "What’s the best way to avoid overfitting in NLP datasets?",
@@ -101,6 +101,6 @@
     "Correct": [
       "None of the above"
     ],
-    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueJan 28, 11:59 PM +07"
+    "Title": "Back\nWeek 3 Quiz\n\nGraded Quiz\n\nEnglish\nDueFeb 4, 11:59 PM PST"
   }
 ]

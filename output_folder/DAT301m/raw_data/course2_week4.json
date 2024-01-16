@@ -10,7 +10,7 @@
     "Correct": [
       "Answers"
     ],
-    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
   },
   {
     "Question": "Why does the DNN for Fashion MNIST have 10 output neurons?",
@@ -23,7 +23,7 @@
     "Correct": [
       "The dataset has 10 classes"
     ],
-    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
   },
   {
     "Question": "What is a Convolution? ",
@@ -36,7 +36,7 @@
     "Correct": [
       "A technique to extract features from an image"
     ],
-    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
   },
   {
     "Question": "Applying Convolutions on top of a DNN will have what impact on training?",
@@ -49,7 +49,7 @@
     "Correct": [
       "It depends on many factors. It might make your training faster or slower, and a poorly designed Convolutional layer may even be less efficient than a plain DNN!"
     ],
-    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
   },
   {
     "Question": "What method on an ImageGenerator is used to normalize the image? ",
@@ -62,7 +62,7 @@
     "Correct": [
       "rescale"
     ],
-    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
   },
   {
     "Question": "When using Image Augmentation with the ImageDataGenerator, what happens to your raw image data on-disk.",
@@ -75,7 +75,7 @@
     "Correct": [
       "Nothing"
     ],
-    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
   },
   {
     "Question": "Can you use Image augmentation with Transfer Learning? ",
@@ -86,7 +86,7 @@
     "Correct": [
       "Yes. It's pre-trained layers that are frozen. So you can augment your images as you train the bottom layers of the DNN with them"
     ],
-    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
   },
   {
     "Question": "When training for multiple classes what is the Class Mode for Image Augmentation?",
@@ -99,6 +99,6 @@
     "Correct": [
       "class_mode='categorical'"
     ],
-    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 4, 11:59 PM +07"
+    "Title": "Back\nWeek 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
   }
 ]

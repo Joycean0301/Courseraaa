@@ -1,0 +1,130 @@
+[
+  {
+    "Question": "Which of the following is not true about BERT’s inner word representations? ",
+    "Answer": [
+      "Each unique word can have exactly one vector representation",
+      "The representation of a word depends on the words around it",
+      "Words which are similar in meaning are typically close as vector",
+      "None of the above"
+    ],
+    "Correct": [
+      "Each unique word can have exactly one vector representation"
+    ],
+    "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False: the start and end vectors are fixed throughout training ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is a difference between BERT and LSTM models? ",
+    "Answer": [
+      "BERT can be trained on multiple languages, while LSTMs cannot",
+      "BERT is trained using backpropagation while LSTMs are not",
+      "BERT takes entire sequences as input, while LSTM models process words one by one",
+      "BERT uses regular word vectors, while LSTMs use contextualized word vectors"
+    ],
+    "Correct": [
+      "BERT takes entire sequences as input, while LSTM models process words one by one"
+    ],
+    "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Given the following word vectors and start and end vectors, determine the start and end of the sequence of interest.",
+    "Answer": [
+      "start: The, end: cancer",
+      "start: gene, end: associated",
+      "start: with, end: gene",
+      "start: breast, end: cancer"
+    ],
+    "Correct": [
+      "start: breast, end: cancer"
+    ],
+    "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "You find that a radiology report mentions “edema”. Which of the following can you immediately conclude? ",
+    "Answer": [
+      "The x-ray contains edema ",
+      "The x-ray contains pneumonia",
+      "The x-ray does not contain edema",
+      "None of the above"
+    ],
+    "Correct": [
+      "None of the above"
+    ],
+    "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Use the following entry in SNOMED CT to help determine the positive labels for this x-ray report.",
+    "Answer": [
+      "common cold: 0, lesion: 0",
+      "common cold: 0, lesion: 1",
+      "common cold: 1, lesion: 1",
+      "common cold: 1, lesion: 0"
+    ],
+    "Correct": [
+      "common cold: 1, lesion: 0"
+    ],
+    "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Let’s see why F1 is used instead of the regular mean of precision and recall. Let’s say the mean of precision and recall is at least 0.75. Which of the following could be the true value of the precision? ",
+    "Answer": [
+      "0.75",
+      "0.5",
+      "Both",
+      "Neither"
+    ],
+    "Correct": [
+      "Both"
+    ],
+    "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Now let’s say F1 score is at least 0.75. Now which of the following values of precision are possible? ",
+    "Answer": [
+      "0.75",
+      "0.5",
+      "Both",
+      "Neither"
+    ],
+    "Correct": [
+      "0.75"
+    ],
+    "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Compute the F1 score for pneumonia and mass separately based on the following retrieved labels and ground truth:\n\n ",
+    "Answer": [
+      "(0.5, 0.83)",
+      "(0.5, 0.8)",
+      "(0.75, 0.8)",
+      "None of the above"
+    ],
+    "Correct": [
+      "(0.5, 0.8)"
+    ],
+    "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  },
+  {
+    "Question": "Now compute the F1 score for all labels jointly: ",
+    "Answer": [
+      "1.35",
+      "0.61",
+      "0.66",
+      "None of the above"
+    ],
+    "Correct": [
+      "0.66"
+    ],
+    "Title": "Back\nInformation Extraction with NLP\n\nPractice Quiz\n.\n • 30 min\n.\n • \n10 total points available.\n10 total points\n\nEnglish"
+  }
+]

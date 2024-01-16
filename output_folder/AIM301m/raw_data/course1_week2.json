@@ -1,0 +1,119 @@
+[
+  {
+    "Question": "What is the sensitivity and specificity of a pneumonia model that always outputs positive?  In other words, the models says that every patient has the disease.",
+    "Answer": [
+      "sensitivity = 0.5,  specificity = 0.5",
+      "sensitivity = 1.0, specificity = 0.0",
+      "sensitivity  = 1.0, specificity = 1.0",
+      "sensitivity = 0.0, specificity = 1.0"
+    ],
+    "Correct": [
+      "sensitivity = 1.0, specificity = 0.0"
+    ],
+    "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "In some studies, you may have to compute the Positive predictive value (PPV) from the sensitivity, specificity and prevalence.  \n\nGiven a sensitivity = 0.9, specificity = 0.8, and prevalence = 0.2, what is the PPV (positive predictive value)? \n\nHINT: please check the reading item \"Calculating PPV in terms of sensitivity, specificity and prevalence\"",
+    "Answer": [
+      "0.02",
+      "0.53",
+      "0.18",
+      "0.9"
+    ],
+    "Correct": [
+      "0.53"
+    ],
+    "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "If sensitivity = 0.9, specificity = 0.8, and prevalence = 0.2, then what is the accuracy? \n\nHint: You can watch the video \"Sensitivity, Specificity and Prevalence\" to find the equation.",
+    "Answer": [
+      "0.82",
+      "0.75",
+      "0.52",
+      "0.44"
+    ],
+    "Correct": [
+      "0.82"
+    ],
+    "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the sensitivity and specificity of a model which randomly assigns a score between 0 and 1 to each example (with equal probability) if we use a threshold of 0.7?  ",
+    "Answer": [
+      "Sensitivity = 0.7, Specificity = 0.3",
+      "Not enough information to answer the question.",
+      "Sensitivity = 0.3, Specificity = 0.7",
+      "Sensitivity = 0.5, Specificity = 0.5"
+    ],
+    "Correct": [
+      "Sensitivity = 0.3, Specificity = 0.7"
+    ],
+    "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the PPV and sensitivity associated with the following confusion matrix?  \n\nRecall that \n\n𝑃\n𝑃\n𝑉\n=\nTruePositives\npositive predictions\nPPV=\npositive predictions\nTruePositives\n\t​\n\n\n𝑆\n𝑒\n𝑛\n𝑠\n𝑖\n𝑡\n𝑖\n𝑣\n𝑖\n𝑡\n𝑦\n=\nHow many actual positives are predicted positive?\nSensitivity=How many actual positives are predicted positive?\n\n\t\n\nTest Positive \n\n\t\n\nTest Negative \n\n\n\n\nDisease Positive\n\n\t\n\n30\n\n\t\n\n20\n\n\n\n\nDisease Negative\n\n\t\n\n70\n\n\t\n\n10",
+    "Answer": [
+      "PPV = 0.6, Sensitivity = 0.33",
+      "PPV = 0.4, Sensitivity = 0.2",
+      "PPV = 0.3,  Sensitivity = 0.6",
+      "Not enough information is given"
+    ],
+    "Correct": [
+      "PPV = 0.3,  Sensitivity = 0.6"
+    ],
+    "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "You have a model such that the lowest score for a positive example is higher than the maximum score for a negative example. What is its ROC AUC?  \n\nHINT 1: watch the video “Varying the threshold”.\n\nHINT 2: draw a number line and choose values for the score that is the lowest prediction for any positive example, and choose another number that is the score for the highest prediction for any negative example.  Draw a few circles for “positive” examples and a few “x” for the negative examples.  What do you notice about the model’s ability to identify positive and negative examples?",
+    "Answer": [
+      "Not enough information is given",
+      "1.0",
+      "0.82",
+      "0.52"
+    ],
+    "Correct": [
+      "1.0"
+    ],
+    "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "For every specificity, as we vary the threshold, the sensitivity of model 1 is at least as high as model 2. Which of the following must be true? ",
+    "Answer": [
+      "None of the above",
+      "The ROC of model 2 is higher than model 1",
+      "The ROC of model 1 is at least as high as model 2",
+      "The accuracy of model 2 is higher than model 1"
+    ],
+    "Correct": [
+      "The ROC of model 1 is at least as high as model 2"
+    ],
+    "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "You want to measure the proportion of people with high blood pressure in a population. You sample 1000 people and find that 55% have high blood pressure with a 90% confidence interval of (50%, 60%). What is the correct interpretation of this result?  \n\nHINT: Please watch the video \"Confidence interval\" to help you answer this question.",
+    "Answer": [
+      "If we repeated this sampling, the middle of the confidence interval would be 55%, 90% of the time",
+      "There is a 5% chance that the true mean is less than 50%",
+      "If you repeated this sampling, the true proportion would be in the confidence interval about 90% of the time",
+      "With 90% probability, the proportion of people with high blood pressure is between 50% and 60%"
+    ],
+    "Correct": [
+      "If you repeated this sampling, the true proportion would be in the confidence interval about 90% of the time"
+    ],
+    "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "One experiment calculates a confidence interval using 1000 samples, and the another computes it using 10000 samples. Which interval do you expect to be tighter (assume they use the normal approximation)?  ",
+    "Answer": [
+      "Not enough information",
+      "10,000 samples",
+      "1,000 samples",
+      "Cannot say with confidence"
+    ],
+    "Correct": [
+      "10,000 samples"
+    ],
+    "Title": "Back\nEvaluating Machine Learning Models\n\nPractice Quiz\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  }
+]

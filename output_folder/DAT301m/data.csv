@@ -1,6 +1,6 @@
 Question,Answer,Correct,Title
-What is the difference between traditional programming and Machine Learning?,"Machine learning identifies complex activities such as golf, while traditional programming is better suited to simpler activities such as walking.
-In traditional programming, a programmer has to formulate or code rules manually, whereas, in Machine Learning, the algorithm automatically formulates the rules from the data.","In traditional programming, a programmer has to formulate or code rules manually, whereas, in Machine Learning, the algorithm automatically formulates the rules from the data.","Back
+What is the difference between traditional programming and Machine Learning?,"In traditional programming, a programmer has to formulate or code rules manually, whereas, in Machine Learning, the algorithm automatically formulates the rules from the data.
+Machine learning identifies complex activities such as golf, while traditional programming is better suited to simpler activities such as walking.","In traditional programming, a programmer has to formulate or code rules manually, whereas, in Machine Learning, the algorithm automatically formulates the rules from the data.","Back
 Week 1 Quiz
 
 Graded Quiz
@@ -8,11 +8,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
-"What do we call the process of telling the computer what the data represents (i.e. this data is for walking, this data is for running)?","Labelling the Data
+DueJan 7, 11:59 PM PST"
+"What do we call the process of telling the computer what the data represents (i.e. this data is for walking, this data is for running)?","Learning the Data
+Programming the Data
 Categorizing the Data
-Learning the Data
-Programming the Data",Labelling the Data,"Back
+Labelling the Data",Labelling the Data,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -20,11 +20,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
-What is a Dense layer?,"A single neuron
-A layer of disconnected neurons
-An amount of mass occupying a volume
-A layer of neurons fully connected to its adjacent layers",A layer of neurons fully connected to its adjacent layers,"Back
+DueJan 7, 11:59 PM PST"
+What is a Dense layer?,"A layer of disconnected neurons
+A layer of neurons fully connected to its adjacent layers
+A single neuron
+An amount of mass occupying a volume",A layer of neurons fully connected to its adjacent layers,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -32,10 +32,10 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
-How do you measure how good the current ‘guess’ is?,"Training a neural network
-Figuring out if you win or lose
-Using the Loss function",Using the Loss function,"Back
+DueJan 7, 11:59 PM PST"
+How do you measure how good the current ‘guess’ is?,"Figuring out if you win or lose
+Using the Loss function
+Training a neural network",Using the Loss function,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -43,11 +43,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
-What does the optimizer do?,"Decides to stop training a neural network
-Generates a new and improved guess
+DueJan 7, 11:59 PM PST"
+What does the optimizer do?,"Figures out how to efficiently compile your code
+Decides to stop training a neural network
 Measures how good the current guess is
-Figures out how to efficiently compile your code",Generates a new and improved guess,"Back
+Generates a new and improved guess",Generates a new and improved guess,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -55,11 +55,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
+DueJan 7, 11:59 PM PST"
 What is Convergence?,"An analysis that corresponds too closely or exactly to a particular set of data.
-A programming API for AI
+A dramatic increase in loss
 The process of getting very close to the correct answer
-A dramatic increase in loss",The process of getting very close to the correct answer,"Back
+A programming API for AI",The process of getting very close to the correct answer,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -67,11 +67,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
+DueJan 7, 11:59 PM PST"
 What does model.fit do?,"It makes a model fit available memory
+It optimizes an existing model
 It trains the neural network to fit one set of values to another
-It determines if your activity is good for your body
-It optimizes an existing model",It trains the neural network to fit one set of values to another,"Back
+It determines if your activity is good for your body",It trains the neural network to fit one set of values to another,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -79,11 +79,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
-"What is the resolution of o the 70,000 images from the Fashion MNIST dataset?","28x28 Greyscale
+DueJan 7, 11:59 PM PST"
+"What is the resolution of o the 70,000 images from the Fashion MNIST dataset?","28x28 Color
+28x28 Greyscale
 100x100 Color
-82x82 Greyscale
-28x28 Color",28x28 Greyscale,"Back
+82x82 Greyscale",28x28 Greyscale,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -91,11 +91,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
-Why are there 10 output neurons in the Neural Network used as an example for the Computer Vision Problem?,"To make it classify 10x faster
-To make it train 10x faster
+DueJan 14, 11:59 PM PST"
+Why are there 10 output neurons in the Neural Network used as an example for the Computer Vision Problem?,"Purely arbitrary
+To make it classify 10x faster
 There are 10 different labels
-Purely arbitrary",There are 10 different labels,"Back
+To make it train 10x faster",There are 10 different labels,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -103,11 +103,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
+DueJan 14, 11:59 PM PST"
 What does Relu do?,"It only returns x if x is greater than zero
 It only returns x if x is less than zero
-For a value x, it returns 1/x
-It returns the negative of x",It only returns x if x is greater than zero,"Back
+It returns the negative of x
+For a value x, it returns 1/x",It only returns x if x is greater than zero,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -115,11 +115,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
-Why do you split data into training and test sets?,"To test a network with previously unseen data
-To train a network with previously unseen data
-To make training quicker
-To make testing quicker",To test a network with previously unseen data,"Back
+DueJan 14, 11:59 PM PST"
+Why do you split data into training and test sets?,"To train a network with previously unseen data
+To test a network with previously unseen data
+To make testing quicker
+To make training quicker",To test a network with previously unseen data,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -127,7 +127,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
+DueJan 14, 11:59 PM PST"
 True or False: The on_epoch_end function sends a logs object with lots of great information about the current state of training at the start of every epoch,"True
 False",False,"Back
 Week 2 Quiz
@@ -137,7 +137,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
+DueJan 14, 11:59 PM PST"
 Why do you set the callbacks= parameter in your fit function?,"So that the training loops performs all epochs
 Because it accelerates the training
 So, on every epoch you can call back to a code function","So, on every epoch you can call back to a code function","Back
@@ -148,11 +148,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
-How do Convolutions improve image recognition?,"They make the image clearer
+DueJan 14, 11:59 PM PST"
+How do Convolutions improve image recognition?,"They make processing of images faster
 They isolate features in images
-They make the image smaller
-They make processing of images faster",They isolate features in images,"Back
+They make the image clearer
+They make the image smaller",They isolate features in images,"Back
 Week 3 Quiz
 
 Graded Quiz
@@ -160,7 +160,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 28, 11:59 PM +07"
+DueJan 21, 11:59 PM PST"
 What does the Pooling technique do to the images?,"Makes them sharper
 Isolates features in them
 Combines them
@@ -172,9 +172,9 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 28, 11:59 PM +07"
-True or  False. If you pass a 28x28 image through a 3x3 filter the output will be 26x26,"True
-False",True,"Back
+DueJan 21, 11:59 PM PST"
+True or  False. If you pass a 28x28 image through a 3x3 filter the output will be 26x26,"False
+True",True,"Back
 Week 3 Quiz
 
 Graded Quiz
@@ -182,7 +182,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 28, 11:59 PM +07"
+DueJan 21, 11:59 PM PST"
 "After max pooling a 26x26 image with a 2x2 filter, the output will be 56x56","False
 True",False,"Back
 Week 3 Quiz
@@ -192,11 +192,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 28, 11:59 PM +07"
-How does using Convolutions in our Deep neural network impact training?,"It does not affect training
-Its impact will depend on other factors.
-It makes it faster
-It makes it slower",Its impact will depend on other factors.,"Back
+DueJan 21, 11:59 PM PST"
+How does using Convolutions in our Deep neural network impact training?,"It makes it faster
+It makes it slower
+It does not affect training
+Its impact will depend on other factors.",Its impact will depend on other factors.,"Back
 Week 3 Quiz
 
 Graded Quiz
@@ -204,11 +204,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 28, 11:59 PM +07"
-"Using Image Generator, how do you label images?","It’s based on the directory the image is contained in
+DueJan 21, 11:59 PM PST"
+"Using Image Generator, how do you label images?","TensorFlow figures it out from the contents
 It’s based on the file name
 You have to manually do it
-TensorFlow figures it out from the contents",It’s based on the directory the image is contained in,"Back
+It’s based on the directory the image is contained in",It’s based on the directory the image is contained in,"Back
 Week 4 Quiz
 
 Graded Quiz
@@ -216,11 +216,11 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
+DueJan 28, 11:59 PM PST"
 What method on the Image Generator is used to normalize the image?,"rescale
-normalize
 normalize_image
-Rescale_image",rescale,"Back
+Rescale_image
+normalize",rescale,"Back
 Week 4 Quiz
 
 Graded Quiz
@@ -228,11 +228,11 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
-How did we specify the training size for the images?,"The training_size parameter on the training generator
-The training_size parameter on the validation generator
-The target_size parameter on the validation generator
-The target_size parameter on the training generator",The target_size parameter on the training generator,"Back
+DueJan 28, 11:59 PM PST"
+How did we specify the training size for the images?,"The training_size parameter on the validation generator
+The target_size parameter on the training generator
+The training_size parameter on the training generator
+The target_size parameter on the validation generator",The target_size parameter on the training generator,"Back
 Week 4 Quiz
 
 Graded Quiz
@@ -240,11 +240,11 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
-"When we specify the input_shape to be (300, 300, 3), what does that mean?","There will be 300 images, each size 300, loaded in batches of 3
-There will be 300 horses and 300 humans, loaded in batches of 3
+DueJan 28, 11:59 PM PST"
+"When we specify the input_shape to be (300, 300, 3), what does that mean?","Every Image will be 300x300 pixels, and there should be 3 Convolutional Layers
 Every Image will be 300x300 pixels, with 3 bytes to define color
-Every Image will be 300x300 pixels, and there should be 3 Convolutional Layers","Every Image will be 300x300 pixels, with 3 bytes to define color","Back
+There will be 300 horses and 300 humans, loaded in batches of 3
+There will be 300 images, each size 300, loaded in batches of 3","Every Image will be 300x300 pixels, with 3 bytes to define color","Back
 Week 4 Quiz
 
 Graded Quiz
@@ -252,11 +252,11 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
-"If your training data is close to 1.000 accuracy, but your validation data isn’t, what’s the risk here?","No risk, that’s a great result
+DueJan 28, 11:59 PM PST"
+"If your training data is close to 1.000 accuracy, but your validation data isn’t, what’s the risk here?","You’re overfitting on your training data
+You’re underfitting on your validation data
 You’re overfitting on your validation data
-You’re overfitting on your training data
-You’re underfitting on your validation data",You’re overfitting on your training data,"Back
+No risk, that’s a great result",You’re overfitting on your training data,"Back
 Week 4 Quiz
 
 Graded Quiz
@@ -264,12 +264,12 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
-Convolutional Neural Networks are better for classifying images like horses and humans because:,"There’s a wide variety of humans
+DueJan 28, 11:59 PM PST"
+Convolutional Neural Networks are better for classifying images like horses and humans because:,"There’s a wide variety of horses
 In these images, the features may be in different parts of the frame
-There’s a wide variety of horses","There’s a wide variety of humans
+There’s a wide variety of humans","There’s a wide variety of horses
 In these images, the features may be in different parts of the frame
-There’s a wide variety of horses","Back
+There’s a wide variety of humans","Back
 Week 4 Quiz
 
 Graded Quiz
@@ -277,11 +277,11 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
+DueJan 28, 11:59 PM PST"
 "After reducing the size of the images, the training results were different. Why?","We removed some convolutions to handle the smaller images
 There was more condensed information in the images
-The training was faster
-There was less information in the images",We removed some convolutions to handle the smaller images,"Back
+There was less information in the images
+The training was faster",We removed some convolutions to handle the smaller images,"Back
 Week 4 Quiz
 
 Graded Quiz
@@ -289,7 +289,7 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
+DueJan 28, 11:59 PM PST"
 What does flow_from_directory give you on the ImageDataGenerator?,"The ability to easily load images for training
 The ability to pick the size of training images
 The ability to automatically label images based on their directory name
@@ -301,11 +301,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
-"If my Image is sized 150x150, and I pass a 3x3 Convolution over it, what size is the resulting image?","450x450
+DueJan 21, 11:59 PM PST"
+"If my Image is sized 150x150, and I pass a 3x3 Convolution over it, what size is the resulting image?","148x148
+153x153
 150x150
-148x148
-153x153",148x148,"Back
+450x450",148x148,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -313,10 +313,10 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
+DueJan 21, 11:59 PM PST"
 "If my data is sized 150x150, and I use Pooling of size 2x2, what size will the resulting image be?","75x75
-148x148
 300x300
+148x148
 149x149",75x75,"Back
 Week 1 Quiz
 
@@ -325,10 +325,10 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
-"If I want to view the history of my training, how can I access it?","Download the model and inspect it
-Pass the parameter ‘history=true’ to the model.fit
+DueJan 21, 11:59 PM PST"
+"If I want to view the history of my training, how can I access it?","Pass the parameter ‘history=true’ to the model.fit
 Use a model.fit_generator
+Download the model and inspect it
 Create a variable ‘history’ and assign it to the return of model.fit or model.fit_generator",Create a variable ‘history’ and assign it to the return of model.fit or model.fit_generator,"Back
 Week 1 Quiz
 
@@ -337,11 +337,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
-What’s the name of the API that allows you to inspect the impact of convolutions on the images?,"The model.images API
-The model.layers API
+DueJan 21, 11:59 PM PST"
+What’s the name of the API that allows you to inspect the impact of convolutions on the images?,"The model.pools API
 The model.convolutions API
-The model.pools API",The model.layers API,"Back
+The model.images API
+The model.layers API",The model.layers API,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -349,7 +349,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
+DueJan 21, 11:59 PM PST"
 "When exploring the graphs, the loss levelled out at about .75 after 2 epochs, but the accuracy climbed close to 1.0 after 15 epochs. What's the significance of this?","There was no point training after 2 epochs, as we overfit to the validation data
 There was no point training after 2 epochs, as we overfit to the training data
 A bigger training set would give us better validation accuracy
@@ -361,7 +361,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
+DueJan 21, 11:59 PM PST"
 Why is the validation accuracy a better indicator of model performance than training accuracy?,"It isn't, they're equally valuable
 There's no relationship between them
 The validation accuracy is based on images that the model hasn't been trained with, and thus a better indicator of how the model will perform with new images.
@@ -373,7 +373,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
+DueJan 21, 11:59 PM PST"
 Why is overfitting more likely to occur on smaller datasets?,"Because in a smaller dataset, your validation data is more likely to look like your training data
 Because there isn't enough data to activate all the convolutions or neurons
 Because with less data, the training will take place more quickly, and some features may be missed
@@ -385,11 +385,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
+DueJan 21, 11:59 PM PST"
 How do you use Image Augmentation in TensorFLow,"With the tf.augment API
 Using parameters to the ImageDataGenerator
-With the keras.augment API
-You have to write a plugin to extend tf.layers",Using parameters to the ImageDataGenerator,"Back
+You have to write a plugin to extend tf.layers
+With the keras.augment API",Using parameters to the ImageDataGenerator,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -397,10 +397,10 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
+DueJan 28, 11:59 PM PST"
 "If my training data only has people facing left, but I want to classify people facing right, how would I avoid overfitting?","Use the ‘flip’ parameter
-Use the ‘horizontal_flip’ parameter
 Use the ‘flip_vertical’ parameter around the Y axis
+Use the ‘horizontal_flip’ parameter
 Use the ‘flip’ parameter and set ‘horizontal’",Use the ‘horizontal_flip’ parameter,"Back
 Week 2 Quiz
 
@@ -409,10 +409,10 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
-"After adding data augmentation and using the same batch size and steps per epoch, you noticed that each training epoch became a little slower than when you trained without it. Why?","Because the image preprocessing takes cycles
+DueJan 28, 11:59 PM PST"
+"After adding data augmentation and using the same batch size and steps per epoch, you noticed that each training epoch became a little slower than when you trained without it. Why?","Because there is more data to train on
 Because the training is making more mistakes
-Because there is more data to train on
+Because the image preprocessing takes cycles
 Because the augmented data is bigger",Because the image preprocessing takes cycles,"Back
 Week 2 Quiz
 
@@ -421,7 +421,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
+DueJan 28, 11:59 PM PST"
 What does the fill_mode parameter do?,"There is no fill_mode parameter
 It creates random noise in the image
 It attempts to recreate lost information after a transformation like a shear
@@ -433,7 +433,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
+DueJan 28, 11:59 PM PST"
 "When using Image Augmentation with the ImageDataGenerator, what happens to your raw image data on-disk.","It gets overwritten, so be sure to make a backup
 A copy is made and the augmentation is done on the copy
 Nothing, all augmentation is done in-memory
@@ -445,7 +445,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
+DueJan 28, 11:59 PM PST"
 How does Image Augmentation help solve overfitting?,"It slows down the training process
 It manipulates the training set to generate more scenarios for features in the images
 It manipulates the validation set to generate more scenarios for features in the images
@@ -457,7 +457,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
+DueJan 28, 11:59 PM PST"
 When using Image Augmentation my training gets...,"Slower
 Faster
 Stays the Same
@@ -469,7 +469,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
+DueJan 28, 11:59 PM PST"
 Using Image Augmentation effectively simulates having a larger data set for training.,"False
 True",True,"Back
 Week 2 Quiz
@@ -479,7 +479,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
+DueJan 28, 11:59 PM PST"
 "If I put a dropout parameter of 0.2, how many nodes will I lose?","20% of them
 2% of them
 20% of the untrained ones
@@ -491,7 +491,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 28, 11:59 PM +07"
+DueFeb 4, 11:59 PM PST"
 Why is transfer learning useful?,"Because I can use all of the data from the original training set
 Because I can use all of the data from the original validation set
 Because I can use the features that were learned from large datasets that I may not have access to
@@ -503,7 +503,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 28, 11:59 PM +07"
+DueFeb 4, 11:59 PM PST"
 How did you lock or freeze a layer from retraining?,"tf.freeze(layer)
 tf.layer.frozen = true
 tf.layer.locked = true
@@ -515,7 +515,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 28, 11:59 PM +07"
+DueFeb 4, 11:59 PM PST"
 "How do you change the number of classes the model can classify when using transfer learning? (i.e. the original model handled 1000 classes, but yours handles just 2)","Ignore all the classes above yours (i.e. Numbers 2 onwards if I'm just classing 2)
 Use all classes but set their weights to 0
 When you add your DNN at the bottom of the network, you specify your output layer with the number of classes you want
@@ -527,7 +527,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 28, 11:59 PM +07"
+DueFeb 4, 11:59 PM PST"
 Can you use Image Augmentation with Transfer Learning Models? ,"No, because you are using pre-set features
 Yes, because you are adding new layers at the bottom of the network, and you can use image augmentation when training these","Yes, because you are adding new layers at the bottom of the network, and you can use image augmentation when training these","Back
 Week 3 Quiz
@@ -537,7 +537,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 28, 11:59 PM +07"
+DueFeb 4, 11:59 PM PST"
 Why do dropouts help avoid overfitting?,"Because neighbor neurons can have similar weights, and thus can skew the final training 
 Having less neurons speeds up training","Because neighbor neurons can have similar weights, and thus can skew the final training ","Back
 Week 3 Quiz
@@ -547,7 +547,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 28, 11:59 PM +07"
+DueFeb 4, 11:59 PM PST"
 What would the symptom of a Dropout rate being set too high?,"The network would lose specialization to the effect that it would be inefficient or ineffective at learning, driving accuracy down
 Training time would increase due to the extra calculations being required for higher dropout","The network would lose specialization to the effect that it would be inefficient or ineffective at learning, driving accuracy down","Back
 Week 3 Quiz
@@ -557,7 +557,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 28, 11:59 PM +07"
+DueFeb 4, 11:59 PM PST"
 Which is the correct line of code for adding Dropout of 20% of neurons using TensorFlow,"tf.keras.layers.Dropout(20)
 tf.keras.layers.DropoutNeurons(20),
 tf.keras.layers.Dropout(0.2),
@@ -569,7 +569,7 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 28, 11:59 PM +07"
+DueFeb 4, 11:59 PM PST"
 "The diagram for traditional programming had Rules and Data In, but what came out?","Answers
 Binary
 Machine Learning
@@ -581,7 +581,7 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
+DueFeb 11, 11:59 PM PST"
 Why does the DNN for Fashion MNIST have 10 output neurons?,"To make it train 10x faster
 To make it classify 10x faster
 Purely Arbitrary
@@ -593,7 +593,7 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
+DueFeb 11, 11:59 PM PST"
 What is a Convolution? ,"A technique to make images smaller
 A technique to make images larger
 A technique to extract features from an image
@@ -605,7 +605,7 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
+DueFeb 11, 11:59 PM PST"
 Applying Convolutions on top of a DNN will have what impact on training?,"It will be slower
 It will be faster
 There will be no impact
@@ -617,7 +617,7 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
+DueFeb 11, 11:59 PM PST"
 What method on an ImageGenerator is used to normalize the image? ,"normalize
 flatten
 rezize()
@@ -629,7 +629,7 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
+DueFeb 11, 11:59 PM PST"
 "When using Image Augmentation with the ImageDataGenerator, what happens to your raw image data on-disk.","A copy will be made, and the copies are augmented
 A copy will be made, and the originals will be augmented
 Nothing
@@ -641,7 +641,7 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
+DueFeb 11, 11:59 PM PST"
 Can you use Image augmentation with Transfer Learning? ,"No - because the layers are frozen so they can't be augmented
 Yes. It's pre-trained layers that are frozen. So you can augment your images as you train the bottom layers of the DNN with them",Yes. It's pre-trained layers that are frozen. So you can augment your images as you train the bottom layers of the DNN with them,"Back
 Week 4 Quiz
@@ -651,7 +651,7 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
+DueFeb 11, 11:59 PM PST"
 When training for multiple classes what is the Class Mode for Image Augmentation?,"class_mode='multiple'
 class_mode='non_binary'
 class_mode='categorical'
@@ -663,11 +663,11 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
-What is the name of the object used to tokenize sentences?,"CharacterTokenizer
+DueFeb 11, 11:59 PM PST"
+What is the name of the object used to tokenize sentences?,"Tokenizer
 TextTokenizer
 WordTokenizer
-Tokenizer",Tokenizer,"Back
+CharacterTokenizer",Tokenizer,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -675,11 +675,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
+DueJan 21, 11:59 PM PST"
 What is the name of the method used to tokenize a list of sentences?,"fit_to_text(sentences)
-tokenize(sentences)
 tokenize_on_text(sentences)
-fit_on_texts(sentences)",fit_on_texts(sentences),"Back
+fit_on_texts(sentences)
+tokenize(sentences)",fit_on_texts(sentences),"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -687,11 +687,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
+DueJan 21, 11:59 PM PST"
 "Once you have the corpus tokenized, what’s the method used to encode a list of sentences to use those tokens?","text_to_tokens(sentences)
-text_to_sequences(sentences)
+texts_to_tokens(sentences)
 texts_to_sequences(sentences)
-texts_to_tokens(sentences)",texts_to_sequences(sentences),"Back
+text_to_sequences(sentences)",texts_to_sequences(sentences),"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -699,11 +699,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
-"When initializing the tokenizer, how do you specify a token to use for unknown words?","out_of_vocab=<Token>
-unknown_token=<Token>
+DueJan 21, 11:59 PM PST"
+"When initializing the tokenizer, how do you specify a token to use for unknown words?","unknown_token=<Token>
+unknown_word=<Token>
 oov_token=<Token>
-unknown_word=<Token>",oov_token=<Token>,"Back
+out_of_vocab=<Token>",oov_token=<Token>,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -711,10 +711,10 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
-"If you don’t use a token for out of vocabulary words, what happens at encoding?","The word isn’t encoded, and is skipped in the sequence
-The word isn’t encoded, and the sequencing ends
+DueJan 21, 11:59 PM PST"
+"If you don’t use a token for out of vocabulary words, what happens at encoding?","The word isn’t encoded, and the sequencing ends
 The word isn’t encoded, and is replaced by a zero in the sequence
+The word isn’t encoded, and is skipped in the sequence
 The word is replaced by the most common token","The word isn’t encoded, and is skipped in the sequence","Back
 Week 1 Quiz
 
@@ -723,11 +723,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
-"If you have a number of sequences of different lengths, how do you ensure that they are understood when fed into a neural network?","Make sure that they are all the same length using the pad_sequences method of the tokenizer
-Specify the input layer of the Neural Network to expect different sizes with dynamic_length
+DueJan 21, 11:59 PM PST"
+"If you have a number of sequences of different lengths, how do you ensure that they are understood when fed into a neural network?","Specify the input layer of the Neural Network to expect different sizes with dynamic_length
 Process them on the input layer of the Neural Network using the pad_sequences property
-Use the pad_sequences function from the tensorflow.keras.preprocessing.sequence namespace",Use the pad_sequences function from the tensorflow.keras.preprocessing.sequence namespace,"Back
+Use the pad_sequences function from the tensorflow.keras.preprocessing.sequence namespace
+Make sure that they are all the same length using the pad_sequences method of the tokenizer",Use the pad_sequences function from the tensorflow.keras.preprocessing.sequence namespace,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -735,11 +735,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
-"If you have a number of sequences of different length, and call pad_sequences on them, what’s the default result?","They’ll get padded to the length of the longest sequence by adding zeros to the end of shorter ones
+DueJan 21, 11:59 PM PST"
+"If you have a number of sequences of different length, and call pad_sequences on them, what’s the default result?","Nothing, they’ll remain unchanged
 They’ll get cropped to the length of the shortest sequence
-They’ll get padded to the length of the longest sequence by adding zeros to the beginning of shorter ones
-Nothing, they’ll remain unchanged",They’ll get padded to the length of the longest sequence by adding zeros to the beginning of shorter ones,"Back
+They’ll get padded to the length of the longest sequence by adding zeros to the end of shorter ones
+They’ll get padded to the length of the longest sequence by adding zeros to the beginning of shorter ones",They’ll get padded to the length of the longest sequence by adding zeros to the beginning of shorter ones,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -747,10 +747,10 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
-"When padding sequences, if you want the padding to be at the end of the sequence, how do you do it?","Call the padding method of the pad_sequences object, passing it ‘after’
+DueJan 21, 11:59 PM PST"
+"When padding sequences, if you want the padding to be at the end of the sequence, how do you do it?","Call the padding method of the pad_sequences object, passing it ‘post’
+Call the padding method of the pad_sequences object, passing it ‘after’
 Pass padding=’after’ to pad_sequences when initializing it
-Call the padding method of the pad_sequences object, passing it ‘post’
 Pass padding=’post’ to pad_sequences when initializing it",Pass padding=’post’ to pad_sequences when initializing it,"Back
 Week 1 Quiz
 
@@ -759,11 +759,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 14, 11:59 PM +07"
+DueJan 21, 11:59 PM PST"
 What is the name of the TensorFlow library containing common data that you can use to train and test neural networks?,"TensorFlow Data
 There is no library of common data sets, you have to use your own
-TensorFlow Datasets
-TensorFlow Data Libraries",TensorFlow Datasets,"Back
+TensorFlow Data Libraries
+TensorFlow Datasets",TensorFlow Datasets,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -771,11 +771,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
-How many reviews are there in the IMDB dataset and how are they split?,"60,000 records, 80/20 train/test split
-60,000 records, 50/50 train/test split
+DueJan 28, 11:59 PM PST"
+How many reviews are there in the IMDB dataset and how are they split?,"60,000 records, 50/50 train/test split
+50,000 records, 50/50 train/test split
 50,000 records, 80/20 train/test split
-50,000 records, 50/50 train/test split","50,000 records, 50/50 train/test split","Back
+60,000 records, 80/20 train/test split","50,000 records, 50/50 train/test split","Back
 Week 2 Quiz
 
 Graded Quiz
@@ -783,11 +783,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
-How are the labels for the IMDB dataset encoded?,"Reviews encoded as a number 0-1
+DueJan 28, 11:59 PM PST"
+How are the labels for the IMDB dataset encoded?,"Reviews encoded as a number 1-5
+Reviews encoded as a boolean true/false
 Reviews encoded as a number 1-10
-Reviews encoded as a number 1-5
-Reviews encoded as a boolean true/false",Reviews encoded as a number 0-1,"Back
+Reviews encoded as a number 0-1",Reviews encoded as a number 0-1,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -795,11 +795,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
-What is the purpose of the embedding dimension?,"It is the number of dimensions required to encode every word in the corpus
-It is the number of letters in the word, denoting the size of the encoding
-It is the number of words to encode in the embedding
-It is the number of dimensions for the vector representing the word encoding",It is the number of dimensions for the vector representing the word encoding,"Back
+DueJan 28, 11:59 PM PST"
+What is the purpose of the embedding dimension?,"It is the number of letters in the word, denoting the size of the encoding
+It is the number of dimensions for the vector representing the word encoding
+It is the number of dimensions required to encode every word in the corpus
+It is the number of words to encode in the embedding",It is the number of dimensions for the vector representing the word encoding,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -807,11 +807,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
+DueJan 28, 11:59 PM PST"
 "When tokenizing a corpus, what does the num_words=n parameter do?","It specifies the maximum number of words to be tokenized, and picks the first ‘n’ words that were tokenized
-It specifies the maximum number of words to be tokenized, and stops tokenizing when it reaches n
 It errors out if there are more than n distinct words in the corpus
-It specifies the maximum number of words to be tokenized, and picks the most common ‘n-1’ words","It specifies the maximum number of words to be tokenized, and picks the most common ‘n-1’ words","Back
+It specifies the maximum number of words to be tokenized, and picks the most common ‘n-1’ words
+It specifies the maximum number of words to be tokenized, and stops tokenizing when it reaches n","It specifies the maximum number of words to be tokenized, and picks the most common ‘n-1’ words","Back
 Week 2 Quiz
 
 Graded Quiz
@@ -819,10 +819,10 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
-"To use word embeddings in TensorFlow, in a sequential layer, what is the name of the class?","tf.keras.layers.Embedding
-tf.keras.layers.WordEmbedding
+DueJan 28, 11:59 PM PST"
+"To use word embeddings in TensorFlow, in a sequential layer, what is the name of the class?","tf.keras.layers.WordEmbedding
 tf.keras.layers.Word2Vector
+tf.keras.layers.Embedding
 tf.keras.layers.Embed",tf.keras.layers.Embedding,"Back
 Week 2 Quiz
 
@@ -831,11 +831,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
+DueJan 28, 11:59 PM PST"
 IMDB Reviews are either positive or negative. What type of loss function should be used in this scenario?,"Categorical crossentropy
-Binary Gradient descent
 Adam
-Binary crossentropy",Binary crossentropy,"Back
+Binary crossentropy
+Binary Gradient descent",Binary crossentropy,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -843,11 +843,11 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
-"When using IMDB Sub Words dataset, our results in classification were poor. Why?","Our neural network didn’t have enough layers
-We didn’t train long enough
-The sub words make no sense, so can’t be classified
-Sequence becomes much more important when dealing with subwords, but we’re ignoring word positions","Sequence becomes much more important when dealing with subwords, but we’re ignoring word positions","Back
+DueJan 28, 11:59 PM PST"
+"When using IMDB Sub Words dataset, our results in classification were poor. Why?","We didn’t train long enough
+Our neural network didn’t have enough layers
+Sequence becomes much more important when dealing with subwords, but we’re ignoring word positions
+The sub words make no sense, so can’t be classified","Sequence becomes much more important when dealing with subwords, but we’re ignoring word positions","Back
 Week 2 Quiz
 
 Graded Quiz
@@ -855,77 +855,77 @@ Graded Quiz
  • 30 min
 
 English
-DueJan 21, 11:59 PM +07"
-Why does sequence make a large difference when determining semantics of language?,"Because the order in which words appear dictate their impact on the meaning of the sentence
-Because the order of words doesn’t matter
+DueJan 28, 11:59 PM PST"
+Why does sequence make a large difference when determining semantics of language?,"Because the order of words doesn’t matter
+Because the order in which words appear dictate their meaning
 It doesn’t
-Because the order in which words appear dictate their meaning",Because the order in which words appear dictate their impact on the meaning of the sentence,"Back
+Because the order in which words appear dictate their impact on the meaning of the sentence",Because the order in which words appear dictate their impact on the meaning of the sentence,"Back
 Week 3 Quiz
 
 Graded Quiz
 
 English
-DueJan 28, 11:59 PM +07"
-How do Recurrent Neural Networks help you understand the impact of sequence on meaning?,"They look at the whole sentence at a time
-They don’t
+DueFeb 4, 11:59 PM PST"
+How do Recurrent Neural Networks help you understand the impact of sequence on meaning?,"They don’t
 They shuffle the words evenly
+They look at the whole sentence at a time
 They carry meaning from one cell to the next",They carry meaning from one cell to the next,"Back
 Week 3 Quiz
 
 Graded Quiz
 
 English
-DueJan 28, 11:59 PM +07"
-How does an LSTM help understand meaning when words that qualify each other aren’t necessarily beside each other in a sentence?,"They don’t
-They load all words into a cell state
-Values from earlier words can be carried to later ones via a cell state
-They shuffle the words randomly",Values from earlier words can be carried to later ones via a cell state,"Back
+DueFeb 4, 11:59 PM PST"
+How does an LSTM help understand meaning when words that qualify each other aren’t necessarily beside each other in a sentence?,"Values from earlier words can be carried to later ones via a cell state
+They shuffle the words randomly
+They don’t
+They load all words into a cell state",Values from earlier words can be carried to later ones via a cell state,"Back
 Week 3 Quiz
 
 Graded Quiz
 
 English
-DueJan 28, 11:59 PM +07"
-What keras layer type allows LSTMs to look forward and backward in a sentence?,"Bilateral
+DueFeb 4, 11:59 PM PST"
+What keras layer type allows LSTMs to look forward and backward in a sentence?,"Bidirectional
 Bothdirection
-Bidirectional
+Bilateral
 Unilateral",Bidirectional,"Back
 Week 3 Quiz
 
 Graded Quiz
 
 English
-DueJan 28, 11:59 PM +07"
+DueFeb 4, 11:59 PM PST"
 What’s the output shape of a bidirectional LSTM layer with 64 units?,"(128,None)
-(None, 64)
 (None, 128)
+(None, 64)
 (128,1)","(None, 128)","Back
 Week 3 Quiz
 
 Graded Quiz
 
 English
-DueJan 28, 11:59 PM +07"
+DueFeb 4, 11:59 PM PST"
 "When stacking LSTMs, how do you instruct an LSTM to feed the next one in the sequence?","Ensure that return_sequences is set to True on all units
-Ensure that return_sequences is set to True only on units that feed to another LSTM
 Ensure that they have the same number of units
+Ensure that return_sequences is set to True only on units that feed to another LSTM
 Do nothing, TensorFlow handles this automatically",Ensure that return_sequences is set to True only on units that feed to another LSTM,"Back
 Week 3 Quiz
 
 Graded Quiz
 
 English
-DueJan 28, 11:59 PM +07"
-"If a sentence has 120 tokens in it, and a Conv1D with 128 filters with a Kernal size of 5 is passed over it, what’s the output shape?","(None, 116, 124)
+DueFeb 4, 11:59 PM PST"
+"If a sentence has 120 tokens in it, and a Conv1D with 128 filters with a Kernal size of 5 is passed over it, what’s the output shape?","(None, 120, 124)
 (None, 116, 128)
 (None, 120, 128)
-(None, 120, 124)","(None, 116, 128)","Back
+(None, 116, 124)","(None, 116, 128)","Back
 Week 3 Quiz
 
 Graded Quiz
 
 English
-DueJan 28, 11:59 PM +07"
+DueFeb 4, 11:59 PM PST"
 What’s the best way to avoid overfitting in NLP datasets?,"Use LSTMs
 Use GRUs
 Use Conv1D
@@ -935,10 +935,10 @@ Week 3 Quiz
 Graded Quiz
 
 English
-DueJan 28, 11:59 PM +07"
-"When predicting words to generate poetry, the more words predicted the more likely it will end up gibberish. Why?","Because the probability that each word matches an existing phrase goes down the more words you create
+DueFeb 4, 11:59 PM PST"
+"When predicting words to generate poetry, the more words predicted the more likely it will end up gibberish. Why?","It doesn’t, the likelihood of gibberish doesn’t change
+Because the probability that each word matches an existing phrase goes down the more words you create
 Because you are more likely to hit words not in the training set
-It doesn’t, the likelihood of gibberish doesn’t change
 Because the probability of prediction compounds, and thus increases overall",Because the probability that each word matches an existing phrase goes down the more words you create,"Back
 Week 4 Quiz
 
@@ -947,10 +947,10 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
-What is a major drawback of word-based training for text generation instead of character-based generation?,"Character based generation is more accurate because there are less characters to predict
+DueFeb 11, 11:59 PM PST"
+What is a major drawback of word-based training for text generation instead of character-based generation?,"Because there are far more words in a typical corpus than characters, it is much more memory intensive
+Character based generation is more accurate because there are less characters to predict
 There is no major drawback, it’s always better to do word-based training
-Because there are far more words in a typical corpus than characters, it is much more memory intensive
 Word based generation is more accurate because there is a larger body of words to draw from","Because there are far more words in a typical corpus than characters, it is much more memory intensive","Back
 Week 4 Quiz
 
@@ -959,9 +959,9 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
-What are the critical steps in preparing the input sequences for the prediction model?,"Converting the seed text to a token sequence using texts_to_sequences.
-Pre-padding the subphrases sequences.
+DueFeb 11, 11:59 PM PST"
+What are the critical steps in preparing the input sequences for the prediction model?,"Pre-padding the subphrases sequences.
+Converting the seed text to a token sequence using texts_to_sequences.
 Generating subphrases from each line using n_gram_sequences. 
 Splitting the dataset into training and testing sentences.","Pre-padding the subphrases sequences.
 Generating subphrases from each line using n_gram_sequences. ","Back
@@ -972,11 +972,11 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
-"In  natural language processing, predicting the next item in a sequence is a classification problem. Therefore, after creating inputs and labels from the subphrases, we one-hot encode the labels. What function do we use to create one-hot encoded arrays of the labels?","tf.keras.utils.SequenceEnqueuer
-tf.keras.utils.img_to_array
+DueFeb 11, 11:59 PM PST"
+"In  natural language processing, predicting the next item in a sequence is a classification problem. Therefore, after creating inputs and labels from the subphrases, we one-hot encode the labels. What function do we use to create one-hot encoded arrays of the labels?","tf.keras.utils.img_to_array
 tf.keras.utils.to_categorical
-tf.keras.preprocessing.text.one_hot",tf.keras.utils.to_categorical,"Back
+tf.keras.preprocessing.text.one_hot
+tf.keras.utils.SequenceEnqueuer",tf.keras.utils.to_categorical,"Back
 Week 4 Quiz
 
 Graded Quiz
@@ -984,7 +984,7 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
+DueFeb 11, 11:59 PM PST"
 "True or False: When building the model, we use a sigmoid activated Dense output layer with one neuron per word that lights up when we predict a given word.","True
 False",False,"Back
 Week 4 Quiz
@@ -994,11 +994,11 @@ Graded Quiz
  • 30 min
 
 English
-DueFeb 4, 11:59 PM +07"
-What is an example of a Univariate time series?,"Hour by hour temperature
-Fashion items
+DueFeb 11, 11:59 PM PST"
+What is an example of a Univariate time series?,"Hour by hour weather   
 Baseball scores
-Hour by hour weather   ",Hour by hour temperature,"Back
+Hour by hour temperature
+Fashion items",Hour by hour temperature,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -1007,9 +1007,9 @@ Graded Quiz
 
 English
 DueJan 7, 11:59 PM PST"
-What is an example of a Multivariate time series?,"Fashion items
-Baseball scores
+What is an example of a Multivariate time series?,"Baseball scores
 Hour by hour weather 
+Fashion items
 Hour by hour temperature ",Hour by hour weather ,"Back
 Week 1 Quiz
 
@@ -1022,10 +1022,10 @@ DueJan 7, 11:59 PM PST"
 "What is imputed data?
 
 
-","Data that has been withheld for various reasons
+","A projection of unknown (usually past or missing) data
 A bad prediction of future data
-A good prediction of future data
-A projection of unknown (usually past or missing) data",A projection of unknown (usually past or missing) data,"Back
+Data that has been withheld for various reasons
+A good prediction of future data",A projection of unknown (usually past or missing) data,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -1048,9 +1048,9 @@ Graded Quiz
 English
 DueJan 7, 11:59 PM PST"
 What is Seasonality?,"A regular change in shape of the data
+Weather data
 Data aligning to the 4 seasons of the calendar
-Data that is only available at certain times of the year
-Weather data",A regular change in shape of the data,"Back
+Data that is only available at certain times of the year",A regular change in shape of the data,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -1059,8 +1059,8 @@ Graded Quiz
 
 English
 DueJan 7, 11:59 PM PST"
-What is a trend?,"An overall consistent downward direction for data
-An overall consistent upward direction for data
+What is a trend?,"An overall consistent upward direction for data
+An overall consistent downward direction for data
 An overall direction for data regardless of direction
 An overall consistent flat direction for data",An overall direction for data regardless of direction,"Back
 Week 1 Quiz
@@ -1074,10 +1074,10 @@ DueJan 7, 11:59 PM PST"
 "In the context of time series, what is noise?
 
 
-","Sound waves forming a time series
-Data that doesn’t have seasonality
+","Unpredictable changes in time series data
 Data that doesn’t have a trend
-Unpredictable changes in time series data",Unpredictable changes in time series data,"Back
+Sound waves forming a time series
+Data that doesn’t have seasonality",Unpredictable changes in time series data,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -1086,10 +1086,10 @@ Graded Quiz
 
 English
 DueJan 7, 11:59 PM PST"
-What is autocorrelation?,"Data that follows a predictable shape, even if the scale is different
-Data that automatically lines up seasonally
-Data that automatically lines up in trends
-Data that doesn’t have noise","Data that follows a predictable shape, even if the scale is different","Back
+What is autocorrelation?,"Data that automatically lines up seasonally
+Data that follows a predictable shape, even if the scale is different
+Data that doesn’t have noise
+Data that automatically lines up in trends","Data that follows a predictable shape, even if the scale is different","Back
 Week 1 Quiz
 
 Graded Quiz
@@ -1098,10 +1098,10 @@ Graded Quiz
 
 English
 DueJan 7, 11:59 PM PST"
-What is a non-stationary time series?,"One that moves seasonally.
-One that has a constructive event forming trend and seasonality.
-One that is consistent across all seasons.
-One that has a disruptive event breaking trend and seasonality. ",One that has a disruptive event breaking trend and seasonality. ,"Back
+What is a non-stationary time series?,"One that is consistent across all seasons.
+One that moves seasonally.
+One that has a disruptive event breaking trend and seasonality. 
+One that has a constructive event forming trend and seasonality.",One that has a disruptive event breaking trend and seasonality. ,"Back
 Week 1 Quiz
 
 Graded Quiz
@@ -1113,10 +1113,10 @@ DueJan 7, 11:59 PM PST"
 "What is a windowed dataset?
 
 
-","A consistent set of subsets of a time series
-The time series aligned to a fixed shape
+","A fixed-size subset of a time series 
 There’s no such thing
-A fixed-size subset of a time series ",A fixed-size subset of a time series ,"Back
+A consistent set of subsets of a time series
+The time series aligned to a fixed shape",A fixed-size subset of a time series ,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -1125,10 +1125,10 @@ Graded Quiz
 
 English
 DueJan 14, 11:59 PM PST"
-What does ‘drop_remainder=True’ do?,"It ensures that all rows in the data window are the same length by adding data
-It ensures that all rows in the data window are the same length by cropping data
+What does ‘drop_remainder=True’ do?,"It ensures that all data is used
+It ensures that all rows in the data window are the same length by adding data
 It ensures that the data is all the same shape
-It ensures that all data is used",It ensures that all rows in the data window are the same length by cropping data,"Back
+It ensures that all rows in the data window are the same length by cropping data",It ensures that all rows in the data window are the same length by cropping data,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -1152,10 +1152,10 @@ DueJan 14, 11:59 PM PST"
 "What does MSE stand for?
 
 
-","Mean Series error
-Mean Second error
+","Mean Squared error
+Mean Series error
 Mean Slight error
-Mean Squared error",Mean Squared error,"Back
+Mean Second error",Mean Squared error,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -1179,17 +1179,7 @@ DueJan 14, 11:59 PM PST"
 "If time values are in time[], series values are in series[] and we want to split the series into training and validation at time split_time, what is the correct code?
 
 
-","time_train = time[split_time]
-
-x_train = series[split_time]
-
-time_valid = time[split_time]
-
-x_valid = series[split_time]
-
-
-
-time_train = time[:split_time]
+","time_train = time[:split_time]
 
 x_train = series[:split_time]
 
@@ -1206,6 +1196,16 @@ x_train = series[split_time]
 time_valid = time[split_time:]
 
 x_valid = series[split_time:]
+time_train = time[split_time]
+
+x_train = series[split_time]
+
+time_valid = time[split_time]
+
+x_valid = series[split_time]
+
+
+
 time_train = time[:split_time]
 
 x_train = series[:split_time]
@@ -1236,10 +1236,10 @@ DueJan 14, 11:59 PM PST"
 "If you want to inspect the learned parameters in a layer after training, what’s a good technique to use?
 
 
-","Assign a variable to the layer and add it to the model using that variable. Inspect its properties after training.
+","Decompile the model and inspect the parameter set for that layer.
 Iterate through the layers dataset of the model to find the layer you want.
 Run the model with unit data and inspect the output for that layer.
-Decompile the model and inspect the parameter set for that layer.",Assign a variable to the layer and add it to the model using that variable. Inspect its properties after training.,"Back
+Assign a variable to the layer and add it to the model using that variable. Inspect its properties after training.",Assign a variable to the layer and add it to the model using that variable. Inspect its properties after training.,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -1251,10 +1251,10 @@ DueJan 14, 11:59 PM PST"
 "How do you set the learning rate of the SGD optimizer? 
 
 
-","Use the learning_rate property
-Use the RateOfLearning property
-You can’t set it
-Use the Rate property ",Use the learning_rate property,"Back
+","You can’t set it
+Use the Rate property 
+Use the learning_rate property
+Use the RateOfLearning property",Use the learning_rate property,"Back
 Week 2 Quiz
 
 Graded Quiz
@@ -1314,10 +1314,10 @@ Graded Quiz
 
 English
 DueJan 21, 11:59 PM PST"
-What does the axis parameter of tf.expand_dims do?,"Defines the dimension index to remove when you expand the tensor
-Defines the axis around which to expand the dimensions
+What does the axis parameter of tf.expand_dims do?,"Defines if the tensor is X or Y
 Defines the dimension index at which you will expand the shape of the tensor 
-Defines if the tensor is X or Y",Defines the dimension index at which you will expand the shape of the tensor ,"Back
+Defines the dimension index to remove when you expand the tensor
+Defines the axis around which to expand the dimensions",Defines the dimension index at which you will expand the shape of the tensor ,"Back
 Week 3 Quiz
 
 Graded Quiz
@@ -1326,10 +1326,10 @@ Graded Quiz
 
 English
 DueJan 21, 11:59 PM PST"
-"A new loss function was introduced in this module, named after a famous statistician. What is it called?","Hubble loss
-Huber loss
-Hawking loss
-Hyatt loss",Huber loss,"Back
+"A new loss function was introduced in this module, named after a famous statistician. What is it called?","Hawking loss
+Hubble loss
+Hyatt loss
+Huber loss",Huber loss,"Back
 Week 3 Quiz
 
 Graded Quiz
@@ -1338,10 +1338,10 @@ Graded Quiz
 
 English
 DueJan 21, 11:59 PM PST"
-What’s the primary difference between a simple RNN and an LSTM,"In addition to the H output, RNNs have a cell state that runs across all cells 
-LSTMs have multiple outputs, RNNs have a single one
+What’s the primary difference between a simple RNN and an LSTM,"LSTMs have multiple outputs, RNNs have a single one
+LSTMs have a single output, RNNs have multiple
 In addition to the H output, LSTMs have a cell state that runs across all cells 
-LSTMs have a single output, RNNs have multiple","In addition to the H output, LSTMs have a cell state that runs across all cells ","Back
+In addition to the H output, RNNs have a cell state that runs across all cells ","In addition to the H output, LSTMs have a cell state that runs across all cells ","Back
 Week 3 Quiz
 
 Graded Quiz
@@ -1351,8 +1351,8 @@ Graded Quiz
 English
 DueJan 21, 11:59 PM PST"
 "If you want to clear out all temporary variables that tensorflow might have from previous sessions, what code do you run?","tf.keras.clear_session
-tf.cache.clear_session()
 tf.keras.backend.clear_session()  
+tf.cache.clear_session()
 tf.cache.backend.clear_session()",tf.keras.backend.clear_session()  ,"Back
 Week 3 Quiz
 
@@ -1368,10 +1368,10 @@ tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32)),
 
 tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32)),
 
-tf.keras.layers.Dense(1),","Your model will fail because you have the same number of cells in each LSTM
-Your model will fail because you need return_sequences=True after each LSTM layer
-Your model will compile and run correctly
-Your model will fail because you need return_sequences=True after the first LSTM layer",Your model will fail because you need return_sequences=True after the first LSTM layer,"Back
+tf.keras.layers.Dense(1),","Your model will compile and run correctly
+Your model will fail because you need return_sequences=True after the first LSTM layer
+Your model will fail because you have the same number of cells in each LSTM
+Your model will fail because you need return_sequences=True after each LSTM layer",Your model will fail because you need return_sequences=True after the first LSTM layer,"Back
 Week 3 Quiz
 
 Graded Quiz
@@ -1383,10 +1383,10 @@ DueJan 21, 11:59 PM PST"
 "How do you add a 1 dimensional convolution to your model for predicting time series data?
 
 
-","Use a 1DConv layer type
-Use a Conv1D layer type
-Use a ConvolutionD1 layer type
-Use a 1DConvolution layer type",Use a Conv1D layer type,"Back
+","Use a Conv1D layer type
+Use a 1DConv layer type
+Use a 1DConvolution layer type
+Use a ConvolutionD1 layer type",Use a Conv1D layer type,"Back
 Week 4 Quiz
 
 Graded Quiz
@@ -1395,10 +1395,10 @@ Graded Quiz
 
 English
 DueJan 28, 11:59 PM PST"
-What’s the input shape for a univariate time series to a Conv1D? ,"[None, 1]
-[1, None]
-[]
-[1]","[None, 1]","Back
+What’s the input shape for a univariate time series to a Conv1D? ,"[]
+[1]
+[None, 1]
+[1, None]","[None, 1]","Back
 Week 4 Quiz
 
 Graded Quiz
@@ -1410,10 +1410,10 @@ DueJan 28, 11:59 PM PST"
 "You used a sunspots dataset that was stored in CSV. What’s the name of the Python library used to read CSVs?
 
 
-","CSV
-PyFiles
+","PyFiles
 CommaSeparatedValues
-PyCSV",CSV,"Back
+PyCSV
+CSV",CSV,"Back
 Week 4 Quiz
 
 Graded Quiz
@@ -1425,10 +1425,10 @@ DueJan 28, 11:59 PM PST"
 "If your CSV file has a header that you don’t want to read into your dataset, what do you execute before iterating through the file using a ‘reader’ object?
 
 
-","next(reader)
-reader.next
+","reader.next
+reader.read(next)
 reader.ignore_header()
-reader.read(next)",next(reader),"Back
+next(reader)",next(reader),"Back
 Week 4 Quiz
 
 Graded Quiz
@@ -1442,8 +1442,8 @@ DueJan 28, 11:59 PM PST"
 
 ","float(row[2]) 
 You can’t. It needs to be read into a buffer and a new float instantiated from the buffer
-float f = row[2].read()
-Convert.toFloat(row[2])",float(row[2]) ,"Back
+Convert.toFloat(row[2])
+float f = row[2].read()",float(row[2]) ,"Back
 Week 4 Quiz
 
 Graded Quiz
@@ -1455,10 +1455,10 @@ DueJan 28, 11:59 PM PST"
 "What was the sunspot seasonality?
 
 
-","22 years
-11 years
-4 times a year
-11 or 22 years depending on who you ask",11 or 22 years depending on who you ask,"Back
+","11 years
+22 years
+11 or 22 years depending on who you ask
+4 times a year",11 or 22 years depending on who you ask,"Back
 Week 4 Quiz
 
 Graded Quiz
@@ -1470,10 +1470,10 @@ DueJan 28, 11:59 PM PST"
 "After studying this course, what neural network type do you think is best for predicting time series like our sunspots dataset?
 
 
-","Convolutions
-RNN / LSTM
+","RNN / LSTM
+DNN
 A combination of all other answers
-DNN",A combination of all other answers,"Back
+Convolutions",A combination of all other answers,"Back
 Week 4 Quiz
 
 Graded Quiz
@@ -1485,9 +1485,9 @@ DueJan 28, 11:59 PM PST"
 "Why is MAE a good analytic for measuring accuracy of predictions for time series?
 
 
-","It only counts positive errors
+","It punishes larger errors 
 It biases towards small errors
-It punishes larger errors 
+It only counts positive errors
 It doesn’t heavily punish larger errors like square errors do",It doesn’t heavily punish larger errors like square errors do,"Back
 Week 4 Quiz
 

@@ -2,10 +2,10 @@
   {
     "Question": "What is an example of a Univariate time series?",
     "Answer": [
-      "Hour by hour temperature",
-      "Fashion items",
+      "Hour by hour weather   ",
       "Baseball scores",
-      "Hour by hour weather   "
+      "Hour by hour temperature",
+      "Fashion items"
     ],
     "Correct": [
       "Hour by hour temperature"
@@ -15,9 +15,9 @@
   {
     "Question": "What is an example of a Multivariate time series?",
     "Answer": [
-      "Fashion items",
       "Baseball scores",
       "Hour by hour weather ",
+      "Fashion items",
       "Hour by hour temperature "
     ],
     "Correct": [
@@ -28,10 +28,10 @@
   {
     "Question": "What is imputed data?\n\n\n",
     "Answer": [
-      "Data that has been withheld for various reasons",
+      "A projection of unknown (usually past or missing) data",
       "A bad prediction of future data",
-      "A good prediction of future data",
-      "A projection of unknown (usually past or missing) data"
+      "Data that has been withheld for various reasons",
+      "A good prediction of future data"
     ],
     "Correct": [
       "A projection of unknown (usually past or missing) data"
@@ -53,9 +53,9 @@
     "Question": "What is Seasonality?",
     "Answer": [
       "A regular change in shape of the data",
+      "Weather data",
       "Data aligning to the 4 seasons of the calendar",
-      "Data that is only available at certain times of the year",
-      "Weather data"
+      "Data that is only available at certain times of the year"
     ],
     "Correct": [
       "A regular change in shape of the data"
@@ -65,8 +65,8 @@
   {
     "Question": "What is a trend?",
     "Answer": [
-      "An overall consistent downward direction for data",
       "An overall consistent upward direction for data",
+      "An overall consistent downward direction for data",
       "An overall direction for data regardless of direction",
       "An overall consistent flat direction for data"
     ],
@@ -78,10 +78,10 @@
   {
     "Question": "In the context of time series, what is noise?\n\n\n",
     "Answer": [
-      "Sound waves forming a time series",
-      "Data that doesn’t have seasonality",
+      "Unpredictable changes in time series data",
       "Data that doesn’t have a trend",
-      "Unpredictable changes in time series data"
+      "Sound waves forming a time series",
+      "Data that doesn’t have seasonality"
     ],
     "Correct": [
       "Unpredictable changes in time series data"
@@ -91,10 +91,10 @@
   {
     "Question": "What is autocorrelation?",
     "Answer": [
-      "Data that follows a predictable shape, even if the scale is different",
       "Data that automatically lines up seasonally",
-      "Data that automatically lines up in trends",
-      "Data that doesn’t have noise"
+      "Data that follows a predictable shape, even if the scale is different",
+      "Data that doesn’t have noise",
+      "Data that automatically lines up in trends"
     ],
     "Correct": [
       "Data that follows a predictable shape, even if the scale is different"
@@ -104,10 +104,10 @@
   {
     "Question": "What is a non-stationary time series?",
     "Answer": [
-      "One that moves seasonally.",
-      "One that has a constructive event forming trend and seasonality.",
       "One that is consistent across all seasons.",
-      "One that has a disruptive event breaking trend and seasonality. "
+      "One that moves seasonally.",
+      "One that has a disruptive event breaking trend and seasonality. ",
+      "One that has a constructive event forming trend and seasonality."
     ],
     "Correct": [
       "One that has a disruptive event breaking trend and seasonality. "

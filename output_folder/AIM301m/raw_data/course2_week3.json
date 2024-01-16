@@ -1,0 +1,102 @@
+[
+  {
+    "Question": "Let \n𝑓\n(\n𝑥\n)\nf(x) be the probability that a person with feature \n𝑥\nx dies within 5 years. \n\nLet \n𝑆\n𝑥\n(\n𝑡\n)\nS\nx\n\t​\n\n(t) be the survival function of a person with feature \n𝑥\nx.  Assume t is measured in years. \n\nWhich of the following is true? ",
+    "Answer": [
+      "f(x) = 1-S_x(5) ",
+      "𝑓\n(\n𝑥\n)\n=\n𝑆\n𝑥\n(\n5\n)\nf(x)=S\nx\n\t​\n\n(5)",
+      "f(x) = S_x(0) "
+    ],
+    "Correct": [
+      "f(x) = 1-S_x(5) "
+    ],
+    "Title": "Back\nSurvival\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "The survival function is always: ",
+    "Answer": [
+      "Increasing",
+      "Linear",
+      "Decreasing"
+    ],
+    "Correct": [
+      "Decreasing"
+    ],
+    "Title": "Back\nSurvival\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is a difference between survival data and classification datasets?  ",
+    "Answer": [
+      "Survival data can be used to build prognostic models  ",
+      "Classification dataset contain information on other features ",
+      "In survival data the labels are amounts of time and in classification data the labels are binary  "
+    ],
+    "Correct": [
+      "In survival data the labels are amounts of time and in classification data the labels are binary  "
+    ],
+    "Title": "Back\nSurvival\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is an example of censoring?  ",
+    "Answer": [
+      "Patient does not have the event by the end of the study period.",
+      "The patient withdraws from a study before having an event, and before the study ends.",
+      "Death due to other, unrelated causes (such as an automobile accident) "
+    ],
+    "Correct": [
+      "Patient does not have the event by the end of the study period.",
+      "The patient withdraws from a study before having an event, and before the study ends.",
+      "Death due to other, unrelated causes (such as an automobile accident) "
+    ],
+    "Title": "Back\nSurvival\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Estimate \n𝑃\n(\n𝑇\n>\n2\n∣\n𝑇\n>\n=\n2\n)\nP(T>2∣T>=2) from the following dataset:\n\ni\n\n\t\n\n𝑇\n𝑖\nT\ni\n\t​\n\n\n\n\n\n1\n\n\t\n\n3\n\n\n\n\n2\n\n\t\n\n5\n\n\n\n\n3\n\n\t\n\n4+\n\n\n\n\n4\n\n\t\n\n2\n\nHint: \n𝑃\n(\n𝑇\n>\n2\n∣\n𝑇\n>\n=\n2\n)\n=\n(\n1\n−\n𝑃\n(\n𝑇\n=\n2\n∣\n𝑇\n>\n=\n2\n)\n)\nP(T>2∣T>=2)=(1−P(T=2∣T>=2)). ",
+    "Answer": [
+      "0",
+      "1/4 ",
+      "3/4 ",
+      "1/2 "
+    ],
+    "Correct": [
+      "3/4 "
+    ],
+    "Title": "Back\nSurvival\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Compute the probability of surviving up to 4 years \n𝑆\n(\n4\n)\nS(4) given the following dataset using the Kaplan Meier estimate:\n\ni\n\n\t\n\nT_i\n\n\n\n\n1\n\n\t\n\n3\n\n\n\n\n2\n\n\t\n\n5\n\n\n\n\n3\n\n\t\n\n4+\n\n\n\n\n4\n\n\t\n\n2\n\nThe Kaplan Meier Estimator is\n\n𝑆\n(\n𝑡\n)\n=\n∏\n𝑖\n=\n0\n𝑁\n(\n1\n−\n𝑑\n𝑖\n𝑛\n𝑖\n)\nS(t)=∏\ni=0\nN\n\t​\n\n(1−\nn\ni\n\t​\n\nd\ni\n\t​\n\n\t​\n\n)",
+    "Answer": [
+      "1/2 ",
+      "1/4 ",
+      "3/4",
+      "0"
+    ],
+    "Correct": [
+      "1/2 "
+    ],
+    "Title": "Back\nSurvival\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Compute S(5) given the following dataset using the Kaplan Meier estimate (note, it's the same dataset as in the previous question).\n\ni\n\n\t\n\nT_i\n\n\n\n\n1\n\n\t\n\n3\n\n\n\n\n2\n\n\t\n\n5\n\n\n\n\n3\n\n\t\n\n4+\n\n\n\n\n4\n\n\t\n\n2\n\nThe Kaplan Meier Estimator is\n\n𝑆\n(\n𝑡\n)\n=\n∏\n𝑖\n=\n0\n𝑁\n(\n1\n−\n𝑑\n𝑖\n𝑛\n𝑖\n)\nS(t)=∏\ni=0\nN\n\t​\n\n(1−\nn\ni\n\t​\n\nd\ni\n\t​\n\n\t​\n\n)\n\nHint: since we're using the same dataset as in the previous question, you may notice that\n\n𝑆\n(\n5\n)\n=\n𝑆\n(\n4\n)\n×\n(\n1\n−\n𝑑\n5\n𝑛\n5\n)\nS(5)=S(4)×(1−\nn\n5\n\t​\n\nd\n5\n\t​\n\n\t​\n\n)",
+    "Answer": [
+      "1/2",
+      "0",
+      "3/4",
+      "1/4"
+    ],
+    "Correct": [
+      "0"
+    ],
+    "Title": "Back\nSurvival\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False: If t is larger than the longest survival time recorded in the dataset, then \n𝑆\n(\n𝑡\n)\n=\n0\nS(t)=0 according to the Kaplan-Meier estimate.  \n\nThe Kaplan Meier Estimator is\n\n𝑆\n(\n𝑡\n)\n=\n∏\n𝑖\n=\n0\n𝑁\n(\n1\n−\n𝑑\n𝑖\n𝑛\n𝑖\n)\nS(t)=∏\ni=0\nN\n\t​\n\n(1−\nn\ni\n\t​\n\nd\ni\n\t​\n\n\t​\n\n)",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nSurvival\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  }
+]

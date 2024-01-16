@@ -41,10 +41,10 @@
   {
     "Question": "What does the axis parameter of tf.expand_dims do?",
     "Answer": [
-      "Defines the dimension index to remove when you expand the tensor",
-      "Defines the axis around which to expand the dimensions",
+      "Defines if the tensor is X or Y",
       "Defines the dimension index at which you will expand the shape of the tensor ",
-      "Defines if the tensor is X or Y"
+      "Defines the dimension index to remove when you expand the tensor",
+      "Defines the axis around which to expand the dimensions"
     ],
     "Correct": [
       "Defines the dimension index at which you will expand the shape of the tensor "
@@ -54,10 +54,10 @@
   {
     "Question": "A new loss function was introduced in this module, named after a famous statistician. What is it called?",
     "Answer": [
-      "Hubble loss",
-      "Huber loss",
       "Hawking loss",
-      "Hyatt loss"
+      "Hubble loss",
+      "Hyatt loss",
+      "Huber loss"
     ],
     "Correct": [
       "Huber loss"
@@ -67,10 +67,10 @@
   {
     "Question": "What’s the primary difference between a simple RNN and an LSTM",
     "Answer": [
-      "In addition to the H output, RNNs have a cell state that runs across all cells ",
       "LSTMs have multiple outputs, RNNs have a single one",
+      "LSTMs have a single output, RNNs have multiple",
       "In addition to the H output, LSTMs have a cell state that runs across all cells ",
-      "LSTMs have a single output, RNNs have multiple"
+      "In addition to the H output, RNNs have a cell state that runs across all cells "
     ],
     "Correct": [
       "In addition to the H output, LSTMs have a cell state that runs across all cells "
@@ -81,8 +81,8 @@
     "Question": "If you want to clear out all temporary variables that tensorflow might have from previous sessions, what code do you run?",
     "Answer": [
       "tf.keras.clear_session",
-      "tf.cache.clear_session()",
       "tf.keras.backend.clear_session()  ",
+      "tf.cache.clear_session()",
       "tf.cache.backend.clear_session()"
     ],
     "Correct": [
@@ -93,10 +93,10 @@
   {
     "Question": "What happens if you define a neural network with these two layers?\n\ntf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32)),\n\ntf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32)),\n\ntf.keras.layers.Dense(1),",
     "Answer": [
-      "Your model will fail because you have the same number of cells in each LSTM",
-      "Your model will fail because you need return_sequences=True after each LSTM layer",
       "Your model will compile and run correctly",
-      "Your model will fail because you need return_sequences=True after the first LSTM layer"
+      "Your model will fail because you need return_sequences=True after the first LSTM layer",
+      "Your model will fail because you have the same number of cells in each LSTM",
+      "Your model will fail because you need return_sequences=True after each LSTM layer"
     ],
     "Correct": [
       "Your model will fail because you need return_sequences=True after the first LSTM layer"
