@@ -37,3 +37,9 @@ Google Chrome -> Setting -> Extensions -> Manage Extensions -> Turn on **Develop
   ![Screenshot from 2023-06-03 00-23-13](https://github.com/Joycean0301/Courseraaa/assets/103662477/af760ae3-e6e4-433e-bdc0-ff8561e82ae3)
   
 - Step 4: Go to Coursera Quiz: Enjoy :D
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Joycean0301/Courseraaa&type=Date)](https://star-history.com/#Joycean0301/Courseraaa&Date)
+
