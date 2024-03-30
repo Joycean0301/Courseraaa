@@ -1,0 +1,197 @@
+[
+  {
+    "Question": "Which of the following does HIPAA stand for? ",
+    "Answer": [
+      "Health Insurance Portability and Accountability Act",
+      "Health In Patients Across America",
+      "Healthcare Independence Protection Act in America",
+      "Health Information People and Assets Act"
+    ],
+    "Correct": [
+      "Health Insurance Portability and Accountability Act"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:  \n\nIf a clinician is contacted by the IT department regarding their userID and password, the clinician should provide it to them.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is a definition of ransomware?",
+    "Answer": [
+      "It's a form of secure data encryption.",
+      "When hackers overwhelm a network with data requests so that the increased load prevents the network from functioning properly or being accessible. ",
+      "It's the amount of money a hospital could be fined for violating HIPAA.",
+      "Computer code that infects a system and prevents it from being accessed unless a payment is made.",
+      " It's a type of hardware that is used commonly in Health IT.",
+      "It's the type of software that needs to be installed on a computer to protect it from viruses."
+    ],
+    "Correct": [
+      "Computer code that infects a system and prevents it from being accessed unless a payment is made."
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "The head surgeon at a hospital has been tough on his operating room (OR) staff lately. In order to make it up to them, he decides to have flowers delivered to each of their homes. He asks his junior resident to log into the electronic health record to pull up the addresses for the 4 main O.R. staff.   \n\nIs this an example of a breach event? ",
+    "Answer": [
+      "Yes",
+      "No"
+    ],
+    "Correct": [
+      "Yes"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:   \n\nHospitals can be fined a hefty amount of money for mistakes made by their employees as it relates to patient data and violations of HIPAA. ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "A teenager pretends to be the president of a hospital system and sends out an email requesting login credentials from hospital employees. Which of the following is a true statement? ",
+    "Answer": [
+      "This is an example of de-identification.",
+      "This is an example of phishing.",
+      "This is one way of protecting sensitive healthcare data.",
+      "This is an example of a DDoS (Distributed Denial of Service) attack).",
+      "None of the above."
+    ],
+    "Correct": [
+      "This is an example of phishing."
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "HIPAA is a regulation that applies to physicians and nurses since they provide direct patient care.   \n\nHIPAA does not apply to IT Support specialists who work in healthcare.   \n\nIs the 2nd sentence true or false? ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is an example of a DDOS (Distributed Denial of Service) attack? ",
+    "Answer": [
+      "A criminal pretends to be the lead nurse for a hospital unit and sends an email to all of the nurses requesting their user IDs and passwords for the electronic health record.    ",
+      "When computer code infects a system and prevents it from being accessed unless a payment is made.",
+      "Hackers overwhelm a network with data requests so that the increased load prevents the network from functioning properly or being accessible. ",
+      "When criminals rush into a hospital and steal multiple workstations with sensitive healthcare data. "
+    ],
+    "Correct": [
+      "Hackers overwhelm a network with data requests so that the increased load prevents the network from functioning properly or being accessible. "
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:\n\nIf a celebrity pop star is admitted to the health system where you're a help desk agent, it would be fine to post about this exciting news on social media so your friends know about it.  ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "Dr. Smith receives a request from another clinic about one of his patient’s recent surgeries. Dr. Smith asks his office administrator to fax the paperwork. She accidentally sends information about a different patient’s surgery to the other clinic.  \n\nIs this an example of a breach? ",
+    "Answer": [
+      "Yes",
+      "No"
+    ],
+    "Correct": [
+      "Yes"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "HIPAA grants patients the right to: ",
+    "Answer": [
+      "Enter notes into the electronic health record during their visit.",
+      "Get a medical second opinion if they disagree with their primary care physician.",
+      "Sue their physicians for malpractice.",
+      "Text their providers at any time of the day.",
+      "Access their healthcare data."
+    ],
+    "Correct": [
+      "Access their healthcare data."
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following terms is defined as \"use or disclosure of protected health information (PHI) in a manner that violates security and privacy rules\"?",
+    "Answer": [
+      "De-identification",
+      "HIPAA",
+      "Breach",
+      "Metadata"
+    ],
+    "Correct": [
+      "Breach"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:\n\nPatients have a right to access their medical data.  ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "The HIPAA Breach notification rule applies to:",
+    "Answer": [
+      "Covered entities",
+      "Business associates",
+      "All of the above",
+      "None of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is a true statement regarding security breaches in healthcare?",
+    "Answer": [
+      "They are only caused by human error and never by technical issues.",
+      "They can be caused by technical issues or human error.",
+      "They are only caused by technical issues and never by human error."
+    ],
+    "Correct": [
+      "They can be caused by technical issues or human error."
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:\n\nProtected health information (PHI) only refers to health data that is digitized or in electronic form--it does not apply to any health information that's on paper.  ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n16 total points available.\n16 total points\n\nEnglish"
+  }
+]

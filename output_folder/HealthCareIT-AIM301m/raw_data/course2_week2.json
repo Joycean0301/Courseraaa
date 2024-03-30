@@ -1,0 +1,115 @@
+[
+  {
+    "Question": "When a patient is undergoing surgery for a broken bone, which of the following EHR applications is being used?",
+    "Answer": [
+      "Ambulatory",
+      "Pharmacy",
+      "Operating Room"
+    ],
+    "Correct": [
+      "Operating Room"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "A physician has placed an order for an ultrasound in the electronic health record and realizes they made a mistake. There is no way for IT support staff to escalate this issue and have the ordered modified. \n\nThis last sentence is true or false?  ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "A physician calls the help desk because they are not able to access the ambulatory EHR application. The physician is entering their username and password but getting an error. Sounds like you will need to assist them with which of the following during the call?",
+    "Answer": [
+      "a telemedicine visit",
+      "login procedures",
+      "patient portal access",
+      "scheduling a patient"
+    ],
+    "Correct": [
+      "login procedures"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "A physical therapist (P.T.) calls the help desk because she isn’t able to login to the medical record. She explains that she was using the password for her email address rather than the password for her EHR login. She entered the wrong password several times and says she now isn’t being given an option to log-in. What might have happened?",
+    "Answer": [
+      "She pressed the keys on the keyboard so hard they could have jammed",
+      "Physical therapists shouldn’t be accessing the medical record. It’s only for nurses, physicians and pharmacists.",
+      "She has gotten locked out after reaching the maximum number of incorrect attempts",
+      "She might be using the wrong computer "
+    ],
+    "Correct": [
+      "She has gotten locked out after reaching the maximum number of incorrect attempts"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "A social worker is accessing her health system email via the unit workstation. She enters in her user ID and password. She is then taken to a screen where she needs to click on another button. She then receives a separate login code on her smartphone. Once she enters that login code, she is able to access her health system email account. \n\nWhich of the following best summarizes the process above?",
+    "Answer": [
+      "Registration",
+      "Account Lock-out",
+      "Scheduling",
+      "Multi-factor Authentication",
+      "Login Failure"
+    ],
+    "Correct": [
+      "Multi-factor Authentication"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "An interventional cardiologist is setting up his password for the electronic health record (EHR) that he’ll be using. He’s a very busy clinician dealing with the most critical patients who have had a heart attack. The work he does is a matter of life and death and it’s important for him to stay focused on his work without needing to memorize extraneous details. It would be best for him to choose a simple password that’s easy to remember like “password1” .\n\nIs the last sentence true or false? ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is true about credentialing?",
+    "Answer": [
+      "It is a process that verifies that a practitioner can provide care for a healthcare organization",
+      "It is an individual review ",
+      "Once completed, end-users are assigned a login that is based on the role they play in healthcare",
+      "It ensures that a job role is assigned based on the level of access that’s required",
+      "All of the above",
+      "None of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:\n\nIt’s unlikely that an employee would get in trouble for accessing a patient’s medical information for non-work related reasons. ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is true about multi-factor authentication?",
+    "Answer": [
+      "Is only used in healthcare but not in any other industries.",
+      "Increases unauthorized access to health IT application",
+      "Grants access to a user only after at least 2 pieces of evidence about their identity have been provided ",
+      "It makes it easier for hackers to access medical records for evil purposes"
+    ],
+    "Correct": [
+      "Grants access to a user only after at least 2 pieces of evidence about their identity have been provided "
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n9 total points available.\n9 total points\n\nEnglish"
+  }
+]

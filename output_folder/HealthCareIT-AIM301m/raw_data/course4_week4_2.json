@@ -1,0 +1,331 @@
+[
+  {
+    "Question": "A case manager is being onboarded at a community hospital. She will be working with clinical teams to ensure that patients have proper plans in place upon discharge from the hospital. She has lived in this community for many years and is adept at navigating the barriers to care and challenges faced by many of the residents. While getting access to some of the technology she’ll be utilizing, she is informed that her smartphone will need to undergo ___________. She was surprised to hear this and asks, “But isn’t it sufficient to have it password protected?”  \n\nThe human resources staff explain to her that employees are responsible for security and handling of sensitive information on her personally owned mobile devices, such as thumb drives, tablets, smartphones and even laptops are not managed through the hospital’s IT department. The case manager asks, “Ok, but what if I have it set to automatically lock-out after being idle for a certain amount of time?”  \n\nThe case manager is informed that while password protection and lock-out periods after being idle are also important mechanisms for protecting sensitive healthcare data, they aren’t sufficient. She is advised to speak with the hospital’s IT support professionals who can help her in identifying the best method for ___________.   \n\nWhich of the following is the best term to fill in both of the blanks in the scenario above?",
+    "Answer": [
+      "De-identification",
+      "Credentialing",
+      "Auditing",
+      "Encryption "
+    ],
+    "Correct": [
+      "Encryption "
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is an example of demographic data?",
+    "Answer": [
+      "Race or ethnicity",
+      "Diagnosis",
+      "Medications"
+    ],
+    "Correct": [
+      "Race or ethnicity"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is a definition of de-identification in healthcare? ",
+    "Answer": [
+      "Having staff remove their badges when they leave the hospital",
+      "Not letting a patient know the name of a provider that is going to be seeing them in clinic ",
+      "Not telling a physician the identity of patients they are going to be admitting to the hospital",
+      "Sending an email out to a generic listserve, rather than to an individual person",
+      "Removing personally identifiable information (PII) from protected health information (PHI)"
+    ],
+    "Correct": [
+      "Removing personally identifiable information (PII) from protected health information (PHI)"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Protecting sensitive healthcare data is the responsibility of:",
+    "Answer": [
+      "Physicians and nurses",
+      "Pharmacists",
+      "Help Desk agents and other Health IT Support staff",
+      "All of the above",
+      "None of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following prevents physicians from self-referring Medicare or Medicaid patients for health services if the physician has a financial relationship with the group providing the services? ",
+    "Answer": [
+      "False Claims Act",
+      "HIPAA Security Rule",
+      "Stark Law (Physician Self-Referral Law)",
+      "HIPAA Privacy Rule",
+      "None of the above"
+    ],
+    "Correct": [
+      "Stark Law (Physician Self-Referral Law)"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "PHI stands for:",
+    "Answer": [
+      "Protected Health Information",
+      "Potential Hacker Information",
+      "Possible Healthcare IDs"
+    ],
+    "Correct": [
+      "Protected Health Information"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Ransomware is best defined as:",
+    "Answer": [
+      "The amount of money a hospital could be fined for violating HIPAA.",
+      "Computer code that infects a system and prevents it from being accessed unless a payment is made.",
+      "A method of encrypting healthcare data.",
+      "A type of software that needs to be installed on a computer to protect it from viruses.",
+      "A type of hardware that is used commonly in Health IT to support printing."
+    ],
+    "Correct": [
+      "Computer code that infects a system and prevents it from being accessed unless a payment is made."
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following does HIPAA stand for? ",
+    "Answer": [
+      "Healthcare Independence Protection Act in America ",
+      "Health Information People and Assets Act",
+      "Health In Patients Across America",
+      "Health Insurance Portability and Accountability Act "
+    ],
+    "Correct": [
+      "Health Insurance Portability and Accountability Act "
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is an example of diagnosis data?",
+    "Answer": [
+      "Amputation",
+      "Insulin",
+      "56-year-old male ",
+      "Diabetes"
+    ],
+    "Correct": [
+      "Diabetes"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "True or False:\n\nUsing a health information system that has PHI for non-work related reasons is considered a breach. Even if it’s just to look up an address or other telephone number. ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "A teenager pretends to be the president of a hospital system and sends out an email requesting login credentials from hospital employees. Which of the following is a true statement? ",
+    "Answer": [
+      "This is an example of a DDoS (Distributed Denial of Service) attack). ",
+      "This is one way of protecting sensitive healthcare data.",
+      "This is an example of phishing.",
+      "This is an example of de-identification."
+    ],
+    "Correct": [
+      "This is an example of phishing."
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is true about HIPAA?",
+    "Answer": [
+      "It gives patients the right to email their providers.",
+      " It gives patients the right to access their healthcare data.",
+      "It prevents physicians from receiving kickbacks or monetary compensation for prescribing certain medications.",
+      "It gives patients the right to sue clinicians for malpractice."
+    ],
+    "Correct": [
+      " It gives patients the right to access their healthcare data."
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is an example of a DDOS (Distributed Denial of Service) attack? ",
+    "Answer": [
+      "When computer code infects a system and prevents it from being accessed unless a payment is made.",
+      "When criminals rush into a hospital and steal multiple workstations with sensitive healthcare data. ",
+      "A criminal pretends to be the lead nurse for a hospital unit and sends an email to all of the nurses requesting their user IDs and passwords for the electronic health record.  ",
+      "Hackers overwhelm a network with data requests so that the increased load prevents the network from functioning properly or being accessible. "
+    ],
+    "Correct": [
+      "Hackers overwhelm a network with data requests so that the increased load prevents the network from functioning properly or being accessible. "
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "True or False:\n\nA famous movie star is admitted to the hospital where you work as an IT support specialist. it would be fine to post about this exciting news on social media so your mom will be proud. ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Metadata is defined as:",
+    "Answer": [
+      "One data element",
+      "Data that is in the medical record",
+      "Data about data",
+      "Clinical data",
+      "Any type of data in healthcare"
+    ],
+    "Correct": [
+      "Data about data"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "A quality measure is looking at the percentage of patients who had a blood clot within a month of undergoing knee surgery. This is an example of a/an:",
+    "Answer": [
+      "Structural measure",
+      "Process measure",
+      "Outcome measure"
+    ],
+    "Correct": [
+      "Outcome measure"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following terms is defined as \"use or disclosure of protected health information (PHI) in a manner that violates security and privacy rules\"?",
+    "Answer": [
+      "HIPAA",
+      "Metadata",
+      "Breach",
+      "De-identification"
+    ],
+    "Correct": [
+      "Breach"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "If a quality measure is looking at the ratio of nurses to patients on the medical floor, it would be an example of a/an:",
+    "Answer": [
+      "Outcome measure",
+      "Process measure",
+      "Structural measure"
+    ],
+    "Correct": [
+      "Structural measure"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following describes the purpose of the Federal False Claims Act?",
+    "Answer": [
+      "To prevent organizations from overcharging the government for healthcare services or supplies.",
+      "To prevent pharmaceutical companies from providing gifts to doctors who prescribe their medications more.",
+      " It prevents an oncologist from referring Medicare or Medicaid patients to a cancer infusion clinic that the oncologist has a financial relationship with ",
+      "It protects sensitive healthcare data",
+      "All of the above"
+    ],
+    "Correct": [
+      "To prevent organizations from overcharging the government for healthcare services or supplies."
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "True or False:\n\nIn cases of HIPAA violations, it’s the employee that gets fined a hefty amount of money, not the hospital. ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is a true statement regarding security breaches in healthcare?",
+    "Answer": [
+      "They are only caused by technical issues and never by human error",
+      "They are only caused by human error and never by technical issues",
+      "They can be caused by technical issues or human error "
+    ],
+    "Correct": [
+      "They can be caused by technical issues or human error "
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is an intent of the Anti-kickback statute?",
+    "Answer": [
+      "It prevents physicians from referring Medicare or Medicaid patients to a center that they have a financial relationship with.",
+      "It’s intended to help maintain the privacy and security of Protected Health Information (PHI).",
+      "It prevents the government from being overcharged for healthcare services or supplies.",
+      "It prevents medical device companies from providing rewards to physicians in exchange for ordering their devices more."
+    ],
+    "Correct": [
+      "It prevents medical device companies from providing rewards to physicians in exchange for ordering their devices more."
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "True or False:\n\nPatients do not have a right to access their medical data since it’s the sole property of physicians, nurses, and hospitals.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "What are some ways that hospital employees can protect sensitive healthcare data? ",
+    "Answer": [
+      "Choose strong passwords",
+      "Refrain from sharing passwords and credentials with others",
+      "Log out of a workstation when stepping away",
+      "All of the above",
+      "None of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "True or False:\n\nYou should not share your password and credentials with other employees, even ones you trust.  ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  },
+  {
+    "Question": "A quality measure is looking at the percentage of females who had a mammogram to screen for breast cancer. This is an example of a/an:",
+    "Answer": [
+      "Outcome measure",
+      "Structural measure",
+      "Process measure"
+    ],
+    "Correct": [
+      "Process measure"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM +07"
+  }
+]

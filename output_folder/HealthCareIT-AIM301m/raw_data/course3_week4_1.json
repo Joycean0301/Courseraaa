@@ -1,0 +1,106 @@
+[
+  {
+    "Question": "The physicians at a community hospital receive the following email:  \n\n\"Due to the strong winds from this morning's hurricane, access to some health information systems is currently not available. Our IT support teams are actively working with the local utility companies to isolate the cause of the disruption and address the matter.\" \n\nThis is an example of: ",
+    "Answer": [
+      "Multi-factor authentication",
+      "Unscheduled downtime",
+      "Scheduled downtime",
+      "Self-service ticketing",
+      "Login procedures"
+    ],
+    "Correct": [
+      "Unscheduled downtime"
+    ],
+    "Title": "Back\nModule 4 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:  \n\nHigh reliability organizations in healthcare promote a culture of safety.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 4 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is the definition of a sentinel event? ",
+    "Answer": [
+      "A planned downtime where the EHR is not available and clinicians follow downtime procedures",
+      "An instance where a lab technician can't access their personal email because of a network outage",
+      "A patient safety event that leads to harm or death",
+      "Use of a barcode scanner on a patient's wristband to achieve positive identification",
+      "A nurse administering a routine oral medication for a patient and then documenting it in the electronic health record",
+      "All of the above are examples of sentinel events"
+    ],
+    "Correct": [
+      "A patient safety event that leads to harm or death"
+    ],
+    "Title": "Back\nModule 4 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:  \n\nA nurse scanning a patient's wristband for purposes of positive patient identification before administering a medication is an example where patient safety is being promoted.  ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 4 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "A busy surgeon performs an amputation of a patient's leg. Following the surgery, it becomes clear to the clinical team that the left leg was amputated, but that had been the healthy one. The patient was supposed to have their right leg amputated. Which of the following is a true statement?",
+    "Answer": [
+      "This is an example of a medication error",
+      "This is an example of a sentinel event",
+      "This is a situation that needs to be handled by Tier 3 IT support team",
+      "This is an example of positive patient identification",
+      "This is an example of unscheduled downtime",
+      "This is a situation where placing a self-service ticket would be appropriate",
+      "This is an example of the proper use of checklists",
+      "All of the above"
+    ],
+    "Correct": [
+      "This is an example of a sentinel event"
+    ],
+    "Title": "Back\nModule 4 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:  \n\nHealth IT does not play a role in patient safety.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 4 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:  \n\nHigh reliability organizations can only be found in healthcare and not any other industries. ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 4 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is an example of a sentinel event?",
+    "Answer": [
+      "Medication given to the wrong patient leading to a stroke and paralysis",
+      "Wrong site surgery on a patient who was supposed to have their right arm amputated",
+      "A fall in the hospital that could have been prevented, which led to a coma",
+      "All of the above",
+      "None of the above are examples of sentinel events"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nModule 4 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  }
+]

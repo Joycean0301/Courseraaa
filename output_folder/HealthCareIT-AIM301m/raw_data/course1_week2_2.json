@@ -1,0 +1,155 @@
+[
+    {
+        "Question": "A busy surgeon calls the IT help desk for support. The help desk agent is not able to resolve the matter. The help desk agent would assign which of the following for purposes of tracking?",
+        "Answer": [
+            "Course number",
+            "Lab order",
+            "Patient ID",
+            "Ticket number"
+        ],
+        "Correct": [
+            "Ticket number"
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "The only way clinicians can get IT support in healthcare is by calling the help desk. Online and in-person options aren't available",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Which of the following is a role that can be played by IT support staff in healthcare? Select all that apply.",
+        "Answer": [
+            "Healthcare IT Analyst",
+            "Help desk agent ",
+            "Physician",
+            "End-user computer support specialist "
+        ],
+        "Correct": [
+            "Healthcare IT Analyst",
+            "Help desk agent ",
+            "End-user computer support specialist "
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Which of the following is involved with being an IT support staff member in healthcare?",
+        "Answer": [
+            "Supporting ongoing operations",
+            "Helping with a wide range of functions",
+            "Being a team player",
+            "All of the above"
+        ],
+        "Correct": [
+            "All of the above"
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Which of the following is the overall goal of an IT help desk in healthcare?",
+        "Answer": [
+            "Assist customers with their IT issues through triaging or providing documented solutions within a timely manner while providing first class customer service.", 
+            "Prevent any Health IT problems from coming up in the hospital setting so that less calls are made",
+            "Getting clinicians to try fixing their own problems first, and then having them call back the following day if the matter still isn't resolved"
+        ],
+        "Correct": [
+            "Assist customers with their IT issues through triaging or providing documented solutions within a timely manner while providing first class customer service."
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "Two examples of issues that IT support specialists in healthcare help with include password resets and printing problems.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Knowledge Check\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points"
+    },
+    {
+        "Question": "As an end-user computer support specialist, what should you do if you can't resolve the problem for a nurse who calls in?",
+        "Answer": [
+            "Ask her to call back the next day",
+            "Tell her to search for the right answer on the internet",
+            "Escalate more complex issues to a team member or other team that can resolve the matter.",
+            "Explain to her that she should have paid attention during her initial training so this problem wouldn't have come up.",
+            "Let her know that if you don’t have the right answer it’s unlikely anyone else does either."
+        ],
+        "Correct": [
+            "Escalate more complex issues to a team member or other team that can resolve the matter."
+        ],
+        "Title": "Final Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Working as an IT support specialist in healthcare is the same as working in any other field.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Final Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "If a busy surgeon calls you and is frustrated about not being able to access an application, you should:",
+        "Answer": [
+            "Avoid documenting anything about this ticket, because if the surgeon complains later, you don’t want there to be any evidence of the call.",
+            "Raise your voice to the same level as the surgeons, so they understand you can’t be bossed around",
+            "Hang up the phone with hopes they will call back once they’ve calmed down a bit",
+            "Prioritize their issue above anything else, regardless of whether it’s an urgent matter or not.  If someone is upset, that means their issue should be handled immediately, regardless of whether it’s critical.",
+            "Demonstrate empathy for the clinician and methodically go through some of the essential questions you need to ask in order to be able to triage the matter"
+        ],
+        "Correct": [
+            "Demonstrate empathy for the clinician and methodically go through some of the essential questions you need to ask in order to be able to triage the matter"
+        ],
+        "Title": "Final Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "An administrative assistant calls the help desk because she is frustrated with a communication that she sent out via Microsoft Outlook. The head of the Department of Surgery says he didn’t receive it. Microsoft Outlook is an example of:",
+        "Answer": [
+            "A web browser",
+            "A mail client",
+            "An IP address",
+            "Malware"
+
+        ],
+        "Correct": [
+            "A mail client"
+        ],
+        "Title": "Final Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "Fill in the Blank: In order to maintain ongoing operations at a large health system or hospital, help desk operations are staffed 24/____/365",
+        "Answer": [
+            "5",
+            "1",
+            "7",
+            "30",
+            "12"
+        ],
+        "Correct": [
+            "7"
+        ],
+        "Title": "Final Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    },
+    {
+        "Question": "IT support specialists play a critical role in supporting ongoing operations in healthcare. They strive to help with a:",
+        "Answer": [
+            "High-reliability organization",
+            "Low-reliability organization"
+        ],
+        "Correct": [
+            "High-reliability organization"
+        ],
+        "Title": "Final Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a01h\n\nDueSep 3, 11:59 PM +07"
+    }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Question": "Which of the following is an example of demographic data?",
+    "Answer": [
+      "Age",
+      "Blood sugar level",
+      "Medications",
+      "Diagnosis"
+    ],
+    "Correct": [
+      "Age"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is the definition of metadata? ",
+    "Answer": [
+      "Data that is in the medical record",
+      "Clinical Data",
+      "Any type of data in healthcare",
+      "Data about data",
+      "One data element"
+    ],
+    "Correct": [
+      "Data about data"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is a definition of de-identification in healthcare? ",
+    "Answer": [
+      "Not letting a patient know the name of a provider that is going to be seeing them in clinic",
+      "Sending an email out to a generic listserve, rather than to an individual person",
+      "Removing personally identifiable information (PII) from protected health information (PHI)",
+      "Not telling a physician the identity of patients they are going to be admitting to the hospital ",
+      "Having staff remove their badges when they leave the hospital "
+    ],
+    "Correct": [
+      "Removing personally identifiable information (PII) from protected health information (PHI)"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is an example of medication data? ",
+    "Answer": [
+      "Amputation",
+      "Diabetes",
+      "Insulin",
+      "56 year-old male"
+    ],
+    "Correct": [
+      "Insulin"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:  \n\nEHRs are the only source of data that has protected health information (PHI).",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  }
+]

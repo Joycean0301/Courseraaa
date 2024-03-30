@@ -1,0 +1,108 @@
+[
+  {
+    "Question": "Several clinicians are calling in to report the following issue: they cannot access the EHR. What should you instruct the clinicians to do?",
+    "Answer": [
+      "Ask them to check and see if all their printers are properly connected to the network. ",
+      "Instruct them to utilize downtime procedures while the EHR isn’t accessible; Notify your supervisor about their being a problem affecting multiple users",
+      "Tell them that this is a really big problem. And figure out which one of them caused it.",
+      "Instruct the clinicians to avoid performing any of their clinical duties until the system is back up",
+      "Suggest that they call back in an hour so you know if the issue is persisting."
+    ],
+    "Correct": [
+      "Instruct them to utilize downtime procedures while the EHR isn’t accessible; Notify your supervisor about their being a problem affecting multiple users"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "JIRA can be used for issue tracking and project management. Which of the following is a way in which a JIRA can start? ",
+    "Answer": [
+      "A help desk ticket",
+      "A change request",
+      "An enhancement request",
+      "All of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "The electronic health record is not accessible for 2 hours because the vendor is performing new feature integration. Clinicians at the health system had been notified of this 2 weeks ago. Which of the following is this an example of?",
+    "Answer": [
+      "A situation warranting placement of a self-service ticket",
+      "Critical incident",
+      "Unscheduled downtime",
+      "Scheduled downtime",
+      "All of the above",
+      "None of the above"
+    ],
+    "Correct": [
+      "Scheduled downtime"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:\n\nHelp desk staff can only provide support in-person. ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is part of a JIRA ticket? ",
+    "Answer": [
+      "Description of the issue",
+      "Priority level",
+      "Ticket ID number",
+      "To whom it's been assigned",
+      "All of the above",
+      "None of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Frustrated callers are part of any customer service job. Help desk agents in Health IT often deal with unhappy or frustrated clinicians and employees. Help Desk staff need to have excellent oral communication skills because they are on the phone. Written documentation is not something that help desk staff need to worry about.   \n\nIs the last sentence true or false?  ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "A set of rules that staff should follow when a health IT system is fully or partially unavailable.",
+    "Answer": [
+      "Tiered support",
+      "Self-service tickets",
+      "Priority levels",
+      "Unscheduled downtime",
+      "Downtime procedures"
+    ],
+    "Correct": [
+      "Downtime procedures"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "The nursing staff in the ICU receive the following notification on a Tuesday morning.   \"This weekend, the medication dispensing system on the unit will be undergoing maintenance. Be sure to follow the standard procedures we have in place during the hours of 9am-11am EST on Saturday. Notification will be sent out via email once the systems are back up.\" \n\nThis is an example of:  ",
+    "Answer": [
+      "Unscheduled downtime",
+      "A critical alert",
+      "Planned downtime",
+      "IT system failure"
+    ],
+    "Correct": [
+      "Planned downtime"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  }
+]
