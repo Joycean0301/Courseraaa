@@ -2,6 +2,7 @@ import pandas as pd
 import random 
 import os
 import time
+import json
 import argparse
 
 def get_input_choice(len_answer:int,correct_answer:list):
@@ -35,7 +36,10 @@ def main(file_data_path:str,mooc_no:str):
     os.system("clear")
 
     # Read dataframe
-    df = pd.read_csv(file_data_path)
+    with open(file_data_path, 'r') as f:
+        df = json.load(f)
+
+    #df = pd.read_csv(file_data_path)
     number_of_question = len(df)
     question_list = [i for i in range(number_of_question)]
     random.shuffle(question_list)
@@ -56,11 +60,11 @@ def main(file_data_path:str,mooc_no:str):
         question_no = question_list.pop(0)
 
     # for question_no in question_list:
-        temp_row = df.iloc[question_no]  #temp row
+        temp_row = df[question_no]  #temp row
 
         question = temp_row['Question']
-        list_answer  = temp_row['Answer'].split('\n\n')   #list
-        list_correct = temp_row['Correct'].split('\n\n')  #list
+        list_answer  = temp_row['Answer']   #list
+        list_correct = temp_row['Correct']  #list
         random.shuffle(list_answer)
 
         # show question and answer
@@ -106,10 +110,10 @@ def main(file_data_path:str,mooc_no:str):
     # print log
     dff_wrong = pd.read_csv('output_folder/only-error/data.csv')
     for iii in LIST_WRONG:
-        temp_row = df.iloc[iii]  #temp row
+        temp_row = df[iii]  #temp row
         question = temp_row['Question']
-        list_answer  = temp_row['Answer'].split('\n\n')   #list
-        list_correct = temp_row['Correct'].split('\n\n') 
+        list_answer  = temp_row['Answer']   #list
+        list_correct = temp_row['Correct'] 
         print(question)
         print('-'*120)
         for i,ele in enumerate(list_answer):
@@ -125,4 +129,4 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--data',type=str,default='mooc1')
     args = parser.parse_args()
-    main(file_data_path = f'output_folder/{args.data}/data.csv',mooc_no=args.data)
+    main(file_data_path = f'output_folder/{args.data}/data.json',mooc_no=args.data)
