@@ -1,0 +1,219 @@
+[
+  {
+    "Question": "During a patient's open heart surgery, the monitor displaying the patient's blood pressure, heart rate, respiratory rate and other key values goes blank. The doctor needs those numbers in order to ensure the patient is tolerating the operation.  \n\nIs this a case where the operating room (OR) staff should make use of the self-service ticketing system to receive IT support?",
+    "Answer": [
+      "Yes, definitely",
+      "No, definitely not",
+      "Doesn't really matter either way"
+    ],
+    "Correct": [
+      "No, definitely not"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following correctly matches the tier/level of support team to the description of what they do?",
+    "Answer": [
+      "Tier 1: Resolves issues and closes tickets.\n\nTier 2: First point of contact for callers; Provides basic technical support. \n\nTier 3: Deal with more technical and complex problems.",
+      "Tier 1: First point of contact for callers; Provides basic technical support. \n\nTier 2: Resolves issues and closes tickets.\n\nTier 3: Deal with more technical and complex problems.",
+      "Tier 1: Deal with more technical and complex problems.\n\nTier 2: Resolves issues and closes tickets.\n\nTier 3: First point of contact for callers; Provides basic technical support. "
+    ],
+    "Correct": [
+      "Tier 1: First point of contact for callers; Provides basic technical support. \n\nTier 2: Resolves issues and closes tickets.\n\nTier 3: Deal with more technical and complex problems."
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "Imagine that you are working on one of the largest IT support teams at the hospital. When you were hired, they recognized your excellent customer service skills and ability to communicate well. You help resolve easier issues that are quickly handled such as general inquiries from clinicians, password recovery, website navigation, assistance, and basic procedural \"how-to\" questions. Which of the following tiers/levels best describes the team you're on?",
+    "Answer": [
+      "Tier 1",
+      "Tier 2",
+      "Tier 3"
+    ],
+    "Correct": [
+      "Tier 1"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "Imagine that you are working for a Health IT support team that handles more complex issues that require a deeper technical understanding of a product. Your team generally grants access to a system, solves PC issues, or resolves application errors. It is most likely that your team is providing which level of support?",
+    "Answer": [
+      "Tier 1 support",
+      "Tier 2 support",
+      "Tier 3 support"
+    ],
+    "Correct": [
+      "Tier 2 support"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "A front desk manager from an outpatient clinic calls and says his computer \"isn't working\". After getting his name, userID, and a good call back number, what would be a good next question to ask?",
+    "Answer": [
+      "Have you turned the computer on? ",
+      "Have you recently spilled water on your computer?",
+      "Is the printer plugged in? ",
+      "Since I don't know what's wrong with your computer, are you okay with me escalating this matter to the next level of IT support?"
+    ],
+    "Correct": [
+      "Have you turned the computer on? "
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which priority level matches the description below?\n\nHighest severity assigned where there is an extensive service disruption and customer functions are disabled. Assigned when there is a network outage, when an application is unavailable, when a platform is unavailable, or when a department’s operations are severely impacted, requiring immediate response from IT",
+    "Answer": [
+      "Priority 1",
+      "Priority 2",
+      "Priority 3"
+    ],
+    "Correct": [
+      "Priority 1"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which priority level matches the description below?\n\nNon‐critical, low‐impact Incidents, usually affecting a single customer. ",
+    "Answer": [
+      "Priority 1",
+      "Priority 2",
+      "Priority 3"
+    ],
+    "Correct": [
+      "Priority 3"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which priority level matches the description below?\n\nCritical incident where customer service is affected, and immediate response is required. Examples include: viruses, VPN issues, printers and workstations performing critical functions (either clinical or administrative) ",
+    "Answer": [
+      "Priority 1",
+      "Priority 2",
+      "Priority 3"
+    ],
+    "Correct": [
+      "Priority 2"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "An IT issue is deemed to be very time sensitive because of a network outage impacting the hospital. This type of ticket would be immediately assigned to which priority level?",
+    "Answer": [
+      "Priority 1",
+      "Priority 2",
+      "Priority 3",
+      "It doesn't matter, as long as the ticket is created it will get addressed."
+    ],
+    "Correct": [
+      "Priority 1"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:  \n\nAs a help desk agent, you always want to be asking yourself—is this a call that’s only come through for one person today? Or is this the 5th physician calling about a matter in the past half hour? ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is an example where self-service ticketing should NOT be used: ",
+    "Answer": [
+      "Clinic manager can't access the payroll system",
+      "Network outage in the intensive care unit (ICU)",
+      "Nurse unable to access her email"
+    ],
+    "Correct": [
+      "Network outage in the intensive care unit (ICU)"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "An IT issue is deemed important because a physician can't access VPN to follow-up on some of his patient's labs from that day.  This is not a matter that needs to be addressed within minutes, but should be addressed within a few hours at most. Which Priority Level would this be assigned to?",
+    "Answer": [
+      "Priority 1",
+      "Priority 2",
+      "Priority 3",
+      "It doesn't matter, as long as the ticket is created it will get addressed"
+    ],
+    "Correct": [
+      "Priority 2"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "Fill in the blank.  \n\nTier 1 IT support staff generally deal with issues that are _______ the issues Tier 3 staff help with.",
+    "Answer": [
+      "less complex than",
+      "more complex than",
+      "just as complex as ",
+      "None of the above"
+    ],
+    "Correct": [
+      "less complex than"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following Tiers of IT support would interact directly with the electronic health record (EHR) vendor to resolve a matter? ",
+    "Answer": [
+      "Tier 1",
+      "Tier 2",
+      "Tier 3",
+      "Tier 4",
+      "All of the above work with the vendor on each issue"
+    ],
+    "Correct": [
+      "Tier 4"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "While staffing a help desk, you get a frantic call from an upset user who says his computer has no display on the monitor. After asking them for their name, userID and a good call back number, what would be an appropriate next question to ask?",
+    "Answer": [
+      "Are you connected to WiFi?",
+      "Are the barcode scanners on your floor working?",
+      "Is the printer plugged in? ",
+      "Have you tried turning the monitor on?"
+    ],
+    "Correct": [
+      "Have you tried turning the monitor on?"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following are ways in which printers are used in healthcare? ",
+    "Answer": [
+      "Printing and reprinting of specimen labels",
+      "Printing off a copy of a patient's medical record",
+      "Printing off a prescription ",
+      "Printing off disability paperwork that a patient needs completed",
+      "Printing off discharge instructions to provide to a caregiver before a patient leaves the hospital ",
+      "All of the above",
+      "None of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  },
+  {
+    "Question": "As a help desk agent, when you receive a call from a clinician or regarding an issue with printing, it can be tough to pinpoint what the exact issue is. Which of the following could be the source of the issue? ",
+    "Answer": [
+      "It could be related to the printer itself",
+      "Paper jam",
+      "Problem with the computer or network",
+      "Related to the application used for printing",
+      "All of the above",
+      "None of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nModule 2 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n17 total points available.\n17 total points\n\nEnglish"
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "Question": "A doctor called the help desk because they don’t understand why they have outstanding messages instructing them to complete a history and physical note within a 48-hour window per the Department of Health and Human Services.  \n\nThe message reads that the charges cannot be dropped for this hospital visit and that the physician is holding up the billing process. He doesn’t understand why he has to stop what he’s doing to complete this step because “why does billing need my note in order to do what they need to do?” It’s the end of the month and it is critical that the institution closes out the month with the appropriate charges that have been sent to the claims company. \n\nTrue or False: Electronic Health Records are used for both clinical care delivery as well as financial and billing processes.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "The patient who previously had been admitted to the hospital with chest pain, is no longer having symptoms. He is now following up with his primary care physician in the clinic. The doctor reviews the medication list, performs an exam and talks to the patient about their hospital stay. The doctor decides to adjust the patient’s blood pressure medication and asks the patient where she should send the prescription. The patient giver the doctor the name of the pharmacy near their home and the order is then placed. The doctor then continues the visit with the patient. Rather than handing a patient a paper script, if the provider prescribes the medication in the EHR and the order gets sent electronically to the pharmacy, this is an example of: ",
+    "Answer": [
+      "Downtime",
+      "Registration",
+      "Admission",
+      "E-prescribing",
+      "A paper prescription",
+      "Scheduling"
+    ],
+    "Correct": [
+      "E-prescribing"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False: \n\nEmployees can be fired for accessing medical information non-work related reasons. ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": " A physical therapist gets hungry during an afternoon shift. They are in the midst of documenting the results of a recent patient evaluation. The vending machine is in the hallway. Which of the following should the Physical Therapist do? ",
+    "Answer": [
+      "Stay logged in and run to the vending machine so as to minimize time away from the computer.",
+      "Look around to see if the hospital floor is relatively empty. If there are only a handful of people around, it’s ok to stay logged in to the workstation while going to get a snack.",
+      "Log off the workstation before going to the vending machine, regardless of how quickly you’ll be back"
+    ],
+    "Correct": [
+      "Log off the workstation before going to the vending machine, regardless of how quickly you’ll be back"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False: \n\nIt’s impossible for an electronic health record to track the various users who log in or access data.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "When a patient is undergoing surgery for a broken bone, which of the following EHR applications is being used? ",
+    "Answer": [
+      "Operating Room",
+      "Ambulatory",
+      "Pharmacy"
+    ],
+    "Correct": [
+      "Operating Room"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "A Chief Medical Informatics Officer (CMIO) has been in discussions with several members of the board of trustees of a major healthcare system They performed a readiness assessment to determine if they were ready to migrate to the use of an electronic health record (EHR). For many years, the health system has been relying on a legacy EHR that was designed by their internal IT team.  \n\nThey’ve been reviewing multiple vendors and are trying to decide which one to use. They want to be sure that they can practice interoperability amongst multiple third-party systems. They ask you to remind them what the 2 largest and most commonly used EHR vendors are. Based upon your knowledge of what we’ve covered in the lecture, which of the following would be correct? ",
+    "Answer": [
+      "Epic and Cerner",
+      "Cerner and Johns Hopkins",
+      "Microsoft and Google",
+      "Cerner and Google",
+      "Epic and Google",
+      "Cerner and Microsoft",
+      "Epic and Johns Hopkins"
+    ],
+    "Correct": [
+      "Epic and Cerner"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "When working with clinical staff at a healthcare organization, what is a common virtualization software that many sites may use? ",
+    "Answer": [
+      "Salesforce",
+      "Google Analytics",
+      "Citrix",
+      "Analytics"
+    ],
+    "Correct": [
+      "Citrix"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False:\n\nMultiple teams need to work together prior to the education team creating material to present to end users.",
+    "Answer": [
+      "True",
+      "Flase"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "A physician calls the help desk because they are not able to access the ambulatory EHR application. The physician is entering their username and password but getting an error. Sounds like you will need to assist them with which of the following during the call?",
+    "Answer": [
+      "fixing a lab order",
+      "scheduling",
+      "conducting a telemedicine visit",
+      "login procedures",
+      "billing for a visit"
+    ],
+    "Correct": [
+      "login procedures"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False:\n\nOnce a provider has placed an order for a chest x-ray, there is no way for the IT support team to help them fix the order if a mistake was made. ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "You receive 4 calls in a row from providers in the same building who are no longer able to access the EHR. Which of the following should you instruct the clinicians to do? ",
+    "Answer": [
+      "Panic",
+      "Call back in 2 hours if the issue is still occurring",
+      "Bring their computers to the technology center so you can figure out what's going on",
+      "Utilize downtime procedures while the EHR isn’t accessible"
+    ],
+    "Correct": [
+      "Utilize downtime procedures while the EHR isn’t accessible"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False: \n\nClinical Decision Support tools are used to help patients determine which clinician will see them next.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "What issue would a clinician run into when they see the patient if the front desk staff didn’t schedule the appointment appropriately? ",
+    "Answer": [
+      "The patient wouldn’t be able to be checked in because the appointment type is wrong ",
+      "They may not see the patient’s appointment ",
+      "The patient may not show up on the list of appointments ",
+      "All of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False:\n\nA doctor calls you because they want to “turn off” the alerts that keeping firing on the inpatient floor. You speak to the provider and determine that you have the authority as a help desk agent to stop the message from firing.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "A 67-year-old patient was recently seen in the emergency department for vertigo, or dizziness. After the patient underwent multiple tests and examinations, the ER doctor told the patient that they needed to follow up with their primary care physician by scheduling an appointment in the upcoming week. The patient also has this information in the summary of their visit and will schedule the ambulatory visit tomorrow.  \n\nIf a patient is being scheduled for an ambulatory visit, what does that mean? ",
+    "Answer": [
+      "An e-prescription has been sent to their pharmacy ",
+      "The patient is going to go to the emergency room",
+      "The patient is going to have an outpatient visit",
+      "The patient is being admitted to the hospital  ",
+      "The patient will be picked up by an ambulance"
+    ],
+    "Correct": [
+      "The patient is going to have an outpatient visit"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "A pharmacist calls to the IT help desk because of an issue in “verifying” a medication order. This is a common situation that pharmacists deal with where there’s a technical issue with the way the drug was ordered so it gets “stuck” in the verification process. This means the pharmacist can’t dispense the drug until they receive help from the IT support staff. This is the type of issue where a ticket needs to be routed the specific EMR application team dedicated to what type of application? ",
+    "Answer": [
+      "Emergency Room",
+      "Operating Room",
+      "Pharmacy",
+      "Ambulatory"
+    ],
+    "Correct": [
+      "Pharmacy"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "Which of the following is true about a Vendor Neutral Archive (VNA)?",
+    "Answer": [
+      "It’s a technology used in medical imaging",
+      "It means that images and documents are stored in a standard format with a standard interface",
+      "Images and documents can be accessed by other systems, regardless of the vendor that created those other systems",
+      "All of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "A nurse calls the help desk because she can’t login to the medical record. She explains that she was using the password for her email address rather than the password for her EHR login. She entered the wrong password several times and says she now isn’t being given an option to log-in. What might have happened? ",
+    "Answer": [
+      "She might be using the wrong computer",
+      "She pressed the keys on the keyboard so hard they could have jammed ",
+      "She has gotten locked out after multiple incorrect attempts",
+      "Nurses generally don’t have accessing to EHRs, since it’s only a tool that physicians use for documentation. "
+    ],
+    "Correct": [
+      "She has gotten locked out after multiple incorrect attempts"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "An interventional cardiologist is setting up his password for the electronic health record (EHR) that he’ll be using. He’s a very busy clinician dealing with the most critical patients who have had a heart attack. The work he does is a matter of life and death and it’s important for him to stay focused on his work without needing to memorize extraneous details. Despite all of this, he should avoid choosing a simple password that’s easy to remember like “password1”.\n\nIs the last sentence true or false? ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "Which of the following is true about credentialing? ",
+    "Answer": [
+      "It is an individual level review of an end user that determines what login they will be assigned based on the role they play ",
+      "It’s not necessary in healthcare",
+      "It doesn’t have an impact on the job role that is assigned to a clinician. Since all clinicians, regardless of where they work and their level of training have the same level of access to the EHR.",
+      "All of the above"
+    ],
+    "Correct": [
+      "It is an individual level review of an end user that determines what login they will be assigned based on the role they play "
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "Which of the following is incorrect about multi-factor authentication?",
+    "Answer": [
+      "It is used in healthcare as well as other industries like banking.",
+      "It makes it harder for hackers to access medical records for evil purposes",
+      "Decreases unauthorized access to health IT application",
+      "Grants access to a user only after just 1 piece of evidence about their identity have been provided"
+    ],
+    "Correct": [
+      "Grants access to a user only after just 1 piece of evidence about their identity have been provided"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "A social worker is accessing her health system email via the unit workstation. She enters in her user ID and password. She is then taken to a screen where she needs to click on another button. She then receives a separate login code on her smartphone. She gets distracted by a question from the charge nurse on the floor. Once she’s done with the conversation, she proceeds with entering the login code that she’d received on her smartphone. However, she is not able to access her health system email account.  \n\nShe calls the help desk. What would you tell her? ",
+    "Answer": [
+      "\"The window of time for using the original login code ran out. Please go ahead and request another login code, which will be sent to your smartphone.” ",
+      "\"I am pleased to inform you that we’ll be able to resolve this matter quickly. What I’ll need to do is reset your password.”",
+      "“I’m sorry this has happened. Once you receive a login code on your smartphone, it should be valid for weeks at a time. I’ll need to escalate this issue.”",
+      "“I am happy to help you. Go ahead and think of your 5 favorite numbers and enter them in as the login code.\"",
+      "\"Unfortunately, the best way to resolve this will be for you to get a new smartphone. I’m happy to send you information on ordering equipment from the technology solutions center.” "
+    ],
+    "Correct": [
+      "\"The window of time for using the original login code ran out. Please go ahead and request another login code, which will be sent to your smartphone.” "
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "Which of the following is the definition of phishing?  ",
+    "Answer": [
+      "It’s when a clinical end-user can’t login to the EHR and they call the help desk",
+      "It’s the same as multi-factor authentication",
+      "It’s an example of clinical decision support",
+      "It’s the act of sending a user an email in order to scam them into providing private information",
+      "It’s a step that takes place when credentialing a provider"
+    ],
+    "Correct": [
+      "It’s the act of sending a user an email in order to scam them into providing private information"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "A super-user sits next to a newly hired nurse to help orient her to the electronic health record. As the new nurse is documenting the vitals signs for the patient, the super-user goes over some useful tips around navigating the EHR and entering data into the nursing flowsheets. This is an example of:",
+    "Answer": [
+      "On-site Training",
+      "Phishing",
+      "Remote Training",
+      "Something that is unnecessary. Since most applications in healthcare are quite intuitive. "
+    ],
+    "Correct": [
+      "On-site Training"
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "A physician receives a call about a patient who has been admitted to the hospital. He looks up the patient’s lab results by remotely logging into the electronic health record from using Citrix. This type of software allows for access to the same desktop user interface that the physician is used to using in the hospital. ",
+    "Answer": [
+      "Virtualization ",
+      "Scheduling",
+      "Training",
+      "None of the above—it's not possible to access electronic health record data from anywhere other than a hospital or clinic"
+    ],
+    "Correct": [
+      "Virtualization "
+    ],
+    "Title": "Back\nEnd of Course Quiz\n\nGraded Quiz\n.\n • 45 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  }
+]

@@ -1,0 +1,365 @@
+[
+  {
+    "Question": "Take a look at the following image and then read the scenario below.  \n\nAs a help desk agent at a large hospital, you receive a call from a nurse who is frantic. She needs to give a patient a blood transfusion. The patient has arrived with a wristband and the nurse is very concerned about the wristband. “There are 4 barcodes on the wristband!!! I think a mistake has been made! What do I do? Do I need to get the patient a new wristband? I have to scan the wristband for proper identification before proceeding with the blood transfusion. Help!”   \n\n Which of the following would be a correct response to the nurse?",
+    "Answer": [
+      "“You’re correct to be concerned. I’ve never seen this type of issue before. Very strange. Let me escalate the matter to the Tier 2 support staff so they can help you.”",
+      "“Hmmm, it looks like a mistake in the printing. Has the printer been functioning properly for other admitted patients? When is the last time another patient had this issue?”",
+      "“I can see that you're concerned, but this nothing to worry about. Those are 4 copies of the same barcode image. They are intentionally placed on the patient’s wristband, so that based on the position of the patient, any one of them can be scanned easily.”",
+      "“I think you should take the wristband off the patient immediately. Let me see what I can do to get the patient a new wristband that only has 1 barcode on it.”",
+      "“What are you talking about? Did you not receive training on proper barcode scanning and use of patient wristbands? How long have you been in this role?”"
+    ],
+    "Correct": [
+      "“I can see that you're concerned, but this nothing to worry about. Those are 4 copies of the same barcode image. They are intentionally placed on the patient’s wristband, so that based on the position of the patient, any one of them can be scanned easily.”"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "A 32-year-old patient with diabetes has a smart glucometer that transmits his blood sugar levels to a cloud- based platform. His primary care physician is able to routinely track the blood sugar levels and make adjustments to the patient's medications if the sugar levels are getting too high.  \n\nWhich of the following is this an example of?",
+    "Answer": [
+      "synchronous telemedicine",
+      "remote patient monitoring",
+      "barcode scanning",
+      "unscheduled downtime",
+      "self-service ticketing",
+      "none of the above--the type of technology described in the scenario doesn't exist"
+    ],
+    "Correct": [
+      "remote patient monitoring"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False: \n\nA network enables computers to share data, information, and resources",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "What does LAN stand for?",
+    "Answer": [
+      "Linear Algebra Network",
+      "Logical Area Nests",
+      "Local Area Network",
+      "Local Agency Net"
+    ],
+    "Correct": [
+      "Local Area Network"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "As a help desk agent, when you receive a call from a clinician or regarding an issue with printing, it can be tough to pinpoint what the exact issue is. Which of the following could be the source of the issue?",
+    "Answer": [
+      "It could be related to the printer itself",
+      "Paper jam",
+      "Problem with the computer or network",
+      "Related to the application used for printing",
+      "All of the above",
+      "None of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False: \n\nFiles cannot be shared between users on a network.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "An IT issue is deemed to be very time sensitive because of a network outage impacting the hospital. This type of ticket would be immediately assigned to which priority level?",
+    "Answer": [
+      "Priority 1",
+      "Priority 2",
+      "Priority 3",
+      "Any of these priorities would be appropriate"
+    ],
+    "Correct": [
+      "Priority 1"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "Dr. Smith is an eye doctor who is contacted by the emergency room (ER) because of a patient who has come in with eye pain. Dr. Smith is at home, but explains to the ER physician how they can use a special ophthalmoscope to examine the patient. And the images will then be transmitted in real time to Dr. Smith. The ophthalmoscope used in this scenario would be classified as:",
+    "Answer": [
+      "a peripheral",
+      "an end point",
+      "remote patient monitoring",
+      "store and forward"
+    ],
+    "Correct": [
+      "a peripheral"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following Tiers of IT support would interact directly with the electronic health record (EHR) vendor to resolve a matter? ",
+    "Answer": [
+      "Tier 1",
+      "Tier 2",
+      "Tier 3",
+      "Tier 4",
+      "All of the above work with the vendor on each issue"
+    ],
+    "Correct": [
+      "Tier 4"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "A 45-year-old female with poorly controlled type 2 diabetes and an elevated hemoglobin A1c of 10.2 presents to her primary care physician (PCP) for a routine check-up. She explains to her provider that over the past week she's had increased numbness and tingling in her toes. She even fell at home 2 days ago and got a cut on her forehead. She went to the Emergency Room at the time and had to get stitches. \n\nDuring the current appointment, the primary care provider explains to the patient that she is overdue for her diabetic retinopathy screening. The patient agrees to partake in a new screening program where images of her retina are taken in the PCPs office and transmitted to a reading center staffed by ophthalmologists. At the reading center, a team of image readers under supervision perform image grading, image reading with recommendations, and results reporting. \n\nIn the scenario above, which of the following is the originating site?",
+    "Answer": [
+      "The PCP's clinic",
+      "The patient's home",
+      "The emergency room",
+      "Unclear from the scenario",
+      "The reading center"
+    ],
+    "Correct": [
+      "The PCP's clinic"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False: \n\nHigh reliability organizations in healthcare are ones that promote a culture of safety.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is the definition of a sentinel event?",
+    "Answer": [
+      "A nurse administering a routine oral medication for a patient and then documenting it in the electronic health record",
+      "An instance where a lab technician can't access their personal email because of a network outage",
+      "Use of a barcode scanner on a patient's wristband to achieve positive identification",
+      "A planned downtime where the EHR is not available and clinicians follow downtime procedures",
+      "A patient safety event that leads to harm or death",
+      "All of the above are examples of sentinel events"
+    ],
+    "Correct": [
+      "A patient safety event that leads to harm or death"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False: \n\nA LAN can connect computers in a small area such as a clinic or lab.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False: \n\nA phlebotomist (person who draws blood from patients) scanning a patient's wristband for purposes of positive patient identification before drawing the patient’s blood is an example of patient safety being promoted.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is an example of a URL?",
+    "Answer": [
+      "https://www.google.com",
+      "James Jones",
+      "123-445-78-91",
+      "testuser12389gmail.com",
+      "123.456.78.67"
+    ],
+    "Correct": [
+      "https://www.google.com"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following refers to a number that is assigned to devices that connect to a network and use the Internet for communication?",
+    "Answer": [
+      "Asynchronous telemedicine session",
+      "Application Programming Interface (or API)",
+      "Assigned ticket",
+      "Electronic Health record",
+      "Internet protocol address or IP address"
+    ],
+    "Correct": [
+      "Internet protocol address or IP address"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False: \n\nHigh reliability organizations can be found in healthcare as well as other industries",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "A busy surgeon performs an amputation of a patient's leg. Following the surgery, it becomes clear to the clinical team that the left leg was amputated, but that had been the healthy one. The patient was supposed to have their right leg amputated. Which of the following is a true statement?",
+    "Answer": [
+      "This is an example of a medication error",
+      "This is an example of unscheduled downtime",
+      "This is an example of the proper use of checklists",
+      "This is an example of positive patient identification",
+      "This is an example of a sentinel event",
+      "This is a situation where placing a self-service ticket would be appropriate",
+      "This is a situation that needs to be handled by Tier 3 IT support team",
+      "All of the above"
+    ],
+    "Correct": [
+      "This is an example of a sentinel event"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False: \n\nHealth IT plays an important role in promoting patient safety, even though it can also lead to patient safety issues.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "What does URL stand for?",
+    "Answer": [
+      "Unknown Resource Location",
+      "Uniform Right Language",
+      "Uniform Resource Locator",
+      "Unknown Restricted Line"
+    ],
+    "Correct": [
+      "Uniform Resource Locator"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is an example of a sentinel event?",
+    "Answer": [
+      "Medication given to the wrong patient leading to a stroke and paralysis",
+      "Wrong site surgery on a patient who was supposed to have their right arm amputated",
+      "A fall in the hospital that could have been prevented, which led to a coma",
+      "All of the above",
+      "None of the above are examples of sentinel events"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False: \n\nAs a help desk agent, it doesn’t matter if an issue has been brought up by only 1 physician today or by 5 physicians in a row. Tracking these kinds of patterns isn’t your problem. Someone else should be paying attention to that.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following is an example where self-service ticketing should NOT be used:",
+    "Answer": [
+      "Nurse unable to access her email",
+      "Clinic manager can't access the payroll system",
+      "Network outage in the intensive care unit (ICU)"
+    ],
+    "Correct": [
+      "Network outage in the intensive care unit (ICU)"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "An IT issue is deemed important because a physician can't access VPN to follow-up on some of his patient's labs from that day.  This is not a matter that needs to be addressed within minutes, but should be addressed within a few hours at most. Which Priority Level would this be assigned to?",
+    "Answer": [
+      "Priority 1",
+      "Priority 2",
+      "Priority 3",
+      "It doesn't matter, as long as the ticket is created it will get addressed"
+    ],
+    "Correct": [
+      "Priority 2"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "Fill in the blank. \n\nTier 1 IT support staff generally deal with issues that are _______  the issues Tier 3 staff help with.",
+    "Answer": [
+      "more complex than",
+      "just as complex as",
+      "none of the above",
+      "less complex than"
+    ],
+    "Correct": [
+      "less complex than"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "While staffing a help desk, you get a frantic call from an upset user who says his computer has no display on the monitor. After asking them for their name, userID and a good call back number, what would be an appropriate next question to ask?",
+    "Answer": [
+      "Are the barcode scanners on your floor working?",
+      "Are you connected to WiFi?",
+      "Is the printer plugged in?",
+      "Have you tried turning the monitor on?"
+    ],
+    "Correct": [
+      "Have you tried turning the monitor on?"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False: \n\nA Wireless LAN (WLAN) needs to have cables in order to connect to different devices.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  },
+  {
+    "Question": "It’s your 2nd week as an IT support specialist at a health system in New York City. You’re contacted by an office manager for an outpatient clinic because the primary care physicians in her practice are not able to print out prescriptions for their patients. After asking for her full name, userID and a good call back number, you proceed with troubleshooting the issue. She says that the HP Photosmart C420 printer was working fine yesterday. She confirms that the printer is plugged in. She also explains that there’s paper in the printer and no error message. You ask her to go to her settings and to pull up the Printer application. This is what she sees. Which of the following would be an appropriate response?",
+    "Answer": [
+      "“This is odd. It looks like the correct printer has been selected, so I don’t think that’s the issue. Let’s see it’s a driver compatibility issue.”",
+      "“This is pretty surprising that your clinic isn’t making use of e-prescribing. I don’t understand why you would still be printing out prescriptions and handing them to patients.”",
+      "“Unfortunately, I don’t think there’s anything we can do at this time. Since it’s likely a matter of ordering a new printer for the clinic. We have several options in the technology store. Would you like me to share the website with you?”",
+      "“Ah, I see what’s going on. It looks like you are low on toner. Whenever that happens, it’s important to replace the print cartridge. I’m happy to go through the steps involved with that if you’d like.”",
+      "“Do not worry, we should be able to resolve this quickly for you. It appears that the printer you’d like to be printing to is offline. So the prescriptions have been printing to a printer elsewhere. I’ll walk you through selecting the correct printer, but also recommend that you go to the other printer to find the prescriptions so that protected health information isn’t shared with individuals who don’t need to have access to it.”",
+      "“Sounds like a paper jam. What you need to do is resolve that, and then you should see the prescriptions printing out properly. I’m happy to walk you through the steps involved in fixing this matter. It can generally result from a misfeed and if the paper appears crumpled, we’ll need to carefully remove all of it. Then we’ll be able to test things again to see if the prescriptions are printing properly.”"
+    ],
+    "Correct": [
+      "“Ah, I see what’s going on. It looks like you are low on toner. Whenever that happens, it’s important to replace the print cartridge. I’m happy to go through the steps involved with that if you’d like.”"
+    ],
+    "Title": "Back\nModule 4 End of Course Quiz\n\nEnd of Course Quiz\n.\n • 30 min\n.\n • \n28 total points available.\n28 total points\n\nEnglish"
+  }
+]

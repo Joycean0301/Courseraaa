@@ -1,0 +1,89 @@
+[
+  {
+    "Question": "True or False:\n\nClinical Decision Support tools are used to help patients determine which clinician will see them next.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n7 total points available.\n7 total points\n\nEnglish"
+  },
+  {
+    "Question": "A database server is a software product that enables the storing and retrieving of _______? (Fill in the blank.)",
+    "Answer": [
+      "viruses",
+      "physicians",
+      "data",
+      "Electronic Health Records"
+    ],
+    "Correct": [
+      "data"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n7 total points available.\n7 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:\n\nA doctor calls you because they want to “turn off” the alerts that keeping firing on the inpatient floor. You speak to the provider and determine that you have the authority as a help desk agent to stop the message from firing.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n7 total points available.\n7 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is Structured Query Language (SQL)?",
+    "Answer": [
+      "Programming language for getting information from a database",
+      "asynchronous telemedicine",
+      "type of computer",
+      "Another way of describing a website",
+      "Another term for EHR"
+    ],
+    "Correct": [
+      "Programming language for getting information from a database"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n7 total points available.\n7 total points\n\nEnglish"
+  },
+  {
+    "Question": "A _______ is a structured set of data that can be is accessed in a variety of ways. (Fill in the blank.)",
+    "Answer": [
+      "Computer",
+      "Desktop computer",
+      "File folder",
+      "Database"
+    ],
+    "Correct": [
+      "Database"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n7 total points available.\n7 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False: \n\nEHR interfaces enable a connection between different systems so that data can be sent and received.  ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n7 total points available.\n7 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following terms is defined as \"Verifying the identity of a user before allowing them to access a health information system.\"",
+    "Answer": [
+      "Training",
+      "User",
+      "Password",
+      "Authentication",
+      "Login code"
+    ],
+    "Correct": [
+      "Authentication"
+    ],
+    "Title": "Back\nModule 3 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n7 total points available.\n7 total points\n\nEnglish"
+  }
+]

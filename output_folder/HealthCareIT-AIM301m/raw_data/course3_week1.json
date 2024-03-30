@@ -1,0 +1,163 @@
+[
+  {
+    "Question": "True or False:  \n\nWireless LAN (WLAN) refers to a local area network that does not need cables to connect different devices.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n13 total points available.\n13 total points\n\nEnglish"
+  },
+  {
+    "Question": "You see the following job ad.  \n\n“Do you love providing outstanding customer service and resolving tier 1 technical issues? Are you excited about a work from home opportunity with a virtual call center? Is being a part of a growing, dynamic and diverse team a priority? If you answered yes to these questions, this is your opportunity! We have a robust online platform that allows patients to easily view their upcoming appointments, test results, and invoices. Patients may also be able to schedule new appointments, pay their outstanding invoices, message their physicians and request electronic visits, as well as many other features. As a Help Desk Agent for this tool, you will assist users with questions regarding navigation through the application, advise patients on what options are available in the application, assist with account activation and username or password issues. As an agent, you will also research and troubleshoot complex situations.”  \n\nWhat kind of technology does it appear you’ll primarily be supporting if in this role? ",
+    "Answer": [
+      "Printers",
+      "Patient portals",
+      "Electronic Health Records",
+      "Barcode Scanners",
+      "Malware",
+      "Telemedicine"
+    ],
+    "Correct": [
+      "Patient portals"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n13 total points available.\n13 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False  \n\nMedical devices are intended for use in the diagnosis of disease or other conditions.  ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n13 total points available.\n13 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is an IP address? ",
+    "Answer": [
+      "The business address of the company that provides internet access to a region.",
+      "The home address of the person logging on to a website.",
+      "A distinct number associated with every system connected to a network. Made of 4 parts with dots in between An example would be: 124.467.84.24."
+    ],
+    "Correct": [
+      "A distinct number associated with every system connected to a network. Made of 4 parts with dots in between An example would be: 124.467.84.24."
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n13 total points available.\n13 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False \n\nMAC address means Media Access Control address.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n13 total points available.\n13 total points\n\nEnglish"
+  },
+  {
+    "Question": "A 68-year-old female with a history of obesity, diabetes, and elevated cholesterol is brought in by ambulance to the emergency room because of lightheadedness and chest pain. In the ER, an electrocardiogram indicates that she has an irregular heartbeat. This appears to be consistent with atrial fibrillation. However, the ER is in a rural area and is staffed only by mid-level providers over the Christmas holidays. There are no Cardiologists who can be consulted, but thanks to a state-wide initiative to promote telemedicine, there is a pilot underway. One of the ER staff members logs into the portal that has been provided by a telemedicine vendor the state has contracted with. She is able to speak with a licensed and credentialed Cardiologist who requests that she place a digital stethoscope on the patient's heart.   \n\nWhich of the following terms can be used to describe the digital stethoscope?  ",
+    "Answer": [
+      "Store and forward technology",
+      "End point",
+      "Asynchronous Communication",
+      "Peripheral"
+    ],
+    "Correct": [
+      "Peripheral"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n13 total points available.\n13 total points\n\nEnglish"
+  },
+  {
+    "Question": "What does \"URL\" stand for?",
+    "Answer": [
+      "Uniform Resource Locator",
+      "Unknown Resource Location",
+      "Uniform Right Language",
+      "Unknown Restricted Line"
+    ],
+    "Correct": [
+      "Uniform Resource Locator"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n13 total points available.\n13 total points\n\nEnglish"
+  },
+  {
+    "Question": "Fill in the blank.  \n\nAn __________ is a numerical label assigned to each device connected to a computer network that uses the Internet for communication.  ",
+    "Answer": [
+      "Asynchronous telemedicine session",
+      "Electronic Health Record",
+      "Application Programming Interface (or API)",
+      "Assigned ticket",
+      "Internet protocol address or IP address"
+    ],
+    "Correct": [
+      "Internet protocol address or IP address"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n13 total points available.\n13 total points\n\nEnglish"
+  },
+  {
+    "Question": "A 32-year-old patient with diabetes has a smart glucometer that transmits his blood sugar levels to a cloud-based platform. His primary care physician is able to routinely track the blood sugar levels and make adjustments to the patient's medications if the sugar levels are getting too high.  \n\n Which of the following is this an example of? ",
+    "Answer": [
+      "Synchronous telemedicine",
+      "Remote patient monitoring",
+      "Barcode scanning",
+      "Unscheduled downtime",
+      "Self-service ticketing",
+      "None of the above--the type of technology described in the scenario doesn't exist"
+    ],
+    "Correct": [
+      "Remote patient monitoring"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n13 total points available.\n13 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False:   \n\nA network enables computers to share data, information, and resources.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n13 total points available.\n13 total points\n\nEnglish"
+  },
+  {
+    "Question": "What does \"LAN\" stand for?",
+    "Answer": [
+      "Logical area nests",
+      "Local agency nets",
+      "Linear algebra network",
+      "Local area network"
+    ],
+    "Correct": [
+      "Local area network"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n13 total points available.\n13 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False \n\nA LAN can connect computers in a small area such as a clinic or lab.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n13 total points available.\n13 total points\n\nEnglish"
+  },
+  {
+    "Question": "True or False \n\nFiles cannot be shared between users on a network.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 1 Practice Quiz\n\nPractice Quiz\n.\n • 30 min\n.\n • \n13 total points available.\n13 total points\n\nEnglish"
+  }
+]
