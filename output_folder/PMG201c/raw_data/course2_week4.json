@@ -1,0 +1,128 @@
+[
+  {
+    "Question": "When you schedule work in a specific order because it cannot be completed any other way this is what type of dependency?",
+    "Answer": [
+      "External",
+      "Discretionary",
+      "Mandatory",
+      "Internal"
+    ],
+    "Correct": [
+      "Mandatory"
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False: If develop online modules must be 100% completed before review online modules can begin, that is called a finish to start relationship.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+  },
+  {
+    "Question": "If develop online modules needs to finish before review online modules can finish, that is called a:",
+    "Answer": [
+      "Start to finish relationship.",
+      "Finish to start relationship.",
+      "Finish to finish relationship.",
+      "Start to start relationship."
+    ],
+    "Correct": [
+      "Finish to finish relationship."
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+  },
+  {
+    "Question": "To calculate early start (ES) and early finish (EF) perform a:",
+    "Answer": [
+      "Backward pass",
+      "Critical pass",
+      "Forward pass",
+      "Lateral pass"
+    ],
+    "Correct": [
+      "Forward pass"
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False: The critical path is the shortest path through the network and represents the work that can be delayed without delaying the end of the project.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+  },
+  {
+    "Question": "The network diagram is the best tool for demonstrating:",
+    "Answer": [
+      "Schedule variances",
+      "The sequence of project activities",
+      "Resource requirements",
+      "Schedule performance over time"
+    ],
+    "Correct": [
+      "The sequence of project activities"
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+  },
+  {
+    "Question": "All of the following are inputs to estimating activity durations except:",
+    "Answer": [
+      "Resource calendars and scope statement",
+      "Requirements specifications",
+      "Activity list and activity attributes",
+      "Organizational process assets"
+    ],
+    "Correct": [
+      "Requirements specifications"
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+  },
+  {
+    "Question": "In a project schedule, the sequence of activities which cannot be delayed during the course of the project without extending the project end date is referred to as the:",
+    "Answer": [
+      "Schedule baseline",
+      "Critical path",
+      "Slack line",
+      "Action plan"
+    ],
+    "Correct": [
+      "Critical path"
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+  },
+  {
+    "Question": "A significant event in a project that may indicate completion of a major phase is a/an:",
+    "Answer": [
+      "Activity",
+      "Deliverable",
+      "Work package",
+      "Milestone"
+    ],
+    "Correct": [
+      "Milestone"
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+  },
+  {
+    "Question": "Once the logic of a network is laid out, the project manager will conduct a forward pass and a backward pass through the network. This will provide information regarding ______ and will identify the________.",
+    "Answer": [
+      "The high risk activities, non-critical path",
+      "The slack for each activity, high risk activities",
+      "Resource shortages, high risk activities",
+      "The total duration of the project, critical path"
+    ],
+    "Correct": [
+      "The total duration of the project, critical path"
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "Question": "An estimate created by looking at a similar project or activity and then adding or subtracting to or from the estimate based on the differences between the two is called:",
+    "Answer": [
+      "Bottoms up estimating",
+      "Parametric estimating",
+      "Analogous estimating",
+      "Exact estimating"
+    ],
+    "Correct": [
+      "Analogous estimating"
+    ],
+    "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+  },
+  {
+    "Question": "When you have good historical information which can be used in a reliable formula or model, you will probably use:",
+    "Answer": [
+      "Parametric estimating",
+      "Analogous estimating",
+      "Exact estimating",
+      "Bottoms up estimating"
+    ],
+    "Correct": [
+      "Parametric estimating"
+    ],
+    "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False: When you are concerned that your estimates might not be correct, especially if you think they are too low, you should pad the estimate and add extra.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+  },
+  {
+    "Question": "Which one of these most correctly defines management reserve?",
+    "Answer": [
+      "Per our lesson, management reserve and contingency are exactly the same.",
+      "Management reserve is tied to specific work packages.",
+      "Management reserve is tied to a specific milestone or event.",
+      "Management reserve is not tied to specific work packages it is for the entire project."
+    ],
+    "Correct": [
+      "Management reserve is not tied to specific work packages it is for the entire project."
+    ],
+    "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+  },
+  {
+    "Question": "You are preparing an estimate of the cost for an IT system expansion for a new branch office location. It is a very similar to the IT system expansion undertaken for a branch office that opened six months ago. Which technique might you use if you are pushed for a quick estimate?",
+    "Answer": [
+      "Analogous",
+      "Bottoms up",
+      "Parametric",
+      "Probabilistic"
+    ],
+    "Correct": [
+      "Analogous"
+    ],
+    "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+  },
+  {
+    "Question": "You are building an apartment complex with four, 10,000 square foot buildings based on the same drawings you used in another city two years ago. What is the danger of estimating using the same parametric model of $50 per square foot?",
+    "Answer": [
+      "It will take much more time than a bottoms up estimating.",
+      "It’s not very easy to scale.",
+      "Historical cost relationships may no longer be applicable.",
+      "The technical design is unstable."
+    ],
+    "Correct": [
+      "Historical cost relationships may no longer be applicable."
+    ],
+    "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+  },
+  {
+    "Question": "What description defines Bottoms Up Estimating?",
+    "Answer": [
+      "A technique that analyzes activities on past projects and using them as a basis for estimating costs.",
+      "A technique that uses a mathematical model to estimate costs.",
+      "A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail.  "
+    ],
+    "Correct": [
+      "A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail.  "
+    ],
+    "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False: The Project Budget is equal to only the cost baseline budget.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False: The S-Curve depicts the relationship between the cost baseline budget and the schedule because it shows the planned cost baseline budget across the planned project timeline.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+  },
+  {
+    "Question": "Earned value management integrates scope, cost, and schedule measures to:",
+    "Answer": [
+      "develop a preliminary budget.",
+      "assess communication effectiveness among project team members.",
+      "assess whether all requirements were met. ",
+      "assess project performance and progress."
+    ],
+    "Correct": [
+      "assess project performance and progress."
+    ],
+    "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+  }
+]
