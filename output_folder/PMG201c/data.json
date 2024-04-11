@@ -1,0 +1,1396 @@
+[
+    {
+        "Question": "True or False: A Project is defined as being unique and temporary, with an undefined start and finish.  ",
+        "Answer": [
+            "False",
+            "True"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "We discussed three types of matrix organizations, they are:",
+        "Answer": [
+            "Weak, Medium Strength and Strong",
+            "Light, Mid-strength and Strong",
+            "Light, Medium and Heavy",
+            "Weak, Balanced and Strong"
+        ],
+        "Correct": [
+            "Weak, Balanced and Strong"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "In a projectized organization:",
+        "Answer": [
+            "A project manager is not assigned to the team.",
+            "Team members are never assigned to the project full time.",
+            "The functional manager has all of the power.",
+            "The project manager acts as manager of the team."
+        ],
+        "Correct": [
+            "The project manager acts as manager of the team."
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: The best organization to use to run a project will always be the projectized organization.",
+        "Answer": [
+            "False",
+            "True"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "The five project management process groups as described in the PMBOK\u00ae Guide and discussed in the preceding lesson are:",
+        "Answer": [
+            "Define, measure, analyze, improve, control",
+            "Kickoff, requirements, plan, schedule, control",
+            "Requirements, design, development, testing, implementation",
+            "Initiating, planning, executing, monitoring and controlling, closing"
+        ],
+        "Correct": [
+            "Initiating, planning, executing, monitoring and controlling, closing"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "The three components of the triple constraint are:",
+        "Answer": [
+            "Scope, Performance, Time",
+            "Scope, Performance, Cost",
+            "Scope, Quality, Cost",
+            "Scope, Cost, Time"
+        ],
+        "Correct": [
+            "Scope, Cost, Time"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "You have finished planning and have begun executing the project when the client asks if you would add some important features to the product of the project. How are the triple constraints affected?",
+        "Answer": [
+            "Adding features will require additional cost but not time",
+            "Cost must remain constant because resources are limited",
+            "Time and cost may both be affected",
+            "Scope and quality would be affected but not cost"
+        ],
+        "Correct": [
+            "Time and cost may both be affected"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "The primary role of the project manager is:",
+        "Answer": [
+            "Project initiation",
+            "Distributing work packages",
+            "Measuring performance",
+            "Communication"
+        ],
+        "Correct": [
+            "Communication"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "As discussed in the preceding lesson, The PMBOK\u00ae Guide knowledge areas that have processes in the Initiating process group are:",
+        "Answer": [
+            "Project Integration Management and Project Stakeholder Management",
+            "Project Integration Management and Project Time Management",
+            "Project Integration Management and Project Quality Management",
+            "Project Integration Management and Project Scope Management"
+        ],
+        "Correct": [
+            "Project Integration Management and Project Stakeholder Management"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "As discussed in the preceding lesson, The PMBOK\u00ae Guide describes 10 Project Management Knowledge Areas.  Identify 3 out of the 10:",
+        "Answer": [
+            "Contracts, Process, Risk",
+            "Cost, Scope, Time",
+            "Cost, Integration, Process",
+            "Quality, Process, Scope"
+        ],
+        "Correct": [
+            "Cost, Scope, Time"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "The definition of a stakeholder includes:",
+        "Answer": [
+            "People who are impacted by your project, but not organizations impacted by your project.",
+            "People and organizations that are not impacted by your project.",
+            "The people or organizations that are positively or negatively impacted by your project.",
+            "Organizations impacted by your project but not people, they are all part of the impacted organizations."
+        ],
+        "Correct": [
+            "The people or organizations that are positively or negatively impacted by your project."
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: If you are not certain who your stakeholders are, asking who will use the product or service being created can be helpful.",
+        "Answer": [
+            "False",
+            "True"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "If a stakeholder has high interest and high power then as the project manager you:",
+        "Answer": [
+            "Can ignore them, they are as you need them to be.",
+            "Can try to move them to be high interest and low power so they do not get in your way.",
+            "Focus your time and attention on them, they are very impactful to your project and you want to keep them engaged and positive.",
+            "Can try to move them to be low interest and low power so that they do not take up too much of your time."
+        ],
+        "Correct": [
+            "Focus your time and attention on them, they are very impactful to your project and you want to keep them engaged and positive."
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "You just came from a meeting with one of your project stakeholders, he knew about your project and was not against it, but did not seem to be particularly interested in it either. How would you classify him?",
+        "Answer": [
+            "Neutral",
+            "Supportive",
+            "Resistant",
+            "Unaware"
+        ],
+        "Correct": [
+            "Neutral"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: The Project Sponsor is responsible for stakeholder expectations management.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "Who is the stakeholder that will ultimately use the product or service you are creating? ",
+        "Answer": [
+            "Project Manager",
+            "Customer/User",
+            "Project Team",
+            "Sponsor"
+        ],
+        "Correct": [
+            "Customer/User"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "One way to classify your stakeholders is to use the Power/Interest Grid.  If a stakeholder is low interest / low power, what should the Project Manager do?",
+        "Answer": [
+            "Keep informed",
+            "Keep satisfied",
+            "Manage closely",
+            "Monitor"
+        ],
+        "Correct": [
+            "Monitor"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "Your stakeholder register is your primary output and should at least contain:",
+        "Answer": [
+            "Job descriptions, identification information, and stakeholder classification",
+            "Assessment information, identification information, and stakeholder classification",
+            "Assessment information, scope information, and stakeholder classification",
+            "Assessment information, identification information, and risk classification"
+        ],
+        "Correct": [
+            "Assessment information, identification information, and stakeholder classification"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "You have a stakeholder on your project who has a reputation as being very difficult.  He dislikes change and argues against any suggested updates to the way in which his department does their work.  The project you are leading is going to significantly impact at least two processes used by his team. Which do you think is the best response to the situation?",
+        "Answer": [
+            "Ignore him and start the project without him.  You will include him when you absolutely have to.",
+            "Start the project when you know he's out of town and send him a meeting invite to cover your tracks.",
+            "Seek him out and begin to open communications with him about what is changing and why."
+        ],
+        "Correct": [
+            "Seek him out and begin to open communications with him about what is changing and why."
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "Identify the five engagement levels of stakeholders:",
+        "Answer": [
+            "Unaware, resistant, neutral, supportive, oblivious",
+            "Unaware, resistant, strong-willed, supportive, leading",
+            "Unaware, resistant, strong-willed, supportive, sponsor",
+            "Unaware, resistant, neutral, supportive, leading"
+        ],
+        "Correct": [
+            "Unaware, resistant, neutral, supportive, leading"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "One of the ways a Project Charter can help you as a project manager is:",
+        "Answer": [
+            "It helps you hire team members.",
+            "It does not help you as a project manager because it is for the sponsor.",
+            "It keeps your authority level vague, so you can do what you want.",
+            "It describes your authority level as the project manager."
+        ],
+        "Correct": [
+            "It describes your authority level as the project manager."
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "The Scope Management section of your project plan document would include information on:",
+        "Answer": [
+            "Who can suggest changes to the project.",
+            "How to ask for more money for the project.",
+            "What type of scheduling software to use.",
+            "How risks are to be managed."
+        ],
+        "Correct": [
+            "Who can suggest changes to the project."
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: An important part of the project scope statement is exclusions or out of scope items.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "As you plan your project, you do so thinking that all team members will be assigned to your project for at least 50% of their available time. This is an example of:",
+        "Answer": [
+            "An assumption",
+            "Poor planning",
+            "Wishful thinking",
+            "A project demand"
+        ],
+        "Correct": [
+            "An assumption"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False:  The WBS should completely depict the scope of your project that if something is not in the WBS it is because it is NOT part of the project.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "The 8-80 rule refers to:",
+        "Answer": [
+            "Work packages should be between 8 and 80 hours of effort.",
+            "Work packages should NOT be between 8 and 80 hours of effort.",
+            "Work packages over 80 hours should be split between multiple resources.",
+            "Never allow your team to work more than 8 hours per day or 80 hours during a 10-day work period."
+        ],
+        "Correct": [
+            "Work packages should be between 8 and 80 hours of effort."
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "Project scope differs from product scope in that:",
+        "Answer": [
+            "Project scope completion is measured against the features, functions, and product requirements.",
+            "Product scope completion is measured against the project management plan including all subsidiary plans.",
+            "Project scope is the work that needs to be accomplished to deliver a product, service, or result."
+        ],
+        "Correct": [
+            "Project scope is the work that needs to be accomplished to deliver a product, service, or result."
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False. The Project Charter is a document issued by the project initiator or sponsor that formally authorizes the existence of a project.  It provides the project manager with the authority to apply organizational resources to project activities.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "The Project Scope Statement should include the following:",
+        "Answer": [
+            "Project deliverables, project constraints, project assumptions.",
+            "Project exclusions, project charter, project assumptions.",
+            "Project deliverables, project constraints, project team members.",
+            "Project exclusions, project constraints, project plan."
+        ],
+        "Correct": [
+            "Project deliverables, project constraints, project assumptions."
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: A Work Breakdown Structure (WBS) is a deliverable-oriented hierarchical decomposition of the work to be executed by the project team.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: Influence means you have the right to apply resources, make decisions and give approvals.",
+        "Answer": [
+            "False",
+            "True"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nModule 5 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 25, 11:59 PM PST"
+    },
+    {
+        "Question": "Which one of these is an example of role conflict:",
+        "Answer": [
+            "When a team member is late completing a task.",
+            "When a team member does not know why he or she should do something.",
+            "When a team member does not know how to do his or her job.",
+            "When two team members are trying to complete the same task."
+        ],
+        "Correct": [
+            "When two team members are trying to complete the same task."
+        ],
+        "Title": "Back\nModule 5 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 25, 11:59 PM PST"
+    },
+    {
+        "Question": "Two team members disagree on how to solve a project issue.  They express their disagreement and then engage in a professional debate. This is an example of:",
+        "Answer": [
+            "Healthy conflict.",
+            "Unhealthy conflict.",
+            "Unproductive conflict.",
+            "Unrealistic conflict."
+        ],
+        "Correct": [
+            "Healthy conflict."
+        ],
+        "Title": "Back\nModule 5 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 25, 11:59 PM PST"
+    },
+    {
+        "Question": "You and another project manager disagree over whether a team member should work on your team or on her team. You decide that the team member can work for the other project manager in the afternoon and the other project manager says it is OK for the team member to work for you in the morning. The truth is you both wanted this person fulltime.  The conflict resolution approach you have both used is:",
+        "Answer": [
+            "Forcing",
+            "Compromising",
+            "Smoothing",
+            "Confronting"
+        ],
+        "Correct": [
+            "Compromising"
+        ],
+        "Title": "Back\nModule 5 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 25, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: Conflict management is the process by which the project manager uses appropriate managerial techniques to deal with the inevitable disagreements that develop among those working toward project accomplishment. ",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 5 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 25, 11:59 PM PST"
+    },
+    {
+        "Question": "Some of the major sources of conflict that a project manager may influence are:",
+        "Answer": [
+            "Project management, project priorities, project team",
+            "Personality conflict, schedules, resources",
+            "Project charter, schedules, resources",
+            "Personality conflict, network diagram, resources"
+        ],
+        "Correct": [
+            "Personality conflict, schedules, resources"
+        ],
+        "Title": "Back\nModule 5 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 25, 11:59 PM PST"
+    },
+    {
+        "Question": "What are the 5 approaches to conflict discussed in the Project Human Resources Management Lesson?",
+        "Answer": [
+            "Confronting, Compromising, Smoothing, Forcing, Avoiding.",
+            "Confronting, Compromising, Smoothing, Uninterested, Challenging.",
+            "Communicating, Compromising, Smoothing, Forcing, Avoiding.",
+            "Confronting, Challenging, Smoothing, Forcing, Avoiding."
+        ],
+        "Correct": [
+            "Confronting, Compromising, Smoothing, Forcing, Avoiding."
+        ],
+        "Title": "Back\nModule 5 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 25, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: Project Human Resource Management includes the processes that organize, manage, and lead the project team.",
+        "Answer": [
+            "False",
+            "True"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 5 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 25, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: Each person involved in the project should be assigned, but doesn't always need to know his or her role and responsibility.",
+        "Answer": [
+            "False",
+            "True"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nModule 5 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 25, 11:59 PM PST"
+    },
+    {
+        "Question": "What does RAM stand for:",
+        "Answer": [
+            "Responsibility Action Matrix",
+            "Responsibility Assignment Matrix",
+            "Responsibility Ambiguity Matrix",
+            "Responsibility Activity Matrix"
+        ],
+        "Correct": [
+            "Responsibility Assignment Matrix"
+        ],
+        "Title": "Back\nModule 5 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 25, 11:59 PM PST"
+    },
+    {
+        "Question": "We discussed three types of matrix organizations, they are:",
+        "Answer": [
+            "A.Weak, Medium Strength and Strong",
+            "Light, Medium and Heavy",
+            "Light, Mid-strength and Strong",
+            "Weak, Balanced and Strong"
+        ],
+        "Correct": [
+            "Weak, Balanced and Strong"
+        ],
+        "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueMar 3, 11:59 PM PST"
+    },
+    {
+        "Question": "The PMBOK\u00ae Guide and in the preceding lesson describes 10 Project Management Knowledge Areas.  Identify 3 out of the 10:",
+        "Answer": [
+            "Cost, Integration, Process",
+            "Cost, Scope, Time",
+            "Contracts, Process, Risk",
+            "Quality, Process, Scope"
+        ],
+        "Correct": [
+            "Cost, Scope, Time"
+        ],
+        "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueMar 3, 11:59 PM PST"
+    },
+    {
+        "Question": "If a stakeholder has high interest and high power then as the project manager you:",
+        "Answer": [
+            "Can try to move them to be low interest and low power so that they do not take up too much of your time.",
+            "Can try to move them to be high interest and low power so they do not get in your way.",
+            "Can ignore them, they are, as you need them to be.",
+            "Focus your time and attention on them, they are very impactful to your project and you want to keep them engaged and positive."
+        ],
+        "Correct": [
+            "Focus your time and attention on them, they are very impactful to your project and you want to keep them engaged and positive."
+        ],
+        "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueMar 3, 11:59 PM PST"
+    },
+    {
+        "Question": "You have a stakeholder on your project who has a reputation as being very difficult.  He dislikes change and argues against any suggested updates to the way in which his department does their work.  The project you are leading is going to significantly impact at least two processes used by his team., Which do you think is the best response to the situation?",
+        "Answer": [
+            "Ignore him and start the project without him.  You will include him when you absolutely have to.",
+            "Start the project when you know he's out of town and send him a meeting invite to cover your tracks.",
+            "Seek him out and begin to open communications with him about what is changing and why."
+        ],
+        "Correct": [
+            "Seek him out and begin to open communications with him about what is changing and why."
+        ],
+        "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueMar 3, 11:59 PM PST"
+    },
+    {
+        "Question": "As you plan your project, you do so thinking that all team members will be assigned to your project for at least 50% of their available time. This is an example of:",
+        "Answer": [
+            "An assumption.",
+            "Poor planning.",
+            "A project demand.",
+            "Wishful thinking."
+        ],
+        "Correct": [
+            "An assumption."
+        ],
+        "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueMar 3, 11:59 PM PST"
+    },
+    {
+        "Question": "Project scope differs from product scope in that:",
+        "Answer": [
+            "Project scope completion is measured against the features, functions, and product requirements.",
+            "Project scope is the work that needs to be accomplished to deliver a product, service, or result.",
+            "Product scope completion is measured against the project management plan including all subsidiary plans.",
+            "Product scope is the work that needs to be accomplished to deliver a product, service, or result."
+        ],
+        "Correct": [
+            "Project scope is the work that needs to be accomplished to deliver a product, service, or result."
+        ],
+        "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueMar 3, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: The term resources only refers to people, it does not include money or materials or equipment.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 7, 11:59 PM PDT"
+    },
+    {
+        "Question": "In our lessons the acronym RAM stands for:",
+        "Answer": [
+            "Responsibility Assignment Matrix",
+            "Responsibility Accountability Matrix",
+            "Responsible Accountable Manageable",
+            "Resource Aligned Management",
+            "Resource Acquisition Management"
+        ],
+        "Correct": [
+            "Responsibility Assignment Matrix"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 7, 11:59 PM PDT"
+    },
+    {
+        "Question": "When you use the RACI or Responsible, Accountable, Consult, Inform version of the RAM, those who are responsible are:",
+        "Answer": [
+            "Providing subject matter expertise",
+            "Supervising the work",
+            "Completing the work",
+            "Not completing the work"
+        ],
+        "Correct": [
+            "Completing the work"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 7, 11:59 PM PDT"
+    },
+    {
+        "Question": "A work package is a/an:",
+        "Answer": [
+            "Required level of reporting",
+            "Deliverable at the lowest level of the WBS",
+            "Activity that can be assigned to one or more organizational units",
+            "Activity at the lowest level of the WBS"
+        ],
+        "Correct": [
+            "Deliverable at the lowest level of the WBS"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 7, 11:59 PM PDT"
+    },
+    {
+        "Question": "The WBS is used to derive all but one of the following:",
+        "Answer": [
+            "The project schedule baseline",
+            "The project cost performance baseline",
+            "The business need for the project",
+            "The activity list"
+        ],
+        "Correct": [
+            "The business need for the project"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 7, 11:59 PM PDT"
+    },
+    {
+        "Question": "True or False: When it comes to projects, the emphasis is on strategic quality management.  Quality is not an accident, quality is part of the plan, and quality is everyone's job.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 7, 11:59 PM PDT"
+    },
+    {
+        "Question": "The discipline of quality management complements the discipline of project management.  Both recognize the importance of:",
+        "Answer": [
+            "Company satisfaction,  continuous improvement, and management protocol",
+            "Team satisfaction and inspection over prevention",
+            "Responsibility of only the sponsor, continuous improvement, and inspection",
+            "Customer satisfaction, prevention over inspection, continuous improvement, and management responsibility"
+        ],
+        "Correct": [
+            "Customer satisfaction, prevention over inspection, continuous improvement, and management responsibility"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 7, 11:59 PM PDT"
+    },
+    {
+        "Question": "True or False: Product quality focuses on the project management processes used to meet project objectives",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 7, 11:59 PM PDT"
+    },
+    {
+        "Question": "The Process Improvement Plan is:",
+        "Answer": [
+            "The number one component of the project management plan.",
+            "a subsidiary, or component of the project management plan."
+        ],
+        "Correct": [
+            "a subsidiary, or component of the project management plan."
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 7, 11:59 PM PDT"
+    },
+    {
+        "Question": "True or False: Performing quality assurance within the context of a project involves applying the planned, systematic quality activities to ensure that the project correctly employs all processes needed to meet project objectives and product requirements.",
+        "Answer": [
+            "False",
+            "True"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 7, 11:59 PM PDT"
+    },
+    {
+        "Question": "An estimate created by looking at a similar project or activity and then adding or subtracting to or from the estimate based on the differences between the two is called:",
+        "Answer": [
+            "Bottoms up estimating",
+            "Parametric estimating",
+            "Analogous estimating",
+            "Exact estimating"
+        ],
+        "Correct": [
+            "Analogous estimating"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+    },
+    {
+        "Question": "When you have good historical information which can be used in a reliable formula or model, you will probably use:",
+        "Answer": [
+            "Parametric estimating",
+            "Analogous estimating",
+            "Exact estimating",
+            "Bottoms up estimating"
+        ],
+        "Correct": [
+            "Parametric estimating"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+    },
+    {
+        "Question": "True or False: When you are concerned that your estimates might not be correct, especially if you think they are too low, you should pad the estimate and add extra.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+    },
+    {
+        "Question": "Which one of these most correctly defines management reserve?",
+        "Answer": [
+            "Per our lesson, management reserve and contingency are exactly the same.",
+            "Management reserve is tied to specific work packages.",
+            "Management reserve is tied to a specific milestone or event.",
+            "Management reserve is not tied to specific work packages it is for the entire project."
+        ],
+        "Correct": [
+            "Management reserve is not tied to specific work packages it is for the entire project."
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+    },
+    {
+        "Question": "You are preparing an estimate of the cost for an IT system expansion for a new branch office location. It is a very similar to the IT system expansion undertaken for a branch office that opened six months ago. Which technique might you use if you are pushed for a quick estimate?",
+        "Answer": [
+            "Analogous",
+            "Bottoms up",
+            "Parametric",
+            "Probabilistic"
+        ],
+        "Correct": [
+            "Analogous"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+    },
+    {
+        "Question": "You are building an apartment complex with four, 10,000 square foot buildings based on the same drawings you used in another city two years ago. What is the danger of estimating using the same parametric model of $50 per square foot?",
+        "Answer": [
+            "It will take much more time than a bottoms up estimating.",
+            "It\u2019s not very easy to scale.",
+            "Historical cost relationships may no longer be applicable.",
+            "The technical design is unstable."
+        ],
+        "Correct": [
+            "Historical cost relationships may no longer be applicable."
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+    },
+    {
+        "Question": "What description defines Bottoms Up Estimating?",
+        "Answer": [
+            "A technique that analyzes activities on past projects and using them as a basis for estimating costs.",
+            "A technique that uses a mathematical model to estimate costs.",
+            "A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail.  "
+        ],
+        "Correct": [
+            "A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail.  "
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+    },
+    {
+        "Question": "True or False: The Project Budget is equal to only the cost baseline budget.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+    },
+    {
+        "Question": "True or False: The S-Curve depicts the relationship between the cost baseline budget and the schedule because it shows the planned cost baseline budget across the planned project timeline.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+    },
+    {
+        "Question": "Earned value management integrates scope, cost, and schedule measures to:",
+        "Answer": [
+            "develop a preliminary budget.",
+            "assess communication effectiveness among project team members.",
+            "assess whether all requirements were met. ",
+            "assess project performance and progress."
+        ],
+        "Correct": [
+            "assess project performance and progress."
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 14, 11:59 PM PDT"
+    },
+    {
+        "Question": "When you schedule work in a specific order because it cannot be completed any other way this is what type of dependency?",
+        "Answer": [
+            "External",
+            "Discretionary",
+            "Mandatory",
+            "Internal"
+        ],
+        "Correct": [
+            "Mandatory"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+    },
+    {
+        "Question": "True or False: If develop online modules must be 100% completed before review online modules can begin, that is called a finish to start relationship.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+    },
+    {
+        "Question": "If develop online modules needs to finish before review online modules can finish, that is called a:",
+        "Answer": [
+            "Start to finish relationship.",
+            "Finish to start relationship.",
+            "Finish to finish relationship.",
+            "Start to start relationship."
+        ],
+        "Correct": [
+            "Finish to finish relationship."
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+    },
+    {
+        "Question": "To calculate early start (ES) and early finish (EF) perform a:",
+        "Answer": [
+            "Backward pass",
+            "Critical pass",
+            "Forward pass",
+            "Lateral pass"
+        ],
+        "Correct": [
+            "Forward pass"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+    },
+    {
+        "Question": "True or False: The critical path is the shortest path through the network and represents the work that can be delayed without delaying the end of the project.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+    },
+    {
+        "Question": "The network diagram is the best tool for demonstrating:",
+        "Answer": [
+            "Schedule variances",
+            "The sequence of project activities",
+            "Resource requirements",
+            "Schedule performance over time"
+        ],
+        "Correct": [
+            "The sequence of project activities"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+    },
+    {
+        "Question": "All of the following are inputs to estimating activity durations except:",
+        "Answer": [
+            "Resource calendars and scope statement",
+            "Requirements specifications",
+            "Activity list and activity attributes",
+            "Organizational process assets"
+        ],
+        "Correct": [
+            "Requirements specifications"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+    },
+    {
+        "Question": "In a project schedule, the sequence of activities which cannot be delayed during the course of the project without extending the project end date is referred to as the:",
+        "Answer": [
+            "Schedule baseline",
+            "Critical path",
+            "Slack line",
+            "Action plan"
+        ],
+        "Correct": [
+            "Critical path"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+    },
+    {
+        "Question": "A significant event in a project that may indicate completion of a major phase is a/an:",
+        "Answer": [
+            "Activity",
+            "Deliverable",
+            "Work package",
+            "Milestone"
+        ],
+        "Correct": [
+            "Milestone"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+    },
+    {
+        "Question": "Once the logic of a network is laid out, the project manager will conduct a forward pass and a backward pass through the network. This will provide information regarding ______ and will identify the________.",
+        "Answer": [
+            "The high risk activities, non-critical path",
+            "The slack for each activity, high risk activities",
+            "Resource shortages, high risk activities",
+            "The total duration of the project, critical path"
+        ],
+        "Correct": [
+            "The total duration of the project, critical path"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 21, 11:59 PM PDT"
+    },
+    {
+        "Question": "You are preparing an estimate for the cost of an IT system expansion for a new branch office location. It is a very similar to the IT system expansion undertaken for a branch office that opened six months ago. Which technique might you use if you are pushed for a quick estimate?",
+        "Answer": [
+            "Parametric",
+            "Probabilistic",
+            "Analogous",
+            "Bottom up"
+        ],
+        "Correct": [
+            "Analogous"
+        ],
+        "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+    },
+    {
+        "Question": "You are building an apartment complex with four, 10,000 square foot buildings based on the same drawings you used in another city two years ago. What is the danger of estimating using the same parametric model of $50 per square foot?",
+        "Answer": [
+            "Historical cost relationships may no longer applicable.",
+            "The technical design is unstable.",
+            "It will take much more time than a bottom-up estimating.",
+            "It\u2019s not very easy to scale."
+        ],
+        "Correct": [
+            "Historical cost relationships may no longer applicable."
+        ],
+        "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+    },
+    {
+        "Question": "What description defines Bottom-Up Estimating?",
+        "Answer": [
+            "A technique that analyzes activities on past projects and using them as a basis for estimating costs.",
+            "A technique that uses a mathematical model to estimate costs.",
+            "A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail."
+        ],
+        "Correct": [
+            "A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail."
+        ],
+        "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+    },
+    {
+        "Question": "True or False: A project manager spends 75% of his or her time communicating.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "Which item would most likely NOT be part of a basic communication plan:",
+        "Answer": [
+            "The amount of their annual bonus.",
+            "What they need to know.",
+            "The best medium for the communication.",
+            "With whom to communicate."
+        ],
+        "Correct": [
+            "The amount of their annual bonus."
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "Upward communication is communication to/from:",
+        "Answer": [
+            "Your senior management.",
+            "Your direct reports.",
+            "Your social groups.",
+            "Your peers."
+        ],
+        "Correct": [
+            "Your senior management."
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "When you report project status you compare actual performance to:",
+        "Answer": [
+            "The planned performance or baseline.",
+            "The performance of other similar projects.",
+            "The performance of your competitors.",
+            "The performance of previous projects."
+        ],
+        "Correct": [
+            "The planned performance or baseline."
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: Earned value integrates scope, schedule and budget and uses monetary values to assess project status.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "You are beginning to staff your project. Which of the following will not be used in developing and/or communicating roles and responsibilities?",
+        "Answer": [
+            "WBS",
+            "Organization chart",
+            "Pareto chart",
+            "Responsibility Assignment Matrix"
+        ],
+        "Correct": [
+            "Pareto chart"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "Which of the following is not likely to be documented in a communications management plan?",
+        "Answer": [
+            "How information will be communicated",
+            "Time frame and frequency of communication",
+            "What information will be communicated",
+            "Person responsible for tracking risk events"
+        ],
+        "Correct": [
+            "Person responsible for tracking risk events"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: Effective project communication management creates a bridge between stakeholders based on a shared understanding of the project and the ongoing sharing of information needed for its success.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "A Communications Management Plan does the following:",
+        "Answer": [
+            "Coordinates the communication between project leaders and uninterested project members",
+            "Lays out a plan on how to communicate with your Project Sponsor and other organizations",
+            "Coordinates an effort to communicate in meetings effectively",
+            "Lays out the approach and method for delivering information effectively and efficiently."
+        ],
+        "Correct": [
+            "Lays out the approach and method for delivering information effectively and efficiently."
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "Who should take the most responsibility for clear and effective communication?",
+        "Answer": [
+            "The sender ",
+            "The receiver",
+            "The sender and the receiver",
+            "The Communications Manager"
+        ],
+        "Correct": [
+            "The sender and the receiver"
+        ],
+        "Title": "Back\nModule 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 4, 11:59 PM PST"
+    },
+    {
+        "Question": "The purpose of project risk management is to:",
+        "Answer": [
+            "Eliminate the likelihood or the impact of negative events or threats to your project and to decrease the likelihood or impact of positive events.",
+            "Minimize the likelihood or the impact of negative events or threats to your project and to increase the likelihood or impact of positive events.",
+            "Neutralize the likelihood or the impact of negative events or threats to your project and to neutralize the likelihood or impact of positive events.",
+            "Minimize the likelihood or the impact of positive events or threats to your project and to increase the likelihood or impact of negative events."
+        ],
+        "Correct": [
+            "Minimize the likelihood or the impact of negative events or threats to your project and to increase the likelihood or impact of positive events."
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: A positive risk is an opportunity; a negative risk is a threat.",
+        "Answer": [
+            "False",
+            "True"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "When you and your team know that a negative risk has a high likelihood of occurring and it will be very impactful if it does:",
+        "Answer": [
+            "You should develop a response to handle this risk.",
+            "You should all hope this risk does not occur.",
+            "You should wait a few weeks and see what changes.",
+            "You should not document the risk; it will upset your stakeholders."
+        ],
+        "Correct": [
+            "You should develop a response to handle this risk."
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "If the response you choose is to avoid a risk this means that:",
+        "Answer": [
+            "You note the risk but do not talk about it.",
+            "You cancel the entire project.",
+            "You simply do not consider the risk.",
+            "You change your plans so that you eliminate the risk."
+        ],
+        "Correct": [
+            "You change your plans so that you eliminate the risk."
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "Once you and your team identify and assess risks and develop responses you:",
+        "Answer": [
+            "Have completed your risk management responsibilities.",
+            "Pay close attention to the risks identified and do not look for new risks.",
+            "Only update your risk register when you are preparing to share it with your stakeholders.",
+            "Continue to identify and monitor risks for the remainder of the project."
+        ],
+        "Correct": [
+            "Continue to identify and monitor risks for the remainder of the project."
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "In a project context, risk is defined as:",
+        "Answer": [
+            "The impact of not completing the project on time and within budget.",
+            "An uncertain event that, if it occurs, will have a negative effect on at least one project objective.",
+            "An uncertain event that, if it occurs, will have a positive or negative effect on at least one project objective.",
+            "The probability of an event having a positive or negative effect on at least one project objective."
+        ],
+        "Correct": [
+            "An uncertain event that, if it occurs, will have a positive or negative effect on at least one project objective."
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "The Risk Management Plan is a subsidiary to the __________ document.",
+        "Answer": [
+            "Project Scope Statement Plan",
+            "Project Communications Plan",
+            "Project Stakeholder Plan",
+            "Project Management Plan"
+        ],
+        "Correct": [
+            "Project Management Plan"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "A useful tool in identifying risks is the SWOT analysis.  What does SWOT stand for?",
+        "Answer": [
+            "Strengths, opportunities, winners, and threats",
+            "Strengths, obstacles, weaknesses, and threats",
+            "Strengths, opportunities, weaknesses, and threats",
+            "Scope, opportunities, weaknesses, and time"
+        ],
+        "Correct": [
+            "Strengths, opportunities, weaknesses, and threats"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: The primary output from the identification of risks is the risk register.",
+        "Answer": [
+            "False",
+            "True"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "During a risk brainstorming session a team member identifies a risk.  This particular risk does not seem to belong to any of the categories in you Risk Breakdown Structure (RBS).  How should you respond?",
+        "Answer": [
+            "Record the list in the risk register, discuss potential responses and make a note to update the RBS.",
+            "Thank him for his work, but inform him that the risk cannot be included because it does not fit any of the categories defined in the RBS.",
+            "Ignore him and move on to another risk identified by a different team member.",
+            "Chastise him for making up risks which cannot exist because there is not a category for such risks."
+        ],
+        "Correct": [
+            "Record the list in the risk register, discuss potential responses and make a note to update the RBS."
+        ],
+        "Title": "Back\nModule 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 11, 11:59 PM PST"
+    },
+    {
+        "Question": "Which one of these situations most closely represents scope creep:",
+        "Answer": [
+            "The scope of the project is clearly agreed upon by the key project stakeholders.",
+            "The project scope keeps changing and team members are not sure why and the project seems like it will never end.",
+            "The project scope changes through the use of a formal change control process.",
+            "The project scope was used to create a WBS that was used to create estimates and a schedule."
+        ],
+        "Correct": [
+            "The project scope keeps changing and team members are not sure why and the project seems like it will never end."
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: Unregulated changes allow for innovation and flexibility. Regulating changes causes a lack of creativity.",
+        "Answer": [
+            "False",
+            "True"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "Which of these types of changes should be discouraged as a poor project practice:",
+        "Answer": [
+            "Another project team is doing similar work and is farther along than your project.",
+            "A new way to handle a problem is discovered after scope was documented and approved.",
+            "Stakeholders did not take the time to define scope earlier in the project.",
+            "A team member discovers an issue and it makes good business sense to correct the issue as part of the project."
+        ],
+        "Correct": [
+            "Stakeholders did not take the time to define scope earlier in the project."
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "A good change process will:",
+        "Answer": [
+            "Be very complex in order to discourage changes.",
+            "Have change thresholds that are appropriate for the type of change.",
+            "Allow the project manager to approve all changes.",
+            "Require the same level of approval for all changes."
+        ],
+        "Correct": [
+            "Have change thresholds that are appropriate for the type of change."
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "The purpose of capturing lessons learned is:",
+        "Answer": [
+            "To show stakeholders how difficult the project was so that next time their demands will not be so high.",
+            "To document who performed well on the project and who did not so that poor performers can be punished.",
+            "To capture what went well so that you can recreate the good and to capture what could have gone better so that next time it will go better.",
+            "To show that you are following project management best practices and therefore you are a superior project manager."
+        ],
+        "Correct": [
+            "To capture what went well so that you can recreate the good and to capture what could have gone better so that next time it will go better."
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "To ensure control over the incidence and frequency of change, the project manager establishes a:",
+        "Answer": [
+            "Responsibility assignment matrix",
+            "Work breakdown structure",
+            "Work procedure schedule",
+            "Change control process"
+        ],
+        "Correct": [
+            "Change control process"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "Your project team is customer focused and often agrees to incorporate many small scope changes throughout the project execution. The changes are documented in an issues log. Which of the following is not a potential problem?",
+        "Answer": [
+            "Management of product specifications and configuration become more difficult.",
+            "Changes may not be integrated across the whole project",
+            "Changes with impacts on cost or time will be elevated to the Change Control Board.",
+            "Many small changes may accumulate to create trouble for one of the project objectives."
+        ],
+        "Correct": [
+            "Changes with impacts on cost or time will be elevated to the Change Control Board."
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "True or False: In the context of a project, change is always a bad thing.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "Scope creep results in:",
+        "Answer": [
+            "Completion delays, decrease in costs, and increase in project complexity.",
+            "Completion delays, escalation of costs, and increase in project complexity.",
+            "On-time deliverables, escalation of costs, and increase in project complexity.",
+            "Completion delays, escalation of costs, and decrease in project complexity."
+        ],
+        "Correct": [
+            "Completion delays, escalation of costs, and increase in project complexity."
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "A project manager can defend against scope creep with a good ___________!",
+        "Answer": [
+            "Procurement process",
+            "Risk management plan",
+            "Change control process",
+            "Project management plan"
+        ],
+        "Correct": [
+            "Change control process"
+        ],
+        "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+    },
+    {
+        "Question": "A Communications Management Plan does the following:",
+        "Answer": [
+            "Coordinates and effort to communicate in meetings effectively",
+            "Lays out a plan on how to communicate with your Project Sponsor and other organizations",
+            "Lays out the approach and method for delivering information effectively and efficiently.",
+            "Coordinates the communication between project leaders and uninterested project members"
+        ],
+        "Correct": [
+            "Lays out the approach and method for delivering information effectively and efficiently."
+        ],
+        "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 25, 11:59 PM PST"
+    },
+    {
+        "Question": "In a project context, risk is defined as:",
+        "Answer": [
+            "An uncertain event that, if it occurs, will have a negative affect on at least one project objective.",
+            "The impact of not completing the project on time and within budget.",
+            "The probability of an event having a positive or negative affect on at least one project objective.",
+            "An uncertain event that, if it occurs, will have a positive or negative affect on at least one project objective."
+        ],
+        "Correct": [
+            "An uncertain event that, if it occurs, will have a positive or negative affect on at least one project objective."
+        ],
+        "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 25, 11:59 PM PST"
+    },
+    {
+        "Question": "Which of these types of changes should be discouraged as a poor project practice:",
+        "Answer": [
+            "Because stakeholders did not take the time to define scope earlier in the project.",
+            "A team member discovers an issue and it makes good business sense to correct the issue as part of the project.",
+            "A new way to handle a problem is discovered after scope was documented and approved.",
+            "Another project team is doing similar work and is farther along than your project."
+        ],
+        "Correct": [
+            "Because stakeholders did not take the time to define scope earlier in the project."
+        ],
+        "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n\u00a0\u2022\u00a030 min\n\nEnglish\nDueFeb 25, 11:59 PM PST"
+    }
+]

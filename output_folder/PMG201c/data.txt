@@ -1,0 +1,499 @@
+True or False: A Project is defined as being unique and temporary, with an undefined start and finish.  
+--------------------
+False
+True@@@@@False#####We discussed three types of matrix organizations, they are:
+--------------------
+Weak, Medium Strength and Strong
+Light, Mid-strength and Strong
+Light, Medium and Heavy
+Weak, Balanced and Strong@@@@@Weak, Balanced and Strong#####In a projectized organization:
+--------------------
+A project manager is not assigned to the team.
+Team members are never assigned to the project full time.
+The functional manager has all of the power.
+The project manager acts as manager of the team.@@@@@The project manager acts as manager of the team.#####True or False: The best organization to use to run a project will always be the projectized organization.
+--------------------
+False
+True@@@@@False#####The five project management process groups as described in the PMBOK® Guide and discussed in the preceding lesson are:
+--------------------
+Define, measure, analyze, improve, control
+Kickoff, requirements, plan, schedule, control
+Requirements, design, development, testing, implementation
+Initiating, planning, executing, monitoring and controlling, closing@@@@@Initiating, planning, executing, monitoring and controlling, closing#####The three components of the triple constraint are:
+--------------------
+Scope, Performance, Time
+Scope, Performance, Cost
+Scope, Quality, Cost
+Scope, Cost, Time@@@@@Scope, Cost, Time#####You have finished planning and have begun executing the project when the client asks if you would add some important features to the product of the project. How are the triple constraints affected?
+--------------------
+Adding features will require additional cost but not time
+Cost must remain constant because resources are limited
+Time and cost may both be affected
+Scope and quality would be affected but not cost@@@@@Time and cost may both be affected#####The primary role of the project manager is:
+--------------------
+Project initiation
+Distributing work packages
+Measuring performance
+Communication@@@@@Communication#####As discussed in the preceding lesson, The PMBOK® Guide knowledge areas that have processes in the Initiating process group are:
+--------------------
+Project Integration Management and Project Stakeholder Management
+Project Integration Management and Project Time Management
+Project Integration Management and Project Quality Management
+Project Integration Management and Project Scope Management@@@@@Project Integration Management and Project Stakeholder Management#####As discussed in the preceding lesson, The PMBOK® Guide describes 10 Project Management Knowledge Areas.  Identify 3 out of the 10:
+--------------------
+Contracts, Process, Risk
+Cost, Scope, Time
+Cost, Integration, Process
+Quality, Process, Scope@@@@@Cost, Scope, Time#####The definition of a stakeholder includes:
+--------------------
+People who are impacted by your project, but not organizations impacted by your project.
+People and organizations that are not impacted by your project.
+The people or organizations that are positively or negatively impacted by your project.
+Organizations impacted by your project but not people, they are all part of the impacted organizations.@@@@@The people or organizations that are positively or negatively impacted by your project.#####True or False: If you are not certain who your stakeholders are, asking who will use the product or service being created can be helpful.
+--------------------
+False
+True@@@@@True#####If a stakeholder has high interest and high power then as the project manager you:
+--------------------
+Can ignore them, they are as you need them to be.
+Can try to move them to be high interest and low power so they do not get in your way.
+Focus your time and attention on them, they are very impactful to your project and you want to keep them engaged and positive.
+Can try to move them to be low interest and low power so that they do not take up too much of your time.@@@@@Focus your time and attention on them, they are very impactful to your project and you want to keep them engaged and positive.#####You just came from a meeting with one of your project stakeholders, he knew about your project and was not against it, but did not seem to be particularly interested in it either. How would you classify him?
+--------------------
+Neutral
+Supportive
+Resistant
+Unaware@@@@@Neutral#####True or False: The Project Sponsor is responsible for stakeholder expectations management.
+--------------------
+True
+False@@@@@False#####Who is the stakeholder that will ultimately use the product or service you are creating? 
+--------------------
+Project Manager
+Customer/User
+Project Team
+Sponsor@@@@@Customer/User#####One way to classify your stakeholders is to use the Power/Interest Grid.  If a stakeholder is low interest / low power, what should the Project Manager do?
+--------------------
+Keep informed
+Keep satisfied
+Manage closely
+Monitor@@@@@Monitor#####Your stakeholder register is your primary output and should at least contain:
+--------------------
+Job descriptions, identification information, and stakeholder classification
+Assessment information, identification information, and stakeholder classification
+Assessment information, scope information, and stakeholder classification
+Assessment information, identification information, and risk classification@@@@@Assessment information, identification information, and stakeholder classification#####You have a stakeholder on your project who has a reputation as being very difficult.  He dislikes change and argues against any suggested updates to the way in which his department does their work.  The project you are leading is going to significantly impact at least two processes used by his team. Which do you think is the best response to the situation?
+--------------------
+Ignore him and start the project without him.  You will include him when you absolutely have to.
+Start the project when you know he's out of town and send him a meeting invite to cover your tracks.
+Seek him out and begin to open communications with him about what is changing and why.@@@@@Seek him out and begin to open communications with him about what is changing and why.#####Identify the five engagement levels of stakeholders:
+--------------------
+Unaware, resistant, neutral, supportive, oblivious
+Unaware, resistant, strong-willed, supportive, leading
+Unaware, resistant, strong-willed, supportive, sponsor
+Unaware, resistant, neutral, supportive, leading@@@@@Unaware, resistant, neutral, supportive, leading#####One of the ways a Project Charter can help you as a project manager is:
+--------------------
+It helps you hire team members.
+It does not help you as a project manager because it is for the sponsor.
+It keeps your authority level vague, so you can do what you want.
+It describes your authority level as the project manager.@@@@@It describes your authority level as the project manager.#####The Scope Management section of your project plan document would include information on:
+--------------------
+Who can suggest changes to the project.
+How to ask for more money for the project.
+What type of scheduling software to use.
+How risks are to be managed.@@@@@Who can suggest changes to the project.#####True or False: An important part of the project scope statement is exclusions or out of scope items.
+--------------------
+True
+False@@@@@True#####As you plan your project, you do so thinking that all team members will be assigned to your project for at least 50% of their available time. This is an example of:
+--------------------
+An assumption
+Poor planning
+Wishful thinking
+A project demand@@@@@An assumption#####True or False:  The WBS should completely depict the scope of your project that if something is not in the WBS it is because it is NOT part of the project.
+--------------------
+True
+False@@@@@True#####The 8-80 rule refers to:
+--------------------
+Work packages should be between 8 and 80 hours of effort.
+Work packages should NOT be between 8 and 80 hours of effort.
+Work packages over 80 hours should be split between multiple resources.
+Never allow your team to work more than 8 hours per day or 80 hours during a 10-day work period.@@@@@Work packages should be between 8 and 80 hours of effort.#####Project scope differs from product scope in that:
+--------------------
+Project scope completion is measured against the features, functions, and product requirements.
+Product scope completion is measured against the project management plan including all subsidiary plans.
+Project scope is the work that needs to be accomplished to deliver a product, service, or result.@@@@@Project scope is the work that needs to be accomplished to deliver a product, service, or result.#####True or False. The Project Charter is a document issued by the project initiator or sponsor that formally authorizes the existence of a project.  It provides the project manager with the authority to apply organizational resources to project activities.
+--------------------
+True
+False@@@@@True#####The Project Scope Statement should include the following:
+--------------------
+Project deliverables, project constraints, project assumptions.
+Project exclusions, project charter, project assumptions.
+Project deliverables, project constraints, project team members.
+Project exclusions, project constraints, project plan.@@@@@Project deliverables, project constraints, project assumptions.#####True or False: A Work Breakdown Structure (WBS) is a deliverable-oriented hierarchical decomposition of the work to be executed by the project team.
+--------------------
+True
+False@@@@@True#####True or False: Influence means you have the right to apply resources, make decisions and give approvals.
+--------------------
+False
+True@@@@@False#####Which one of these is an example of role conflict:
+--------------------
+When a team member is late completing a task.
+When a team member does not know why he or she should do something.
+When a team member does not know how to do his or her job.
+When two team members are trying to complete the same task.@@@@@When two team members are trying to complete the same task.#####Two team members disagree on how to solve a project issue.  They express their disagreement and then engage in a professional debate. This is an example of:
+--------------------
+Healthy conflict.
+Unhealthy conflict.
+Unproductive conflict.
+Unrealistic conflict.@@@@@Healthy conflict.#####You and another project manager disagree over whether a team member should work on your team or on her team. You decide that the team member can work for the other project manager in the afternoon and the other project manager says it is OK for the team member to work for you in the morning. The truth is you both wanted this person fulltime.  The conflict resolution approach you have both used is:
+--------------------
+Forcing
+Compromising
+Smoothing
+Confronting@@@@@Compromising#####True or False: Conflict management is the process by which the project manager uses appropriate managerial techniques to deal with the inevitable disagreements that develop among those working toward project accomplishment. 
+--------------------
+True
+False@@@@@True#####Some of the major sources of conflict that a project manager may influence are:
+--------------------
+Project management, project priorities, project team
+Personality conflict, schedules, resources
+Project charter, schedules, resources
+Personality conflict, network diagram, resources@@@@@Personality conflict, schedules, resources#####What are the 5 approaches to conflict discussed in the Project Human Resources Management Lesson?
+--------------------
+Confronting, Compromising, Smoothing, Forcing, Avoiding.
+Confronting, Compromising, Smoothing, Uninterested, Challenging.
+Communicating, Compromising, Smoothing, Forcing, Avoiding.
+Confronting, Challenging, Smoothing, Forcing, Avoiding.@@@@@Confronting, Compromising, Smoothing, Forcing, Avoiding.#####True or False: Project Human Resource Management includes the processes that organize, manage, and lead the project team.
+--------------------
+False
+True@@@@@True#####True or False: Each person involved in the project should be assigned, but doesn't always need to know his or her role and responsibility.
+--------------------
+False
+True@@@@@False#####What does RAM stand for:
+--------------------
+Responsibility Action Matrix
+Responsibility Assignment Matrix
+Responsibility Ambiguity Matrix
+Responsibility Activity Matrix@@@@@Responsibility Assignment Matrix#####We discussed three types of matrix organizations, they are:
+--------------------
+A.Weak, Medium Strength and Strong
+Light, Medium and Heavy
+Light, Mid-strength and Strong
+Weak, Balanced and Strong@@@@@Weak, Balanced and Strong#####The PMBOK® Guide and in the preceding lesson describes 10 Project Management Knowledge Areas.  Identify 3 out of the 10:
+--------------------
+Cost, Integration, Process
+Cost, Scope, Time
+Contracts, Process, Risk
+Quality, Process, Scope@@@@@Cost, Scope, Time#####If a stakeholder has high interest and high power then as the project manager you:
+--------------------
+Can try to move them to be low interest and low power so that they do not take up too much of your time.
+Can try to move them to be high interest and low power so they do not get in your way.
+Can ignore them, they are, as you need them to be.
+Focus your time and attention on them, they are very impactful to your project and you want to keep them engaged and positive.@@@@@Focus your time and attention on them, they are very impactful to your project and you want to keep them engaged and positive.#####You have a stakeholder on your project who has a reputation as being very difficult.  He dislikes change and argues against any suggested updates to the way in which his department does their work.  The project you are leading is going to significantly impact at least two processes used by his team., Which do you think is the best response to the situation?
+--------------------
+Ignore him and start the project without him.  You will include him when you absolutely have to.
+Start the project when you know he's out of town and send him a meeting invite to cover your tracks.
+Seek him out and begin to open communications with him about what is changing and why.@@@@@Seek him out and begin to open communications with him about what is changing and why.#####As you plan your project, you do so thinking that all team members will be assigned to your project for at least 50% of their available time. This is an example of:
+--------------------
+An assumption.
+Poor planning.
+A project demand.
+Wishful thinking.@@@@@An assumption.#####Project scope differs from product scope in that:
+--------------------
+Project scope completion is measured against the features, functions, and product requirements.
+Project scope is the work that needs to be accomplished to deliver a product, service, or result.
+Product scope completion is measured against the project management plan including all subsidiary plans.
+Product scope is the work that needs to be accomplished to deliver a product, service, or result.@@@@@Project scope is the work that needs to be accomplished to deliver a product, service, or result.#####True or False: The term resources only refers to people, it does not include money or materials or equipment.
+--------------------
+True
+False@@@@@False#####In our lessons the acronym RAM stands for:
+--------------------
+Responsibility Assignment Matrix
+Responsibility Accountability Matrix
+Responsible Accountable Manageable
+Resource Aligned Management
+Resource Acquisition Management@@@@@Responsibility Assignment Matrix#####When you use the RACI or Responsible, Accountable, Consult, Inform version of the RAM, those who are responsible are:
+--------------------
+Providing subject matter expertise
+Supervising the work
+Completing the work
+Not completing the work@@@@@Completing the work#####A work package is a/an:
+--------------------
+Required level of reporting
+Deliverable at the lowest level of the WBS
+Activity that can be assigned to one or more organizational units
+Activity at the lowest level of the WBS@@@@@Deliverable at the lowest level of the WBS#####The WBS is used to derive all but one of the following:
+--------------------
+The project schedule baseline
+The project cost performance baseline
+The business need for the project
+The activity list@@@@@The business need for the project#####True or False: When it comes to projects, the emphasis is on strategic quality management.  Quality is not an accident, quality is part of the plan, and quality is everyone's job.
+--------------------
+True
+False@@@@@True#####The discipline of quality management complements the discipline of project management.  Both recognize the importance of:
+--------------------
+Company satisfaction,  continuous improvement, and management protocol
+Team satisfaction and inspection over prevention
+Responsibility of only the sponsor, continuous improvement, and inspection
+Customer satisfaction, prevention over inspection, continuous improvement, and management responsibility@@@@@Customer satisfaction, prevention over inspection, continuous improvement, and management responsibility#####True or False: Product quality focuses on the project management processes used to meet project objectives
+--------------------
+True
+False@@@@@False#####The Process Improvement Plan is:
+--------------------
+The number one component of the project management plan.
+a subsidiary, or component of the project management plan.@@@@@a subsidiary, or component of the project management plan.#####True or False: Performing quality assurance within the context of a project involves applying the planned, systematic quality activities to ensure that the project correctly employs all processes needed to meet project objectives and product requirements.
+--------------------
+False
+True@@@@@True#####An estimate created by looking at a similar project or activity and then adding or subtracting to or from the estimate based on the differences between the two is called:
+--------------------
+Bottoms up estimating
+Parametric estimating
+Analogous estimating
+Exact estimating@@@@@Analogous estimating#####When you have good historical information which can be used in a reliable formula or model, you will probably use:
+--------------------
+Parametric estimating
+Analogous estimating
+Exact estimating
+Bottoms up estimating@@@@@Parametric estimating#####True or False: When you are concerned that your estimates might not be correct, especially if you think they are too low, you should pad the estimate and add extra.
+--------------------
+True
+False@@@@@False#####Which one of these most correctly defines management reserve?
+--------------------
+Per our lesson, management reserve and contingency are exactly the same.
+Management reserve is tied to specific work packages.
+Management reserve is tied to a specific milestone or event.
+Management reserve is not tied to specific work packages it is for the entire project.@@@@@Management reserve is not tied to specific work packages it is for the entire project.#####You are preparing an estimate of the cost for an IT system expansion for a new branch office location. It is a very similar to the IT system expansion undertaken for a branch office that opened six months ago. Which technique might you use if you are pushed for a quick estimate?
+--------------------
+Analogous
+Bottoms up
+Parametric
+Probabilistic@@@@@Analogous#####You are building an apartment complex with four, 10,000 square foot buildings based on the same drawings you used in another city two years ago. What is the danger of estimating using the same parametric model of $50 per square foot?
+--------------------
+It will take much more time than a bottoms up estimating.
+It’s not very easy to scale.
+Historical cost relationships may no longer be applicable.
+The technical design is unstable.@@@@@Historical cost relationships may no longer be applicable.#####What description defines Bottoms Up Estimating?
+--------------------
+A technique that analyzes activities on past projects and using them as a basis for estimating costs.
+A technique that uses a mathematical model to estimate costs.
+A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail.  @@@@@A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail.  #####True or False: The Project Budget is equal to only the cost baseline budget.
+--------------------
+True
+False@@@@@False#####True or False: The S-Curve depicts the relationship between the cost baseline budget and the schedule because it shows the planned cost baseline budget across the planned project timeline.
+--------------------
+True
+False@@@@@True#####Earned value management integrates scope, cost, and schedule measures to:
+--------------------
+develop a preliminary budget.
+assess communication effectiveness among project team members.
+assess whether all requirements were met. 
+assess project performance and progress.@@@@@assess project performance and progress.#####When you schedule work in a specific order because it cannot be completed any other way this is what type of dependency?
+--------------------
+External
+Discretionary
+Mandatory
+Internal@@@@@Mandatory#####True or False: If develop online modules must be 100% completed before review online modules can begin, that is called a finish to start relationship.
+--------------------
+True
+False@@@@@True#####If develop online modules needs to finish before review online modules can finish, that is called a:
+--------------------
+Start to finish relationship.
+Finish to start relationship.
+Finish to finish relationship.
+Start to start relationship.@@@@@Finish to finish relationship.#####To calculate early start (ES) and early finish (EF) perform a:
+--------------------
+Backward pass
+Critical pass
+Forward pass
+Lateral pass@@@@@Forward pass#####True or False: The critical path is the shortest path through the network and represents the work that can be delayed without delaying the end of the project.
+--------------------
+True
+False@@@@@False#####The network diagram is the best tool for demonstrating:
+--------------------
+Schedule variances
+The sequence of project activities
+Resource requirements
+Schedule performance over time@@@@@The sequence of project activities#####All of the following are inputs to estimating activity durations except:
+--------------------
+Resource calendars and scope statement
+Requirements specifications
+Activity list and activity attributes
+Organizational process assets@@@@@Requirements specifications#####In a project schedule, the sequence of activities which cannot be delayed during the course of the project without extending the project end date is referred to as the:
+--------------------
+Schedule baseline
+Critical path
+Slack line
+Action plan@@@@@Critical path#####A significant event in a project that may indicate completion of a major phase is a/an:
+--------------------
+Activity
+Deliverable
+Work package
+Milestone@@@@@Milestone#####Once the logic of a network is laid out, the project manager will conduct a forward pass and a backward pass through the network. This will provide information regarding ______ and will identify the________.
+--------------------
+The high risk activities, non-critical path
+The slack for each activity, high risk activities
+Resource shortages, high risk activities
+The total duration of the project, critical path@@@@@The total duration of the project, critical path#####You are preparing an estimate for the cost of an IT system expansion for a new branch office location. It is a very similar to the IT system expansion undertaken for a branch office that opened six months ago. Which technique might you use if you are pushed for a quick estimate?
+--------------------
+Parametric
+Probabilistic
+Analogous
+Bottom up@@@@@Analogous#####You are building an apartment complex with four, 10,000 square foot buildings based on the same drawings you used in another city two years ago. What is the danger of estimating using the same parametric model of $50 per square foot?
+--------------------
+Historical cost relationships may no longer applicable.
+The technical design is unstable.
+It will take much more time than a bottom-up estimating.
+It’s not very easy to scale.@@@@@Historical cost relationships may no longer applicable.#####What description defines Bottom-Up Estimating?
+--------------------
+A technique that analyzes activities on past projects and using them as a basis for estimating costs.
+A technique that uses a mathematical model to estimate costs.
+A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail.@@@@@A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail.#####True or False: A project manager spends 75% of his or her time communicating.
+--------------------
+True
+False@@@@@False#####Which item would most likely NOT be part of a basic communication plan:
+--------------------
+The amount of their annual bonus.
+What they need to know.
+The best medium for the communication.
+With whom to communicate.@@@@@The amount of their annual bonus.#####Upward communication is communication to/from:
+--------------------
+Your senior management.
+Your direct reports.
+Your social groups.
+Your peers.@@@@@Your senior management.#####When you report project status you compare actual performance to:
+--------------------
+The planned performance or baseline.
+The performance of other similar projects.
+The performance of your competitors.
+The performance of previous projects.@@@@@The planned performance or baseline.#####True or False: Earned value integrates scope, schedule and budget and uses monetary values to assess project status.
+--------------------
+True
+False@@@@@True#####You are beginning to staff your project. Which of the following will not be used in developing and/or communicating roles and responsibilities?
+--------------------
+WBS
+Organization chart
+Pareto chart
+Responsibility Assignment Matrix@@@@@Pareto chart#####Which of the following is not likely to be documented in a communications management plan?
+--------------------
+How information will be communicated
+Time frame and frequency of communication
+What information will be communicated
+Person responsible for tracking risk events@@@@@Person responsible for tracking risk events#####True or False: Effective project communication management creates a bridge between stakeholders based on a shared understanding of the project and the ongoing sharing of information needed for its success.
+--------------------
+True
+False@@@@@True#####A Communications Management Plan does the following:
+--------------------
+Coordinates the communication between project leaders and uninterested project members
+Lays out a plan on how to communicate with your Project Sponsor and other organizations
+Coordinates an effort to communicate in meetings effectively
+Lays out the approach and method for delivering information effectively and efficiently.@@@@@Lays out the approach and method for delivering information effectively and efficiently.#####Who should take the most responsibility for clear and effective communication?
+--------------------
+The sender 
+The receiver
+The sender and the receiver
+The Communications Manager@@@@@The sender and the receiver#####The purpose of project risk management is to:
+--------------------
+Eliminate the likelihood or the impact of negative events or threats to your project and to decrease the likelihood or impact of positive events.
+Minimize the likelihood or the impact of negative events or threats to your project and to increase the likelihood or impact of positive events.
+Neutralize the likelihood or the impact of negative events or threats to your project and to neutralize the likelihood or impact of positive events.
+Minimize the likelihood or the impact of positive events or threats to your project and to increase the likelihood or impact of negative events.@@@@@Minimize the likelihood or the impact of negative events or threats to your project and to increase the likelihood or impact of positive events.#####True or False: A positive risk is an opportunity; a negative risk is a threat.
+--------------------
+False
+True@@@@@True#####When you and your team know that a negative risk has a high likelihood of occurring and it will be very impactful if it does:
+--------------------
+You should develop a response to handle this risk.
+You should all hope this risk does not occur.
+You should wait a few weeks and see what changes.
+You should not document the risk; it will upset your stakeholders.@@@@@You should develop a response to handle this risk.#####If the response you choose is to avoid a risk this means that:
+--------------------
+You note the risk but do not talk about it.
+You cancel the entire project.
+You simply do not consider the risk.
+You change your plans so that you eliminate the risk.@@@@@You change your plans so that you eliminate the risk.#####Once you and your team identify and assess risks and develop responses you:
+--------------------
+Have completed your risk management responsibilities.
+Pay close attention to the risks identified and do not look for new risks.
+Only update your risk register when you are preparing to share it with your stakeholders.
+Continue to identify and monitor risks for the remainder of the project.@@@@@Continue to identify and monitor risks for the remainder of the project.#####In a project context, risk is defined as:
+--------------------
+The impact of not completing the project on time and within budget.
+An uncertain event that, if it occurs, will have a negative effect on at least one project objective.
+An uncertain event that, if it occurs, will have a positive or negative effect on at least one project objective.
+The probability of an event having a positive or negative effect on at least one project objective.@@@@@An uncertain event that, if it occurs, will have a positive or negative effect on at least one project objective.#####The Risk Management Plan is a subsidiary to the __________ document.
+--------------------
+Project Scope Statement Plan
+Project Communications Plan
+Project Stakeholder Plan
+Project Management Plan@@@@@Project Management Plan#####A useful tool in identifying risks is the SWOT analysis.  What does SWOT stand for?
+--------------------
+Strengths, opportunities, winners, and threats
+Strengths, obstacles, weaknesses, and threats
+Strengths, opportunities, weaknesses, and threats
+Scope, opportunities, weaknesses, and time@@@@@Strengths, opportunities, weaknesses, and threats#####True or False: The primary output from the identification of risks is the risk register.
+--------------------
+False
+True@@@@@True#####During a risk brainstorming session a team member identifies a risk.  This particular risk does not seem to belong to any of the categories in you Risk Breakdown Structure (RBS).  How should you respond?
+--------------------
+Record the list in the risk register, discuss potential responses and make a note to update the RBS.
+Thank him for his work, but inform him that the risk cannot be included because it does not fit any of the categories defined in the RBS.
+Ignore him and move on to another risk identified by a different team member.
+Chastise him for making up risks which cannot exist because there is not a category for such risks.@@@@@Record the list in the risk register, discuss potential responses and make a note to update the RBS.#####Which one of these situations most closely represents scope creep:
+--------------------
+The scope of the project is clearly agreed upon by the key project stakeholders.
+The project scope keeps changing and team members are not sure why and the project seems like it will never end.
+The project scope changes through the use of a formal change control process.
+The project scope was used to create a WBS that was used to create estimates and a schedule.@@@@@The project scope keeps changing and team members are not sure why and the project seems like it will never end.#####True or False: Unregulated changes allow for innovation and flexibility. Regulating changes causes a lack of creativity.
+--------------------
+False
+True@@@@@False#####Which of these types of changes should be discouraged as a poor project practice:
+--------------------
+Another project team is doing similar work and is farther along than your project.
+A new way to handle a problem is discovered after scope was documented and approved.
+Stakeholders did not take the time to define scope earlier in the project.
+A team member discovers an issue and it makes good business sense to correct the issue as part of the project.@@@@@Stakeholders did not take the time to define scope earlier in the project.#####A good change process will:
+--------------------
+Be very complex in order to discourage changes.
+Have change thresholds that are appropriate for the type of change.
+Allow the project manager to approve all changes.
+Require the same level of approval for all changes.@@@@@Have change thresholds that are appropriate for the type of change.#####The purpose of capturing lessons learned is:
+--------------------
+To show stakeholders how difficult the project was so that next time their demands will not be so high.
+To document who performed well on the project and who did not so that poor performers can be punished.
+To capture what went well so that you can recreate the good and to capture what could have gone better so that next time it will go better.
+To show that you are following project management best practices and therefore you are a superior project manager.@@@@@To capture what went well so that you can recreate the good and to capture what could have gone better so that next time it will go better.#####To ensure control over the incidence and frequency of change, the project manager establishes a:
+--------------------
+Responsibility assignment matrix
+Work breakdown structure
+Work procedure schedule
+Change control process@@@@@Change control process#####Your project team is customer focused and often agrees to incorporate many small scope changes throughout the project execution. The changes are documented in an issues log. Which of the following is not a potential problem?
+--------------------
+Management of product specifications and configuration become more difficult.
+Changes may not be integrated across the whole project
+Changes with impacts on cost or time will be elevated to the Change Control Board.
+Many small changes may accumulate to create trouble for one of the project objectives.@@@@@Changes with impacts on cost or time will be elevated to the Change Control Board.#####True or False: In the context of a project, change is always a bad thing.
+--------------------
+True
+False@@@@@False#####Scope creep results in:
+--------------------
+Completion delays, decrease in costs, and increase in project complexity.
+Completion delays, escalation of costs, and increase in project complexity.
+On-time deliverables, escalation of costs, and increase in project complexity.
+Completion delays, escalation of costs, and decrease in project complexity.@@@@@Completion delays, escalation of costs, and increase in project complexity.#####A project manager can defend against scope creep with a good ___________!
+--------------------
+Procurement process
+Risk management plan
+Change control process
+Project management plan@@@@@Change control process#####A Communications Management Plan does the following:
+--------------------
+Coordinates and effort to communicate in meetings effectively
+Lays out a plan on how to communicate with your Project Sponsor and other organizations
+Lays out the approach and method for delivering information effectively and efficiently.
+Coordinates the communication between project leaders and uninterested project members@@@@@Lays out the approach and method for delivering information effectively and efficiently.#####In a project context, risk is defined as:
+--------------------
+An uncertain event that, if it occurs, will have a negative affect on at least one project objective.
+The impact of not completing the project on time and within budget.
+The probability of an event having a positive or negative affect on at least one project objective.
+An uncertain event that, if it occurs, will have a positive or negative affect on at least one project objective.@@@@@An uncertain event that, if it occurs, will have a positive or negative affect on at least one project objective.#####Which of these types of changes should be discouraged as a poor project practice:
+--------------------
+Because stakeholders did not take the time to define scope earlier in the project.
+A team member discovers an issue and it makes good business sense to correct the issue as part of the project.
+A new way to handle a problem is discovered after scope was documented and approved.
+Another project team is doing similar work and is farther along than your project.@@@@@Because stakeholders did not take the time to define scope earlier in the project.#####

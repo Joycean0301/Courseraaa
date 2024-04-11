@@ -1,0 +1,315 @@
+[
+  {
+    "Question": "True or False: The term resources only refers to people, it does not include money or materials or equipment.",
+    "Answer": [
+    	"True",
+	"False"
+    ],
+    "Correct": [
+    	"False"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "In our lessons the acronym RAM stands for:",
+    "Answer": [
+    	"Responsibility Assignment Matrix",
+	"Responsibility Accountability Matrix",
+	"Responsible Accountable Manageable",
+	"Resource Aligned Management",
+	"Resource Acquisition Management"
+    ],
+    "Correct": [
+    	"Responsibility Assignment Matrix"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "When you use the RACI or Responsible, Accountable, Consult, Inform version of the RAM, those who are responsible are:",
+    "Answer": [
+    	"Not completing the work",
+	"Completing the work",
+	"Providing subject matter expertise",
+	"Supervising the work"
+    ],
+    "Correct": [
+	"Completing the work"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "A work package is a/an:",
+    "Answer": [
+	"Deliverable at the lowest level of the WBS",
+	"Activity at the lowest level of the WBS",
+	"Activity that can be assigned to one or more organizational units",
+	"Required level of reporting"
+    ],
+    "Correct": [
+	"Deliverable at the lowest level of the WBS"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "The WBS is used to derive all but one of the following:",
+    "Answer": [
+	"The project schedule baseline",
+	"The business need for the project",
+	"The activity list",
+	"The project cost performance baseline"
+    ],
+    "Correct": [
+	"The business need for the project"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False: When it comes to projects, the emphasis is on strategic quality management.  Quality is not an accident, quality is part of the plan, and quality is everyone's job.",
+    "Answer": [
+	"False",
+	"True"
+    ],
+    "Correct": [
+	"True"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "The discipline of quality management complements the discipline of project management.  Both recognize the importance of:",
+    "Answer": [
+	"Responsibility of only the sponsor, continuous improvement, and inspection",
+	"Team satisfaction and inspection over prevention",
+	"Company satisfaction,  continuous improvement, and management protocol",
+	"Customer satisfaction, prevention over inspection, continuous improvement, and management responsibility"
+    ],
+    "Correct": [
+	"Customer satisfaction, prevention over inspection, continuous improvement, and management responsibility"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "The Process Improvement Plan is:",
+    "Answer": [
+	"a subsidiary, or component of the project management plan.",
+	"The number one component of the project management plan."
+    ],
+    "Correct": [
+	"a subsidiary, or component of the project management plan."
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "An estimate created by looking at a similar project or activity and then adding or subtracting to or from the estimate based on the differences between the two is called:",
+    "Answer": [
+	"Analogous estimating",
+	"Bottoms up estimating",
+	"Exact estimating",
+	"Parametric estimating"
+    ],
+    "Correct": [
+	"Analogous estimating"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "When you have good historical information which can be used in a reliable formula or model, you will probably use:",
+    "Answer": [
+	"Parametric estimating",
+	"Bottoms up estimating",
+	"Exact estimating",
+	"Analogous estimating"
+    ],
+    "Correct": [
+	"Parametric estimating"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False: When you are concerned that your estimates might not be correct, especially if you think they are too low, you should pad the estimate and add extra.",
+    "Answer": [
+	"False",
+	"True"
+    ],
+    "Correct": [
+	"False"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "Which one of these most correctly defines management reserve?",
+    "Answer": [
+	"Management reserve is not tied to specific work packages it is for the entire project.",
+	"Management reserve is tied to a specific milestone or event.",
+	"Per our lesson, management reserve and contingency are exactly the same.",
+	"Management reserve is tied to specific work packages."
+    ],
+    "Correct": [
+	"Management reserve is not tied to specific work packages it is for the entire project."
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "You are preparing an estimate for the cost of an IT system expansion for a new branch office location. It is a very similar to the IT system expansion undertaken for a branch office that opened six months ago. Which technique might you use if you are pushed for a quick estimate?",
+    "Answer": [
+	"Parametric",
+	"Probabilistic",
+	"Analogous",
+	"Bottom up"
+    ],
+    "Correct": [
+	"Analogous"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "You are building an apartment complex with four, 10,000 square foot buildings based on the same drawings you used in another city two years ago. What is the danger of estimating using the same parametric model of $50 per square foot?",
+    "Answer": [
+	"Historical cost relationships may no longer applicable.",
+	"The technical design is unstable.",
+	"It will take much more time than a bottom-up estimating.",
+	"It’s not very easy to scale."
+    ],
+    "Correct": [
+	"Historical cost relationships may no longer applicable."
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "What description defines Bottom-Up Estimating?",
+    "Answer": [
+	"A technique that analyzes activities on past projects and using them as a basis for estimating costs.",
+	"A technique that uses a mathematical model to estimate costs.",
+	"A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail."
+    ],
+    "Correct": [
+	"A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail."
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False: The S-Curve depicts the relationship between the cost baseline budget and the schedule because it shows the planned cost baseline budget across the planned project timeline.",
+    "Answer": [
+	"True",
+	"False"
+    ],
+    "Correct": [
+	"True"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "When you schedule work in a specific order because it cannot be completed any other way this is what type of dependency?",
+    "Answer": [
+	"Discretionary",
+	"External",
+	"Internal",
+	"Mandatory"
+    ],
+    "Correct": [
+	"Mandatory"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "If develop online modules needs to finish before review online modules can finish, that is called a:",
+    "Answer": [
+	"Start to start relationship.",
+	"Start to finish relationship.",
+	"Finish to start relationship.",
+	"Finish to finish relationship."
+    ],
+    "Correct": [
+	"Finish to finish relationship."
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "To calculate early start (ES) and early finish (EF) perform a:",
+    "Answer": [
+	"Critical pass",
+	"Lateral pass",
+	"Backward pass",
+	"Forward pass"
+    ],
+    "Correct": [
+	"Forward pass"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "True or False: The critical path is the shortest path through the network and represents the work that can be delayed without delaying the end of the project.",
+    "Answer": [
+	"False",
+	"True"
+    ],
+    "Correct": [
+	"False"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "The network diagram is the best tool for demonstrating:",
+    "Answer": [
+	"The sequence of project activities",
+	"Schedule performance over time",
+	"Resource requirements",
+	"Schedule variances"
+    ],
+    "Correct": [
+	"The sequence of project activities"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "All of the following are inputs to estimating activity durations except:",
+    "Answer": [
+	"Organizational process assets",
+	"Activity list and activity attributes",
+	"Resource calendars and scope statement",
+	"Requirements specifications"
+    ],
+    "Correct": [
+	"Requirements specifications"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "In a project schedule, the sequence of activities which cannot be delayed during the course of the project without extending the project end date is referred to as the:",
+    "Answer": [
+	"Action plan",
+	"Schedule baseline",
+	"Critical path",
+	"Slack line"
+    ],
+    "Correct": [
+	"Critical path"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "A significant event in a project that may indicate completion of a major phase is a/an:",
+    "Answer": [
+	"Deliverable",
+	"Activity",
+	"Work package",
+	"Milestone"
+    ],
+    "Correct": [
+	"Milestone"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  },
+  {
+    "Question": "Once the logic of a network is laid out, the project manager will conduct a forward pass and a backward pass through the network. This will provide information regarding ______ and will identify the________.",
+    "Answer": [
+	"The total duration of the project, critical path",
+	"The high risk activities, non-critical path",
+	"Resource shortages, high risk activities",
+	"The slack for each activity, high risk activities"
+    ],
+    "Correct": [
+	"The total duration of the project, critical path"
+    ],
+    "Title": "Back\nFinal Exam\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueApr 28, 11:59 PM PDT"
+  }
+]

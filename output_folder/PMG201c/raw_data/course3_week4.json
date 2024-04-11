@@ -1,0 +1,128 @@
+[
+  {
+    "Question": "Which one of these situations most closely represents scope creep:",
+    "Answer": [
+	"The scope of the project is clearly agreed upon by the key project stakeholders.",
+	"The project scope keeps changing and team members are not sure why and the project seems like it will never end.",
+	"The project scope changes through the use of a formal change control process.",
+	"The project scope was used to create a WBS that was used to create estimates and a schedule."
+    ],
+    "Correct": [
+	"The project scope keeps changing and team members are not sure why and the project seems like it will never end."
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+  },
+  {
+    "Question": "True or False: Unregulated changes allow for innovation and flexibility. Regulating changes causes a lack of creativity.",
+    "Answer": [
+	"False",
+	"True"
+    ],
+    "Correct": [
+	"False"
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+  },
+  {
+    "Question": "Which of these types of changes should be discouraged as a poor project practice:",
+    "Answer": [
+	"Another project team is doing similar work and is farther along than your project.",
+	"A new way to handle a problem is discovered after scope was documented and approved.",
+	"Stakeholders did not take the time to define scope earlier in the project.",
+	"A team member discovers an issue and it makes good business sense to correct the issue as part of the project."
+    ],
+    "Correct": [
+	"Stakeholders did not take the time to define scope earlier in the project."
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+  },
+  {
+    "Question": "A good change process will:",
+    "Answer": [
+	"Be very complex in order to discourage changes.",
+	"Have change thresholds that are appropriate for the type of change.",
+	"Allow the project manager to approve all changes.",
+	"Require the same level of approval for all changes."
+    ],
+    "Correct": [
+	"Have change thresholds that are appropriate for the type of change."
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+  },
+  {
+    "Question": "The purpose of capturing lessons learned is:",
+    "Answer": [
+	"To show stakeholders how difficult the project was so that next time their demands will not be so high.",
+	"To document who performed well on the project and who did not so that poor performers can be punished.",
+	"To capture what went well so that you can recreate the good and to capture what could have gone better so that next time it will go better.",
+	"To show that you are following project management best practices and therefore you are a superior project manager."
+    ],
+    "Correct": [
+	"To capture what went well so that you can recreate the good and to capture what could have gone better so that next time it will go better."
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+  },
+  {
+    "Question": "To ensure control over the incidence and frequency of change, the project manager establishes a:",
+    "Answer": [
+	"Responsibility assignment matrix",
+	"Work breakdown structure",
+	"Work procedure schedule",
+	"Change control process"
+    ],
+    "Correct": [
+	"Change control process"
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+  },
+  {
+    "Question": "Your project team is customer focused and often agrees to incorporate many small scope changes throughout the project execution. The changes are documented in an issues log. Which of the following is not a potential problem?",
+    "Answer": [
+	"Management of product specifications and configuration become more difficult.",
+	"Changes may not be integrated across the whole project",
+	"Changes with impacts on cost or time will be elevated to the Change Control Board.",
+	"Many small changes may accumulate to create trouble for one of the project objectives."
+    ],
+    "Correct": [
+	"Changes with impacts on cost or time will be elevated to the Change Control Board."
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+  },
+  {
+    "Question": "True or False: In the context of a project, change is always a bad thing.",
+    "Answer": [
+	"True",
+	"False"
+    ],
+    "Correct": [
+	"False"
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+  },
+  {
+    "Question": "Scope creep results in:",
+    "Answer": [
+	"Completion delays, decrease in costs, and increase in project complexity.",
+	"Completion delays, escalation of costs, and increase in project complexity.",
+	"On-time deliverables, escalation of costs, and increase in project complexity.",
+	"Completion delays, escalation of costs, and decrease in project complexity."
+    ],
+    "Correct": [
+	"Completion delays, escalation of costs, and increase in project complexity."
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+  },
+  {
+    "Question": "A project manager can defend against scope creep with a good ___________!",
+    "Answer": [
+	"Procurement process",
+	"Risk management plan",
+	"Change control process",
+	"Project management plan"
+    ],
+    "Correct": [
+	"Change control process"
+    ],
+    "Title": "Back\nModule 4 Quiz\n\nGraded Quiz\n.\n • 30 min\n\nEnglish\nDueFeb 18, 11:59 PM PST"
+  }
+]
