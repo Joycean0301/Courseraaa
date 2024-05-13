@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "What are the two steps that must be carried out if you want to iterate locally on a model then deploy it to the Watson Machine Learning (WML) service?",
+    "Answer": [
+      "Provision a WML service & Dockerize your model",
+      "Create a Python virtual environment & Dockerize your model",
+      "Provision cloud storage & Provision a WML service",
+      "Provision a WML service & create a Python virtual environment",
+      "Dockerize your model & Provision cloud storage"
+    ],
+    "Correct": [
+      "Provision a WML service & create a Python virtual environment"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

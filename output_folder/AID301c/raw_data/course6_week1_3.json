@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "To pass a query to an API endpoint that has been set up to run inside of a Docker container, which of the following best describes the formats that have been used in the presented deployment workflows?  ",
+    "Answer": [
+      "numpy ndarray, pandas DataFrame",
+      "JSON",
+      "JSON, flatfiles",
+      "YAML",
+      "All of the above"
+    ],
+    "Correct": [
+      "JSON"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 5 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

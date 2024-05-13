@@ -1,0 +1,17 @@
+[
+  {
+    "Question": "Which of the following is not an example of a technique used for dimensionality reduction technique?",
+    "Answer": [
+      "Latent Dirichlet allocation",
+      "Non-negative matrix factorization",
+      "Singular value decomposition",
+      "Eigenvalue decomposition",
+      "K-nearest neighbors",
+      "Principal Components Analysis"
+    ],
+    "Correct": [
+      "K-nearest neighbors"
+    ],
+    "Title": "Back\nDimensionality Reduction: Check for Understanding\n\nPractice Quiz\n.\n • 3 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

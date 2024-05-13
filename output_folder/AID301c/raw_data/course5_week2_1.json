@@ -1,0 +1,13 @@
+[
+  {
+    "Question": "True/False. The Spark ML API uses DataFrames from Spark SQL. They can hold a variety of data types with different columns for storing text including: feature vectors, truth labels, and predictions.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

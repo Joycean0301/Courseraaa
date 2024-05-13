@@ -1,0 +1,30 @@
+[
+  {
+    "Question": "Which of the following is NOT an example of assumption that you work with when making probability statements about\r a sample of data?",
+    "Answer": [
+      "A.  That there is an underlying population that your sample comes from",
+      "B.  That the population follows an assumed probability distribution",
+      "C.  That the observations in your sample are independent and identically distributed",
+      "D.  That random variables represent the possible values that the data can take",
+      "E.  That the probability statement applies to one observation at a time in a data set"
+    ],
+    "Correct": [
+      "E.  That the probability statement applies to one observation at a time in a data set"
+    ],
+    "Title": "Back\nCheck for Understanding: Hypothesis Testing\n\nPractice Quiz\n.\n • 30 min\n.\n • \n2 total points available.\n2 total points\n\nEnglish"
+  },
+  {
+    "Question": "There are many ways to carry out statistical inference.  Which one method of the following is NOT used to compute estimates in the context of statistical inference.",
+    "Answer": [
+      "A.  Null Hypothesis Significance Testing (NHST)",
+      "B.  Maximum Likelihood Estimation (MLE)",
+      "C.  Markov Chain Monte Carlo (MCMC)",
+      "D.  Expectation Maximization (EM)",
+      "E.  Simulation via Permutations"
+    ],
+    "Correct": [
+      "E.  Simulation via Permutations"
+    ],
+    "Title": "Back\nCheck for Understanding: Hypothesis Testing\n\nPractice Quiz\n.\n • 30 min\n.\n • \n2 total points available.\n2 total points\n\nEnglish"
+  }
+]

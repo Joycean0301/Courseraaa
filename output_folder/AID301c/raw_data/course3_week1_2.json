@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "Which variant of SMOTE is most appropriate when you have a mixture of categorical and continuous variables?",
+    "Answer": [
+      "KMeansSMOTE",
+      "BorderlineSMOTE",
+      "SVMSMOTE",
+      "SMOTENC",
+      "SMOTE"
+    ],
+    "Correct": [
+      "SMOTENC"
+    ],
+    "Title": "Back\nClass Imbalance, Data Bias: Check for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

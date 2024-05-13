@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "Which scikit-learn API interface would be used to carry out feature engineering with a domain expert?",
+    "Answer": [
+      "Transformer",
+      "Estimator",
+      "Fit",
+      "Predict",
+      "Pipeline"
+    ],
+    "Correct": [
+      "Transformer"
+    ],
+    "Title": "Back\nGetting Started: Check for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

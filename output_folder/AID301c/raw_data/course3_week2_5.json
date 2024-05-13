@@ -1,0 +1,102 @@
+[
+  {
+    "Question": "You are asked to build a recommendation engine for new products at an online retailer.  Which of the following features is the least likely to be a protected attribute? Recall that a protected attribute is one that may contain privileged and unprivileged classes.",
+    "Answer": [
+      "age",
+      "gender identity",
+      "race",
+      "religion",
+      "purchase history"
+    ],
+    "Correct": [
+      "purchase history"
+    ],
+    "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n • 12 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. The API for the reweighting algorithm has a number of custom methods that will require you to consult the documentation to ensure appropriate use.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n • 12 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "Which outlier detection method is known to work well on high-dimensional data?",
+    "Answer": [
+      "Random Forests",
+      "Elliptic Envelope",
+      "One Class SVM",
+      "Isolation Forest",
+      "Local Outlier Factor"
+    ],
+    "Correct": [
+      "Local Outlier Factor"
+    ],
+    "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n • 12 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. In an imbalanced dataset if the minority class represents less than 5% of all of the samples then outlier detection algorithms must be used in place of other supervised learning algorithms.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n • 12 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "Which clustering method can be readily applied to graphs?",
+    "Answer": [
+      "Gaussian mixture models",
+      "Spectral clustering",
+      "Affinity Propagation",
+      "k-means",
+      "Dirichlet process Gaussian mixture models"
+    ],
+    "Correct": [
+      "Spectral clustering"
+    ],
+    "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n • 12 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following clustering methods does not need to set the number of clusters?",
+    "Answer": [
+      "Gaussian mixture models",
+      "Spectral clustering",
+      "MiniBatch k-means",
+      "k-means",
+      "Dirichlet process Gaussian mixture models"
+    ],
+    "Correct": [
+      "Dirichlet process Gaussian mixture models"
+    ],
+    "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n • 12 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. In the clustering case study, the suggested re-sampling methods drove a major improvement in model performance.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n • 12 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. In the context of customer profiling and the AAVAIL data set it makes sense to first perform a dimension reduction technique like PCA before running the model through a clustering estimator.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n • 12 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  }
+]

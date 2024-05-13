@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "Which of the following was not mentioned as a reason to bundle unit tests with a deployed model?",
+    "Answer": [
+      "promotes code quality",
+      "regression tests",
+      "they perform the workflow feedback loops",
+      "automate performance monitoring tasks",
+      "can be readily integrated into CI/CD pipelines"
+    ],
+    "Correct": [
+      "they perform the workflow feedback loops"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 5 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

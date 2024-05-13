@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "Processing the corpus with the provided lemmatize_document reduces the total number of tokens to what percentage of the original?",
+    "Answer": [
+      "10-15%",
+      "20-35%",
+      "45-50%",
+      "70-75%",
+      "85-95%"
+    ],
+    "Correct": [
+      "45-50%"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

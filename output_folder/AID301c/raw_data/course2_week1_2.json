@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "Which of the following is an example of a data manipulation that is NOT considered reproducible research?\r",
+    "Answer": [
+      "A.  Saving classes and functions in a Python file to be called by Jupyter",
+      "B.  Code blocks in Jupyter notebooks",
+      "C.  The use of proprietary tools to carry out research",
+      "D.  Graphics, plots and other visualizations",
+      "E.  Copy and paste actions in a spreadsheet\r"
+    ],
+    "Correct": [
+      "C.  The use of proprietary tools to carry out research"
+    ],
+    "Title": "Back\nCheck for Understanding: Data Visualization\n\nPractice Quiz\n.\n • 30 min\n.\n • \n2 total points available.\n2 total points\n\nEnglish"
+  },
+  {
+    "Question": "True/False. The seaborn pairplot and other seaborn plotting functions exist as distinct tools from the plots available through matplotlib.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nCheck for Understanding: Data Visualization\n\nPractice Quiz\n.\n • 30 min\n.\n • \n2 total points available.\n2 total points\n\nEnglish"
+  }
+]

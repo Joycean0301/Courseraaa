@@ -1,0 +1,76 @@
+[
+  {
+    "Question": "Which of the following is not a valid way to pass parameter to a Spark MLlib model?",
+    "Answer": [
+      "Pass a pickle file when the model is declared",
+      "Set the named parameters directly when the model is declared",
+      "Pass a ParamMap to the .fit() method of the model",
+      "Create a ParamMap, update it then pass it to a .fit() method of the model",
+      "Pass a ParamMap to the .fit() method of a pipeline"
+    ],
+    "Correct": [
+      "Pass a pickle file when the model is declared"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. Spark MLlib has several estimators and transformers, but it lacks basic tooling for natural language processing (NLP) like the ability to make term frequency-inverse document frequency (TF-IDF) transformations.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "Which phrase most accurately reflects what is meant by the cold start problem in recommendation systems?",
+    "Answer": [
+      "A. When a new user is introduced and the recommendations are made on similarities",
+      "B. When a new item is introduced and the recommendations are made on similarities",
+      "C. When a new user is introduced and the recommendations are made on item popularity",
+      "D. When a new user or new item is introduced and the recommendations depend on popularity",
+      "E. When a new user or new item is introduced and the recommendations depend on similarities"
+    ],
+    "Correct": [
+      "E. When a new user or new item is introduced and the recommendations depend on similarities"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. Matrix factorization is commonly associated with collaborative filtering recommender systems.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "When you worked on model deployment case study, which modification to the ALS algorithm had the largest effect on model performance?\r",
+    "Answer": [
+      "The explicit training vs implicit training comparison",
+      "The lambda or regularization parameter",
+      "The epsilon or scale parameter",
+      "The l1 vs l2 comparison"
+    ],
+    "Correct": [
+      "The lambda or regularization parameter"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. The Spark collaborative filtering implementation is built by default for explict feedback, but it can be used with implicit feedback just as easily.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  }
+]

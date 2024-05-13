@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "Which of the following model is not an example of an ensemble approach to learning?",
+    "Answer": [
+      "Decision tree",
+      "Random forest",
+      "Boosting",
+      "Model stacking",
+      "Gradient boosting"
+    ],
+    "Correct": [
+      "Decision tree"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

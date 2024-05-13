@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "For credit applications, which of the following types of patterns would be the most undesirable for a supervised learning algorithm to use?",
+    "Answer": [
+      "Given salary > 50K and dept < 5K they will repay the loan",
+      "Given salary > 80K they will repay the loan",
+      "Given salary > 50K and Age > 25 and they will repay the loan",
+      "Given salary > 50K and that they reside in a metropolitan (population >100K)",
+      "Given salary > 50K and the degree name"
+    ],
+    "Correct": [
+      "Given salary > 50K and the degree name"
+    ],
+    "Title": "Back\nai360 Tutorial: Check for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "Question": "If we have a situation where false positive is not as potentially costly as a false negative say flagging comments for manual review based on suspected unlawful activity, which of the following is the best approach to consider?",
+    "Answer": [
+      "Only look at the f-score of the negative class for evaluation",
+      "Use recall as the evaluation metric",
+      "Use precision as the evaluation metric",
+      "Set beta to 0.5 in the fscore",
+      "Set beta to 2.0 in the fscore"
+    ],
+    "Correct": [
+      "Set beta to 2.0 in the fscore"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. All classifiers in scikit-learn do multi-class classification out-of-the-box. These classifiers can differ in their approach though (e.g one-vs-all or one-vs-one).",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is not an example of a generalized linear model (GLM)?\r",
+    "Answer": [
+      "ANOVA",
+      "Multinomial regression",
+      "Poisson regression",
+      "KNN regression",
+      "Logistic regression"
+    ],
+    "Correct": [
+      "KNN regression"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. Models in the generalized linear mixture model (GLMM) family like multilevel models are generally optimized using sophisticated techniques like MCMC sampling.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "When you use Watson Services like Watson Natural Language Understanding via the Python SDK, what are the three items that need to be saved? These items are generally saved on a local machine and included in scripts and notebooks as imported variables.",
+    "Answer": [
+      "service version, service API key, service JSON map",
+      "service URL, service JSON map, service API key ",
+      "service API key, service version, service URL",
+      "service version, service IAMAuthenticator, service URL",
+      "service API key, service URL, service IAMAuthenticator"
+    ],
+    "Correct": [
+      "service API key, service version, service URL"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following does not describe a feature of the Watson Natural Language Understanding service?",
+    "Answer": [
+      "Perform document classification tasks using a custom model built from text",
+      "Identify high-level concepts that aren’t necessarily directly referenced in the text",
+      "Find people, places, events, and other types of entities mentioned in your content",
+      "Recognize when two entities are related, and identify the type of relation",
+      "Analyze the sentiment toward specific target phrases and the sentiment of the document as a whole"
+    ],
+    "Correct": [
+      "Perform document classification tasks using a custom model built from text"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is not an example of a relevant question when tuning a NLP classification pipeline?",
+    "Answer": [
+      "Should I use bag-of-words or a vector embedding representation?",
+      "Which stop words do I include?",
+      "Which n-grams do I include?",
+      "Should I use a TF or a tf-idf transformation?",
+      "Should I use RMSE or MAE as an evaluation metric?"
+    ],
+    "Correct": [
+      "Should I use RMSE or MAE as an evaluation metric?"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  }
+]

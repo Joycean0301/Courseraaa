@@ -1,0 +1,74 @@
+[
+  {
+    "Question": "Which of the following are three services provided by IBM Watson OpenScale?",
+    "Answer": [
+      "Automatic CSS-HTML Generation, Hyerparameter Tuning, Performance Metrics",
+      "Compliance, Cross Regional Availabilty, Automatic Backup",
+      "Drift Monitoring, Fairness, Explainability",
+      "General Artificial Intelligence, Time Travel, World Domination"
+    ],
+    "Correct": [
+      "Drift Monitoring, Fairness, Explainability"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False.  IBM Watson OpenScale only works with models that have been built on, and deployed by, IBM Watson Stuido.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "What is Port Forwarding in Docker?\r",
+    "Answer": [
+      "The process of creating a data file on the local computer that persists after the container is closed",
+      "Sending one container to multiple nodes on a multicloud environment",
+      "Allowing data to be passed in and out of a docker container and controlling which applications can do this",
+      "Building one Docker image using another docker image as a template"
+    ],
+    "Correct": [
+      "Allowing data to be passed in and out of a docker container and controlling which applications can do this"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. The date and time of a transaction should never be logged because this will only reflect past transactions and is not relevant to the performance of predictions on an on-going basis.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "What is the purpose of kubectl in kubernetes?",
+    "Answer": [
+      "Automatic logging of requests and responses",
+      "A tool that makes it easy to run a single-node cluster locally",
+      "The primary node agent on each node, responsible for the processes running on that machine",
+      "The CLI for communicating with the kubernetes cluster"
+    ],
+    "Correct": [
+      "The CLI for communicating with the kubernetes cluster"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. A Kubernetes pod can contain multiple kubernetes deployments",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  }
+]

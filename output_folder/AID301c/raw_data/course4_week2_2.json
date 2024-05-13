@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "Which of the following neural network architectures are most-commonly used for time-series analysis?",
+    "Answer": [
+      "Multi-layer perceptron",
+      "Recurrent neural networks",
+      "Transfer learning",
+      "Convolutional neural network",
+      "Autoencoders"
+    ],
+    "Correct": [
+      "Recurrent neural networks"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

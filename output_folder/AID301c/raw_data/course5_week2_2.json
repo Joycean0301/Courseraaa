@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "Which type of recommender system is readily available in Spark Machine learning?",
+    "Answer": [
+      "Utility-based recommender systems",
+      "Collaborative-based recommender systems",
+      "Content-based recommender systems",
+      "Hybrid recommender systems",
+      "Demographics-based recommender systems"
+    ],
+    "Correct": [
+      "Collaborative-based recommender systems"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

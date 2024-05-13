@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "\rWhich of the following is not an example of an outlier detection algorithms?",
+    "Answer": [
+      "Adaptive Synthetic (ADASYN)\r",
+      "Elliptic Envelope",
+      "One Class SVM",
+      "Isolation Forest",
+      "Local Outlier Factor"
+    ],
+    "Correct": [
+      "Adaptive Synthetic (ADASYN)\r"
+    ],
+    "Title": "Back\nOutlier Detection: Check for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

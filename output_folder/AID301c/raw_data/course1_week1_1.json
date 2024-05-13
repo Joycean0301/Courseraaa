@@ -1,0 +1,125 @@
+[
+  {
+    "Question": "For a given input list: 1, 2, 3, 4\n\nCube (element to power 3) each element \n\nReturn the results as a list ",
+    "Answer": [],
+    "Correct": [],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "For a given input list: 1,2,3,4,5,6,7\n\nInspect each number in the input list and determine if it is even\n\nNext square the even values\n\nFinally return the squared evens in a list ",
+    "Answer": [],
+    "Correct": [],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is/are NOT native or built-in data types in Python?",
+    "Answer": [
+      "boolean",
+      "integer",
+      "float",
+      "heap",
+      "string",
+      "varchar"
+    ],
+    "Correct": [
+      "heap",
+      "varchar"
+    ],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "For given input lists:  a,b,c  and 1,2,3\n\nCreate a dictionary from two input lists",
+    "Answer": [],
+    "Correct": [],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Mutable data types/collections in Python can be changed in place. Immutable ones can not change\r in place. Which of the following are mutable?",
+    "Answer": [
+      "bool",
+      "int",
+      "float",
+      "set",
+      "list",
+      "string",
+      "tuple",
+      "complex"
+    ],
+    "Correct": [
+      "set",
+      "list"
+    ],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is NOT true about Python?",
+    "Answer": [
+      "Python code can run in IPython and Jupyter notebooks",
+      "Python allows for the inclusion of comments and pseudocode to better organize code",
+      "Users can save .py files with an editor then subsequently execute them from the command line",
+      "Base Python automatically parallelizes processing across cores when multiple cores are available",
+      "Python allows users to save multiple functions in a .py file then import those functions in a different file"
+    ],
+    "Correct": [
+      "Base Python automatically parallelizes processing across cores when multiple cores are available"
+    ],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "For a given input list: abbcccddddeeeeeffffffggggggghhhhhhhh\n\nReturn a dictionary of character counts\n\nCount the number of times each character appears in the string\n\nCharacters with a count of 0 should not be included in the output dictionary",
+    "Answer": [],
+    "Correct": [],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "For the vector v = [2.0, -3.5, 5.1]:\n\nFind the L1 norm of v\n\nReturn the result as a float",
+    "Answer": [],
+    "Correct": [],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "NumPy array practice\n\nCreate a vector that starts at 1 and increases until 150\n\nTurn the vector into a matrix with 10 rows and 15 columns\n\nReturn the sums for the 10 rows as a list.  HINT: there should be ten values for the printed sum\n\nUse the following input vector values: vectorLower = 1; vectorUpper = 151",
+    "Answer": [],
+    "Correct": [],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following pairs of events are mutually exclusive. There can be more than one answer.",
+    "Answer": [
+      "Odd numbers and the number 3",
+      "Even numbers and numbers greater than 10",
+      "Negative numbers and positive numbers less than 25",
+      "Numbers between 100-200 and numbers between 201-300",
+      "None of the above"
+    ],
+    "Correct": [
+      "Negative numbers and positive numbers less than 25",
+      "Numbers between 100-200 and numbers between 201-300"
+    ],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Geometric distribution\n\nThe geometric distribution is a useful tool for modeling time to event data.  A successful street vendor says that on average 1 out of every 10 people who walk by on the street stop to buy a taco.\n\nRepresent these data with a geometric distribution\n\nWhat is the probability that the vendor has to wait until 20 people walk buy before someone buys a taco?",
+    "Answer": [],
+    "Correct": [],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Poisson distribution\n\nThe Poisson distribution is a useful tool for modeling count data given discrete intervals. Based on historical data the expected number of accidents at a busy intersection is 4 per month.\n\nRepresent these data with a Poisson distribution\n\nWhat is the probability of more than 7 accidents at that intersection next month?",
+    "Answer": [],
+    "Correct": [],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Gaussian distribution\n\nThe Gaussian or Normal distribution is use heavily throughout statistics and data science. Lets assume scores for this assessment have a mean of 50% and a standard deviation of 20%.\n\nRepresent these data with a Normal distribution\n\nWhat is the probability of observing a score >= 80?\n\nUse 50.0, 20.0, and 80 for your input values",
+    "Answer": [],
+    "Correct": [],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Perform matrix multiplication on a square matrix HINT: A 2X2 matrix times a 2x2 matrix should yield a 2x2 matrix",
+    "Answer": [],
+    "Correct": [],
+    "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n • 1h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Question": "There are many established methods from the literature that may be used to analyze time-series data. Classical machine learning techniques can also be used, but which of the following is the most important caveat to keep in mind when employing this approach?",
+    "Answer": [
+      "You cannot use scikit-learn to combine multiple predictions",
+      "The data cannot be feature engineered to help identify features that are needed by the model to detect trends",
+      "There is no simple way to do a train/test split of the data",
+      "Significant computational resources are generally required",
+      "A specialized strategy that uses recursion (for example) or multiple models must be employed for multipoint forecasting"
+    ],
+    "Correct": [
+      "A specialized strategy that uses recursion (for example) or multiple models must be employed for multipoint forecasting"
+    ],
+    "Title": "Back\nCapstone - Part 2 Quiz\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  },
+  {
+    "Question": "When the data are pivoted and summarized across days which of the following features were the most difficult to include as a summarized or engineered feature?",
+    "Answer": [
+      "revenue",
+      "stream_views",
+      "stream_ids",
+      "purchases",
+      "customer_id"
+    ],
+    "Correct": [
+      "customer_id"
+    ],
+    "Title": "Back\nCapstone - Part 2 Quiz\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  },
+  {
+    "Question": "The time-series plots using a day time interval for revenue, purchases and total_views revealed many similarities. Which part of the year indicated a trend for the highest level of activity?",
+    "Answer": [
+      "January-February",
+      "April-May",
+      "November-December",
+      "June-July",
+      "September-October"
+    ],
+    "Correct": [
+      "November-December"
+    ],
+    "Title": "Back\nCapstone - Part 2 Quiz\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  }
+]

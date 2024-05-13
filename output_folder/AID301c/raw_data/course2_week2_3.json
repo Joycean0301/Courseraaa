@@ -1,0 +1,69 @@
+[
+  {
+    "Question": "Which of the following is the least valid statement when it comes to dashboards?",
+    "Answer": [
+      "A. Dashboards are an easy way to share summaries and findings",
+      "\rB.  Dashboards have interactive functionality that helps create a rich experience for the user",
+      "C.  Dashboards are generally used after serveral iterations of the AI workflow",
+      "D.  Dashboards are quick way to create portable simple plots",
+      "E.  Dashboards can be used to tell the story of investigative visualizations"
+    ],
+    "Correct": [
+      "D.  Dashboards are quick way to create portable simple plots"
+    ],
+    "Title": "Back\nData Investigation Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "A data scientist at Company Z sorted the survey responses by whether the respondents used Product 1 or Product 2 and then compiled their ages:  \n\n1\n2\n3\n4\n5\np1_ages = [25., 32., 20., 18., 28., 32., 31., 19., 34., 34., 23., 29., 17.,\n           23., 25., 31., 32., 29., 29., 24., 22., 28., 26., 24., 23.]\n \np2_ages = [20., 25., 27., 19., 22., 26., 24., 27., 24., 20., 25., 28., 18.,\n           19., 23., 28., 19., 19., 19., 25., 29., 26., 23., 23., 22.]\n\nOf the hypothesis test discussed in these contents what one is the most appropriate for testing the following hypothesis?\n\nThere is no age difference, on average, between the users of product 1 and the users of product 2",
+    "Answer": [
+      "(A)  A 1-sample t-test",
+      "(B)  A 2-sample t-test assuming equal variance",
+      "(C)  Z-Test with continuity correction",
+      "(D)  A 2-sample unequal variances t-test",
+      "(E)  Binomial Test"
+    ],
+    "Correct": [
+      "(D)  A 2-sample unequal variances t-test"
+    ],
+    "Title": "Back\nData Investigation Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "Suppose that on average 2.5% of visitors to your website sign up for your newsletter. In a recent week, 2701 visitors out of a total of 108879 signed up.\n\nUsing a binomial distribution. What is the probability that number of visitors who signed up is 2701 or fewer?",
+    "Answer": [
+      "A.  0.125",
+      "B.  0.346",
+      "C.  0.414",
+      "D.  0.007",
+      "E.  0.015"
+    ],
+    "Correct": [
+      "B.  0.346"
+    ],
+    "Title": "Back\nData Investigation Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. If there customer churn were quantified using a Poisson distribution, then a bootstrap could be used to quantify the uncertainty associated with the estimate.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nData Investigation Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is NOT and example of a valid strategy to deal with the multiple comparisons problem?",
+    "Answer": [
+      "A.  Benjamini/Hochberg correction based on False discovery Rates",
+      "B.  Create a null distribution using permutations to help provide context",
+      "C.  Perform all comparisons then only keep the single test that performs the best",
+      "D.  If appropriate use an alternative modeling framework like generalized linear models",
+      "E.  Bonferroni Correction"
+    ],
+    "Correct": [
+      "C.  Perform all comparisons then only keep the single test that performs the best"
+    ],
+    "Title": "Back\nData Investigation Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  }
+]

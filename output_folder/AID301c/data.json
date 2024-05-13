@@ -1,0 +1,1705 @@
+[
+    {
+        "Question": "Which of the following is/are NOT\u00a0native or built-in data types in Python?",
+        "Answer": [
+            "boolean",
+            "integer",
+            "float",
+            "heap",
+            "string",
+            "varchar"
+        ],
+        "Correct": [
+            "heap",
+            "varchar"
+        ],
+        "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a01h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Mutable data types/collections in Python can be changed in place. Immutable ones can not change\r in place. Which of the following are mutable?",
+        "Answer": [
+            "bool",
+            "int",
+            "float",
+            "set",
+            "list",
+            "string",
+            "tuple",
+            "complex"
+        ],
+        "Correct": [
+            "set",
+            "list"
+        ],
+        "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a01h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is NOT true about Python?",
+        "Answer": [
+            "Python code can run in IPython and Jupyter notebooks",
+            "Python allows for the inclusion of comments and pseudocode to better organize code",
+            "Users can save .py files with an editor then subsequently execute them from the command line",
+            "Base Python automatically parallelizes processing across cores when multiple cores are available",
+            "Python allows users to save multiple functions in a .py file then import those functions in a different file"
+        ],
+        "Correct": [
+            "Base Python automatically parallelizes processing across cores when multiple cores are available"
+        ],
+        "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a01h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following pairs of events are\u00a0mutually exclusive. There can be more than one answer.",
+        "Answer": [
+            "Odd numbers and the number 3",
+            "Even numbers and numbers greater than 10",
+            "Negative numbers and positive numbers less than 25",
+            "Numbers between 100-200 and numbers between 201-300",
+            "None of the above"
+        ],
+        "Correct": [
+            "Negative numbers and positive numbers less than 25",
+            "Numbers between 100-200 and numbers between 201-300"
+        ],
+        "Title": "Back\nReadiness Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a01h\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "If you were to munge the data into a\u00a0pandas.DataFrame\u00a0which of the following would describe a reasonable goal for the cleaning process?",
+        "Answer": [
+            "customer on the rows and items like total_sales, name, most_bought on the columns",
+            "daily revenue on the rows items like customer_name and total on the columns",
+            "transactions on the rows and items like customer_name and item_id on the columns",
+            "None of the above"
+        ],
+        "Correct": [
+            "transactions on the rows and items like customer_name and item_id on the columns"
+        ],
+        "Title": "Back\nProcess Models & Design Thinking: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a02 min\n.\n\u00a0\u2022\u00a0\n3 total points available.\n3 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which types of programming tasks best describes what you are expected to already have some familiarity with before beginning this course?",
+        "Answer": [
+            "dashboarding, high performance computing, and code profiling",
+            "numeric computing, data munging, data visualization and data modeling",
+            "convex optimization, python programming, statistical programming",
+            "continuous integration, linear programming, and data exploration"
+        ],
+        "Correct": [
+            "numeric computing, data munging, data visualization and data modeling"
+        ],
+        "Title": "Back\nProcess Models, Design Thinking, and Introduction: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Though the emphasis may change, which two elements are both essential and common to all three process models we talked about?",
+        "Answer": [
+            "prediction, recommendation",
+            "data mining, data cleaning",
+            "resolve the business question, feedback loops",
+            "testing, model deployment"
+        ],
+        "Correct": [
+            "resolve the business question, feedback loops"
+        ],
+        "Title": "Back\nProcess Models, Design Thinking, and Introduction: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Is the following statement True/False?  To succeed in this course you are expected to be proficient in any one of the following: R, Python or Java.",
+        "Answer": [
+            "TRUE",
+            "FALSE"
+        ],
+        "Correct": [
+            "FALSE"
+        ],
+        "Title": "Back\nProcess Models, Design Thinking, and Introduction: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is the least accurate statement about the advantages of using process models in data science? Process models generally help by...",
+        "Answer": [
+            "avoiding unnecessary tangents",
+            "speeding up the process of getting through the workflow",
+            "minimizing the model selection process",
+            "guiding effective time allocation"
+        ],
+        "Correct": [
+            "speeding up the process of getting through the workflow"
+        ],
+        "Title": "Back\nProcess Models, Design Thinking, and Introduction: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Is the following statement True/False?\r  Design thinking is applied in other domains which helps make the task of communicating the AI workflow to those outside of data science easier.",
+        "Answer": [
+            "TRUE",
+            "FALSE"
+        ],
+        "Correct": [
+            "TRUE"
+        ],
+        "Title": "Back\nProcess Models, Design Thinking, and Introduction: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "It is day one on the job and you need to come up with a plan\u2014how do you begin?",
+        "Answer": [
+            "Gather what data you can quickly and perform some EDA to understand the problem better",
+            "Plan to interview or study reviews of both satisfied and dissatisfied subscribers as soon as possible",
+            "Get the perspective from management and follow the leads they might provide",
+            "Something else entirely"
+        ],
+        "Correct": [
+            "Gather what data you can quickly and perform some EDA to understand the problem better"
+        ],
+        "Title": "Back\nBusiness Opportunities: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points\n\nEnglish"
+    },
+    {
+        "Question": "In order to come up with the back-of-the-envelope ROI calculation for this project, how might you approach it?",
+        "Answer": [
+            "A.  Number of active users X Yearly payment",
+            "B.  Number of active users X monthly payment X % increase of users (assumption)",
+            "C.  Yearly costs X (number of users at month 2 - number of currently active users)",
+            "D.  Number of active users X Yearly payment - estimate for cost of project time"
+        ],
+        "Correct": [
+            "D.  Number of active users X Yearly payment - estimate for cost of project time"
+        ],
+        "Title": "Back\nBusiness Opportunities: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points\n\nEnglish"
+    },
+    {
+        "Question": "Thinking with the lens of the scientific process, what would your next steps be if you wanted to decide where to open the next store for your sled business?",
+        "Answer": [
+            "Start pulling sales and other data to create a business viability assessment for Vermont",
+            "Gather more data and repeat the snowfall experiment",
+            "Gather different data say snowfall by county and repeat the experiment",
+            "Start a business viability assessment for all three states"
+        ],
+        "Correct": [
+            "Gather different data say snowfall by county and repeat the experiment"
+        ],
+        "Title": "Back\nScientific Thinking for Business: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "When embarking on a data science project, why do you ultimately want to format your data so that it can be housed in something like a Pandas DataFrame or NumPy Array?",
+        "Answer": [
+            "DataFrames/Arrays most closely resemble tables in relational databases.",
+            "DataFrames/Arrays are the only structures in Python capable of holding significant amounts of data.",
+            "Nearly all modeling algorithms take input data in a tabular format analogous to format of DataFrames/Arrays.",
+            "All of the above"
+        ],
+        "Correct": [
+            "Nearly all modeling algorithms take input data in a tabular format analogous to format of DataFrames/Arrays."
+        ],
+        "Title": "Back\nGathering Data: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Lets imagine there is a start-up that has a speech-to-text service that incorporates gestures and body language into its output. Which of the following products represents the most defensible business opportunity.",
+        "Answer": [
+            "Offer a service that hooks into streaming video and predicts the emotional state of people in the videos",
+            "Create an app that allows job interviewers to get additional information about candidates",
+            "Create a new and improved conferencing app",
+            "Create a service that improves on existing audio recognition systems as a richer interface to mobile devices"
+        ],
+        "Correct": [
+            "Create a service that improves on existing audio recognition systems as a richer interface to mobile devices"
+        ],
+        "Title": "Back\nData Collection: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Lets imagine there is a start-up that has a speech-to-text service that incorporates gestures and body language into its output.  They offer annotated meeting reports as a product and customers are generally very satisfied, but sales to new customers tend to be very slow to acquire.  Which of the following business opportunities should be the highest priority?",
+        "Answer": [
+            "Develop and delivery new products to existing customers",
+            "Develop new products and target new customers",
+            "Use customer segmentation and/or market analysis to help marketing with new customers",
+            "Use customer segmentation and/or market analysis to move into a different market"
+        ],
+        "Correct": [
+            "Use customer segmentation and/or market analysis to help marketing with new customers"
+        ],
+        "Title": "Back\nData Collection: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Your company is convinced it is time to change the nature of your companies core product and management has come to ask your advise. Which question DOES NOT exemplify scientific thinking in this situation?",
+        "Answer": [
+            "Do we have any data like a corpus of customer feedback to support this decision?",
+            "Can we run an experiment like A/B testing to see if it helps support this decision?",
+            "Which members of leadership support this decision?",
+            "Have any other companies been successful making a comparable change?"
+        ],
+        "Correct": [
+            "Which members of leadership support this decision?"
+        ],
+        "Title": "Back\nData Collection: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Is the following statement true or false?\r  CSV files are one of the most commonly used file formats for data science because file input/output is easy they are plain-text, and they work well with commonly used spreadsheet tools.",
+        "Answer": [
+            "TRUE",
+            "FALSE"
+        ],
+        "Correct": [
+            "TRUE"
+        ],
+        "Title": "Back\nData Collection: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following DOES NOT represent a valid relational database to connector relationship?",
+        "Answer": [
+            "MySQL --> MySQL-python",
+            "PostgreSQL --> psycopg/psycopg2",
+            "SQLite --> sqlite3",
+            "Berkeley DB --> bsddb"
+        ],
+        "Correct": [
+            "Berkeley DB --> bsddb"
+        ],
+        "Title": "Back\nData Collection: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which tasks should be included in a data ingestion pipeline?  (Choose one or more)",
+        "Answer": [
+            "A.  Account for missing data, faulty data, repeated observations and other data integrity issues",
+            "B.  Ensure that expected data is returned given a specific set of parameters",
+            "C.  Ensure that an expected format is returned",
+            "D.  Ensure that models produce expected results"
+        ],
+        "Correct": [
+            "A.  Account for missing data, faulty data, repeated observations and other data integrity issues",
+            "C.  Ensure that an expected format is returned"
+        ],
+        "Title": "Back\nIngesting Data: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a03 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points\n\nEnglish"
+    },
+    {
+        "Question": "Sparse matrices can be useful as a target destination for ETL, but what are the main caveats (choose one or more)?",
+        "Answer": [
+            "A.  You cannot convert directly from a\u00a0numpy.array\u00a0to any of the\u00a0scipy.sparse\u00a0matrices ",
+            "B.  NumPy linear algebra functions generally cannot be called directly",
+            "C.  Saving to disk is not possible directly from a scipy.sparse format",
+            "D.  The train test splits need to be performed by hand with scipy.sparse matrices",
+            "E.  It is difficult to print to screen scipy.sparse matrices directly"
+        ],
+        "Correct": [
+            "A.  You cannot convert directly from a\u00a0numpy.array\u00a0to any of the\u00a0scipy.sparse\u00a0matrices ",
+            "C.  Saving to disk is not possible directly from a scipy.sparse format"
+        ],
+        "Title": "Back\nIngesting Data: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a03 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which types of data generally work well with sparse matrices?",
+        "Answer": [
+            "word counts, time-series data",
+            "audio files, images",
+            "word counts, user-item matrix for recommendations",
+            "text data, audio files"
+        ],
+        "Correct": [
+            "word counts, user-item matrix for recommendations"
+        ],
+        "Title": "Back\nData Ingestion: End of Module Quiz\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Is the following statement True or False?\r  Sparse matrices from SciPy need to be transformed into a dense matrix before using scikit-learns train-test-split function?",
+        "Answer": [
+            "TRUE",
+            "FALSE"
+        ],
+        "Correct": [
+            "FALSE"
+        ],
+        "Title": "Back\nData Ingestion: End of Module Quiz\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Which fundamental part of the data ingestion process is concerned with to the phrase \"bad data in equals bad data out\"?",
+        "Answer": [
+            "Gather all relevant data from the sources of provided data",
+            "Implement several checks for quality assurance",
+            "Take the initial steps towards automation of the ingestion pipeline"
+        ],
+        "Correct": [
+            "Implement several checks for quality assurance"
+        ],
+        "Title": "Back\nData Ingestion: End of Module Quiz\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is most concerned with ensuring deployed models scale well with added users?",
+        "Answer": [
+            "data scientist",
+            "data analysts",
+            "data engineer",
+            "product manager"
+        ],
+        "Correct": [
+            "data engineer"
+        ],
+        "Title": "Back\nData Ingestion: End of Module Quiz\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is statements is the least correct in the context of the EDA process",
+        "Answer": [
+            "A.  EDA is used to provide summary level insight into a dataset",
+            "B.  EDA consists of both exploratory and confirmatory data analysis",
+            "C.  EDA can be used to discover missing data, outliers and class inbalance issues",
+            "D.  The EDA process can be used to help predict time to completion for a project",
+            "E.  The EDA process is an ideal time to explore the connection between the data and the business opportunity"
+        ],
+        "Correct": [
+            "D.  The EDA process can be used to help predict time to completion for a project"
+        ],
+        "Title": "Back\nCheck for Understanding: EDA\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is an example of a data manipulation that is NOT considered reproducible research?\r",
+        "Answer": [
+            "A.  Saving classes and functions in a Python file to be called by Jupyter",
+            "B.  Code blocks in Jupyter notebooks",
+            "C.  The use of proprietary tools to carry out research",
+            "D.  Graphics, plots and other visualizations",
+            "E.  Copy and paste actions in a spreadsheet\r"
+        ],
+        "Correct": [
+            "C.  The use of proprietary tools to carry out research"
+        ],
+        "Title": "Back\nCheck for Understanding: Data Visualization\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points\n\nEnglish"
+    },
+    {
+        "Question": "True/False. The seaborn pairplot and other seaborn plotting functions exist as distinct tools from the plots available through matplotlib.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nCheck for Understanding: Data Visualization\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points\n\nEnglish"
+    },
+    {
+        "Question": "In the continuing AAVAIL streaming case study example, one of the data features that can be useful in answering questions about customer churn is the total number of streams that a customer has watched. Imagine that you are working with a dataset where 10% of customers are missing this feature. A good place to start would be to go back and see if it\u2019s possible to gather this information from the user logs, but assuming that this initiative is unsuccessful, you will have to decide what to do about this missing data. Which course of action is\u00a0LEAST\u00a0likely to be helpful in modeling churn?",
+        "Answer": [
+            "A.  Replace the missing stream count with the mean stream count among users where this information is available.",
+            "B.  Replace the missing stream count with a -1 to flag that it is unknown for a given user.",
+            "C.  Use the other features in the dataset in a model to predict the missing stream counts."
+        ],
+        "Correct": [
+            "C.  Use the other features in the dataset in a model to predict the missing stream counts."
+        ],
+        "Title": "Back\nCheck for Understanding: Missing Data\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points\n\nEnglish"
+    },
+    {
+        "Question": "What is the main reason for using multiple imputation?",
+        "Answer": [
+            "A.  Multiple imputation is necessary when more than one feature in the training data has missing values.",
+            "B.  Multiple imputation is a way to increase the size of your training dataset.",
+            "C.  Multiple imputation helps to better characterize the error introduced by replacing missing/unknown data with some chosen values."
+        ],
+        "Correct": [
+            "C.  Multiple imputation helps to better characterize the error introduced by replacing missing/unknown data with some chosen values."
+        ],
+        "Title": "Back\nCheck for Understanding: Missing Data\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is\u00a0NOT\u00a0normally a part of the EDA process",
+        "Answer": [
+            "Visual summaries of the data",
+            "Connecting the data to the business opportunity",
+            "Communication to stakeholders",
+            "Predictive linear or logistic regression"
+        ],
+        "Correct": [
+            "Predictive linear or logistic regression"
+        ],
+        "Title": "Back\nData Analysis Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. The software engineering best practice of saving a maximum amount of code in text files for management under version control has become the norm in data science",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nData Analysis Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "The three types of missingss discussed during this module were:",
+        "Answer": [
+            "A.  MRAR, MAR, MCAR",
+            "B.  MNAR, MRAR, MCAR",
+            "C.  MNAR, MAR, MARC",
+            "D.  MAR, MRAR, MCAR",
+            "E.  MCAR, MNAR, MAR"
+        ],
+        "Correct": [
+            "E.  MCAR, MNAR, MAR"
+        ],
+        "Title": "Back\nData Analysis Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which statement is the least true about using Jupyter notebooks in the context of EDA",
+        "Answer": [
+            "A.  They naturally lend themselves to version control systems",
+            "B.  They can be ported from one environment to another easily",
+            "C.  They are helpful because a mixture of code and markdown enables storytelling",
+            "D.  They are integrated with the plotting library matplotlib",
+            "E.  They are integrated with the data manipulation library pandas"
+        ],
+        "Correct": [
+            "A.  They naturally lend themselves to version control systems"
+        ],
+        "Title": "Back\nData Analysis Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is NOT an example of assumption that you work with when making probability statements about\r a sample of data?",
+        "Answer": [
+            "A.  That there is an underlying population that your sample comes from",
+            "B.  That the population follows an assumed probability distribution",
+            "C.  That the observations in your sample are independent and identically distributed",
+            "D.  That random variables represent the possible values that the data can take",
+            "E.  That the probability statement applies to one observation at a time in a data set"
+        ],
+        "Correct": [
+            "E.  That the probability statement applies to one observation at a time in a data set"
+        ],
+        "Title": "Back\nCheck for Understanding: Hypothesis Testing\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points\n\nEnglish"
+    },
+    {
+        "Question": "There are many ways to carry out statistical inference.  Which one method of the following is NOT used to compute estimates in the context of statistical inference.",
+        "Answer": [
+            "A.  Null Hypothesis Significance Testing (NHST)",
+            "B.  Maximum Likelihood Estimation (MLE)",
+            "C.  Markov Chain Monte Carlo (MCMC)",
+            "D.  Expectation Maximization (EM)",
+            "E.  Simulation via Permutations"
+        ],
+        "Correct": [
+            "E.  Simulation via Permutations"
+        ],
+        "Title": "Back\nCheck for Understanding: Hypothesis Testing\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n2 total points available.\n2 total points\n\nEnglish"
+    },
+    {
+        "Question": "Company Z sent out a user satisfaction survey to its customers that included some demographic questions. They want to determine if there is a difference in the age among users of Product 1 versus users of Product 2 (at least among the survey respondents). Which of the following is an appropriate null hypothesis for this study?",
+        "Answer": [
+            "A.  Users of Product 1 are on average older than users of Product 2.",
+            "B.  Users of Product 1 are on average younger than users of Product 2.",
+            "C.  Users of Product 1 and Product 2 are on average the same age."
+        ],
+        "Correct": [
+            "C.  Users of Product 1 and Product 2 are on average the same age."
+        ],
+        "Title": "Back\nCheck for Understanding: Hypothesis Testing Limitations\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is the least valid statement when it comes to dashboards?",
+        "Answer": [
+            "A. Dashboards are an easy way to share summaries and findings",
+            "\rB.  Dashboards have interactive functionality that helps create a rich experience for the user",
+            "C.  Dashboards are generally used after serveral iterations of the AI workflow",
+            "D.  Dashboards are quick way to create portable simple plots",
+            "E.  Dashboards can be used to tell the story of investigative visualizations"
+        ],
+        "Correct": [
+            "D.  Dashboards are quick way to create portable simple plots"
+        ],
+        "Title": "Back\nData Investigation Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "A data scientist at Company Z sorted the survey responses by whether the respondents used Product 1 or Product 2 and then compiled their ages:  \n\n1\n2\n3\n4\n5\np1_ages\u00a0=\u00a0[25.,\u00a032.,\u00a020.,\u00a018.,\u00a028.,\u00a032.,\u00a031.,\u00a019.,\u00a034.,\u00a034.,\u00a023.,\u00a029.,\u00a017.,\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a023.,\u00a025.,\u00a031.,\u00a032.,\u00a029.,\u00a029.,\u00a024.,\u00a022.,\u00a028.,\u00a026.,\u00a024.,\u00a023.]\n\u00a0\np2_ages\u00a0=\u00a0[20.,\u00a025.,\u00a027.,\u00a019.,\u00a022.,\u00a026.,\u00a024.,\u00a027.,\u00a024.,\u00a020.,\u00a025.,\u00a028.,\u00a018.,\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a019.,\u00a023.,\u00a028.,\u00a019.,\u00a019.,\u00a019.,\u00a025.,\u00a029.,\u00a026.,\u00a023.,\u00a023.,\u00a022.]\n\nOf the hypothesis test discussed in these contents what one is the most appropriate for testing the following hypothesis?\n\nThere is no age difference, on average, between the users of product 1 and the users of product 2",
+        "Answer": [
+            "(A)  A 1-sample t-test",
+            "(B)  A 2-sample t-test assuming equal variance",
+            "(C)  Z-Test with continuity correction",
+            "(D)  A 2-sample unequal variances t-test",
+            "(E)  Binomial Test"
+        ],
+        "Correct": [
+            "(D)  A 2-sample unequal variances t-test"
+        ],
+        "Title": "Back\nData Investigation Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Suppose that on average 2.5% of visitors to your website sign up for your newsletter. In a recent week, 2701 visitors out of a total of 108879 signed up.\n\nUsing a binomial distribution. What is the probability that number of visitors who signed up is 2701\u00a0or fewer?",
+        "Answer": [
+            "A.  0.125",
+            "B.  0.346",
+            "C.  0.414",
+            "D.  0.007",
+            "E.  0.015"
+        ],
+        "Correct": [
+            "B.  0.346"
+        ],
+        "Title": "Back\nData Investigation Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. If there customer churn were quantified using a Poisson distribution, then a bootstrap could be used to quantify the uncertainty associated with the estimate.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nData Investigation Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is\u00a0NOT\u00a0and example of a valid strategy to deal with the multiple comparisons problem?",
+        "Answer": [
+            "A.  Benjamini/Hochberg correction based on False discovery Rates",
+            "B.  Create a null distribution using permutations to help provide context",
+            "C.  Perform all comparisons then only keep the single test that performs the best",
+            "D.  If appropriate use an alternative modeling framework like generalized linear models",
+            "E.  Bonferroni Correction"
+        ],
+        "Correct": [
+            "C.  Perform all comparisons then only keep the single test that performs the best"
+        ],
+        "Title": "Back\nData Investigation Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a05 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Which scikit-learn API interface would be used to carry out feature engineering with a domain expert?",
+        "Answer": [
+            "Transformer",
+            "Estimator",
+            "Fit",
+            "Predict",
+            "Pipeline"
+        ],
+        "Correct": [
+            "Transformer"
+        ],
+        "Title": "Back\nGetting Started: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Which variant of SMOTE is most appropriate when you have a mixture of categorical and continuous variables?",
+        "Answer": [
+            "KMeansSMOTE",
+            "BorderlineSMOTE",
+            "SVMSMOTE",
+            "SMOTENC",
+            "SMOTE"
+        ],
+        "Correct": [
+            "SMOTENC"
+        ],
+        "Title": "Back\nClass Imbalance, Data Bias: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is not an example of a technique used for dimensionality reduction technique?",
+        "Answer": [
+            "Latent Dirichlet allocation",
+            "Non-negative matrix factorization",
+            "Singular value decomposition",
+            "Eigenvalue decomposition",
+            "K-nearest neighbors",
+            "Principal Components Analysis"
+        ],
+        "Correct": [
+            "K-nearest neighbors"
+        ],
+        "Title": "Back\nDimensionality Reduction: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a03 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "When printing the most representative words from each topic what\u00a0best\u00a0describes the insight we gain?",
+        "Answer": [
+            "The top words in each topic correspond to the most frequently used words in the corpus",
+            "The topics are defined by their representative words and the document is a mixture of these topics",
+            "Documents have topics and the words describe the corpus",
+            "The words make up the document and the topics describe the words",
+            "Topics are latent features and the top words describe the average document"
+        ],
+        "Correct": [
+            "Topics are latent features and the top words describe the average document"
+        ],
+        "Title": "Back\nCASE STUDY - Topic Modeling: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "The\u00a0.fit_transform\u00a0method corresponds to which scikit-learn interface(s)? Choose one answer. ",
+        "Answer": [
+            "Transformer, Estimator, Predictor",
+            "Transformer, Estimator",
+            "Estimator, Predictor",
+            "Transformer",
+            "Transformer, Predictor"
+        ],
+        "Correct": [
+            "Transformer, Estimator"
+        ],
+        "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. A principal reason for emphasizing the use of pipelines in the AI workflow is to have a consistent platform that enables comparison of many variants of the workflow.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements describes the best strategy to address class imbalance?",
+        "Answer": [
+            "If there is a lot of data just use under-sampling otherwise use outlier detection algorithms.\r",
+            "Determine the best variant of SMOTE by comparisons and use it.",
+            "Continue to collect data until you have balanced classes.",
+            "Use an outlier detection algorithm or SVM instead of a re-sampling technique.",
+            "Compare re-sampling approaches to a baseline and to detection algorithms."
+        ],
+        "Correct": [
+            "Compare re-sampling approaches to a baseline and to detection algorithms."
+        ],
+        "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements is not a feature of the package imbalanced-learn imbalance?",
+        "Answer": [
+            "Has a suite of over and under-sampling methods implemented",
+            "Works with TensorFlow",
+            "Has a number of tutorials to work from",
+            "Has outlier detection algorithm packaged as part of library",
+            "Works with scikit-learn pipelines"
+        ],
+        "Correct": [
+            "Has outlier detection algorithm packaged as part of library"
+        ],
+        "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following statements does\u00a0not\u00a0describe valid use case for dimensionality reduction?",
+        "Answer": [
+            "Principal components analysis to process images used in classification.",
+            "Non-negative matrix factorization to resolve topics from a corpus of words.",
+            "t-distributed stochastic neighbor embedding to visualize the results of a clustering algorithm.",
+            "Using an ANOVA to select a subset of features",
+            "Down-sampling of the majority class"
+        ],
+        "Correct": [
+            "Down-sampling of the majority class"
+        ],
+        "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. tSNE is a reasonable alternative to PCA because it describes a wider variety of structures. However, it is still recommended to use another dimensionality reduction method, like PCA if the number of features is very high.  ",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which statement best describes why visualization of topics can have an impact on the business opportunity?",
+        "Answer": [
+            "Because sharing with domain experts might enable topic-specific feature engineering",
+            "Because visual inspection can help choose the number of topics",
+            "Because we are able to see the top words with each topic",
+            "Because we are able to see the relative importance of each topic across the corpus",
+            "Because domain experts can visually inspect the validity of the topics"
+        ],
+        "Correct": [
+            "Because sharing with domain experts might enable topic-specific feature engineering"
+        ],
+        "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "For credit applications, which of the following types of patterns would be the most undesirable for a supervised learning algorithm to use?",
+        "Answer": [
+            "Given salary > 50K and dept < 5K they will repay the loan",
+            "Given salary > 80K they will repay the loan",
+            "Given salary > 50K and Age > 25 and they will repay the loan",
+            "Given salary > 50K and that they reside in a metropolitan (population >100K)",
+            "Given salary > 50K and the degree name"
+        ],
+        "Correct": [
+            "Given salary > 50K and the degree name"
+        ],
+        "Title": "Back\nai360 Tutorial: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "\rWhich of the following is not an example of an outlier detection algorithms?",
+        "Answer": [
+            "Adaptive Synthetic (ADASYN)\r",
+            "Elliptic Envelope",
+            "One Class SVM",
+            "Isolation Forest",
+            "Local Outlier Factor"
+        ],
+        "Correct": [
+            "Adaptive Synthetic (ADASYN)\r"
+        ],
+        "Title": "Back\nOutlier Detection: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is NOT considered a reasonable metric to choose the number of clusters?",
+        "Answer": [
+            "Calinski-Harbasz index",
+            "Inertia or the within cluster sum-of-squares",
+            "Silhouette Score",
+            "Davies-Bouldin index",
+            "Adjusted Rand index"
+        ],
+        "Correct": [
+            "Adjusted Rand index"
+        ],
+        "Title": "Back\nUnsupervised Learning: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "What is the number of profiles or clusters for this particular dataset?",
+        "Answer": [
+            "2-4",
+            "4-6",
+            "6-8",
+            "8-10",
+            "10-12"
+        ],
+        "Correct": [
+            "8-10"
+        ],
+        "Title": "Back\nCASE STUDY - Clustering: Check for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "You are asked to build a recommendation engine for new products at an online retailer.\u00a0\u00a0Which of the following features is the least likely to be a protected attribute? Recall that a protected attribute is one that may contain privileged and unprivileged classes.",
+        "Answer": [
+            "age",
+            "gender identity",
+            "race",
+            "religion",
+            "purchase history"
+        ],
+        "Correct": [
+            "purchase history"
+        ],
+        "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a012 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. The API for the reweighting algorithm has a number of custom methods that will require you to consult the documentation to ensure appropriate use.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a012 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Which outlier detection method is known to work well on high-dimensional data?",
+        "Answer": [
+            "Random Forests",
+            "Elliptic Envelope",
+            "One Class SVM",
+            "Isolation Forest",
+            "Local Outlier Factor"
+        ],
+        "Correct": [
+            "Local Outlier Factor"
+        ],
+        "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a012 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. In an imbalanced dataset if the minority class represents less than 5% of all of the samples then outlier detection algorithms must be used in place of other supervised learning algorithms.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a012 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Which clustering method can be readily applied to graphs?",
+        "Answer": [
+            "Gaussian mixture models",
+            "Spectral clustering",
+            "Affinity Propagation",
+            "k-means",
+            "Dirichlet process Gaussian mixture models"
+        ],
+        "Correct": [
+            "Spectral clustering"
+        ],
+        "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a012 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following clustering methods does not need to set the number of clusters?",
+        "Answer": [
+            "Gaussian mixture models",
+            "Spectral clustering",
+            "MiniBatch\u00a0k-means",
+            "k-means",
+            "Dirichlet process Gaussian mixture models"
+        ],
+        "Correct": [
+            "Dirichlet process Gaussian mixture models"
+        ],
+        "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a012 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. In the clustering case study, the suggested re-sampling methods drove a major improvement in model performance.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a012 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. In the context of customer profiling and the AAVAIL data set it makes sense to first perform a dimension reduction technique like PCA before running the model through a clustering estimator.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nPattern Recognition and Data Mining Best Practices: End of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a012 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "In which situation would you most strongly consider MAE over RMSE as a regression metric?",
+        "Answer": [
+            "where we would like to interpret the error metric in terms of the original units\r",
+            "like predicting daily temperature where we expect a small range of values",
+            "like predicting time to failure for a machine where we expect a long tailed distribution of values",
+            "like predicting the category or topic associated with a document",
+            "where we would like to interpret the error metric as a squared version of the original units"
+        ],
+        "Correct": [
+            "like predicting time to failure for a machine where we expect a long tailed distribution of values"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "If you have data with a large number of features and you are sure that it will take some time to train and tune the model, which approach is LEAST likely to result in a speed improvement during grid-searching?",
+        "Answer": [
+            "In your pipeline use variance thresholding to limit the number of features",
+            "Use the Shuffle and split form of cross-validation",
+            "Use a randomized grid search form of cross validation",
+            "Randomly subset the data",
+            "Use PCA to reduce the dimensionality of the data before training"
+        ],
+        "Correct": [
+            "Use the Shuffle and split form of cross-validation"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is not an example of a variant/application of gradient decent that we have covered?",
+        "Answer": [
+            "batch gradient descent",
+            "mini-batch gradient descent",
+            "regularized gradient decent",
+            "stochastic gradient descent",
+            "gradient descent applied to regression"
+        ],
+        "Correct": [
+            "regularized gradient decent"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "What important feature of the Watson NLU API do we have to ensure so that we can repeat an experiment in the future in a reproducible way?",
+        "Answer": [
+            "GitHub integration",
+            "Passing a version argument with each request",
+            "Each future version of the API is guaranteed to keep the same arguments",
+            "The NLU can be run locally",
+            "The exchanged JSON is guaranteed to keep the same format"
+        ],
+        "Correct": [
+            "Passing a version argument with each request"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Processing the corpus with the provided lemmatize_document reduces the total number of tokens to what percentage of the original?",
+        "Answer": [
+            "10-15%",
+            "20-35%",
+            "45-50%",
+            "70-75%",
+            "85-95%"
+        ],
+        "Correct": [
+            "45-50%"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "If we have a situation where false positive is not as potentially costly as a false negative say flagging comments for manual review based on suspected unlawful activity, which of the following is the best approach to consider?",
+        "Answer": [
+            "Only look at the f-score of the negative class for evaluation",
+            "Use recall as the evaluation metric",
+            "Use precision as the evaluation metric",
+            "Set beta to 0.5 in the fscore",
+            "Set beta to 2.0 in the fscore"
+        ],
+        "Correct": [
+            "Set beta to 2.0 in the fscore"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. All classifiers in scikit-learn do multi-class classification out-of-the-box. These classifiers can differ in their approach though (e.g one-vs-all or one-vs-one).",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is not an example of a generalized linear model (GLM)?\r",
+        "Answer": [
+            "ANOVA",
+            "Multinomial regression",
+            "Poisson regression",
+            "KNN regression",
+            "Logistic regression"
+        ],
+        "Correct": [
+            "KNN regression"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. Models in the generalized linear mixture model (GLMM) family like multilevel models are generally optimized using sophisticated techniques like MCMC sampling.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "When you use Watson Services like Watson Natural Language Understanding via the Python SDK, what are the three items that need to be saved? These items are generally saved on a local machine and included in scripts and notebooks as imported variables.",
+        "Answer": [
+            "service version, service API key, service JSON map",
+            "service URL, service JSON map, service API key ",
+            "service API key, service version, service URL",
+            "service version, service IAMAuthenticator, service URL",
+            "service API key, service URL, service IAMAuthenticator"
+        ],
+        "Correct": [
+            "service API key, service version, service URL"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following does\u00a0not\u00a0describe a feature of the Watson Natural Language Understanding service?",
+        "Answer": [
+            "Perform document classification tasks using a custom model built from text",
+            "Identify high-level concepts that aren\u2019t necessarily directly referenced in the text",
+            "Find people, places, events, and other types of entities mentioned in your content",
+            "Recognize when two entities are related, and identify the type of relation",
+            "Analyze the sentiment toward specific target phrases and the sentiment of the document as a whole"
+        ],
+        "Correct": [
+            "Perform document classification tasks using a custom model built from text"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is not an example of a relevant question when tuning a NLP classification pipeline?",
+        "Answer": [
+            "Should I use bag-of-words or a vector embedding representation?",
+            "Which stop words do I include?",
+            "Which n-grams do I include?",
+            "Should I use a TF or a tf-idf transformation?",
+            "Should I use RMSE or MAE as an evaluation metric?"
+        ],
+        "Correct": [
+            "Should I use RMSE or MAE as an evaluation metric?"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following model is\u00a0not\u00a0an example of an ensemble approach to learning?",
+        "Answer": [
+            "Decision tree",
+            "Random forest",
+            "Boosting",
+            "Model stacking",
+            "Gradient boosting"
+        ],
+        "Correct": [
+            "Decision tree"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following neural network architectures are most-commonly used for time-series analysis?",
+        "Answer": [
+            "Multi-layer perceptron",
+            "Recurrent neural networks",
+            "Transfer learning",
+            "Convolutional neural network",
+            "Autoencoders"
+        ],
+        "Correct": [
+            "Recurrent neural networks"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "True/False. All images must be downloaded and saved locally before you can call classify from the connected IBM Watson Visual Recognition service.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "A simple CNN that runs on all ten classes and uses all of the data obtains approximately what level of accuracy?\r",
+        "Answer": [
+            "62-77%",
+            "78-83%",
+            "84-89%",
+            "90-94%",
+            "95-99%"
+        ],
+        "Correct": [
+            "90-94%"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "True/False. Bagging and boosting ensemble methods both use only decision trees as base classifiers. The difference is in the bias and variance of the individual trees.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. A decision tree classifier is useful as a model for the AAVAIL subscriber churn data.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following was not discussed as a tunable parameter of a neural network?\r",
+        "Answer": [
+            "Hardware availability",
+            "Activation functions: sigmoid, tanh, softmax, ReLU, leaky ReLU",
+            "Regularization techniques: weight decay, early stopping, dropout",
+            "Training method: Loss function, learning rate, batch size, number of epochs",
+            "Structure: the number of hidden layers, the number of nodes in each layer"
+        ],
+        "Correct": [
+            "Hardware availability"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. Transfer learning is a recent advancement to come out of the field of reinforcement learning.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "When training a custom classifier in Watson Visual Recognition the negative images should be:",
+        "Answer": [
+            "As visually similar as possible to the positive images",
+            "Background images without the positive images",
+            "As random as possible to establish a background",
+            "Randomly generated from the positive images",
+            "Visually distinct from the positive images"
+        ],
+        "Correct": [
+            "As visually similar as possible to the positive images"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. The Watson Visual Recognition service can only be accessed using an API key via Python or curl.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following use cases is the least appropriate use case for a convolutional neural network?",
+        "Answer": [
+            "Image classification",
+            "Image retrieval",
+            "Image composition",
+            "Object detection",
+            "Image segmentation"
+        ],
+        "Correct": [
+            "Image composition"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. A typical convolutional neural network is constructed using a combination of convolutional, pooling and dense layers.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. If we continue to add GPUs or other computational resources, the time it takes to train a model will always continue to decrease.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "True/False. It is reasonable to think of the commands in a Dockerfile as a step-by-step recipe on how to build up a Docker image.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "What are the two steps that must be carried out if you want to iterate locally on a model then deploy it to the Watson Machine Learning (WML) service?",
+        "Answer": [
+            "Provision a WML service & Dockerize your model",
+            "Create a Python virtual environment & Dockerize your model",
+            "Provision cloud storage & Provision a WML service",
+            "Provision a WML service & create a Python virtual environment",
+            "Dockerize your model & Provision cloud storage"
+        ],
+        "Correct": [
+            "Provision a WML service & create a Python virtual environment"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following lists contains one or more references to a technology that is\u00a0not\u00a0a specific python package used to speed up and improve the performance of python code?",
+        "Answer": [
+            "py-cuda, Cython",
+            "multiprocessing, mpi4py",
+            "subprocessing, symmetric-multiprocessing",
+            "threading, ipyparallel"
+        ],
+        "Correct": [
+            "subprocessing, symmetric-multiprocessing"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "A Spark cluster is generally managed using a Docker container and a YAML file.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following is least likely to be a use case for Docker containers?",
+        "Answer": [
+            "Microservices: many loosely coupled and independently deployable services",
+            "DevOps/Data Engineers use containers as a common platform for many teams",
+            "Avoid install overhead with a Spark environment",
+            "Hybrid, multi-cloud portability for a machine learning model",
+            "Replacement for a standard virtual machine"
+        ],
+        "Correct": [
+            "Replacement for a standard virtual machine"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Docker images are the basis of containers. It is possible to pull an image from the registry and ask the Docker client to run a container based on that image. Some images are\u00a0official\u00a0while many others are user defined.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "What is the principal reason to create a virtual environment before creating your model locally?",
+        "Answer": [
+            "Because all models should have their own virtual environment",
+            "Because it will ensure that the most recent packages are used",
+            "Because virtual environments can be containerized easily",
+            "Because the Python client for Watson Machine Learning has specific dependencies",
+            "Because it ensures that locally created/trained models are compatible with Watson Machine Learning"
+        ],
+        "Correct": [
+            "Because it ensures that locally created/trained models are compatible with Watson Machine Learning"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. You may only pass a pickle file to save your model in the your Watson Machine Learning library.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. The Spark ML API uses DataFrames from Spark SQL. They can hold a variety of data types with different columns for storing text including: feature vectors, truth labels, and predictions.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Which type of recommender system is readily available in Spark Machine learning?",
+        "Answer": [
+            "Utility-based recommender systems",
+            "Collaborative-based recommender systems",
+            "Content-based recommender systems",
+            "Hybrid recommender systems",
+            "Demographics-based recommender systems"
+        ],
+        "Correct": [
+            "Collaborative-based recommender systems"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Docker containers run a private file system that is isolated from the host and other containers. What is the suggested way to access notebooks and scripts from within the container?",
+        "Answer": [
+            "tmpfs mount",
+            "use a named pipe",
+            "bind mounts",
+            "GitHub",
+            "volumes"
+        ],
+        "Correct": [
+            "volumes"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following is\u00a0not\u00a0a valid way to pass parameter to a Spark MLlib model?",
+        "Answer": [
+            "Pass a pickle file when the model is declared",
+            "Set the named parameters directly when the model is declared",
+            "Pass a ParamMap to the\u00a0.fit()\u00a0method of the model",
+            "Create a ParamMap, update it then pass it to a .fit() method of the model",
+            "Pass a ParamMap to the .fit() method of a pipeline"
+        ],
+        "Correct": [
+            "Pass a pickle file when the model is declared"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. Spark MLlib has several estimators and transformers, but it lacks basic tooling for natural language processing (NLP) like the ability to make term frequency-inverse document frequency (TF-IDF) transformations.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Which phrase most accurately reflects what is meant by the cold start problem in recommendation systems?",
+        "Answer": [
+            "A. When a new user is introduced and the recommendations are made on similarities",
+            "B. When a new item is introduced and the recommendations are made on similarities",
+            "C. When a new user is introduced and the recommendations are made on item popularity",
+            "D. When a new user or new item is introduced and the recommendations depend on popularity",
+            "E. When a new user or new item is introduced and the recommendations depend on similarities"
+        ],
+        "Correct": [
+            "E. When a new user or new item is introduced and the recommendations depend on similarities"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. Matrix factorization is commonly associated with collaborative filtering recommender systems.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "When you worked on model deployment case study, which modification to the ALS algorithm had the largest effect on model performance?\r",
+        "Answer": [
+            "The explicit training vs implicit training comparison",
+            "The lambda or regularization parameter",
+            "The epsilon or scale parameter",
+            "The l1 vs l2 comparison"
+        ],
+        "Correct": [
+            "The lambda or regularization parameter"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. The Spark collaborative filtering implementation is built by default for explict feedback, but it can be used with implicit feedback just as easily.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "Your Flask application needs to error check the input when making a prediction. Which features need to be provided (at a minimum) as input given the context of this business opportunity?",
+        "Answer": [
+            "The previous three months of data and the target month from the year before",
+            "The target date and country",
+            "At least one year of revenue data",
+            "The recent number of transactions and the number of views",
+            "Metadata associated with the streams"
+        ],
+        "Correct": [
+            "The target date and country"
+        ],
+        "Title": "Back\nCapstone - Part 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a015 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False.  Unit testing and novelty detection provide an automated mechanism to monitor model performance.",
+        "Answer": [
+            "True",
+            "False."
+        ],
+        "Correct": [
+            "True"
+        ],
+        "Title": "Back\nCapstone - Part 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a015 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+    },
+    {
+        "Question": "To move through the AI enterprise workflow quickly, we used the concept of workflow templates. Which of the following aspects of the template contributes the least to the re-usability of these templates?",
+        "Answer": [
+            "When they are used with a version control system",
+            "Ensuring that the model exists as a separate Python module to be called by Flask",
+            "Have an HTML endpoint for the Flask app to create dashboards",
+            "Use a template for a unit test suite",
+            "Ensure that data ingestion and data visualization code exists as a modules or scripts"
+        ],
+        "Correct": [
+            "Have an HTML endpoint for the Flask app to create dashboards"
+        ],
+        "Title": "Back\nCapstone - Part 3 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a015 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+    },
+    {
+        "Question": "Which of the following was\u00a0not\u00a0mentioned as a reason to bundle unit tests with a deployed model?",
+        "Answer": [
+            "promotes code quality",
+            "regression tests",
+            "they perform the workflow feedback loops",
+            "automate performance monitoring tasks",
+            "can be readily integrated into CI/CD pipelines"
+        ],
+        "Correct": [
+            "they perform the workflow feedback loops"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a05 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "True/False. When logging for the predict endpoint,\u00a0runtime\u00a0is considered an optional feature to be monitored.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a05 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "To pass a query to an API endpoint that has been set up to run inside of a Docker container, which of the following best describes the formats that have been used in the presented deployment workflows?  ",
+        "Answer": [
+            "numpy ndarray, pandas DataFrame",
+            "JSON",
+            "JSON, flatfiles",
+            "YAML",
+            "All of the above"
+        ],
+        "Correct": [
+            "JSON"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a05 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "In the context of the AI workflow presented in these materials which of the following is not an example of a valid feedback loop?\r",
+        "Answer": [
+            "Trying different data transformations on a given model",
+            "Returning to the data collection stage from transformations to reduce the number of transforms",
+            "Performing EDA on the data after a model has been deployed and data have been logged",
+            "Moving from the business opportunity and data collection to model iteration",
+            "Returning to discuss the business opportunity after a model has been deployed"
+        ],
+        "Correct": [
+            "Moving from the business opportunity and data collection to model iteration"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False.  It is critical in machine learning model deployment workflows to ensure close to 100% test coverage before production.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Common sources of performance drift include:\r",
+        "Answer": [
+            "Changes in customer demographics or user behavior after a model is trained",
+            "Incomplete, incorrect or unbalanced training data",
+            "Changes in versions of libraries or modules used in models",
+            "All of the above"
+        ],
+        "Correct": [
+            "All of the above"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Which list contains one or more elements that were presented as\u00a0non-essential\u00a0when creating a logging system to monitor the performance of a machine learning model that has been deployed.",
+        "Answer": [
+            "request_type, input data",
+            "model_version_number, timestamp",
+            "predictions/recommendations, timestamp",
+            "input_data_summary, runtime"
+        ],
+        "Correct": [
+            "request_type, input data"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+    },
+    {
+        "Question": "Model accuracy metrics such as precision, recall and F1 scores provide objective evidence of fairness.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a030 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "What is the purpose of Minikube in the context of Kubernetes?",
+        "Answer": [
+            "It deploys a Kubernetes cluster to a remote service based on a specified YAML file",
+            "It launches a Kubernetes cluster locally within a virtual machine or directly on the host",
+            "It is used through a command line interface to interact with a Kubernetes cluster",
+            "It allows you to work with multiple Docker containers as if they were a single application",
+            "It is the management layer for a Kubernetes cluster"
+        ],
+        "Correct": [
+            "It launches a Kubernetes cluster locally within a virtual machine or directly on the host"
+        ],
+        "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n\u00a0\u2022\u00a05 min\n.\n\u00a0\u2022\u00a0\n1 total point available.\n1 total point\n\nEnglish"
+    },
+    {
+        "Question": "Which of the following are three services provided by IBM Watson OpenScale?",
+        "Answer": [
+            "Automatic CSS-HTML Generation, Hyerparameter Tuning, Performance Metrics",
+            "Compliance, Cross Regional Availabilty, Automatic Backup",
+            "Drift Monitoring, Fairness, Explainability",
+            "General Artificial Intelligence, Time Travel, World Domination"
+        ],
+        "Correct": [
+            "Drift Monitoring, Fairness, Explainability"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False.  IBM Watson OpenScale only works with models that have been built on, and deployed by, IBM Watson Stuido.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "What is Port Forwarding in Docker?\r",
+        "Answer": [
+            "The process of creating a data file on the local computer that persists after the container is closed",
+            "Sending one container to multiple nodes on a multicloud environment",
+            "Allowing data to be passed in and out of a docker container and controlling which applications can do this",
+            "Building one Docker image using another docker image as a template"
+        ],
+        "Correct": [
+            "Allowing data to be passed in and out of a docker container and controlling which applications can do this"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. The date and time of a transaction should never be logged because this will only reflect past transactions and is not relevant to the performance of predictions on an on-going basis.",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "What is the purpose of kubectl in kubernetes?",
+        "Answer": [
+            "Automatic logging of requests and responses",
+            "A tool that makes it easy to run a single-node cluster locally",
+            "The primary node agent on each node, responsible for the processes running on that machine",
+            "The CLI for communicating with the kubernetes cluster"
+        ],
+        "Correct": [
+            "The CLI for communicating with the kubernetes cluster"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "True/False. A Kubernetes pod can contain multiple kubernetes deployments",
+        "Answer": [
+            "True",
+            "False"
+        ],
+        "Correct": [
+            "False"
+        ],
+        "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a010 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+    },
+    {
+        "Question": "AAVAIL Management has described their needs to you in the language of business. How would you describe this project in the language of Data Science?  ",
+        "Answer": [
+            "Recommender system",
+            "A/B Testing",
+            "Dimensionality Reduction",
+            "Regression Analysis",
+            "Unsupervised Learning",
+            "Classification Analysis"
+        ],
+        "Correct": [
+            "Regression Analysis"
+        ],
+        "Title": "Back\nCapstone - Part 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a015 min\n\nEnglish\nDueJun 2, 11:59 PM +07"
+    },
+    {
+        "Question": "When you compiled the JSON files into a single DataFrame or NumPy array, about how many days did the entire range of dates span?",
+        "Answer": [
+            "400",
+            "450",
+            "500",
+            "600",
+            "650"
+        ],
+        "Correct": [
+            "500"
+        ],
+        "Title": "Back\nCapstone - Part 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a015 min\n\nEnglish\nDueJun 2, 11:59 PM +07"
+    },
+    {
+        "Question": "Which country had the most total revenue when you summed across all purchases?",
+        "Answer": [
+            "Singapore",
+            "United Kingdom",
+            "USA",
+            "EIRE",
+            "Germany"
+        ],
+        "Correct": [
+            "United Kingdom"
+        ],
+        "Title": "Back\nCapstone - Part 1 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a015 min\n\nEnglish\nDueJun 2, 11:59 PM +07"
+    },
+    {
+        "Question": "There are many established methods from the literature that may be used to analyze time-series data. Classical machine learning techniques can also be used, but which of the following is the most important caveat to keep in mind when employing this approach?",
+        "Answer": [
+            "You cannot use scikit-learn to combine multiple predictions",
+            "The data cannot be feature engineered to help identify features that are needed by the model to detect trends",
+            "There is no simple way to do a train/test split of the data",
+            "Significant computational resources are generally required",
+            "A specialized strategy that uses recursion (for example) or multiple models must be employed for multipoint forecasting"
+        ],
+        "Correct": [
+            "A specialized strategy that uses recursion (for example) or multiple models must be employed for multipoint forecasting"
+        ],
+        "Title": "Back\nCapstone - Part 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a015 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+    },
+    {
+        "Question": "When the data are pivoted and summarized across days which of the following features were the most difficult to include as a summarized or engineered feature?",
+        "Answer": [
+            "revenue",
+            "stream_views",
+            "stream_ids",
+            "purchases",
+            "customer_id"
+        ],
+        "Correct": [
+            "customer_id"
+        ],
+        "Title": "Back\nCapstone - Part 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a015 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+    },
+    {
+        "Question": "The time-series plots using a day time interval for revenue, purchases and total_views revealed many similarities. Which part of the year indicated a trend for the highest level of activity?",
+        "Answer": [
+            "January-February",
+            "April-May",
+            "November-December",
+            "June-July",
+            "September-October"
+        ],
+        "Correct": [
+            "November-December"
+        ],
+        "Title": "Back\nCapstone - Part 2 Quiz\n\nGraded Quiz\n.\n\u00a0\u2022\u00a015 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+    }
+]

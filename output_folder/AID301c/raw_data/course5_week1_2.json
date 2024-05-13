@@ -1,0 +1,13 @@
+[
+  {
+    "Question": "True/False. It is reasonable to think of the commands in a Dockerfile as a step-by-step recipe on how to build up a Docker image.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

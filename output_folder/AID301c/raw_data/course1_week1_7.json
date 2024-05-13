@@ -1,0 +1,65 @@
+[
+  {
+    "Question": "Lets imagine there is a start-up that has a speech-to-text service that incorporates gestures and body language into its output. Which of the following products represents the most defensible business opportunity.",
+    "Answer": [
+      "Offer a service that hooks into streaming video and predicts the emotional state of people in the videos",
+      "Create an app that allows job interviewers to get additional information about candidates",
+      "Create a new and improved conferencing app",
+      "Create a service that improves on existing audio recognition systems as a richer interface to mobile devices"
+    ],
+    "Correct": [
+      "Create a service that improves on existing audio recognition systems as a richer interface to mobile devices"
+    ],
+    "Title": "Back\nData Collection: End of Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Lets imagine there is a start-up that has a speech-to-text service that incorporates gestures and body language into its output.  They offer annotated meeting reports as a product and customers are generally very satisfied, but sales to new customers tend to be very slow to acquire.  Which of the following business opportunities should be the highest priority?",
+    "Answer": [
+      "Develop and delivery new products to existing customers",
+      "Develop new products and target new customers",
+      "Use customer segmentation and/or market analysis to help marketing with new customers",
+      "Use customer segmentation and/or market analysis to move into a different market"
+    ],
+    "Correct": [
+      "Use customer segmentation and/or market analysis to help marketing with new customers"
+    ],
+    "Title": "Back\nData Collection: End of Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Your company is convinced it is time to change the nature of your companies core product and management has come to ask your advise. Which question DOES NOT exemplify scientific thinking in this situation?",
+    "Answer": [
+      "Do we have any data like a corpus of customer feedback to support this decision?",
+      "Can we run an experiment like A/B testing to see if it helps support this decision?",
+      "Which members of leadership support this decision?",
+      "Have any other companies been successful making a comparable change?"
+    ],
+    "Correct": [
+      "Which members of leadership support this decision?"
+    ],
+    "Title": "Back\nData Collection: End of Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Is the following statement true or false?\r  CSV files are one of the most commonly used file formats for data science because file input/output is easy they are plain-text, and they work well with commonly used spreadsheet tools.",
+    "Answer": [
+      "TRUE",
+      "FALSE"
+    ],
+    "Correct": [
+      "TRUE"
+    ],
+    "Title": "Back\nData Collection: End of Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following DOES NOT represent a valid relational database to connector relationship?",
+    "Answer": [
+      "MySQL --> MySQL-python",
+      "PostgreSQL --> psycopg/psycopg2",
+      "SQLite --> sqlite3",
+      "Berkeley DB --> bsddb"
+    ],
+    "Correct": [
+      "Berkeley DB --> bsddb"
+    ],
+    "Title": "Back\nData Collection: End of Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  }
+]

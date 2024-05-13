@@ -1,0 +1,54 @@
+[
+  {
+    "Question": "Which of the following is NOT normally a part of the EDA process",
+    "Answer": [
+      "Visual summaries of the data",
+      "Connecting the data to the business opportunity",
+      "Communication to stakeholders",
+      "Predictive linear or logistic regression"
+    ],
+    "Correct": [
+      "Predictive linear or logistic regression"
+    ],
+    "Title": "Back\nData Analysis Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. The software engineering best practice of saving a maximum amount of code in text files for management under version control has become the norm in data science",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nData Analysis Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "The three types of missingss discussed during this module were:",
+    "Answer": [
+      "A.  MRAR, MAR, MCAR",
+      "B.  MNAR, MRAR, MCAR",
+      "C.  MNAR, MAR, MARC",
+      "D.  MAR, MRAR, MCAR",
+      "E.  MCAR, MNAR, MAR"
+    ],
+    "Correct": [
+      "E.  MCAR, MNAR, MAR"
+    ],
+    "Title": "Back\nData Analysis Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which statement is the least true about using Jupyter notebooks in the context of EDA",
+    "Answer": [
+      "A.  They naturally lend themselves to version control systems",
+      "B.  They can be ported from one environment to another easily",
+      "C.  They are helpful because a mixture of code and markdown enables storytelling",
+      "D.  They are integrated with the plotting library matplotlib",
+      "E.  They are integrated with the data manipulation library pandas"
+    ],
+    "Correct": [
+      "A.  They naturally lend themselves to version control systems"
+    ],
+    "Title": "Back\nData Analysis Module Quiz\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  }
+]

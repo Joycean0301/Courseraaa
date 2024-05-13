@@ -1,0 +1,63 @@
+[
+  {
+    "Question": "Which types of programming tasks best describes what you are expected to already have some familiarity with before beginning this course?",
+    "Answer": [
+      "dashboarding, high performance computing, and code profiling",
+      "numeric computing, data munging, data visualization and data modeling",
+      "convex optimization, python programming, statistical programming",
+      "continuous integration, linear programming, and data exploration"
+    ],
+    "Correct": [
+      "numeric computing, data munging, data visualization and data modeling"
+    ],
+    "Title": "Back\nProcess Models, Design Thinking, and Introduction: End of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Though the emphasis may change, which two elements are both essential and common to all three process models we talked about?",
+    "Answer": [
+      "prediction, recommendation",
+      "data mining, data cleaning",
+      "resolve the business question, feedback loops",
+      "testing, model deployment"
+    ],
+    "Correct": [
+      "resolve the business question, feedback loops"
+    ],
+    "Title": "Back\nProcess Models, Design Thinking, and Introduction: End of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Is the following statement True/False?  To succeed in this course you are expected to be proficient in any one of the following: R, Python or Java.",
+    "Answer": [
+      "TRUE",
+      "FALSE"
+    ],
+    "Correct": [
+      "FALSE"
+    ],
+    "Title": "Back\nProcess Models, Design Thinking, and Introduction: End of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is the least accurate statement about the advantages of using process models in data science? Process models generally help by...",
+    "Answer": [
+      "avoiding unnecessary tangents",
+      "speeding up the process of getting through the workflow",
+      "minimizing the model selection process",
+      "guiding effective time allocation"
+    ],
+    "Correct": [
+      "speeding up the process of getting through the workflow"
+    ],
+    "Title": "Back\nProcess Models, Design Thinking, and Introduction: End of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Is the following statement True/False?\r  Design thinking is applied in other domains which helps make the task of communicating the AI workflow to those outside of data science easier.",
+    "Answer": [
+      "TRUE",
+      "FALSE"
+    ],
+    "Correct": [
+      "TRUE"
+    ],
+    "Title": "Back\nProcess Models, Design Thinking, and Introduction: End of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  }
+]

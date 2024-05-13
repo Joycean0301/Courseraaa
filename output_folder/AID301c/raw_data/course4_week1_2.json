@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "If you have data with a large number of features and you are sure that it will take some time to train and tune the model, which approach is LEAST likely to result in a speed improvement during grid-searching?",
+    "Answer": [
+      "In your pipeline use variance thresholding to limit the number of features",
+      "Use the Shuffle and split form of cross-validation",
+      "Use a randomized grid search form of cross validation",
+      "Randomly subset the data",
+      "Use PCA to reduce the dimensionality of the data before training"
+    ],
+    "Correct": [
+      "Use the Shuffle and split form of cross-validation"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "Question": "Your Flask application needs to error check the input when making a prediction. Which features need to be provided (at a minimum) as input given the context of this business opportunity?",
+    "Answer": [
+      "The previous three months of data and the target month from the year before",
+      "The target date and country",
+      "At least one year of revenue data",
+      "The recent number of transactions and the number of views",
+      "Metadata associated with the streams"
+    ],
+    "Correct": [
+      "The target date and country"
+    ],
+    "Title": "Back\nCapstone - Part 3 Quiz\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False.  Unit testing and novelty detection provide an automated mechanism to monitor model performance.",
+    "Answer": [
+      "True",
+      "False."
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nCapstone - Part 3 Quiz\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  },
+  {
+    "Question": "To move through the AI enterprise workflow quickly, we used the concept of workflow templates. Which of the following aspects of the template contributes the least to the re-usability of these templates?",
+    "Answer": [
+      "When they are used with a version control system",
+      "Ensuring that the model exists as a separate Python module to be called by Flask",
+      "Have an HTML endpoint for the Flask app to create dashboards",
+      "Use a template for a unit test suite",
+      "Ensure that data ingestion and data visualization code exists as a modules or scripts"
+    ],
+    "Correct": [
+      "Have an HTML endpoint for the Flask app to create dashboards"
+    ],
+    "Title": "Back\nCapstone - Part 3 Quiz\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  }
+]

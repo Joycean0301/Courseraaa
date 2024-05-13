@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "Which of the following is statements is the least correct in the context of the EDA process",
+    "Answer": [
+      "A.  EDA is used to provide summary level insight into a dataset",
+      "B.  EDA consists of both exploratory and confirmatory data analysis",
+      "C.  EDA can be used to discover missing data, outliers and class inbalance issues",
+      "D.  The EDA process can be used to help predict time to completion for a project",
+      "E.  The EDA process is an ideal time to explore the connection between the data and the business opportunity"
+    ],
+    "Correct": [
+      "D.  The EDA process can be used to help predict time to completion for a project"
+    ],
+    "Title": "Back\nCheck for Understanding: EDA\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

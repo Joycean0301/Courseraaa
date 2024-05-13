@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "What important feature of the Watson NLU API do we have to ensure so that we can repeat an experiment in the future in a reproducible way?",
+    "Answer": [
+      "GitHub integration",
+      "Passing a version argument with each request",
+      "Each future version of the API is guaranteed to keep the same arguments",
+      "The NLU can be run locally",
+      "The exchanged JSON is guaranteed to keep the same format"
+    ],
+    "Correct": [
+      "Passing a version argument with each request"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

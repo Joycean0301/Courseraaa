@@ -1,0 +1,94 @@
+[
+  {
+    "Question": "The .fit_transform method corresponds to which scikit-learn interface(s)? Choose one answer. ",
+    "Answer": [
+      "Transformer, Estimator, Predictor",
+      "Transformer, Estimator",
+      "Estimator, Predictor",
+      "Transformer",
+      "Transformer, Predictor"
+    ],
+    "Correct": [
+      "Transformer, Estimator"
+    ],
+    "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. A principal reason for emphasizing the use of pipelines in the AI workflow is to have a consistent platform that enables comparison of many variants of the workflow.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following statements describes the best strategy to address class imbalance?",
+    "Answer": [
+      "If there is a lot of data just use under-sampling otherwise use outlier detection algorithms.\r",
+      "Determine the best variant of SMOTE by comparisons and use it.",
+      "Continue to collect data until you have balanced classes.",
+      "Use an outlier detection algorithm or SVM instead of a re-sampling technique.",
+      "Compare re-sampling approaches to a baseline and to detection algorithms."
+    ],
+    "Correct": [
+      "Compare re-sampling approaches to a baseline and to detection algorithms."
+    ],
+    "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following statements is not a feature of the package imbalanced-learn imbalance?",
+    "Answer": [
+      "Has a suite of over and under-sampling methods implemented",
+      "Works with TensorFlow",
+      "Has a number of tutorials to work from",
+      "Has outlier detection algorithm packaged as part of library",
+      "Works with scikit-learn pipelines"
+    ],
+    "Correct": [
+      "Has outlier detection algorithm packaged as part of library"
+    ],
+    "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following statements does not describe valid use case for dimensionality reduction?",
+    "Answer": [
+      "Principal components analysis to process images used in classification.",
+      "Non-negative matrix factorization to resolve topics from a corpus of words.",
+      "t-distributed stochastic neighbor embedding to visualize the results of a clustering algorithm.",
+      "Using an ANOVA to select a subset of features",
+      "Down-sampling of the majority class"
+    ],
+    "Correct": [
+      "Down-sampling of the majority class"
+    ],
+    "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. tSNE is a reasonable alternative to PCA because it describes a wider variety of structures. However, it is still recommended to use another dimensionality reduction method, like PCA if the number of features is very high.  ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which statement best describes why visualization of topics can have an impact on the business opportunity?",
+    "Answer": [
+      "Because sharing with domain experts might enable topic-specific feature engineering",
+      "Because visual inspection can help choose the number of topics",
+      "Because we are able to see the top words with each topic",
+      "Because we are able to see the relative importance of each topic across the corpus",
+      "Because domain experts can visually inspect the validity of the topics"
+    ],
+    "Correct": [
+      "Because sharing with domain experts might enable topic-specific feature engineering"
+    ],
+    "Title": "Back\nData Transforms and Feature Engineering: End of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  }
+]

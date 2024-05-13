@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "Using the Café Sherlock example: How do you ensure new games drive revenue?\n\nTake the time to write down 2 ways you could validate the core business question into a testable hypothesis.",
+    "Answer": [],
+    "Correct": [],
+    "Title": "Back\nProcess Models & Design Thinking: Check for Understanding\n\nPractice Quiz\n.\n • 2 min\n.\n • \n3 total points available.\n3 total points\n\nEnglish"
+  },
+  {
+    "Question": "If you were to munge the data into a pandas.DataFrame which of the following would describe a reasonable goal for the cleaning process?",
+    "Answer": [
+      "customer on the rows and items like total_sales, name, most_bought on the columns",
+      "daily revenue on the rows items like customer_name and total on the columns",
+      "transactions on the rows and items like customer_name and item_id on the columns",
+      "None of the above"
+    ],
+    "Correct": [
+      "transactions on the rows and items like customer_name and item_id on the columns"
+    ],
+    "Title": "Back\nProcess Models & Design Thinking: Check for Understanding\n\nPractice Quiz\n.\n • 2 min\n.\n • \n3 total points available.\n3 total points\n\nEnglish"
+  },
+  {
+    "Question": "Our model performed very well (see below), possibly because Dr. Holmes and Dr. Watson are described in very different ways in the stories, but it could be something else.  \n\n1\n2\n3\n4\n5\n6\n7\n8\n                precision    recall  f1-score   support\n \n    sherlock       0.96      1.00      0.98       150\n      watson       1.00      0.83      0.91        36\n \n    accuracy                           0.97       186\n   macro avg       0.98      0.92      0.94       186\nweighted avg       0.97      0.97      0.97       186\n\nThese results are not directly related to revenue, but for the sake of the example let's assume you needed a decent version of this model to craft a new game.\n\nTake a minute to think about how you would interpret these results.",
+    "Answer": [],
+    "Correct": [],
+    "Title": "Back\nProcess Models & Design Thinking: Check for Understanding\n\nPractice Quiz\n.\n • 2 min\n.\n • \n3 total points available.\n3 total points\n\nEnglish"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "Question": "Which of the following lists contains one or more references to a technology that is not a specific python package used to speed up and improve the performance of python code?",
+    "Answer": [
+      "py-cuda, Cython",
+      "multiprocessing, mpi4py",
+      "subprocessing, symmetric-multiprocessing",
+      "threading, ipyparallel"
+    ],
+    "Correct": [
+      "subprocessing, symmetric-multiprocessing"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "A Spark cluster is generally managed using a Docker container and a YAML file.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is least likely to be a use case for Docker containers?",
+    "Answer": [
+      "Microservices: many loosely coupled and independently deployable services",
+      "DevOps/Data Engineers use containers as a common platform for many teams",
+      "Avoid install overhead with a Spark environment",
+      "Hybrid, multi-cloud portability for a machine learning model",
+      "Replacement for a standard virtual machine"
+    ],
+    "Correct": [
+      "Replacement for a standard virtual machine"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Docker images are the basis of containers. It is possible to pull an image from the registry and ask the Docker client to run a container based on that image. Some images are official while many others are user defined.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "What is the principal reason to create a virtual environment before creating your model locally?",
+    "Answer": [
+      "Because all models should have their own virtual environment",
+      "Because it will ensure that the most recent packages are used",
+      "Because virtual environments can be containerized easily",
+      "Because the Python client for Watson Machine Learning has specific dependencies",
+      "Because it ensures that locally created/trained models are compatible with Watson Machine Learning"
+    ],
+    "Correct": [
+      "Because it ensures that locally created/trained models are compatible with Watson Machine Learning"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. You may only pass a pickle file to save your model in the your Watson Machine Learning library.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  }
+]

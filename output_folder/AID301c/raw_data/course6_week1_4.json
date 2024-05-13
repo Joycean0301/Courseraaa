@@ -1,0 +1,53 @@
+[
+  {
+    "Question": "In the context of the AI workflow presented in these materials which of the following is not an example of a valid feedback loop?\r",
+    "Answer": [
+      "Trying different data transformations on a given model",
+      "Returning to the data collection stage from transformations to reduce the number of transforms",
+      "Performing EDA on the data after a model has been deployed and data have been logged",
+      "Moving from the business opportunity and data collection to model iteration",
+      "Returning to discuss the business opportunity after a model has been deployed"
+    ],
+    "Correct": [
+      "Moving from the business opportunity and data collection to model iteration"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False.  It is critical in machine learning model deployment workflows to ensure close to 100% test coverage before production.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Common sources of performance drift include:\r",
+    "Answer": [
+      "Changes in customer demographics or user behavior after a model is trained",
+      "Incomplete, incorrect or unbalanced training data",
+      "Changes in versions of libraries or modules used in models",
+      "All of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which list contains one or more elements that were presented as non-essential when creating a logging system to monitor the performance of a machine learning model that has been deployed.",
+    "Answer": [
+      "request_type, input data",
+      "model_version_number, timestamp",
+      "predictions/recommendations, timestamp",
+      "input_data_summary, runtime"
+    ],
+    "Correct": [
+      "request_type, input data"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  }
+]

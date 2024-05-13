@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "Which of the following is NOT considered a reasonable metric to choose the number of clusters?",
+    "Answer": [
+      "Calinski-Harbasz index",
+      "Inertia or the within cluster sum-of-squares",
+      "Silhouette Score",
+      "Davies-Bouldin index",
+      "Adjusted Rand index"
+    ],
+    "Correct": [
+      "Adjusted Rand index"
+    ],
+    "Title": "Back\nUnsupervised Learning: Check for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "Which of the following is not an example of a variant/application of gradient decent that we have covered?",
+    "Answer": [
+      "batch gradient descent",
+      "mini-batch gradient descent",
+      "regularized gradient decent",
+      "stochastic gradient descent",
+      "gradient descent applied to regression"
+    ],
+    "Correct": [
+      "regularized gradient decent"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

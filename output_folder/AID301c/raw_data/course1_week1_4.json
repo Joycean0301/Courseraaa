@@ -1,0 +1,28 @@
+[
+  {
+    "Question": "It is day one on the job and you need to come up with a plan—how do you begin?",
+    "Answer": [
+      "Gather what data you can quickly and perform some EDA to understand the problem better",
+      "Plan to interview or study reviews of both satisfied and dissatisfied subscribers as soon as possible",
+      "Get the perspective from management and follow the leads they might provide",
+      "Something else entirely"
+    ],
+    "Correct": [
+      "Gather what data you can quickly and perform some EDA to understand the problem better"
+    ],
+    "Title": "Back\nBusiness Opportunities: Check for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n2 total points available.\n2 total points\n\nEnglish"
+  },
+  {
+    "Question": "In order to come up with the back-of-the-envelope ROI calculation for this project, how might you approach it?",
+    "Answer": [
+      "A.  Number of active users X Yearly payment",
+      "B.  Number of active users X monthly payment X % increase of users (assumption)",
+      "C.  Yearly costs X (number of users at month 2 - number of currently active users)",
+      "D.  Number of active users X Yearly payment - estimate for cost of project time"
+    ],
+    "Correct": [
+      "D.  Number of active users X Yearly payment - estimate for cost of project time"
+    ],
+    "Title": "Back\nBusiness Opportunities: Check for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n2 total points available.\n2 total points\n\nEnglish"
+  }
+]

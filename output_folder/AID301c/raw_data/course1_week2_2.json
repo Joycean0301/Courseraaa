@@ -1,0 +1,51 @@
+[
+  {
+    "Question": "Which types of data generally work well with sparse matrices?",
+    "Answer": [
+      "word counts, time-series data",
+      "audio files, images",
+      "word counts, user-item matrix for recommendations",
+      "text data, audio files"
+    ],
+    "Correct": [
+      "word counts, user-item matrix for recommendations"
+    ],
+    "Title": "Back\nData Ingestion: End of Module Quiz\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "Is the following statement True or False?\r  Sparse matrices from SciPy need to be transformed into a dense matrix before using scikit-learns train-test-split function?",
+    "Answer": [
+      "TRUE",
+      "FALSE"
+    ],
+    "Correct": [
+      "FALSE"
+    ],
+    "Title": "Back\nData Ingestion: End of Module Quiz\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "Which fundamental part of the data ingestion process is concerned with to the phrase \"bad data in equals bad data out\"?",
+    "Answer": [
+      "Gather all relevant data from the sources of provided data",
+      "Implement several checks for quality assurance",
+      "Take the initial steps towards automation of the ingestion pipeline"
+    ],
+    "Correct": [
+      "Implement several checks for quality assurance"
+    ],
+    "Title": "Back\nData Ingestion: End of Module Quiz\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following is most concerned with ensuring deployed models scale well with added users?",
+    "Answer": [
+      "data scientist",
+      "data analysts",
+      "data engineer",
+      "product manager"
+    ],
+    "Correct": [
+      "data engineer"
+    ],
+    "Title": "Back\nData Ingestion: End of Module Quiz\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  }
+]

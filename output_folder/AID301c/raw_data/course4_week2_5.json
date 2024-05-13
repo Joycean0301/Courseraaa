@@ -1,0 +1,99 @@
+[
+  {
+    "Question": "True/False. Bagging and boosting ensemble methods both use only decision trees as base classifiers. The difference is in the bias and variance of the individual trees.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. A decision tree classifier is useful as a model for the AAVAIL subscriber churn data.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following was not discussed as a tunable parameter of a neural network?\r",
+    "Answer": [
+      "Hardware availability",
+      "Activation functions: sigmoid, tanh, softmax, ReLU, leaky ReLU",
+      "Regularization techniques: weight decay, early stopping, dropout",
+      "Training method: Loss function, learning rate, batch size, number of epochs",
+      "Structure: the number of hidden layers, the number of nodes in each layer"
+    ],
+    "Correct": [
+      "Hardware availability"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. Transfer learning is a recent advancement to come out of the field of reinforcement learning.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "When training a custom classifier in Watson Visual Recognition the negative images should be:",
+    "Answer": [
+      "As visually similar as possible to the positive images",
+      "Background images without the positive images",
+      "As random as possible to establish a background",
+      "Randomly generated from the positive images",
+      "Visually distinct from the positive images"
+    ],
+    "Correct": [
+      "As visually similar as possible to the positive images"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. The Watson Visual Recognition service can only be accessed using an API key via Python or curl.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following use cases is the least appropriate use case for a convolutional neural network?",
+    "Answer": [
+      "Image classification",
+      "Image retrieval",
+      "Image composition",
+      "Object detection",
+      "Image segmentation"
+    ],
+    "Correct": [
+      "Image composition"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "True/False. A typical convolutional neural network is constructed using a combination of convolutional, pooling and dense layers.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nEnd of Module Quiz\n\nGraded Quiz\n.\n • 10 min\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  }
+]

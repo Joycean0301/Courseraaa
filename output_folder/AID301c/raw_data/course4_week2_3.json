@@ -1,0 +1,13 @@
+[
+  {
+    "Question": "True/False. All images must be downloaded and saved locally before you can call classify from the connected IBM Watson Visual Recognition service.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "False"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

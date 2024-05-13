@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "In which situation would you most strongly consider MAE over RMSE as a regression metric?",
+    "Answer": [
+      "where we would like to interpret the error metric in terms of the original units\r",
+      "like predicting daily temperature where we expect a small range of values",
+      "like predicting time to failure for a machine where we expect a long tailed distribution of values",
+      "like predicting the category or topic associated with a document",
+      "where we would like to interpret the error metric as a squared version of the original units"
+    ],
+    "Correct": [
+      "like predicting time to failure for a machine where we expect a long tailed distribution of values"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

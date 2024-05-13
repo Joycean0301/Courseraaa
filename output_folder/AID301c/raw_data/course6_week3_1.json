@@ -1,0 +1,45 @@
+[
+  {
+    "Question": "AAVAIL Management has described their needs to you in the language of business. How would you describe this project in the language of Data Science?  ",
+    "Answer": [
+      "Recommender system",
+      "A/B Testing",
+      "Dimensionality Reduction",
+      "Regression Analysis",
+      "Unsupervised Learning",
+      "Classification Analysis"
+    ],
+    "Correct": [
+      "Regression Analysis"
+    ],
+    "Title": "Back\nCapstone - Part 1 Quiz\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueJun 2, 11:59 PM +07"
+  },
+  {
+    "Question": "When you compiled the JSON files into a single DataFrame or NumPy array, about how many days did the entire range of dates span?",
+    "Answer": [
+      "400",
+      "450",
+      "500",
+      "600",
+      "650"
+    ],
+    "Correct": [
+      "500"
+    ],
+    "Title": "Back\nCapstone - Part 1 Quiz\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueJun 2, 11:59 PM +07"
+  },
+  {
+    "Question": "Which country had the most total revenue when you summed across all purchases?",
+    "Answer": [
+      "Singapore",
+      "United Kingdom",
+      "USA",
+      "EIRE",
+      "Germany"
+    ],
+    "Correct": [
+      "United Kingdom"
+    ],
+    "Title": "Back\nCapstone - Part 1 Quiz\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueJun 2, 11:59 PM +07"
+  }
+]

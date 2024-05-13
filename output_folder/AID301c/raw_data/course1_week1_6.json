@@ -1,0 +1,15 @@
+[
+  {
+    "Question": "When embarking on a data science project, why do you ultimately want to format your data so that it can be housed in something like a Pandas DataFrame or NumPy Array?",
+    "Answer": [
+      "DataFrames/Arrays most closely resemble tables in relational databases.",
+      "DataFrames/Arrays are the only structures in Python capable of holding significant amounts of data.",
+      "Nearly all modeling algorithms take input data in a tabular format analogous to format of DataFrames/Arrays.",
+      "All of the above"
+    ],
+    "Correct": [
+      "Nearly all modeling algorithms take input data in a tabular format analogous to format of DataFrames/Arrays."
+    ],
+    "Title": "Back\nGathering Data: Check for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

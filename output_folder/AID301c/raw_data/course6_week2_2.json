@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "What is the purpose of Minikube in the context of Kubernetes?",
+    "Answer": [
+      "It deploys a Kubernetes cluster to a remote service based on a specified YAML file",
+      "It launches a Kubernetes cluster locally within a virtual machine or directly on the host",
+      "It is used through a command line interface to interact with a Kubernetes cluster",
+      "It allows you to work with multiple Docker containers as if they were a single application",
+      "It is the management layer for a Kubernetes cluster"
+    ],
+    "Correct": [
+      "It launches a Kubernetes cluster locally within a virtual machine or directly on the host"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 5 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

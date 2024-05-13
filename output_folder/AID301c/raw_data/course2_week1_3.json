@@ -1,0 +1,26 @@
+[
+  {
+    "Question": "In the continuing AAVAIL streaming case study example, one of the data features that can be useful in answering questions about customer churn is the total number of streams that a customer has watched. Imagine that you are working with a dataset where 10% of customers are missing this feature. A good place to start would be to go back and see if it’s possible to gather this information from the user logs, but assuming that this initiative is unsuccessful, you will have to decide what to do about this missing data. Which course of action is LEAST likely to be helpful in modeling churn?",
+    "Answer": [
+      "A.  Replace the missing stream count with the mean stream count among users where this information is available.",
+      "B.  Replace the missing stream count with a -1 to flag that it is unknown for a given user.",
+      "C.  Use the other features in the dataset in a model to predict the missing stream counts."
+    ],
+    "Correct": [
+      "C.  Use the other features in the dataset in a model to predict the missing stream counts."
+    ],
+    "Title": "Back\nCheck for Understanding: Missing Data\n\nPractice Quiz\n.\n • 30 min\n.\n • \n2 total points available.\n2 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the main reason for using multiple imputation?",
+    "Answer": [
+      "A.  Multiple imputation is necessary when more than one feature in the training data has missing values.",
+      "B.  Multiple imputation is a way to increase the size of your training dataset.",
+      "C.  Multiple imputation helps to better characterize the error introduced by replacing missing/unknown data with some chosen values."
+    ],
+    "Correct": [
+      "C.  Multiple imputation helps to better characterize the error introduced by replacing missing/unknown data with some chosen values."
+    ],
+    "Title": "Back\nCheck for Understanding: Missing Data\n\nPractice Quiz\n.\n • 30 min\n.\n • \n2 total points available.\n2 total points\n\nEnglish"
+  }
+]

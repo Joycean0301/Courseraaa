@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "A simple CNN that runs on all ten classes and uses all of the data obtains approximately what level of accuracy?\r",
+    "Answer": [
+      "62-77%",
+      "78-83%",
+      "84-89%",
+      "90-94%",
+      "95-99%"
+    ],
+    "Correct": [
+      "90-94%"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

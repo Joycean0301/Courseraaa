@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "When printing the most representative words from each topic what best describes the insight we gain?",
+    "Answer": [
+      "The top words in each topic correspond to the most frequently used words in the corpus",
+      "The topics are defined by their representative words and the document is a mixture of these topics",
+      "Documents have topics and the words describe the corpus",
+      "The words make up the document and the topics describe the words",
+      "Topics are latent features and the top words describe the average document"
+    ],
+    "Correct": [
+      "Topics are latent features and the top words describe the average document"
+    ],
+    "Title": "Back\nCASE STUDY - Topic Modeling: Check for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

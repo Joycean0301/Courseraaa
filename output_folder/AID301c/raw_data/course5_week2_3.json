@@ -1,0 +1,16 @@
+[
+  {
+    "Question": "Docker containers run a private file system that is isolated from the host and other containers. What is the suggested way to access notebooks and scripts from within the container?",
+    "Answer": [
+      "tmpfs mount",
+      "use a named pipe",
+      "bind mounts",
+      "GitHub",
+      "volumes"
+    ],
+    "Correct": [
+      "volumes"
+    ],
+    "Title": "Back\nCheck for Understanding\n\nPractice Quiz\n.\n • 30 min\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

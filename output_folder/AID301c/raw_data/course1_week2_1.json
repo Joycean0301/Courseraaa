@@ -1,0 +1,31 @@
+[
+  {
+    "Question": "Which tasks should be included in a data ingestion pipeline?  (Choose one or more)",
+    "Answer": [
+      "A.  Account for missing data, faulty data, repeated observations and other data integrity issues",
+      "B.  Ensure that expected data is returned given a specific set of parameters",
+      "C.  Ensure that an expected format is returned",
+      "D.  Ensure that models produce expected results"
+    ],
+    "Correct": [
+      "A.  Account for missing data, faulty data, repeated observations and other data integrity issues",
+      "C.  Ensure that an expected format is returned"
+    ],
+    "Title": "Back\nIngesting Data: Check for Understanding\n\nPractice Quiz\n.\n • 3 min\n.\n • \n2 total points available.\n2 total points\n\nEnglish"
+  },
+  {
+    "Question": "Sparse matrices can be useful as a target destination for ETL, but what are the main caveats (choose one or more)?",
+    "Answer": [
+      "A.  You cannot convert directly from a numpy.array to any of the scipy.sparse matrices ",
+      "B.  NumPy linear algebra functions generally cannot be called directly",
+      "C.  Saving to disk is not possible directly from a scipy.sparse format",
+      "D.  The train test splits need to be performed by hand with scipy.sparse matrices",
+      "E.  It is difficult to print to screen scipy.sparse matrices directly"
+    ],
+    "Correct": [
+      "A.  You cannot convert directly from a numpy.array to any of the scipy.sparse matrices ",
+      "C.  Saving to disk is not possible directly from a scipy.sparse format"
+    ],
+    "Title": "Back\nIngesting Data: Check for Understanding\n\nPractice Quiz\n.\n • 3 min\n.\n • \n2 total points available.\n2 total points\n\nEnglish"
+  }
+]
