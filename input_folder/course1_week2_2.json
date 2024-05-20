@@ -1,0 +1,39 @@
+[
+  {
+    "Question": "What does the BigQuery LAG function do?",
+    "Answer": [
+      "Returns the value of an expression on a preceding row",
+      "Returns the value of an expression on a subsequent row",
+      "Identifies the percentile a given row falls into within a partition",
+      "Assigns a rank to each row within a partition of a result set"
+    ],
+    "Correct": [
+      "Returns the value of an expression on a preceding row"
+    ],
+    "Title": "Back\nForecasting\n\nPractice Quiz\n.\n • \n3 total points available.\n3 total points\n\nEnglish"
+  },
+  {
+    "Question": "The past 4 values of a stock's closing price are sequentially 80, 81, 74, and 77. What is the trend_3_day value?",
+    "Answer": [
+      "-1",
+      "+1"
+    ],
+    "Correct": [
+      "+1"
+    ],
+    "Title": "Back\nForecasting\n\nPractice Quiz\n.\n • \n3 total points available.\n3 total points\n\nEnglish"
+  },
+  {
+    "Question": "Say you want to predict whether or not a sale will occur given historical sales history and corresponding market conditions. This is an example of what type of machine learning problem?",
+    "Answer": [
+      "Classification",
+      "Regression",
+      "Forecasting",
+      "Unsupervised learning "
+    ],
+    "Correct": [
+      "Classification"
+    ],
+    "Title": "Back\nForecasting\n\nPractice Quiz\n.\n • \n3 total points available.\n3 total points\n\nEnglish"
+  }
+]

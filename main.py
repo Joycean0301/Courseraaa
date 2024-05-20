@@ -138,7 +138,7 @@ def save_result(filename, dataframe_data, json_data, txt_quizlet_data):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='get input data from source')
-    parser.add_argument('--name',type=str,default=None)
+    parser.add_argument('--name',type=str,default="AIE301m")
     args = parser.parse_args()
 
     create_output_folder()

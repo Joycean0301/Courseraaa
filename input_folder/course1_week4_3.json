@@ -1,0 +1,45 @@
+[
+  {
+    "Question": "Which of the following reasons explain why neural networks are outperforming most other ML approaches?",
+    "Answer": [
+      "Large amounts of data",
+      "Available computational resources",
+      "Available infrastructure ",
+      "Advanced mathematics"
+    ],
+    "Correct": [
+      "Large amounts of data",
+      "Available computational resources",
+      "Available infrastructure "
+    ],
+    "Title": "Back\nRecap Quiz\n\nGraded Quiz\n.\n • 8 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  },
+  {
+    "Question": "What is meant by underfitting an ML model? ",
+    "Answer": [
+      "When the model memorizes the training data its given.",
+      "The model is too simplistic for the data it’s trying to represent.",
+      "The model is not fully trained.",
+      "The model uses too few hyperparameters."
+    ],
+    "Correct": [
+      "The model is too simplistic for the data it’s trying to represent."
+    ],
+    "Title": "Back\nRecap Quiz\n\nGraded Quiz\n.\n • 8 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following are advantages to using AI Platform Notebooks?  ",
+    "Answer": [
+      "Collaboration",
+      "They let you change underlying hardware",
+      "Perform computations on a virtual machine and not your local computer",
+      "They're open-source"
+    ],
+    "Correct": [
+      "Collaboration",
+      "They let you change underlying hardware",
+      "Perform computations on a virtual machine and not your local computer"
+    ],
+    "Title": "Back\nRecap Quiz\n\nGraded Quiz\n.\n • 8 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  }
+]

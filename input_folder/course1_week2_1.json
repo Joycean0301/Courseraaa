@@ -1,0 +1,39 @@
+[
+  {
+    "Question": "What is the difference between regression and forecasting?",
+    "Answer": [
+      "Regression uses variables to explain a response while forecasting uses past data to predict the future.",
+      "Forecasting uses variables to explain a response while regression uses past data to predict the future."
+    ],
+    "Correct": [
+      "Regression uses variables to explain a response while forecasting uses past data to predict the future."
+    ],
+    "Title": "Back\nForecasting\n\nPractice Quiz\n.\n • \n3 total points available.\n3 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of these technologies allows you to use SQL-like syntax to build machine learning models on Google Cloud Platform?",
+    "Answer": [
+      "BigQuery Machine Learning",
+      "Tensorflow",
+      "Perception APIs",
+      "Cloud Vision"
+    ],
+    "Correct": [
+      "BigQuery Machine Learning"
+    ],
+    "Title": "Back\nForecasting\n\nPractice Quiz\n.\n • \n3 total points available.\n3 total points\n\nEnglish"
+  },
+  {
+    "Question": "Say you want to predict whether or not a sale will occur given historical sales history and corresponding market conditions. This is an example of what type of machine learning problem?",
+    "Answer": [
+      "Classification",
+      "Regression",
+      "Forecasting",
+      "Unsupervised learning "
+    ],
+    "Correct": [
+      "Classification"
+    ],
+    "Title": "Back\nForecasting\n\nPractice Quiz\n.\n • \n3 total points available.\n3 total points\n\nEnglish"
+  }
+]

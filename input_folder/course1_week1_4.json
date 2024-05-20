@@ -1,0 +1,142 @@
+[
+  {
+    "Question": "Which of the following are a feature of hedge fund alpha ? ",
+    "Answer": [
+      "Return in excess of a benchmark",
+      "Risk adjusted return",
+      "Return once market and sector risk have been minimized"
+    ],
+    "Correct": [
+      "Return once market and sector risk have been minimized"
+    ],
+    "Title": "Back\nGoogle Cloud\n\nPractice Quiz\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  },
+  {
+    "Question": "Order execution strategies are used by both portfolio managers and quant traders. What is the objective of this type of strategy?",
+    "Answer": [
+      "Break up large orders into smaller orders to minimize brokerage costs and exchange fees.",
+      "Minimize market impact costs.",
+      "Preserve privacy of strategy as long as possible."
+    ],
+    "Correct": [
+      "Minimize market impact costs.",
+      "Preserve privacy of strategy as long as possible."
+    ],
+    "Title": "Back\nAI and Machine Learning\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Please select the statements that are true.",
+    "Answer": [
+      "High-frequency trading is a type of algorithmic tradin",
+      "Quantitative trading, algorithmic trading and high frequency trading  are a small part of trading volume in today's markets."
+    ],
+    "Correct": [
+      "High-frequency trading is a type of algorithmic trading"
+    ],
+    "Title": "Back\nAI and Machine Learning\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "We have been talking about correlation and cointegration. Please select the statements below that are correct:",
+    "Answer": [
+      "Cointegration is the same as correlation except that cointegration is the correlation of the means of two price series.",
+      "Cointegration and correlation both imply that the two price series are stationary.",
+      "Cointegration indicates that the difference between the means of two price series is stationary.",
+      "Correlation implies that the returns from two prices series are related, either positively or negatively."
+    ],
+    "Correct": [
+      "Correlation implies that the returns from two prices series are related, either positively or negatively."
+    ],
+    "Title": "Back\nAI and Machine Learning\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Quant trading has several advantages over discretionary trading as it is objective and takes the emotion out of strategy and risk management decisions. That said, it also has some challenges (many of which are shared by discretionary trading). Please look at the list below and select the statements that reflect these challenges.",
+    "Answer": [
+      "Quant strategies are consistently profitable.",
+      "Quant strategies  are optimal for all market conditions.",
+      "Quant strategies must be constantly adapted to new market correlations and volatility."
+    ],
+    "Correct": [
+      "Quant strategies are consistently profitable.",
+      "Quant strategies  are optimal for all market conditions.",
+      "Quant strategies must be constantly adapted to new market correlations and volatility."
+    ],
+    "Title": "Back\nAI and Machine Learning\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which type of arbitrage is used in Pairs Trading",
+    "Answer": [
+      "Statistical Arbitrage",
+      "Exchange Arbitrage",
+      "Carry Arbitrage"
+    ],
+    "Correct": [
+      "Statistical Arbitrage"
+    ],
+    "Title": "Back\nAI and Machine Learning\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Index arbitrage trading makes a profit by:",
+    "Answer": [
+      "Using exchange arbitrage to trade component stocks of an index that have bid prices that are higher than ask prices on two different exchanges.",
+      "Using cointegration between two indexes to decide when to buy one index and sell the other short.",
+      "Buying the component stocks and selling the index ETF or future when the component stocks are cheaper than the index ETF or future."
+    ],
+    "Correct": [
+      "Buying the component stocks and selling the index ETF or future when the component stocks are cheaper than the index ETF or future."
+    ],
+    "Title": "Back\nAI and Machine Learning\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Smaller markets offer more opportunities for statistical arbitrage but also have some unique challenges such as",
+    "Answer": [
+      "Lower liquidity",
+      "Small bid-ask price spreads",
+      "Low trade frequency",
+      "Higher level of competition in market"
+    ],
+    "Correct": [
+      "Lower liquidity",
+      "Low trade frequency"
+    ],
+    "Title": "Back\nAI and Machine Learning\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "The advantage of using a sliding window backtest over a split window backtest is that",
+    "Answer": [
+      "You are able to use more of the available data to train your model",
+      "You are able to use more of the available data to test your model",
+      "You don't use the same data for testing that you already used for training",
+      "Higher level of competition in market"
+    ],
+    "Correct": [
+      "You are able to use more of the available data to train your model",
+      "You are able to use more of the available data to test your model"
+    ],
+    "Title": "Back\nAI and Machine Learning\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "When designing your trading model it is more realistic to assume that you will",
+    "Answer": [
+      "Buy at the bid price and sell at the ask price",
+      "Buy and sell at the midpoint between the bid and the ask price.",
+      "Buy at the ask price and sell at the bid price."
+    ],
+    "Correct": [
+      "Buy at the ask price and sell at the bid price."
+    ],
+    "Title": "Back\nAI and Machine Learning\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Please identify some of the biases that can weaken a backtest below.",
+    "Answer": [
+      "Look-ahead bias",
+      "Look-back bias",
+      "Optimization bias"
+    ],
+    "Correct": [
+      "Look-ahead bias.",
+      "Optimization bias"
+    ],
+    "Title": "Back\nAI and Machine Learning\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  }
+]

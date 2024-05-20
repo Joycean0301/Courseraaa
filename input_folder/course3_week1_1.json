@@ -1,0 +1,39 @@
+[
+  {
+    "Question": "Deep Reinforcement Learning Agents are given a high degree of freedom, often subject only to the constraints of the operator's risk tolerance and drawdown limits. What are the advantages this gives to a DRL strategy compared to other automated strategies?",
+    "Answer": [
+      "A high degree of freedom prevents the strategy from being influenced by the operator's emotions",
+      "A high degree of freedom means the operator can set the strategy and 'forget it'. This means the operator can effectively oversee a larger portfolio of strategies.",
+      "A high degree of freedom means the DRL agent can learn from its actions in various states and extend its knowledge beyond what was given by the developer."
+    ],
+    "Correct": [
+      "A high degree of freedom means the operator can set the strategy and 'forget it'. This means the operator can effectively oversee a larger portfolio of strategies.",
+      "A high degree of freedom means the DRL agent can learn from its actions in various states and extend its knowledge beyond what was given by the developer."
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "We talked about how it has become increasingly difficult to make money trading pattern-recognition strategies. What advantage does reinforcement learning have in trading this type of strategy?",
+    "Answer": [
+      "An RL algorithm is faster at recognizing changes in the predictability and profitability of price patterns.",
+      "An RL algorithm can more accurately identify the end of an uptrend in prices and also the beginning of a downtrend in prices.",
+      "An RL algorithm can identify price patterns more quickly than other machine learning algos."
+    ],
+    "Correct": [
+      "An RL algorithm is faster at recognizing changes in the predictability and profitability of price patterns."
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "Most quantitative strategies depend on a trader to develop and update the trading algorithm and a machine to implement it. What are some of the disadvantages of this human-machine symbiosis?",
+    "Answer": [
+      "It is hard for a trader to develop an algorithm that anticipates the characteristics of every possible market environment",
+      "In today's algo-dominated markets it is necessary to use an order execution strategy to divide up a 'parent' order into several 'child' orders which need to be optimized based on market conditions.",
+      "Exchange and other trading venue interfaces are not capable of executing complex, multi-part order as quickly as required by rapidly changing market environments."
+    ],
+    "Correct": [
+      "It is hard for a trader to develop an algorithm that anticipates the characteristics of every possible market environment"
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  }
+]

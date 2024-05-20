@@ -18,7 +18,7 @@ document.body.appendChild(button);
 
 
 // Folder Name
-const FOLDER_NAME = "AID301c"
+const FOLDER_NAME = "AIE301m"
 // URL file Json
 const url_json = chrome.runtime.getURL(`output_folder/${FOLDER_NAME}/data.json`);
 

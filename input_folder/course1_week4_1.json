@@ -1,0 +1,28 @@
+[
+  {
+    "Question": "If I wanted my outputs to be in the form of probabilities which activation function should I use in the final layer?",
+    "Answer": [
+      "Sigmoid",
+      "ReLU",
+      "Tanh",
+      "ELU"
+    ],
+    "Correct": [
+      "Sigmoid"
+    ],
+    "Title": "Back\nTime Series\n\nPractice Quiz\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is important when creating deep neural networks?",
+    "Answer": [
+      "Lots of data",
+      "All of the above",
+      "Experimentation",
+      "Having good generalization"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nTime Series\n\nPractice Quiz\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  }
+]

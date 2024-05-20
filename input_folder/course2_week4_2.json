@@ -1,0 +1,66 @@
+[
+  {
+    "Question": "What is the advantage of trading a long-short pair of stocks versus a single stock?",
+    "Answer": [
+      "You exposure to market risk is lower",
+      "You can lower your exposure to industry and sector risk",
+      "You double your expected return"
+    ],
+    "Correct": [
+      "You exposure to market risk is lower",
+      "You can lower your exposure to industry and sector risk"
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "A long-short pairs trade will have a positive return if:",
+    "Answer": [
+      "The long side has a larger negative return than the short side.",
+      "The long side has a smaller positive return than the short side",
+      "The long side has a smaller negative return than the short side.",
+      "The long side has a larger positive return than the short side."
+    ],
+    "Correct": [
+      "The long side has a smaller negative return than the short side.",
+      "The long side has a larger positive return than the short side."
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "Your fundamental and statistical research indicate that Oracle (ORCL) will outperform Salesforce (CRM) over the next quarter. Oracle is currently trading at $50 and has a beta of 1.15. Salesforce is trading at $165 and has a beta of 1.22. You have total trading capital of $10,000,000 and your risk management team say you can can only allocate 5% to each strategy. If you fully allocate to a long ORCL, short CRM pair, how many shares of CRM should you short if you want the strategy to be beta hedged?",
+    "Answer": [
+      "2,484 shares of Salesforce (CRM)",
+      "3,030 shares of Salesforce (CRM)",
+      "2,856 shares of Salesforce (CRM)"
+    ],
+    "Correct": [
+      "2,856 shares of Salesforce (CRM)"
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "When we ran a principal components analysis of the 68 stocks in the XLK Technology ETF, our first component, PC1 explained a little over 50% of the variation in returns for the XLK stocks. All of the stocks had positive loadings in PC1. Why did we chose a pair of stocks that had equal loadings in this dimension?",
+    "Answer": [
+      "We wanted to create a long-short pair of to stocks in the same industry sub-sector and equal loadings in PC1 indicate that the stocks are in the same sub-sector.",
+      "We wanted to create a long-short pair of stocks that were hedged in their main exposure to variations in the overall returns of the XLK portfolio of stocks. ",
+      "We wanted to create a long-short pair of to stocks with the same price/earnings ratio which is one way to measure the Value factor. "
+    ],
+    "Correct": [
+      "We wanted to create a long-short pair of stocks that were hedged in their main exposure to variations in the overall returns of the XLK portfolio of stocks. "
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "You have backtested 10 trading strategies using two distinct data sets representing different market regimes (down-trending with high volatility and up-trending with low volatility). From the 10 strategies you have identified the ones with the highest Sharpe ratio and highest return under each regime. \n\nStrategy\n\n\t\n\nReturn\n\n\t\n\nPnL Vol\n\n\t\n\nSharpe Ratio\n\n\t\n\nRegime\n\n\n\n\n3\n\n\t\n\n.08\n\n\t\n\n.04\n\n\t\n\n2.00\n\n\t\n\nDown/High \n\n\n\n\n6\n\n\t\n\n.05\n\n\t\n\n.02\n\n\t\n\n2.50\n\n\t\n\nUp/Low\n\n\n\n\n7\n\n\t\n\n.10\n\n\t\n\n.06\n\n\t\n\n1.67\n\n\t\n\nDown/High\n\n\n\n\n10\n\n\t\n\n.06\n\n\t\n\n.03\n\n\t\n\n2.00\n\n\t\n\nUp/Low\n\nThe strategies have about 70% pair-wise correlations with each other. Your analysis predicts a 75% chance that the market will be up-trending and low volatility and 25% chance that it will be down-trending and high volatility.  Which strategy or combination of strategies would you choose for implementation or further backtesting and why would you choose it or them?",
+    "Answer": [
+      "Implement Strategy 6 because it has the highest Sharpe ratio and it is the most likely market regime.",
+      "Implement a  combination of Strategy 7 and 10 as this will give you the highest expected return regardless of the market regime.",
+      "Implement a  combination of Strategy 3 and 6 as this will give you the highest expected Sharpe ratio regardless of the market regime.",
+      "Rather than looking at the performance of individual strategies, consider backtesting combinations of different strategies and determining the combination that gives you the highest Sharpe ratio."
+    ],
+    "Correct": [
+      "Rather than looking at the performance of individual strategies, consider backtesting combinations of different strategies and determining the combination that gives you the highest Sharpe ratio."
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  }
+]

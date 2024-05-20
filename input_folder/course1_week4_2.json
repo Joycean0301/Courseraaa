@@ -1,0 +1,15 @@
+[
+  {
+    "Question": "Which of the following indicates potential overfitting of a machine learning model?",
+    "Answer": [
+      "The model performs poorly on training data and on validation data.",
+      "The model performs poorly on training data and well on validation data.",
+      "The model performs well on training data and on validation data.",
+      "The model performs well on training data but poorly on validation data."
+    ],
+    "Correct": [
+      "The model performs well on training data but poorly on validation data."
+    ],
+    "Title": "Back\nModel generalization\n\nPractice Quiz\n.\n • \n1 total point available.\n1 total point\n\nEnglish"
+  }
+]

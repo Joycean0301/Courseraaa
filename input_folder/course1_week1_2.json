@@ -1,0 +1,40 @@
+[
+  {
+    "Question": "Which of these statements are true?",
+    "Answer": [
+      "AI deals with theory and methods while ML is a toolset.",
+      "In ML, machines don’t start out intelligent. They learn to become intelligent.",
+      "AI and ML are exactly the same thing",
+      "ML is a sub-discipline of AI"
+    ],
+    "Correct": [
+      "AI deals with theory and methods while ML is a toolset.",
+      "In ML, machines don’t start out intelligent. They learn to become intelligent.",
+      "ML is a sub-discipline of AI"
+    ],
+    "Title": "Back\nAI and Machine Learning\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "True or False: Generally, one of the easiest ways to add machine learning to your applications is to use pre-trained models.",
+    "Answer": [
+      "False",
+      "True"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nAI and Machine Learning\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "What is meant by model generalization?",
+    "Answer": [
+      "A model's ability to correctly make predictions on data it hasn't been trained on.",
+      "How well a model can make predictions on the same data it's trained on.",
+      "How well a model can make predictions on a wide variety of applications."
+    ],
+    "Correct": [
+      "A model's ability to correctly make predictions on data it hasn't been trained on."
+    ],
+    "Title": "Back\nAI and Machine Learning\n\nGraded Quiz\n.\n • 5 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  }
+]

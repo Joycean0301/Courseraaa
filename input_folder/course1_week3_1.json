@@ -1,0 +1,60 @@
+[
+  {
+    "Question": "With the US GDP  we saw that that the data had an upward trend. We took the first difference but were not able to eliminate the trend. Why do you think the data required a second differencing?",
+    "Answer": [
+      "The data had too steep a slope",
+      "The data had an exponential component (increasing slope).",
+      "The data were spread out over a long period of time."
+    ],
+    "Correct": [
+      "The data had an exponential component (increasing slope)."
+    ],
+    "Title": "Back\nTime Series\n\nPractice Quiz\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the difference between seasonality and cyclicality?",
+    "Answer": [
+      "Seasonality refers to cycles that repeat on an annual basis. Cyclicality refers to cycles that can be longer than a year.",
+      "Seasonality refers to data that varies according to 3-month cycles, the same length as seasons of the year.",
+      "There is no difference. Seasonality and cyclicality are the same thing."
+    ],
+    "Correct": [
+      "Seasonality refers to cycles that repeat on an annual basis. Cyclicality refers to cycles that can be longer than a year."
+    ],
+    "Title": "Back\nTime Series\n\nPractice Quiz\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  },
+  {
+    "Question": "Please choose the pair that correctly completes this statement:\n\nAuto correlation can be shown visually with a _____________ and also by the __________. ",
+    "Answer": [
+      "first-differenced plot and second-differenced plot",
+      "scatter plot and correlation"
+    ],
+    "Correct": [
+      "scatter plot and correlation"
+    ],
+    "Title": "Back\nTime Series\n\nPractice Quiz\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  },
+  {
+    "Question": "Both AR and MA models use previous data to predict the next value of our variable. How are they different?",
+    "Answer": [
+      "AR uses lagged values of the error terms and MA uses lagged values of the data itself.",
+      "MA uses lagged values of the error terms and AR uses lagged values of the data itself."
+    ],
+    "Correct": [
+      "MA uses lagged values of the error terms and AR uses lagged values of the data itself."
+    ],
+    "Title": "Back\nTime Series\n\nPractice Quiz\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  },
+  {
+    "Question": "An ARIMA(1,2,3) model includes:",
+    "Answer": [
+      "One lagged error term, two lagged data values and is differenced three times.",
+      "One lagged data value, two lagged lagged error terms and is differenced three times.",
+      "One lagged data value, three lagged lagged error terms and is differenced twice."
+    ],
+    "Correct": [
+      "One lagged data value, three lagged lagged error terms and is differenced twice."
+    ],
+    "Title": "Back\nTime Series\n\nPractice Quiz\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  }
+]

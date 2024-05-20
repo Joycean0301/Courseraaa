@@ -1,0 +1,87 @@
+[
+  {
+    "Question": "Which of these are common types of quantitative trading strategies?",
+    "Answer": [
+      "Forecasting",
+      "Mean reversion",
+      "Correlation/Cointegration",
+      "Dickey–Fuller"
+    ],
+    "Correct": [
+      "Forecasting",
+      "Mean reversion",
+      "Correlation/Cointegration"
+    ],
+    "Title": "Back\nTrading Concepts Review\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "A stock is observed to have an average price of 50 with a +/- 5 variation over the past 100 trading days. You buy when the stock reaches 45 and sell when it reaches 55. What kind of arbitrage is this?",
+    "Answer": [
+      "Carry",
+      "Statistical",
+      "Merger",
+      "Liquidation"
+    ],
+    "Correct": [
+      "Statistical"
+    ],
+    "Title": "Back\nTrading Concepts Review\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of these are challenges in statistical arbitrage?",
+    "Answer": [
+      "Trading, clearing, and exchange fees",
+      "Risk-based charges",
+      "Short sale interest",
+      "Paying for liquidity"
+    ],
+    "Correct": [
+      "Trading, clearing, and exchange fees",
+      "Risk-based charges",
+      "Short sale interest",
+      "Paying for liquidity"
+    ],
+    "Title": "Back\nTrading Concepts Review\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of these are valid uses of backtesting?",
+    "Answer": [
+      "Quantify the hypothetical performance of your strategy for comparison with other strategies.",
+      "Predict likely capital requirements, trade frequency and risk for your portfolio.",
+      "Ensure that your strategy will be profitable in live trading.",
+      "Determine your maximum drawdown for your strategy in live trading"
+    ],
+    "Correct": [
+      "Quantify the hypothetical performance of your strategy for comparison with other strategies.",
+      "Predict likely capital requirements, trade frequency and risk for your portfolio."
+    ],
+    "Title": "Back\nTrading Concepts Review\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of these are common biases in back-testing?",
+    "Answer": [
+      "Risk bias",
+      "Optimization bias",
+      "Look-ahead bias",
+      "Survivorship bias"
+    ],
+    "Correct": [
+      "Optimization bias",
+      "Look-ahead bias",
+      "Survivorship bias"
+    ],
+    "Title": "Back\nTrading Concepts Review\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  },
+  {
+    "Question": "Statistical arbitrage and index arbitrage account for most of the volume in quantitative trading. Please select the examples of stat arb from the choices below:",
+    "Answer": [
+      "Selling an asset on one trading venue at 110 and simultaneously buying it back for 109.90 at a different trading venue.",
+      "Selling an asset on one trading venue at 110 and buying it back later for 109 at a different trading venue.",
+      "Selling a basket of stocks that matches the composition of the S&P 500 for $300,000 and simultaneously buying 1000 shares of the SPY ETF for $299.70."
+    ],
+    "Correct": [
+      "Selling an asset on one trading venue at 110 and buying it back later for 109 at a different trading venue."
+    ],
+    "Title": "Back\nTrading Concepts Review\n\nGraded Quiz\n.\n • 15 min\n\nEnglish\nDueMay 19, 11:59 PM +07"
+  }
+]

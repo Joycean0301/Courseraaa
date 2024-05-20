@@ -1,0 +1,64 @@
+[
+  {
+    "Question": "Why is stationarity important in time series modeling?",
+    "Answer": [
+      "Preservation of model stability",
+      "It optimizes model performance",
+      "Improves predictive power"
+    ],
+    "Correct": [
+      "Preservation of model stability"
+    ],
+    "Title": "Back\nTime Series\n\nPractice Quiz\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  },
+  {
+    "Question": "Most time series contain one or more of the following components: trend, seasonal, cyclical, residual. ",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nTime Series\n\nPractice Quiz\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  },
+  {
+    "Question": "An Auto Regressive (AR) process involves finding which of the following?",
+    "Answer": [
+      "Time lag",
+      "Spatial resolution",
+      "Moving average",
+      "Principle components"
+    ],
+    "Correct": [
+      "Time lag"
+    ],
+    "Title": "Back\nTime Series\n\nPractice Quiz\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  },
+  {
+    "Question": "Moving Average models involve finding which of the following?",
+    "Answer": [
+      "Error terms",
+      "Time lag",
+      "Correlation coefficients",
+      "Principle components"
+    ],
+    "Correct": [
+      "Error terms"
+    ],
+    "Title": "Back\nTime Series\n\nPractice Quiz\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  },
+  {
+    "Question": "You have an ARIMA model with a parameter p=1. What does this say about the model?",
+    "Answer": [
+      "Each term in the model is correlated to one output prior.",
+      "One error term is used to predict the output.",
+      "It’s stationary.",
+      "It’s not stationary."
+    ],
+    "Correct": [
+      "Each term in the model is correlated to one output prior."
+    ],
+    "Title": "Back\nTime Series\n\nPractice Quiz\n.\n • \n5 total points available.\n5 total points\n\nEnglish"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "Question": "Why is an RL trading system particularly well suited to executing high frequency trading strategies?",
+    "Answer": [
+      "High frequency trading occurs at the millisecond and sub-millisecond level. Modifications to an HF trading strategy must also occur on this time scale and so must be decided and implemented by the RL Trader without intervention from a human operator.",
+      "The system operator can modify the strategy real-time to take advantage of changes in market conditions",
+      "Policy optimization happens immediately before trade execution, so trades are also optimized."
+    ],
+    "Correct": [
+      "High frequency trading occurs at the millisecond and sub-millisecond level. Modifications to an HF trading strategy must also occur on this time scale and so must be decided and implemented by the RL Trader without intervention from a human operator."
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "Having tick by tick bid and ask data (price and total quantity (or size) bid and offered) lets you estimate how much it would cost to transact in the market as long the quantity you are trading is less than or equal to the average  bid/ask size. What kind of data would you need to estimate these costs if your trade size was larger?",
+    "Answer": [
+      "Minute by minute (minute bars), price, volume and volatility data",
+      "Second by second (second bars), price, volume and volatility data",
+      "Order book data"
+    ],
+    "Correct": [
+      "Order book data"
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "You have developed an RL algorithm that achieved a high Sharpe ratio and limited drawdowns when applied to the training data set. When you test it using more recent, unseen data, your algo has a zero Sharpe ratio and high PnL volatility. What steps should you take to redevelop your algo so that it has better potential performance in live trading?",
+    "Answer": [
+      "Retrain your algo using a larger data set.",
+      "Use a deeper neural network",
+      "Increase the dropout percentage in your neural network",
+      "Retrain your algo on the testing data set and then test it on the training data set."
+    ],
+    "Correct": [
+      "Retrain your algo using a larger data set.",
+      "Increase the dropout percentage in your neural network"
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "Portfolio managers can diversify by investing in 20 or more different investments within the asset category they have chosen to focus on. For example they could buy 20 different stocks or 20 bonds issued by different borrowers. Which one of  the options below would achieve the  highest level of risk diversification?",
+    "Answer": [
+      "Add 10 bonds to a portfolio of stocks or 10 stocks to a portfolio of bonds.",
+      "Add 10 foreign currency bonds to a portfolio of 20 stocks.",
+      "Increasing the number of stocks or bonds they hold to 30"
+    ],
+    "Correct": [
+      "Add 10 foreign currency bonds to a portfolio of 20 stocks."
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "Portfolio level risk management is just as important, if not more important than strategy level risk management. To some extent strategy level risk management indirectly takes care of firm level risk but it is still desirable to have a separate risk control mechanism that ensures firm survival. What happen when a global stop loss is triggered?",
+    "Answer": [
+      "Trading orders are automatically issued to close out all outstanding trades that currently  have a positive PnL to conserve trading capital and wait for the losing trades to become profitable.",
+      "Trading orders are automatically issued to close out all outstanding trades that currently  have a negative PnL to conserve trading capital and wait for the winning trades to offset the losses.",
+      "Trading orders are automatically issued to close out all outstanding trades."
+    ],
+    "Correct": [
+      "Trading orders are automatically issued to close out all outstanding trades."
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "Diversification and hedging are important tools that traders and trading firms use on many levels. Please select examples of diversification from the choices below:",
+    "Answer": [
+      "A hedge fund implements a beta-neutral long-short pairs trading strategy that selects similar companies to hedge out market, sector and industry risk.",
+      "A hedge fund implements a momentum strategy that goes long several uptrending stocks and short several downtrending stocks.",
+      "A hedge fund implements a beta-neutral long-short pairs trading strategy that selects similar companies to hedge out market, sector and industry risk. half of the pairs are chosen using principal components analysis (PCA) and half are chosen based on their level of correlation and cointegration as measured by the adjusted Dickey-Fuller (ADF) test.",
+      "A hedge fund implements pairs trading and momentum strategies in equities, foreign exchange and crypto. Within each of these asset classes the strategies are implemented on multiple assets using algorithms that have been developed separately for each asset class."
+    ],
+    "Correct": [
+      "A hedge fund implements a momentum strategy that goes long several uptrending stocks and short several downtrending stocks.",
+      "A hedge fund implements a beta-neutral long-short pairs trading strategy that selects similar companies to hedge out market, sector and industry risk. half of the pairs are chosen using principal components analysis (PCA) and half are chosen based on their level of correlation and cointegration as measured by the adjusted Dickey-Fuller (ADF) test.",
+      "A hedge fund implements pairs trading and momentum strategies in equities, foreign exchange and crypto. Within each of these asset classes the strategies are implemented on multiple assets using algorithms that have been developed separately for each asset class."
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "Bridgewater and other hedge funds use a risk parity approach to investing. At its simplest this strategy takes diversified portfolios of assets (or strategies) and increases their potential return by borrowing money to finance them (leverage). In this way a relatively low risk, low return strategy can be financed by a high level of debt so that its potential return on trading capital (not total investment) is much higher. This higher potential return comes with higher potential downside risk though, but this is the standard business model of hedge funds, almost all carry high leverage.\n\nFor example lets say you manage a hedge fund that has a diversified portfolio of strategies that when combined yield a relatively low risk income stream of 2% with a volatility of just 1%. How would this compare to an investment in an S&P 500 index fund that has an expected return of 12% and a volatility of 20%? Assume your hedge fund  borrows enough to increase the leveraged risk of its strategy portfolio to the same level as the unleveraged risk of the index fund. What would the leveraged return on the strategy portfolio be? Assume your hedge fund has $1 million of trading capital and $1 million is also invested in the index fund.",
+    "Answer": [
+      "12%",
+      "20%",
+      "40%"
+    ],
+    "Correct": [
+      "40%"
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following best describes Cloud AutoML?",
+    "Answer": [
+      "It uses your models and Google's data",
+      "It uses Google's models and your data",
+      "It uses Google's models and Google's data",
+      "It uses your models and your data"
+    ],
+    "Correct": [
+      "It uses Google's models and your data"
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "Say you're training a model in AutoML Vision and the performance report contains low scores. What can you do to improve them?",
+    "Answer": [
+      "Increase the amount of training data",
+      "Remove infrequently used labels",
+      "Train on examples similar to those you will classify",
+      "All of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "Say you're training a model in AutoML NLP and the performance report contains low scores. What can you do to improve them?",
+    "Answer": [
+      "Add more documents",
+      "Increase document variety",
+      "Reduce the number of labels",
+      "All of the above"
+    ],
+    "Correct": [
+      "All of the above"
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  },
+  {
+    "Question": "True or False: BigQuery import into AutoML Tables has support for both arrays and structs.",
+    "Answer": [
+      "True",
+      "False"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nPairs Trading Strategy concepts\n\nGraded Quiz\n\nEnglish\nDueJun 16, 11:59 PM +07"
+  }
+]

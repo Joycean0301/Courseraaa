@@ -1,0 +1,53 @@
+[
+  {
+    "Question": "If you believe that the price and volume history of an asset are all that is needed to design a trading strategy then you would would use an endogenous trading rule. What is the theoretical justification for using this type of strategy?",
+    "Answer": [
+      "Asset prices follow a random walk with equal probabilities of increasing and decreasing",
+      "Fundamental data such as historic earning and sales growth are already fully reflected in the current market price and so have no predictive power.",
+      "Markets are efficient and fully incorporate all available information (both public and private).",
+      "Asset and market prices tend to have momentum so that stocks whose prices are in an up trends tend to increase in value and those in a downtrend tend to decrease in value."
+    ],
+    "Correct": [
+      "Fundamental data such as historic earning and sales growth are already fully reflected in the current market price and so have no predictive power.",
+      "Asset and market prices tend to have momentum so that stocks whose prices are in an up trends tend to increase in value and those in a downtrend tend to decrease in value."
+    ],
+    "Title": "Back\nUnderstand Quantitative Strategies\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "The basic trading model parameters are entry signal,\r profit exit,\r stop-loss\r and time-out\r. How can you use these parameters and machine learning to optimize your trading strategy?",
+    "Answer": [
+      "Vary the the type of entry signal and profit exit levels in backtesting with the objective of maximizing risk adjusted return (Sharpe ratio).",
+      "Vary the the type of entry signal and profit exit levels in backtesting with the objective of maximizing profit.",
+      "Vary the the type of entry signal, profit exit levels,  stop loss levels and trade completion time limits in backtesting with the objective of maximizing risk adjusted return (Sharpe ratio) within your tolerance for PnL volatility and maximum drawdown."
+    ],
+    "Correct": [
+      "Vary the the type of entry signal, profit exit levels,  stop loss levels and trade completion time limits in backtesting with the objective of maximizing risk adjusted return (Sharpe ratio) within your tolerance for PnL volatility and maximum drawdown."
+    ],
+    "Title": "Back\nUnderstand Quantitative Strategies\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "The main benefit of a dynamic stop loss over a static stop loss is that:",
+    "Answer": [
+      "Dynamic stop losses increase your expected returns from a trading strategy.",
+      "Dynamic stop losses guarantee that your strategy will not make a loss even if it is stopped out.",
+      "Dynamic stop losses reduce the expected risk of your strategy."
+    ],
+    "Correct": [
+      "Dynamic stop losses reduce the expected risk of your strategy."
+    ],
+    "Title": "Back\nUnderstand Quantitative Strategies\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "Endogenous trading rules are often created by:",
+    "Answer": [
+      "Technical analysts",
+      "Statistical arbitrage traders",
+      "Strategists",
+      "Quantitative trading groups"
+    ],
+    "Correct": [
+      "Technical analysts"
+    ],
+    "Title": "Back\nUnderstand Quantitative Strategies\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  }
+]

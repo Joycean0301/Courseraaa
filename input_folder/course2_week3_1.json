@@ -1,0 +1,27 @@
+[
+  {
+    "Question": "You can choose two moving average window lengths so that the crossovers will most closely match the optimal buy and sell points in your historical data. What is the weakness of this strategy?",
+    "Answer": [
+      "You may end up with non-standard window lengths that are not widely used.",
+      "You end up using arbitrary window lengths to fit your data.",
+      "It is better to use a single moving average and choose the window length to create the crossover points that most closely match the optimal buy and sell points."
+    ],
+    "Correct": [
+      "You end up using arbitrary window lengths to fit your data."
+    ],
+    "Title": "Back\nUnderstand Quantitative Strategies\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following are advantages of using moving average ribbons instead of selecting two moving average window lengths to identify buy and sell signals?",
+    "Answer": [
+      "You avoid overfitting your data with specific moving average window lengths.",
+      "Using a moving average ribbon will give you many more buy and sell signals than using two moving average windows",
+      "By looking at the entire 'shape' of the ribbon rather than two specific window lengths, you can get a better quality trading signal."
+    ],
+    "Correct": [
+      "You avoid overfitting your data with specific moving average window lengths.",
+      "By looking at the entire 'shape' of the ribbon rather than two specific window lengths, you can get a better quality trading signal."
+    ],
+    "Title": "Back\nUnderstand Quantitative Strategies\n\nGraded Quiz\n\nEnglish\nDueMay 26, 11:59 PM +07"
+  }
+]

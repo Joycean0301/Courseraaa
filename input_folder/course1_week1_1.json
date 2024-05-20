@@ -1,0 +1,104 @@
+[
+  {
+    "Question": "This quiz is intended to help you assess whether you have the necessary prerequisite knowledge for the Machine Learning portion of this course. \n\nGiven : tuple = (‘left’, 44.44, ‘temp’, 99.99), what is the output of the Python statement below?\n\n1\nprint(tuple[0])",
+    "Answer": [
+      "(‘left’)",
+      "'left'",
+      "['left']",
+      "left"
+    ],
+    "Correct": [
+      "left"
+    ],
+    "Title": "Back\nPython Skills Assessment Quiz\n\nPractice Quiz\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following commands removes all leading spaces in a string variable named \"txt\"? ",
+    "Answer": [
+      "txt.strip",
+      "strip(txt)",
+      "txt.lstrip()",
+      "lstrip.txt() "
+    ],
+    "Correct": [
+      "txt.lstrip()"
+    ],
+    "Title": "Back\nPython Skills Assessment Quiz\n\nPractice Quiz\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the output of the following Python statement?\n\n1\nprint('{0:-2%}'.format(1.0/3))",
+    "Answer": [
+      ".33%",
+      "33.333333%",
+      "It will give an error",
+      "0.33"
+    ],
+    "Correct": [
+      "33.333333%"
+    ],
+    "Title": "Back\nPython Skills Assessment Quiz\n\nPractice Quiz\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the output of the following Python statement?\n\n1\nprint('abcefd'.replace('cd','12'))",
+    "Answer": [
+      "ab12ef",
+      "ab1ef2",
+      "abcefd",
+      "abf12"
+    ],
+    "Correct": [
+      "abcefd"
+    ],
+    "Title": "Back\nPython Skills Assessment Quiz\n\nPractice Quiz\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the output of the following Python statement? \n\n1\n2\n3\nmy_string = 'whais'\nfor i in range(len(my_string)):\n    print(i)",
+    "Answer": [
+      "1 2 3 4 5 6",
+      "0 1 2 3 4",
+      "It will give an error",
+      "'whatis'"
+    ],
+    "Correct": [
+      "0 1 2 3 4"
+    ],
+    "Title": "Back\nPython Skills Assessment Quiz\n\nPractice Quiz\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "What is the output of the following Python statement? \n\n1\nprint(3>=3)",
+    "Answer": [
+      "3",
+      "False",
+      "True"
+    ],
+    "Correct": [
+      "True"
+    ],
+    "Title": "Back\nPython Skills Assessment Quiz\n\nPractice Quiz\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "In the following code, N is a/an ________________? \n\n1\nN ='3.0' ",
+    "Answer": [
+      "Integer variable",
+      "String variable ",
+      "Float variable ",
+      "It will give an error "
+    ],
+    "Correct": [
+      "String variable "
+    ],
+    "Title": "Back\nPython Skills Assessment Quiz\n\nPractice Quiz\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  },
+  {
+    "Question": "Which of the following statements is true about Python syntax? ",
+    "Answer": [
+      "Variable names can start with a digit",
+      "Keywords cannot be used as a variable name",
+      "Variable name can start with an underscore "
+    ],
+    "Correct": [
+      "Variable name can start with an underscore "
+    ],
+    "Title": "Back\nPython Skills Assessment Quiz\n\nPractice Quiz\n.\n • \n8 total points available.\n8 total points\n\nEnglish"
+  }
+]

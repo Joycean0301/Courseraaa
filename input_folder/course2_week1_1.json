@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "If you are long an asset (or instrument), what are some examples of pre-planned risk management?",
+    "Answer": [
+      "A sell order above the current market price",
+      "A buy order above the current market price",
+      "A sell order below the current market price",
+      "A buy order below the current market price"
+    ],
+    "Correct": [
+      "A sell order above the current market price",
+      "A sell order below the current market price"
+    ],
+    "Title": "Back\nRecap Quiz\n\nGraded Quiz\n.\n • 8 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  },
+  {
+    "Question": "Which of the following are examples of a combination of endogenous and exogenous trading rules",
+    "Answer": [
+      "Sell Microsoft if the closing price is below the daily average and the volume traded is higher than the previous day's volume",
+      "Sell Microsoft if the closing price is below the daily average and the closing price of SPY (S&P 500 ETF) is also below its daily average.",
+      "Sell Microsoft if trading volume is lower than the previous day and the unemployment rate increased during the previous month.",
+      "Buy Apple if reported quarterly profits are up and Microsoft's reported quarterly sales are down."
+    ],
+    "Correct": [
+      "Sell Microsoft if the closing price is below the daily average and the closing price of SPY (S&P 500 ETF) is also below its daily average.",
+      "Sell Microsoft if trading volume is lower than the previous day and the unemployment rate increased during the previous month."
+    ],
+    "Title": "Back\nRecap Quiz\n\nGraded Quiz\n.\n • 8 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  },
+  {
+    "Question": "You have sold short Amazon at 1,800 and have a 50 basis point profit objective, Which order should you place for your profit exit?",
+    "Answer": [
+      "Buy Amazon at 1,890",
+      "Sell Amazon at 1,890",
+      "Buy Amazon at 1,710",
+      "Sell Amazon at 1,710"
+    ],
+    "Correct": [
+      "Buy Amazon at 1,710"
+    ],
+    "Title": "Back\nRecap Quiz\n\nGraded Quiz\n.\n • 8 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  },
+  {
+    "Question": "If you sell MSFT at 150  and have a profit objective of 500 basis points and a loss tolerance of 200 basis points what exit orders should you place?",
+    "Answer": [
+      "Buy MSFT at 147 and buy MSFT at 157.5",
+      "Sell MSFT at 147 and sell MSFT at 157.5",
+      "Buy MSFT at 142.5 and buy MSFT at 153",
+      "Buy MSFT at 147 and buy MSFT at 153"
+    ],
+    "Correct": [
+      "Buy MSFT at 142.5 and buy MSFT at 153"
+    ],
+    "Title": "Back\nRecap Quiz\n\nGraded Quiz\n.\n • 8 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  },
+  {
+    "Question": "You are trading Alphabet (GOOG) and have entered with a buy of 1000 shares at $1100. You have a profit target of 400 basis points and a dynamic stop-loss initially set at 200 basis points below your entry point. During the next week the trading range for GOOG is 1080 to 1130.  At the end of the week the price of GOOG is 1110 and your trade is still open. What exit orders do you currently have in the market?",
+    "Answer": [
+      "Stop-loss order to sell GOOG at 1078 and a limit order to sell GOOG at 1144.",
+      "Stop-loss order to sell GOOG at 1107.40 and a limit order to sell GOOG at 1175.2.",
+      "Stop-loss order to sell GOOG at 1107.40 and a limit order to sell GOOG at 1144.",
+      "Stop-loss order to sell GOOG at 1100 and a limit order to sell GOOG at 1144"
+    ],
+    "Correct": [
+      "Stop-loss order to sell GOOG at 1107.40 and a limit order to sell GOOG at 1144."
+    ],
+    "Title": "Back\nRecap Quiz\n\nGraded Quiz\n.\n • 8 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  },
+  {
+    "Question": "You are trading Microsoft (MSFT) and have shorted 1,000 shares at $160. You have a profit target of 500 basis points and a variable dynamic stop-loss initially set at 300 basis points above your entry point.\n\nYour risk management strategy is to reduce the size of your stop-loss margin by 50% of your unrealized profit ( on your MSFT short position and to have the stop-loss level adjust to the current MSFT price if your trade has an unrealized profit. If your trade has an unrealized loss the stop-loss level stays at the original level\n\nDuring the next 5 days the trading range for MSFT is 154 to 164. At the end of the week the price of MSFT is 154 and your trade is still open. What exit orders do you currently have in the market?",
+    "Answer": [
+      "Stop-loss order to buy MSFT at 161.62 and a limit order to buy back MSFT at 152.",
+      "Stop-loss order to buy MSFT at 158.62 and a limit order to buy back MSFT at 152.",
+      "Stop-loss order to buy MSFT at 164.80 and a limit order to buy back MSFT at 152.",
+      "Stop-loss order to buy MSFT at 155.62 and a limit order to buy back MSFT at 152."
+    ],
+    "Correct": [
+      "Stop-loss order to buy MSFT at 155.62 and a limit order to buy back MSFT at 152."
+    ],
+    "Title": "Back\nRecap Quiz\n\nGraded Quiz\n.\n • 8 min\n\nEnglish\nDueJun 9, 11:59 PM +07"
+  }
+]
