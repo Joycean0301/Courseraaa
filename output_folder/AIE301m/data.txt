@@ -1,0 +1,573 @@
+This quiz is intended to help you assess whether you have the necessary prerequisite knowledge for the Machine Learning portion of this course. 
+
+Given : tuple = (‘left’, 44.44, ‘temp’, 99.99), what is the output of the Python statement below?
+
+1
+print(tuple[0])
+--------------------
+(‘left’)
+'left'
+['left']
+left@@@@@left#####Which of the following commands removes all leading spaces in a string variable named "txt"? 
+--------------------
+txt.strip
+strip(txt)
+txt.lstrip()
+lstrip.txt() @@@@@txt.lstrip()#####What is the output of the following Python statement?
+
+1
+print('{0:-2%}'.format(1.0/3))
+--------------------
+.33%
+33.333333%
+It will give an error
+0.33@@@@@33.333333%#####What is the output of the following Python statement?
+
+1
+print('abcefd'.replace('cd','12'))
+--------------------
+ab12ef
+ab1ef2
+abcefd
+abf12@@@@@abcefd#####What is the output of the following Python statement? 
+
+1
+2
+3
+my_string = 'whais'
+for i in range(len(my_string)):
+    print(i)
+--------------------
+1 2 3 4 5 6
+0 1 2 3 4
+It will give an error
+'whatis'@@@@@0 1 2 3 4#####What is the output of the following Python statement? 
+
+1
+print(3>=3)
+--------------------
+3
+False
+True@@@@@True#####In the following code, N is a/an ________________? 
+
+1
+N ='3.0' 
+--------------------
+Integer variable
+String variable 
+Float variable 
+It will give an error @@@@@String variable #####Which of the following statements is true about Python syntax? 
+--------------------
+Variable names can start with a digit
+Keywords cannot be used as a variable name
+Variable name can start with an underscore @@@@@Variable name can start with an underscore #####Which of these statements are true?
+--------------------
+AI deals with theory and methods while ML is a toolset.
+In ML, machines don’t start out intelligent. They learn to become intelligent.
+AI and ML are exactly the same thing
+ML is a sub-discipline of AI@@@@@AI deals with theory and methods while ML is a toolset.
+In ML, machines don’t start out intelligent. They learn to become intelligent.
+ML is a sub-discipline of AI#####True or False: Generally, one of the easiest ways to add machine learning to your applications is to use pre-trained models.
+--------------------
+False
+True@@@@@True#####What is meant by model generalization?
+--------------------
+A model's ability to correctly make predictions on data it hasn't been trained on.
+How well a model can make predictions on the same data it's trained on.
+How well a model can make predictions on a wide variety of applications.@@@@@A model's ability to correctly make predictions on data it hasn't been trained on.#####True or False: Data engineering typically plays a small role in deploying machine learning models. 
+--------------------
+True
+False@@@@@False#####Which of the following are a feature of hedge fund alpha ? 
+--------------------
+Return in excess of a benchmark
+Risk adjusted return
+Return once market and sector risk have been minimized@@@@@Return once market and sector risk have been minimized#####Order execution strategies are used by both portfolio managers and quant traders. What is the objective of this type of strategy?
+--------------------
+Break up large orders into smaller orders to minimize brokerage costs and exchange fees.
+Minimize market impact costs.
+Preserve privacy of strategy as long as possible.@@@@@Minimize market impact costs.
+Preserve privacy of strategy as long as possible.#####Please select the statements that are true.
+--------------------
+High-frequency trading is a type of algorithmic tradin
+Quantitative trading, algorithmic trading and high frequency trading  are a small part of trading volume in today's markets.@@@@@High-frequency trading is a type of algorithmic trading#####We have been talking about correlation and cointegration. Please select the statements below that are correct:
+--------------------
+Cointegration is the same as correlation except that cointegration is the correlation of the means of two price series.
+Cointegration and correlation both imply that the two price series are stationary.
+Cointegration indicates that the difference between the means of two price series is stationary.
+Correlation implies that the returns from two prices series are related, either positively or negatively.@@@@@Correlation implies that the returns from two prices series are related, either positively or negatively.#####Quant trading has several advantages over discretionary trading as it is objective and takes the emotion out of strategy and risk management decisions. That said, it also has some challenges (many of which are shared by discretionary trading). Please look at the list below and select the statements that reflect these challenges.
+--------------------
+Quant strategies are consistently profitable.
+Quant strategies  are optimal for all market conditions.
+Quant strategies must be constantly adapted to new market correlations and volatility.@@@@@Quant strategies are consistently profitable.
+Quant strategies  are optimal for all market conditions.
+Quant strategies must be constantly adapted to new market correlations and volatility.#####Which type of arbitrage is used in Pairs Trading
+--------------------
+Statistical Arbitrage
+Exchange Arbitrage
+Carry Arbitrage@@@@@Statistical Arbitrage#####Index arbitrage trading makes a profit by:
+--------------------
+Using exchange arbitrage to trade component stocks of an index that have bid prices that are higher than ask prices on two different exchanges.
+Using cointegration between two indexes to decide when to buy one index and sell the other short.
+Buying the component stocks and selling the index ETF or future when the component stocks are cheaper than the index ETF or future.@@@@@Buying the component stocks and selling the index ETF or future when the component stocks are cheaper than the index ETF or future.#####Smaller markets offer more opportunities for statistical arbitrage but also have some unique challenges such as
+--------------------
+Lower liquidity
+Small bid-ask price spreads
+Low trade frequency
+Higher level of competition in market@@@@@Lower liquidity
+Low trade frequency#####The advantage of using a sliding window backtest over a split window backtest is that
+--------------------
+You are able to use more of the available data to train your model
+You are able to use more of the available data to test your model
+You don't use the same data for testing that you already used for training
+Higher level of competition in market@@@@@You are able to use more of the available data to train your model
+You are able to use more of the available data to test your model#####When designing your trading model it is more realistic to assume that you will
+--------------------
+Buy at the bid price and sell at the ask price
+Buy and sell at the midpoint between the bid and the ask price.
+Buy at the ask price and sell at the bid price.@@@@@Buy at the ask price and sell at the bid price.#####Please identify some of the biases that can weaken a backtest below.
+--------------------
+Look-ahead bias
+Look-back bias
+Optimization bias@@@@@Look-ahead bias.
+Optimization bias#####Which of these are common types of quantitative trading strategies?
+--------------------
+Forecasting
+Mean reversion
+Correlation/Cointegration
+Dickey–Fuller@@@@@Forecasting
+Mean reversion
+Correlation/Cointegration#####A stock is observed to have an average price of 50 with a +/- 5 variation over the past 100 trading days. You buy when the stock reaches 45 and sell when it reaches 55. What kind of arbitrage is this?
+--------------------
+Carry
+Statistical
+Merger
+Liquidation@@@@@Statistical#####Which of these are challenges in statistical arbitrage?
+--------------------
+Trading, clearing, and exchange fees
+Risk-based charges
+Short sale interest
+Paying for liquidity@@@@@Trading, clearing, and exchange fees
+Risk-based charges
+Short sale interest
+Paying for liquidity#####Which of these are valid uses of backtesting?
+--------------------
+Quantify the hypothetical performance of your strategy for comparison with other strategies.
+Predict likely capital requirements, trade frequency and risk for your portfolio.
+Ensure that your strategy will be profitable in live trading.
+Determine your maximum drawdown for your strategy in live trading@@@@@Quantify the hypothetical performance of your strategy for comparison with other strategies.
+Predict likely capital requirements, trade frequency and risk for your portfolio.#####Which of these are common biases in back-testing?
+--------------------
+Risk bias
+Optimization bias
+Look-ahead bias
+Survivorship bias@@@@@Optimization bias
+Look-ahead bias
+Survivorship bias#####Statistical arbitrage and index arbitrage account for most of the volume in quantitative trading. Please select the examples of stat arb from the choices below:
+--------------------
+Selling an asset on one trading venue at 110 and simultaneously buying it back for 109.90 at a different trading venue.
+Selling an asset on one trading venue at 110 and buying it back later for 109 at a different trading venue.
+Selling a basket of stocks that matches the composition of the S&P 500 for $300,000 and simultaneously buying 1000 shares of the SPY ETF for $299.70.@@@@@Selling an asset on one trading venue at 110 and buying it back later for 109 at a different trading venue.#####What is the difference between regression and forecasting?
+--------------------
+Regression uses variables to explain a response while forecasting uses past data to predict the future.
+Forecasting uses variables to explain a response while regression uses past data to predict the future.@@@@@Regression uses variables to explain a response while forecasting uses past data to predict the future.#####Which of these technologies allows you to use SQL-like syntax to build machine learning models on Google Cloud Platform?
+--------------------
+BigQuery Machine Learning
+Tensorflow
+Perception APIs
+Cloud Vision@@@@@BigQuery Machine Learning#####Say you want to predict whether or not a sale will occur given historical sales history and corresponding market conditions. This is an example of what type of machine learning problem?
+--------------------
+Classification
+Regression
+Forecasting
+Unsupervised learning @@@@@Classification#####What does the BigQuery LAG function do?
+--------------------
+Returns the value of an expression on a preceding row
+Returns the value of an expression on a subsequent row
+Identifies the percentile a given row falls into within a partition
+Assigns a rank to each row within a partition of a result set@@@@@Returns the value of an expression on a preceding row#####The past 4 values of a stock's closing price are sequentially 80, 81, 74, and 77. What is the trend_3_day value?
+--------------------
+-1
++1@@@@@+1#####With the US GDP  we saw that that the data had an upward trend. We took the first difference but were not able to eliminate the trend. Why do you think the data required a second differencing?
+--------------------
+The data had too steep a slope
+The data had an exponential component (increasing slope).
+The data were spread out over a long period of time.@@@@@The data had an exponential component (increasing slope).#####What is the difference between seasonality and cyclicality?
+--------------------
+Seasonality refers to cycles that repeat on an annual basis. Cyclicality refers to cycles that can be longer than a year.
+Seasonality refers to data that varies according to 3-month cycles, the same length as seasons of the year.
+There is no difference. Seasonality and cyclicality are the same thing.@@@@@Seasonality refers to cycles that repeat on an annual basis. Cyclicality refers to cycles that can be longer than a year.#####Please choose the pair that correctly completes this statement:
+
+Auto correlation can be shown visually with a _____________ and also by the __________. 
+--------------------
+first-differenced plot and second-differenced plot
+scatter plot and correlation@@@@@scatter plot and correlation#####Both AR and MA models use previous data to predict the next value of our variable. How are they different?
+--------------------
+AR uses lagged values of the error terms and MA uses lagged values of the data itself.
+MA uses lagged values of the error terms and AR uses lagged values of the data itself.@@@@@MA uses lagged values of the error terms and AR uses lagged values of the data itself.#####An ARIMA(1,2,3) model includes:
+--------------------
+One lagged error term, two lagged data values and is differenced three times.
+One lagged data value, two lagged lagged error terms and is differenced three times.
+One lagged data value, three lagged lagged error terms and is differenced twice.@@@@@One lagged data value, three lagged lagged error terms and is differenced twice.#####Why is stationarity important in time series modeling?
+--------------------
+Preservation of model stability
+It optimizes model performance
+Improves predictive power@@@@@Preservation of model stability#####Most time series contain one or more of the following components: trend, seasonal, cyclical, residual. 
+--------------------
+True
+False@@@@@True#####An Auto Regressive (AR) process involves finding which of the following?
+--------------------
+Time lag
+Spatial resolution
+Moving average
+Principle components@@@@@Time lag#####Moving Average models involve finding which of the following?
+--------------------
+Error terms
+Time lag
+Correlation coefficients
+Principle components@@@@@Error terms#####You have an ARIMA model with a parameter p=1. What does this say about the model?
+--------------------
+Each term in the model is correlated to one output prior.
+One error term is used to predict the output.
+It’s stationary.
+It’s not stationary.@@@@@Each term in the model is correlated to one output prior.#####If I wanted my outputs to be in the form of probabilities which activation function should I use in the final layer?
+--------------------
+Sigmoid
+ReLU
+Tanh
+ELU@@@@@Sigmoid#####What is important when creating deep neural networks?
+--------------------
+Lots of data
+All of the above
+Experimentation
+Having good generalization@@@@@All of the above#####Which of the following indicates potential overfitting of a machine learning model?
+--------------------
+The model performs poorly on training data and on validation data.
+The model performs poorly on training data and well on validation data.
+The model performs well on training data and on validation data.
+The model performs well on training data but poorly on validation data.@@@@@The model performs well on training data but poorly on validation data.#####Which of the following reasons explain why neural networks are outperforming most other ML approaches?
+--------------------
+Large amounts of data
+Available computational resources
+Available infrastructure 
+Advanced mathematics@@@@@Large amounts of data
+Available computational resources
+Available infrastructure #####What is meant by underfitting an ML model? 
+--------------------
+When the model memorizes the training data its given.
+The model is too simplistic for the data it’s trying to represent.
+The model is not fully trained.
+The model uses too few hyperparameters.@@@@@The model is too simplistic for the data it’s trying to represent.#####Which of the following are advantages to using AI Platform Notebooks?  
+--------------------
+Collaboration
+They let you change underlying hardware
+Perform computations on a virtual machine and not your local computer
+They're open-source@@@@@Collaboration
+They let you change underlying hardware
+Perform computations on a virtual machine and not your local computer#####If you are long an asset (or instrument), what are some examples of pre-planned risk management?
+--------------------
+A sell order above the current market price
+A buy order above the current market price
+A sell order below the current market price
+A buy order below the current market price@@@@@A sell order above the current market price
+A sell order below the current market price#####Which of the following are examples of a combination of endogenous and exogenous trading rules
+--------------------
+Sell Microsoft if the closing price is below the daily average and the volume traded is higher than the previous day's volume
+Sell Microsoft if the closing price is below the daily average and the closing price of SPY (S&P 500 ETF) is also below its daily average.
+Sell Microsoft if trading volume is lower than the previous day and the unemployment rate increased during the previous month.
+Buy Apple if reported quarterly profits are up and Microsoft's reported quarterly sales are down.@@@@@Sell Microsoft if the closing price is below the daily average and the closing price of SPY (S&P 500 ETF) is also below its daily average.
+Sell Microsoft if trading volume is lower than the previous day and the unemployment rate increased during the previous month.#####You have sold short Amazon at 1,800 and have a 50 basis point profit objective, Which order should you place for your profit exit?
+--------------------
+Buy Amazon at 1,890
+Sell Amazon at 1,890
+Buy Amazon at 1,710
+Sell Amazon at 1,710@@@@@Buy Amazon at 1,710#####If you sell MSFT at 150  and have a profit objective of 500 basis points and a loss tolerance of 200 basis points what exit orders should you place?
+--------------------
+Buy MSFT at 147 and buy MSFT at 157.5
+Sell MSFT at 147 and sell MSFT at 157.5
+Buy MSFT at 142.5 and buy MSFT at 153
+Buy MSFT at 147 and buy MSFT at 153@@@@@Buy MSFT at 142.5 and buy MSFT at 153#####You are trading Alphabet (GOOG) and have entered with a buy of 1000 shares at $1100. You have a profit target of 400 basis points and a dynamic stop-loss initially set at 200 basis points below your entry point. During the next week the trading range for GOOG is 1080 to 1130.  At the end of the week the price of GOOG is 1110 and your trade is still open. What exit orders do you currently have in the market?
+--------------------
+Stop-loss order to sell GOOG at 1078 and a limit order to sell GOOG at 1144.
+Stop-loss order to sell GOOG at 1107.40 and a limit order to sell GOOG at 1175.2.
+Stop-loss order to sell GOOG at 1107.40 and a limit order to sell GOOG at 1144.
+Stop-loss order to sell GOOG at 1100 and a limit order to sell GOOG at 1144@@@@@Stop-loss order to sell GOOG at 1107.40 and a limit order to sell GOOG at 1144.#####You are trading Microsoft (MSFT) and have shorted 1,000 shares at $160. You have a profit target of 500 basis points and a variable dynamic stop-loss initially set at 300 basis points above your entry point.
+
+Your risk management strategy is to reduce the size of your stop-loss margin by 50% of your unrealized profit ( on your MSFT short position and to have the stop-loss level adjust to the current MSFT price if your trade has an unrealized profit. If your trade has an unrealized loss the stop-loss level stays at the original level
+
+During the next 5 days the trading range for MSFT is 154 to 164. At the end of the week the price of MSFT is 154 and your trade is still open. What exit orders do you currently have in the market?
+--------------------
+Stop-loss order to buy MSFT at 161.62 and a limit order to buy back MSFT at 152.
+Stop-loss order to buy MSFT at 158.62 and a limit order to buy back MSFT at 152.
+Stop-loss order to buy MSFT at 164.80 and a limit order to buy back MSFT at 152.
+Stop-loss order to buy MSFT at 155.62 and a limit order to buy back MSFT at 152.@@@@@Stop-loss order to buy MSFT at 155.62 and a limit order to buy back MSFT at 152.#####If you believe that the price and volume history of an asset are all that is needed to design a trading strategy then you would would use an endogenous trading rule. What is the theoretical justification for using this type of strategy?
+--------------------
+Asset prices follow a random walk with equal probabilities of increasing and decreasing
+Fundamental data such as historic earning and sales growth are already fully reflected in the current market price and so have no predictive power.
+Markets are efficient and fully incorporate all available information (both public and private).
+Asset and market prices tend to have momentum so that stocks whose prices are in an up trends tend to increase in value and those in a downtrend tend to decrease in value.@@@@@Fundamental data such as historic earning and sales growth are already fully reflected in the current market price and so have no predictive power.
+Asset and market prices tend to have momentum so that stocks whose prices are in an up trends tend to increase in value and those in a downtrend tend to decrease in value.#####The basic trading model parameters are entry signal, profit exit, stop-loss and time-out. How can you use these parameters and machine learning to optimize your trading strategy?
+--------------------
+Vary the the type of entry signal and profit exit levels in backtesting with the objective of maximizing risk adjusted return (Sharpe ratio).
+Vary the the type of entry signal and profit exit levels in backtesting with the objective of maximizing profit.
+Vary the the type of entry signal, profit exit levels,  stop loss levels and trade completion time limits in backtesting with the objective of maximizing risk adjusted return (Sharpe ratio) within your tolerance for PnL volatility and maximum drawdown.@@@@@Vary the the type of entry signal, profit exit levels,  stop loss levels and trade completion time limits in backtesting with the objective of maximizing risk adjusted return (Sharpe ratio) within your tolerance for PnL volatility and maximum drawdown.#####The main benefit of a dynamic stop loss over a static stop loss is that:
+--------------------
+Dynamic stop losses increase your expected returns from a trading strategy.
+Dynamic stop losses guarantee that your strategy will not make a loss even if it is stopped out.
+Dynamic stop losses reduce the expected risk of your strategy.@@@@@Dynamic stop losses reduce the expected risk of your strategy.#####Endogenous trading rules are often created by:
+--------------------
+Technical analysts
+Statistical arbitrage traders
+Strategists
+Quantitative trading groups@@@@@Technical analysts#####You can choose two moving average window lengths so that the crossovers will most closely match the optimal buy and sell points in your historical data. What is the weakness of this strategy?
+--------------------
+You may end up with non-standard window lengths that are not widely used.
+You end up using arbitrary window lengths to fit your data.
+It is better to use a single moving average and choose the window length to create the crossover points that most closely match the optimal buy and sell points.@@@@@You end up using arbitrary window lengths to fit your data.#####Which of the following are advantages of using moving average ribbons instead of selecting two moving average window lengths to identify buy and sell signals?
+--------------------
+You avoid overfitting your data with specific moving average window lengths.
+Using a moving average ribbon will give you many more buy and sell signals than using two moving average windows
+By looking at the entire 'shape' of the ribbon rather than two specific window lengths, you can get a better quality trading signal.@@@@@You avoid overfitting your data with specific moving average window lengths.
+By looking at the entire 'shape' of the ribbon rather than two specific window lengths, you can get a better quality trading signal.#####It is important to keep in mind that the beta of a stock is just an estimate based on the regression of the stocks performance each day versus the daily performance of the overall market. Beta can change depending on the historical period you are using for the regression. This is why, for trading, you need to use a fairly recent historical period that will be a good predictor of the stocks performance in the future.
+
+What is the advantage of using a beta-hedged long-short pair versus a single stock?
+--------------------
+Beta hedging attempts to balance the market risk of the long side of the pair with the market risk of the short side.
+Beta hedging hedges out all risks from your pair strategy.
+Beta hedging hedges out the unsystematic risk of your pair strategy.@@@@@Beta hedging attempts to balance the market risk of the long side of the pair with the market risk of the short side.#####MSFT is currently trading at 150 with a beta of 0.8 and AAPL is at 250 with a beta of 1.2. Create a beta hedged strategy where you are long 1000 shares of AAPL. How many shares of MSFT should you be short?
+--------------------
+Short 1000 shares of MSFT
+Short 1500 shares of MSFT
+Short 1667 shares of MSFT
+Short 2500 shares of MSFT@@@@@Short 2500 shares of MSFT#####We are going to be choosing a pair of stocks from the technology sector ETF (XLK). It is unlikely that the stocks in the pair will have a negative correlation because: 
+--------------------
+All of the stocks in the technology sector are in the same business and serve the same market so they should all move up and down together
+Stocks trading in the same market, such as U.S. large caps, tend to have price movements that are correlated with the overall market @@@@@Stocks trading in the same market, such as U.S. large caps, tend to have price movements that are correlated with the overall market #####A cluster plot shows each of 68 stocks in a 2-dimensional plane.  This is an example of Dimensionality Reduction where Dimension 1 and 2 are chosen through a process called feature extraction. Dimension 1 and 2 are chosen so as to:
+--------------------
+Create the maximum number of clusters
+Minimize the distance between clusters and maximize the distance between the members of each cluster.
+Maximize the distance between clusters and minimize the distance between the members of each cluster.@@@@@Maximize the distance between clusters and minimize the distance between the members of each cluster.#####Principal Components Analysis (PCA)  is a common dimensionality reduction method that uses feature extraction (synthetic dimensions) as opposed to feature selection (where selected dimensions are the most significant natural features of the data such as engine displacement and horsepower which we saw in the previous example). It is easier to think in terms of natural features but from a statistical perspective their main weaknesses are:
+--------------------
+There are often many features so it is hard for one feature to be highly significant
+The features often have a high degree of collinearity and so are highly correlated.
+Feature selection is subjective as opposed to PCA which is objective.@@@@@There are often many features so it is hard for one feature to be highly significant
+The features often have a high degree of collinearity and so are highly correlated.#####If you were going to enter a pairs trade with KLAC and ADSK, the decision about which stock to go long and which to short would depend on on your analysis of each company's exposure to Component 2. We talked before about how Component 1 was closely related to Beta and KLAC and ADSK have fairly similar Betas. Component 2 could be similar to the 'Value' factor which explains returns based on the Price/Earnings ratios of stocks. In the XLK ETF, stocks with higher Component 2 loadings tend to be growth stocks and those with negative loadings tend to be value stocks. ADSK has a P/E ratio of about 275 versus KLAC's P/E of 25.
+
+To justify going long KLAC and short ADSK you would need to expect that:
+--------------------
+The market will place a higher value on earnings growth potential than current earnings
+P/E ratios will remain stable for KLAC and ADSK and earnings will increase by the same percentage for both companies
+The market will become more risk averse@@@@@The market will become more risk averse#####In backtesting your trading strategy has a win percentage of 75%. The average win is $1500 and the average loss is $4000. Commissions and fees are $50. What is the expected profit or loss of your strategy?
+--------------------
+$2550 loss
+$125 profit
+$75 profit@@@@@$75 profit#####You have backtested two trading strategies using 5 separate historical data sets. Both strategies require the investment of $10,000 in trading capital. Strategy 1 yielded an average return of $1500 over the 5 data sets with an average variation in the return of $300. Strategy 2 yielded an average return of $1600 with an average variation of $600. Which strategy would you choose for implementation and why would you choose it?
+--------------------
+Strategy 1 because it has the lowest risk. The volatility of the expected return is $300/$1500 = 20%
+Strategy 2 because it has the highest expected return = $1600/$10000 = 16%
+Strategy 1 because it has the highest risk-adjusted return@@@@@Strategy 1 because it has the highest risk-adjusted return#####We talked about dynamically updating the choice of stocks in the pair based on changes in the loadings of the Principal Components. We expected that the chosen pair of stocks, ADSK and KLAC would have a negative correlation with respect to Principal Component 2. What would happen if you reran the PCA on new data and the Componet 2 loadings for ADSK and KLAC were almost equal?
+--------------------
+You would continue to trade the pair as long as it didn't hit the stop loss.
+You would close out the trade and begin backtesting to develop new strategies.
+You would close out the trade and identify a new pair candidates based on updated loadings in Component 1 and 2.@@@@@You would close out the trade and identify a new pair candidates based on updated loadings in Component 1 and 2.#####Time of day and day of the week effects need to be factored into a trading strategy to account for changes in:
+--------------------
+Market mood that causes prices to drop on Mondays and rise on Fridays
+Volume as the first 15 minutes of the trading day tends to have lighter volume as the market is still finding its level.
+Volume and volatility@@@@@Volume and volatility#####Kalman estimators are different from moving averages in that they provide:
+--------------------
+A weighted average of the historical prices with more recent prices weighted more heavily
+A random walk estimate of the mean of the price distribution
+A variable length moving average of historical prices.@@@@@A random walk estimate of the mean of the price distribution#####What is the advantage of trading a long-short pair of stocks versus a single stock?
+--------------------
+You exposure to market risk is lower
+You can lower your exposure to industry and sector risk
+You double your expected return@@@@@You exposure to market risk is lower
+You can lower your exposure to industry and sector risk#####A long-short pairs trade will have a positive return if:
+--------------------
+The long side has a larger negative return than the short side.
+The long side has a smaller positive return than the short side
+The long side has a smaller negative return than the short side.
+The long side has a larger positive return than the short side.@@@@@The long side has a smaller negative return than the short side.
+The long side has a larger positive return than the short side.#####Your fundamental and statistical research indicate that Oracle (ORCL) will outperform Salesforce (CRM) over the next quarter. Oracle is currently trading at $50 and has a beta of 1.15. Salesforce is trading at $165 and has a beta of 1.22. You have total trading capital of $10,000,000 and your risk management team say you can can only allocate 5% to each strategy. If you fully allocate to a long ORCL, short CRM pair, how many shares of CRM should you short if you want the strategy to be beta hedged?
+--------------------
+2,484 shares of Salesforce (CRM)
+3,030 shares of Salesforce (CRM)
+2,856 shares of Salesforce (CRM)@@@@@2,856 shares of Salesforce (CRM)#####When we ran a principal components analysis of the 68 stocks in the XLK Technology ETF, our first component, PC1 explained a little over 50% of the variation in returns for the XLK stocks. All of the stocks had positive loadings in PC1. Why did we chose a pair of stocks that had equal loadings in this dimension?
+--------------------
+We wanted to create a long-short pair of to stocks in the same industry sub-sector and equal loadings in PC1 indicate that the stocks are in the same sub-sector.
+We wanted to create a long-short pair of stocks that were hedged in their main exposure to variations in the overall returns of the XLK portfolio of stocks. 
+We wanted to create a long-short pair of to stocks with the same price/earnings ratio which is one way to measure the Value factor. @@@@@We wanted to create a long-short pair of stocks that were hedged in their main exposure to variations in the overall returns of the XLK portfolio of stocks. #####You have backtested 10 trading strategies using two distinct data sets representing different market regimes (down-trending with high volatility and up-trending with low volatility). From the 10 strategies you have identified the ones with the highest Sharpe ratio and highest return under each regime. 
+
+Strategy
+
+	
+
+Return
+
+	
+
+PnL Vol
+
+	
+
+Sharpe Ratio
+
+	
+
+Regime
+
+
+
+
+3
+
+	
+
+.08
+
+	
+
+.04
+
+	
+
+2.00
+
+	
+
+Down/High 
+
+
+
+
+6
+
+	
+
+.05
+
+	
+
+.02
+
+	
+
+2.50
+
+	
+
+Up/Low
+
+
+
+
+7
+
+	
+
+.10
+
+	
+
+.06
+
+	
+
+1.67
+
+	
+
+Down/High
+
+
+
+
+10
+
+	
+
+.06
+
+	
+
+.03
+
+	
+
+2.00
+
+	
+
+Up/Low
+
+The strategies have about 70% pair-wise correlations with each other. Your analysis predicts a 75% chance that the market will be up-trending and low volatility and 25% chance that it will be down-trending and high volatility.  Which strategy or combination of strategies would you choose for implementation or further backtesting and why would you choose it or them?
+--------------------
+Implement Strategy 6 because it has the highest Sharpe ratio and it is the most likely market regime.
+Implement a  combination of Strategy 7 and 10 as this will give you the highest expected return regardless of the market regime.
+Implement a  combination of Strategy 3 and 6 as this will give you the highest expected Sharpe ratio regardless of the market regime.
+Rather than looking at the performance of individual strategies, consider backtesting combinations of different strategies and determining the combination that gives you the highest Sharpe ratio.@@@@@Rather than looking at the performance of individual strategies, consider backtesting combinations of different strategies and determining the combination that gives you the highest Sharpe ratio.#####Deep Reinforcement Learning Agents are given a high degree of freedom, often subject only to the constraints of the operator's risk tolerance and drawdown limits. What are the advantages this gives to a DRL strategy compared to other automated strategies?
+--------------------
+A high degree of freedom prevents the strategy from being influenced by the operator's emotions
+A high degree of freedom means the operator can set the strategy and 'forget it'. This means the operator can effectively oversee a larger portfolio of strategies.
+A high degree of freedom means the DRL agent can learn from its actions in various states and extend its knowledge beyond what was given by the developer.@@@@@A high degree of freedom means the operator can set the strategy and 'forget it'. This means the operator can effectively oversee a larger portfolio of strategies.
+A high degree of freedom means the DRL agent can learn from its actions in various states and extend its knowledge beyond what was given by the developer.#####We talked about how it has become increasingly difficult to make money trading pattern-recognition strategies. What advantage does reinforcement learning have in trading this type of strategy?
+--------------------
+An RL algorithm is faster at recognizing changes in the predictability and profitability of price patterns.
+An RL algorithm can more accurately identify the end of an uptrend in prices and also the beginning of a downtrend in prices.
+An RL algorithm can identify price patterns more quickly than other machine learning algos.@@@@@An RL algorithm is faster at recognizing changes in the predictability and profitability of price patterns.#####Most quantitative strategies depend on a trader to develop and update the trading algorithm and a machine to implement it. What are some of the disadvantages of this human-machine symbiosis?
+--------------------
+It is hard for a trader to develop an algorithm that anticipates the characteristics of every possible market environment
+In today's algo-dominated markets it is necessary to use an order execution strategy to divide up a 'parent' order into several 'child' orders which need to be optimized based on market conditions.
+Exchange and other trading venue interfaces are not capable of executing complex, multi-part order as quickly as required by rapidly changing market environments.@@@@@It is hard for a trader to develop an algorithm that anticipates the characteristics of every possible market environment#####Why is an RL trading system particularly well suited to executing high frequency trading strategies?
+--------------------
+High frequency trading occurs at the millisecond and sub-millisecond level. Modifications to an HF trading strategy must also occur on this time scale and so must be decided and implemented by the RL Trader without intervention from a human operator.
+The system operator can modify the strategy real-time to take advantage of changes in market conditions
+Policy optimization happens immediately before trade execution, so trades are also optimized.@@@@@High frequency trading occurs at the millisecond and sub-millisecond level. Modifications to an HF trading strategy must also occur on this time scale and so must be decided and implemented by the RL Trader without intervention from a human operator.#####Having tick by tick bid and ask data (price and total quantity (or size) bid and offered) lets you estimate how much it would cost to transact in the market as long the quantity you are trading is less than or equal to the average  bid/ask size. What kind of data would you need to estimate these costs if your trade size was larger?
+--------------------
+Minute by minute (minute bars), price, volume and volatility data
+Second by second (second bars), price, volume and volatility data
+Order book data@@@@@Order book data#####You have developed an RL algorithm that achieved a high Sharpe ratio and limited drawdowns when applied to the training data set. When you test it using more recent, unseen data, your algo has a zero Sharpe ratio and high PnL volatility. What steps should you take to redevelop your algo so that it has better potential performance in live trading?
+--------------------
+Retrain your algo using a larger data set.
+Use a deeper neural network
+Increase the dropout percentage in your neural network
+Retrain your algo on the testing data set and then test it on the training data set.@@@@@Retrain your algo using a larger data set.
+Increase the dropout percentage in your neural network#####Portfolio managers can diversify by investing in 20 or more different investments within the asset category they have chosen to focus on. For example they could buy 20 different stocks or 20 bonds issued by different borrowers. Which one of  the options below would achieve the  highest level of risk diversification?
+--------------------
+Add 10 bonds to a portfolio of stocks or 10 stocks to a portfolio of bonds.
+Add 10 foreign currency bonds to a portfolio of 20 stocks.
+Increasing the number of stocks or bonds they hold to 30@@@@@Add 10 foreign currency bonds to a portfolio of 20 stocks.#####Portfolio level risk management is just as important, if not more important than strategy level risk management. To some extent strategy level risk management indirectly takes care of firm level risk but it is still desirable to have a separate risk control mechanism that ensures firm survival. What happen when a global stop loss is triggered?
+--------------------
+Trading orders are automatically issued to close out all outstanding trades that currently  have a positive PnL to conserve trading capital and wait for the losing trades to become profitable.
+Trading orders are automatically issued to close out all outstanding trades that currently  have a negative PnL to conserve trading capital and wait for the winning trades to offset the losses.
+Trading orders are automatically issued to close out all outstanding trades.@@@@@Trading orders are automatically issued to close out all outstanding trades.#####Diversification and hedging are important tools that traders and trading firms use on many levels. Please select examples of diversification from the choices below:
+--------------------
+A hedge fund implements a beta-neutral long-short pairs trading strategy that selects similar companies to hedge out market, sector and industry risk.
+A hedge fund implements a momentum strategy that goes long several uptrending stocks and short several downtrending stocks.
+A hedge fund implements a beta-neutral long-short pairs trading strategy that selects similar companies to hedge out market, sector and industry risk. half of the pairs are chosen using principal components analysis (PCA) and half are chosen based on their level of correlation and cointegration as measured by the adjusted Dickey-Fuller (ADF) test.
+A hedge fund implements pairs trading and momentum strategies in equities, foreign exchange and crypto. Within each of these asset classes the strategies are implemented on multiple assets using algorithms that have been developed separately for each asset class.@@@@@A hedge fund implements a momentum strategy that goes long several uptrending stocks and short several downtrending stocks.
+A hedge fund implements a beta-neutral long-short pairs trading strategy that selects similar companies to hedge out market, sector and industry risk. half of the pairs are chosen using principal components analysis (PCA) and half are chosen based on their level of correlation and cointegration as measured by the adjusted Dickey-Fuller (ADF) test.
+A hedge fund implements pairs trading and momentum strategies in equities, foreign exchange and crypto. Within each of these asset classes the strategies are implemented on multiple assets using algorithms that have been developed separately for each asset class.#####Bridgewater and other hedge funds use a risk parity approach to investing. At its simplest this strategy takes diversified portfolios of assets (or strategies) and increases their potential return by borrowing money to finance them (leverage). In this way a relatively low risk, low return strategy can be financed by a high level of debt so that its potential return on trading capital (not total investment) is much higher. This higher potential return comes with higher potential downside risk though, but this is the standard business model of hedge funds, almost all carry high leverage.
+
+For example lets say you manage a hedge fund that has a diversified portfolio of strategies that when combined yield a relatively low risk income stream of 2% with a volatility of just 1%. How would this compare to an investment in an S&P 500 index fund that has an expected return of 12% and a volatility of 20%? Assume your hedge fund  borrows enough to increase the leveraged risk of its strategy portfolio to the same level as the unleveraged risk of the index fund. What would the leveraged return on the strategy portfolio be? Assume your hedge fund has $1 million of trading capital and $1 million is also invested in the index fund.
+--------------------
+12%
+20%
+40%@@@@@40%#####Which of the following best describes Cloud AutoML?
+--------------------
+It uses your models and Google's data
+It uses Google's models and your data
+It uses Google's models and Google's data
+It uses your models and your data@@@@@It uses Google's models and your data#####Say you're training a model in AutoML Vision and the performance report contains low scores. What can you do to improve them?
+--------------------
+Increase the amount of training data
+Remove infrequently used labels
+Train on examples similar to those you will classify
+All of the above@@@@@All of the above#####Say you're training a model in AutoML NLP and the performance report contains low scores. What can you do to improve them?
+--------------------
+Add more documents
+Increase document variety
+Reduce the number of labels
+All of the above@@@@@All of the above#####True or False: BigQuery import into AutoML Tables has support for both arrays and structs.
+--------------------
+True
+False@@@@@True#####
